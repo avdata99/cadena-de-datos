@@ -15,7 +15,7 @@
         <item>
 			<title>{{ item.titulo }}</title>
 			<googleplay:description><![CDATA[{{ item.descripcion }}
-            <br />Ideas: {% for idea in item.ideas %}<ul>
+            <br />Ideas: <ul>{% for idea in item.ideas %}
             <li>{{ idea }}</li>{% endfor %}
             </ul>]]>
 			 </googleplay:description>
