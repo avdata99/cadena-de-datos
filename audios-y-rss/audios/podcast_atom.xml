@@ -5,7 +5,7 @@
         <description>Podcast con entrevistas a referentes de los datoas abiertos en Argentina.</description>
         <language>es-ar</language>
         <ttl>1440</ttl>
-        <lastBuildDate>Sun, 13 Jan 2019 16:30:45 +0300</lastBuildDate>
+        <lastBuildDate>Sun, 13 Jan 2019 16:34:57 +0300</lastBuildDate>
 
         <image>
             <title>Cadena de datos</title>
@@ -29,7 +29,7 @@
             <pubDate>Sat, 12 Jan 2019 16:00:00 +0300</pubDate>
             <description>La cumbre (Córdoba, AR), 12 de enero. El Ruso me recibe en sus vacaciones para grabar la entrevista. Hablamos de los inicios de los datos abiertos en Argentina, el estado actual de las políticas públicas de transparencia y los proyectos Cargografías y Economía Feminista.</description>
             
-            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios/ruso.mp3" length="41340811" type="audio/mpeg"/>
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/ruso.mp3" length="41340811" type="audio/mpeg"/>
 
         </item>
         

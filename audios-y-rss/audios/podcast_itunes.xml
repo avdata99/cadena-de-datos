@@ -8,7 +8,7 @@
         <itunes:author>Andrés Vázquez</itunes:author>
         <language>es-ar</language>
         <ttl>1440</ttl>
-        <lastBuildDate>Sun, 13 Jan 2019 16:30:45 +0300</lastBuildDate>
+        <lastBuildDate>Sun, 13 Jan 2019 16:34:57 +0300</lastBuildDate>
 
         <image>
             <title>Cadena de datos</title>
@@ -34,9 +34,9 @@
             <description>La cumbre (Córdoba, AR), 12 de enero. El Ruso me recibe en sus vacaciones para grabar la entrevista. Hablamos de los inicios de los datos abiertos en Argentina, el estado actual de las políticas públicas de transparencia y los proyectos Cargografías y Economía Feminista.</description>
             <itunes:summary>La cumbre (Córdoba, AR), 12 de enero. El Ruso me recibe en sus vacaciones para grabar la entrevista. Hablamos de los inicios de los datos abiertos en Argentina, el estado actual de las políticas públicas de transparencia y los proyectos Cargografías y Economía Feminista.</itunes:summary>
             
-            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios/ruso.mp3" length="41340811" type="audio/mpeg"/>
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/ruso.mp3" length="41340811" type="audio/mpeg"/>
 
-            <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios/ruso.png" />
+            <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/ruso.png" />
 
         </item>
         

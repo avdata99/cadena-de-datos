@@ -23,7 +23,7 @@ from datetime import date, datetime
 directorio = 'audios'
 mp3s = []
 # todos los links publicos en la web dependeran de una misma base dependiendo de donde se publique este código
-base_url = 'https://avdata99.github.io/cadena-de-datos'
+base_url = 'https://avdata99.github.io/cadena-de-datos/audios-y-rss'
 
 """
 dentro del "directorio" se espera que estén:
