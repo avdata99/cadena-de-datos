@@ -67,6 +67,7 @@ for mp3 in mp3s:
 
     # IMAGEN del episodio -----------------------------
     base_name = mp3.replace('.mp3', '')
+    episodio['base_name'] = base_name
     extensiones_imagenes_aceptadas = ['png', 'jpg']
     imagen_encontrada = None
 
