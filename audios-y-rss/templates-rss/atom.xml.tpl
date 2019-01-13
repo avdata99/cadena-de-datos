@@ -6,7 +6,7 @@
         <language>{{ lenguaje }}</language>
         <ttl>{{ ttl_minutos }}</ttl>
         <lastBuildDate>{{ ultima_compilacion }}</lastBuildDate>
-
+        <author>{{autor}}</author>
         <image>
             <title>{{ imagen_titulo }}</title>
             <url>{{ imagen_url }}</url>
@@ -27,6 +27,7 @@
             <guid>{{ item.guid }}</guid>
             <link>{{ item_link }}</link>
             <pubDate>{{ item.fecha_publicacion }}</pubDate>
+            <author>{{autor}}</author>
             <description>{{ item.descripcion }}</description>
             {# aqui va la URL al audio, lo importante #}
             <enclosure url="{{ item.url_audio }}" length="{{ item.audio_size_bytes }}" type="audio/mpeg"/>
