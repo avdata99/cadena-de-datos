@@ -21,7 +21,7 @@
         <managingEditor>{{ editor_email }}</managingEditor>
         {% endif %}
 
-        {% for item in items %}
+        {% for item in episodios %}
         <item>
             <title>{{ item.titulo }}</title>
             <guid>{{ item.guid }}</guid>
@@ -30,6 +30,12 @@
             <description>{{ item.descripcion }}</description>
             {# aqui va la URL al audio, lo importante #}
             <enclosure url="{{ item.url_audio }}" length="{{ item.audio_size_bytes }}" type="audio/mpeg"/>
+
+            <image>
+                <title>{{ item.titulo }}</title>
+                <url>{{ item.url_imagen }}</url>
+                <link>{{ item.url_imagen }}</link>
+            </image>
 
         </item>
         {% endfor %}

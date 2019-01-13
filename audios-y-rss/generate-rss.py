@@ -54,7 +54,7 @@ for filename in sorted(os.listdir(directorio)):
 # info del episodio: JSON
 
 # guardar todo en un diccionario más elaborado
-canal_info['items'] = [] # cada episodio se contruye revisando sus datos en diccionarios individuales
+canal_info['episodios'] = [] # cada episodio se contruye revisando sus datos en diccionarios individuales
 
 for mp3 in mp3s:
 
@@ -104,19 +104,13 @@ for mp3 in mp3s:
     print('-------------------------------------')
     nice_json = json.dumps(episodio, indent=4)
     print('EPISODIO LISTO {}'.format(nice_json))
-    print('-------------------------------------')
+    print('-------------------------------------')    
 
-    canal_info['items'].append(episodio)
+    episodio['link'] = '{}/{}.html'.format(base_url, base_name) # se crea despues
+    episodio['guid'] = episodio['link']
+    canal_info['episodios'].append(episodio)
     canal_info['ultimo_episodio'] = episodio
 
-    # crear html del episodio
-    tpl = open('templates-html/episode.html')
-    template = Template(tpl.read())
-    tpl.close()
-    epihtml = template.render(episodio)
-    file_resultado = open('../{}.html'.format(base_name), 'w')
-    file_resultado.write(epihtml)
-    file_resultado.close()
 
 # ya tengo todas las variables de contexto para aplicar al template (rss y html)
 
@@ -153,3 +147,15 @@ index = template.render(canal_info)
 file_resultado = open('../index.html', 'w')
 file_resultado.write(index)
 file_resultado.close()
+
+# generar todos los HTMLs individuales
+for episodio in canal_info['episodios']:
+    # crear html del episodio
+    tpl = open('templates-html/episode.html')
+    template = Template(tpl.read())
+    tpl.close()
+    dic = {'canal': canal_info, 'episodio': episodio}
+    epihtml = template.render(dic)
+    file_resultado = open('../{}.html'.format(base_name), 'w')
+    file_resultado.write(epihtml)
+    file_resultado.close()

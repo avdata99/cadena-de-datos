@@ -8,12 +8,12 @@
         <itunes:author>Andrés Vázquez</itunes:author>
         <language>es-ar</language>
         <ttl>1440</ttl>
-        <lastBuildDate>Sun, 13 Jan 2019 16:38:18 +0300</lastBuildDate>
+        <lastBuildDate>Sun, 13 Jan 2019 17:29:39 +0300</lastBuildDate>
 
         <image>
             <title>Cadena de datos</title>
             <url>https://andresvazquez.com.ar/blog/wp-content/uploads/2016/11/Selecci%C3%B3n_419-1024x512.png</url>
-            <link>https://andresvazquez.com.ar/cadena-de-datos</link>
+            <link>https://avdata99.github.io/cadena-de-datos</link>
         </image>
         <itunes:image href="https://andresvazquez.com.ar/blog/wp-content/uploads/2016/11/Selecci%C3%B3n_419-1024x512.png" />
         <itunes:explicit>No</itunes:explicit>
@@ -28,7 +28,7 @@
         
         <item>
             <title>Entrevista con Andrés Snitcofsky s01e01</title>
-            <guid>https://andresvazquez.com.ar/blog/charla-con-radio-universidad-de-la-plata-sobre-opendata/</guid>
+            <guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/ruso.html</guid>
             <link></link>
             <pubDate>Sat, 12 Jan 2019 16:00:00 +0300</pubDate>
             <description>La cumbre (Córdoba, AR), 12 de enero. El Ruso me recibe en sus vacaciones para grabar la entrevista. Hablamos de los inicios de los datos abiertos en Argentina, el estado actual de las políticas públicas de transparencia y los proyectos Cargografías y Economía Feminista.</description>

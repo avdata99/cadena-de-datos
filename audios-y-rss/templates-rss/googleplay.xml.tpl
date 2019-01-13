@@ -11,7 +11,7 @@
 		<googleplay:description>{{ descripcion }}</googleplay:description>
 		<googleplay:explicit>No</googleplay:explicit>
 		<!-- <googleplay:category text="CATEGORY NAME HERE"/> -->
-        {% for item in items %}
+        {% for item in episodios %}
         <item>
 			<title>{{ item.titulo }}</title>
 			<googleplay:description>{{ item.descripcion }}</googleplay:description>
