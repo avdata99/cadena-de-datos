@@ -6,7 +6,7 @@
         <description>Podcast con entrevistas a referentes de los datoas abiertos en Argentina.</description>
         <language>es-ar</language>
         <ttl>1440</ttl>
-        <lastBuildDate>Sun, 13 Jan 2019 20:43:08 +0300</lastBuildDate>
+        <lastBuildDate>Sun, 13 Jan 2019 20:43:57 +0300</lastBuildDate>
         <author>Andrés Vázquez</author>
         <image>
             <title>Cadena de datos</title>
@@ -55,7 +55,7 @@
             <li>Hay que mirar a: Hacks/Hacker Mendoza (Castro, Oliva Penelli) y Universidad de Cuyo</li><ul>
             <li>Hay que mirar a: Romina Collman de LNData</li><ul>
             <li>Hay que mirar a: Redacción (medio de CABA)</li><ul>
-            <li>Hay que mirar a: Ver que hace UBA</li>
+            <li>Hay que mirar a: a la Universidad de Buenos Aires</li>
             </ul>]]></description>
             
             <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/ruso.mp3" length="41340811" type="audio/mpeg"/>
