@@ -29,7 +29,7 @@
         <item>
             <title>{{ item.titulo }}</title>
             <guid>{{ item.guid }}</guid>
-            <link>{{ item_link }}</link>
+            <link>{{ item.link }}</link>
             <pubDate>{{ item.fecha_publicacion }}</pubDate>
             <description><![CDATA[{{ item.descripcion }}
             <br />Ideas: {% for idea in ideas %}<ul>

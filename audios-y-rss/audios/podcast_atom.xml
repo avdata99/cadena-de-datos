@@ -6,7 +6,7 @@
         <description>Podcast con entrevistas a referentes de los datoas abiertos en Argentina.</description>
         <language>es-ar</language>
         <ttl>1440</ttl>
-        <lastBuildDate>Sun, 13 Jan 2019 20:23:37 +0300</lastBuildDate>
+        <lastBuildDate>Sun, 13 Jan 2019 20:38:19 +0300</lastBuildDate>
         <author>Andrés Vázquez</author>
         <image>
             <title>Cadena de datos</title>
@@ -26,7 +26,7 @@
         <item>
             <title>Entrevista con Andrés Snitcofsky s01e01</title>
             <guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/ruso.html</guid>
-            <link></link>
+            <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/ruso.html</link>
             <pubDate>Sat, 12 Jan 2019 16:00:00 +0300</pubDate>
             <author>Andrés Vázquez</author>
             <description><![CDATA[La cumbre (Córdoba, AR), 12 de enero. El Ruso me recibe en sus vacaciones para grabar la entrevista. Hablamos de los inicios de los datos abiertos en Argentina, el estado actual de las políticas públicas de transparencia y los proyectos Cargografías y Economía Feminista.

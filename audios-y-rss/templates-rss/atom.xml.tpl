@@ -26,7 +26,7 @@
         <item>
             <title>{{ item.titulo }}</title>
             <guid>{{ item.guid }}</guid>
-            <link>{{ item_link }}</link>
+            <link>{{ item.link }}</link>
             <pubDate>{{ item.fecha_publicacion }}</pubDate>
             <author>{{autor}}</author>
             <description><![CDATA[{{ item.descripcion }}
