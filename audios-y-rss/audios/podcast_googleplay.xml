@@ -14,7 +14,10 @@
         
         <item>
 			<title>Entrevista con Andrés Snitcofsky s01e01</title>
-			<googleplay:description>La cumbre (Córdoba, AR), 12 de enero. El Ruso me recibe en sus vacaciones para grabar la entrevista. Hablamos de los inicios de los datos abiertos en Argentina, el estado actual de las políticas públicas de transparencia y los proyectos Cargografías y Economía Feminista.</googleplay:description>
+			<googleplay:description><![CDATA[La cumbre (Córdoba, AR), 12 de enero. El Ruso me recibe en sus vacaciones para grabar la entrevista. Hablamos de los inicios de los datos abiertos en Argentina, el estado actual de las políticas públicas de transparencia y los proyectos Cargografías y Economía Feminista.
+            <br />Ideas: 
+            </ul>]]
+			 </googleplay:description>
 			<googleplay:author>Andrés Vázquez</googleplay:author>
 			<googleplay:image href='https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/ruso.png'/>
 			<googleplay:explicit>No</googleplay:explicit>

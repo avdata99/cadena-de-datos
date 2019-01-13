@@ -14,7 +14,11 @@
         {% for item in episodios %}
         <item>
 			<title>{{ item.titulo }}</title>
-			<googleplay:description>{{ item.descripcion }}</googleplay:description>
+			<googleplay:description><![CDATA[{{ item.descripcion }}
+            <br />Ideas: {% for idea in ideas %}<ul>
+            <li>{{ idea }}</li>{% endfor %}
+            </ul>]]
+			 </googleplay:description>
 			<googleplay:author>{{ autor }}</googleplay:author>
 			<googleplay:image href='{{ item.url_imagen }}'/>
 			<googleplay:explicit>No</googleplay:explicit>

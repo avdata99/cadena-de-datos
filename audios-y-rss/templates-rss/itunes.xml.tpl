@@ -31,7 +31,11 @@
             <guid>{{ item.guid }}</guid>
             <link>{{ item_link }}</link>
             <pubDate>{{ item.fecha_publicacion }}</pubDate>
-            <description>{{ item.descripcion }}</description>
+            <description><![CDATA[{{ item.descripcion }}
+            <br />Ideas: {% for idea in ideas %}<ul>
+            <li>{{ idea }}</li>{% endfor %}
+            </ul>]]
+            </description>
             <itunes:summary>{{ item.descripcion }}</itunes:summary>
             {# aqui va la URL al audio, lo importante #}
             <enclosure url="{{ item.url_audio }}" length="{{ item.audio_size_bytes }}" type="audio/mpeg"/>

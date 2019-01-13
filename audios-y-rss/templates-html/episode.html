@@ -93,6 +93,25 @@
     
     <div class="site-section bg-light">
       <div class="container">
+
+          <div class="row mb-5">
+              <div class="col-md-12 text-center">
+                <h2 class="font-weight-bold text-black">Ideas de la charla</h2>
+              </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                  <ul>
+                      {% for idea in episodio.ideas %}
+                        <li>{{ idea }}</li>
+                      {% endfor %}
+                    </ul>
+                </div>
+              
+            </div>
+
+
+
         <div class="row mb-5">
           <div class="col-md-12 text-center">
             <h2 class="font-weight-bold text-black">otros episodios</h2>
