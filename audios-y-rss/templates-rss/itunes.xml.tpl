@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
     <channel>
         <title>{{ titulo }}</title>
@@ -34,7 +34,7 @@
             <description><![CDATA[{{ item.descripcion }}
             <br />Ideas: {% for idea in ideas %}<ul>
             <li>{{ idea }}</li>{% endfor %}
-            </ul>]]
+            </ul>]]>
             </description>
             <itunes:summary>{{ item.descripcion }}</itunes:summary>
             {# aqui va la URL al audio, lo importante #}

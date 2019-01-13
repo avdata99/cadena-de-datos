@@ -17,7 +17,7 @@
 			<googleplay:description><![CDATA[{{ item.descripcion }}
             <br />Ideas: {% for idea in ideas %}<ul>
             <li>{{ idea }}</li>{% endfor %}
-            </ul>]]
+            </ul>]]>
 			 </googleplay:description>
 			<googleplay:author>{{ autor }}</googleplay:author>
 			<googleplay:image href='{{ item.url_imagen }}'/>
@@ -29,7 +29,3 @@
         {% endfor %}
 	</channel>
 </rss>
-
-
-
-		

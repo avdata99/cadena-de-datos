@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>{{ titulo }}</title>
@@ -32,7 +32,7 @@
             <description><![CDATA[{{ item.descripcion }}
             <br />Ideas: {% for idea in ideas %}<ul>
             <li>{{ idea }}</li>{% endfor %}
-            </ul>]]</description>
+            </ul>]]></description>
             {# aqui va la URL al audio, lo importante #}
             <enclosure url="{{ item.url_audio }}" length="{{ item.audio_size_bytes }}" type="audio/mpeg"/>
 
