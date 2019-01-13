@@ -82,7 +82,7 @@ for mp3 in mp3s:
     else:
         print(colored('Se encontro la imagen de {}'.format(base_name), 'green'))
 
-    url_imagen = '{}/{}/{}'.format(base_url, directorio, imagen_encontrada)
+    url_imagen = '{}/{}'.format(base_url, imagen_encontrada)
     episodio['url_imagen'] = url_imagen
 
     # INFO del episodio -----------------------------
