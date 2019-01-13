@@ -8,7 +8,7 @@
         <itunes:author>Andrés Vázquez</itunes:author>
         <language>es-ar</language>
         <ttl>1440</ttl>
-        <lastBuildDate>Sun, 13 Jan 2019 20:41:30 +0300</lastBuildDate>
+        <lastBuildDate>Sun, 13 Jan 2019 20:43:08 +0300</lastBuildDate>
 
         <image>
             <title>Cadena de datos</title>
@@ -32,7 +32,32 @@
             <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/ruso.html</link>
             <pubDate>Sat, 12 Jan 2019 16:00:00 +0300</pubDate>
             <description><![CDATA[La cumbre (Córdoba, AR), 12 de enero. El Ruso me recibe en sus vacaciones para grabar la entrevista. Hablamos de los inicios de los datos abiertos en Argentina, el estado actual de las políticas públicas de transparencia y los proyectos Cargografías y Economía Feminista.
-            <br />Ideas: 
+            <br />Ideas: <ul>
+            <li>Se inició en 2011 con la idea que luego se convirtió en el proyecto Cargografías</li><ul>
+            <li>Forma parte de proyectos de visualizaciones de datos con medios y gobiernos de toda latinoamérica</li><ul>
+            <li>Sin ser programador formalmente ha aprendido lo necesario para llevar adelantes proyectos con datos</li><ul>
+            <li>Con una planilla de cálculo simples (preferentemente online y compartidas) pueden resolverse atenderse ideas que requieren datos</li><ul>
+            <li>Conocer al grupo Hacks/Hackers (pioneros) le sirvio para hacer crecer sus ideas y conocer gente que generosamente comparte su conocimiento</li><ul>
+            <li>El proyecto Mapa76 fue uno de los primeros donde la comunidad usando datos</li><ul>
+            <li>Destaca el trabajo de los diseñadores clásicos como Aleksandr Ródchenko</li><ul>
+            <li>Usó los datos del atlas electoral de Andy Tow cuando no había aún funtes públicas o comunitarias de datos</li><ul>
+            <li>Postularse para algunas financiaciones para proyectos de interés público lo ayudaron a desarrollarlos</li><ul>
+            <li>Sus proyectos no le han permitido vivir de ello pero si ha viajado por toda latinoamérica invitado a numerosos eventos</li><ul>
+            <li>Los periodistas son un público ávido de productos elaborados por la comunidad. Todavía los medios no invirtien en tecnología y datos (muchos perioditas si)</li><ul>
+            <li>La participación ciudadana está rota porque el ciudadano desconfía del estado (y con razón)</li><ul>
+            <li>La forma de participación ciudadana que ofrece el estado es pueril, muchas veces son encuestas para elegir el nombre de una plaza </li><ul>
+            <li>Si me llaman por una pregunta banal no voy a tener interés en participar, si lo hacen sobre un tema en el que conozco si voy a tener en participar</li><ul>
+            <li>La evidencia sola, el dato duro crudo no existen. Tienen que usarse datos a través de grupos de interés externos al gobiernos y especializados</li><ul>
+            <li>El valor del acceso a la información pública y los datos abiertos es que el ciudadano recuerde y comprenda que tiene el poder</li><ul>
+            <li>Los gobiernos deben alimentar e incentivar a la comunidad porque son los que siguen cuando los gobiernos pasan</li><ul>
+            <li>Hay que explorar el camino de los laboratorios ciudadanos como forma de alimentar a la comunidades usuarias de datos</li><ul>
+            <li>La autonomía del gobierno de turno en los organismos públicos de transparencia es importante. Hay modelos a seguir</li><ul>
+            <li>Se requieren penas y castigos para la falta de respuesta a los pedidos de acceso a la información. Hoy no hay costo por no ser transparente</li><ul>
+            <li>Hay que mirar a: Santa Lab (Ceballos o Romiti)</li><ul>
+            <li>Hay que mirar a: Hacks/Hacker Mendoza (Castro, Oliva Penelli) y Universidad de Cuyo</li><ul>
+            <li>Hay que mirar a: Romina Collman de LNData</li><ul>
+            <li>Hay que mirar a: Redacción (medio de CABA)</li><ul>
+            <li>Hay que mirar a: Ver que hace UBA</li>
             </ul>]]>
             </description>
             <itunes:summary>La cumbre (Córdoba, AR), 12 de enero. El Ruso me recibe en sus vacaciones para grabar la entrevista. Hablamos de los inicios de los datos abiertos en Argentina, el estado actual de las políticas públicas de transparencia y los proyectos Cargografías y Economía Feminista.</itunes:summary>

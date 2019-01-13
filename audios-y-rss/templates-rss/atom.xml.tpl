@@ -30,7 +30,7 @@
             <pubDate>{{ item.fecha_publicacion }}</pubDate>
             <author>{{autor}}</author>
             <description><![CDATA[{{ item.descripcion }}
-            <br />Ideas: {% for idea in ideas %}<ul>
+            <br />Ideas: {% for idea in item.ideas %}<ul>
             <li>{{ idea }}</li>{% endfor %}
             </ul>]]></description>
             {# aqui va la URL al audio, lo importante #}

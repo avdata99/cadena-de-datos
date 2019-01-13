@@ -32,7 +32,7 @@
             <link>{{ item.link }}</link>
             <pubDate>{{ item.fecha_publicacion }}</pubDate>
             <description><![CDATA[{{ item.descripcion }}
-            <br />Ideas: {% for idea in ideas %}<ul>
+            <br />Ideas: {% for idea in item.ideas %}<ul>
             <li>{{ idea }}</li>{% endfor %}
             </ul>]]>
             </description>
