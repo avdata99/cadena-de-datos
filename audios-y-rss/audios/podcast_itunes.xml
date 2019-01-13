@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>Cadena de datos</title>
+        <link>https://avdata99.github.io/cadena-de-datos</link>
+        <description>Podcast con entrevistas a referentes de los datoas abiertos en Argentina.</description>
+        <itunes:summary>Podcast con entrevistas a referentes de los datoas abiertos en Argentina.</itunes:summary>
+        <itunes:author>Andrés Vázquez</itunes:author>
+        <language>es-ar</language>
+        <ttl>1440</ttl>
+        <lastBuildDate>Sun, 13 Jan 2019 16:16:04 +0300</lastBuildDate>
+
+        <image>
+            <title>Cadena de datos</title>
+            <url>https://andresvazquez.com.ar/blog/wp-content/uploads/2016/11/Selecci%C3%B3n_419-1024x512.png</url>
+            <link>https://andresvazquez.com.ar/cadena-de-datos</link>
+        </image>
+        <itunes:image href="https://andresvazquez.com.ar/blog/wp-content/uploads/2016/11/Selecci%C3%B3n_419-1024x512.png" />
+        <itunes:explicit>No</itunes:explicit>
+        
+        <webMaster>andres@data99.com.ar</webMaster>
+        
+
+        
+        <managingEditor>andres@data99.com.ar</managingEditor>
+        
+
+        
+        <item>
+            <title>Entrevista con Andrés Snitcofsky s01e01</title>
+            <guid>https://andresvazquez.com.ar/blog/charla-con-radio-universidad-de-la-plata-sobre-opendata/</guid>
+            <link></link>
+            <pubDate>Sat, 12 Jan 2019 16:00:00 +0300</pubDate>
+            <description>La cumbre (Córdoba, AR), 12 de enero. El Ruso me recibe en sus vacaciones para grabar la entrevista. Hablamos de los inicios de los datos abiertos en Argentina, el estado actual de las políticas públicas de transparencia y los proyectos Cargografías y Economía Feminista.</description>
+            <itunes:summary>La cumbre (Córdoba, AR), 12 de enero. El Ruso me recibe en sus vacaciones para grabar la entrevista. Hablamos de los inicios de los datos abiertos en Argentina, el estado actual de las políticas públicas de transparencia y los proyectos Cargografías y Economía Feminista.</itunes:summary>
+            
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios/ruso.mp3" length="41340811" type="audio/mpeg"/>
+
+            <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios/audios/ruso.png" />
+
+        </item>
+        
+
+    </channel>
+</rss>
