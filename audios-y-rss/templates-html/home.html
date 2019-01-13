@@ -83,11 +83,15 @@
                 {% for rss in RSSs %}
                   {% if rss.nombre == "atom" %}
                   <a href="{{ rss.url }}" class="pl-3 pr-3"><span class="icon-rss"></span></a>
-                  <a href="{{ rss.url }}" class="pl-3 pr-3"><span class="icon-spotify"></span></a>
                   {% endif %}
   
-                  {% if rss.nombre == 'itunes' %}
-                  <a href="{{ rss.url }}" class="pl-3 pr-3"><span class="icon-itunes"></span></a>
+                  
+                  {% if spotify %}
+                    <a href="{{ spotify }}" class="pl-3 pr-3"><span class="icon-spotify"></span></a>
+                  {% endif %}
+
+                  {% if itunes %}
+                    <a href="{{ itunes }}" class="pl-3 pr-3"><span class="icon-itunes"></span></a>
                   {% endif %}
   
                 {% endfor %}
@@ -129,7 +133,7 @@
           <div class="image" style="background-image: url('{{ item.url_imagen }}');"></div>
           <div class="text">
 
-            <h3 class="font-weight-light"><a href="{{ item.bae_name }}.html">{{ item.titulo }}</a></h3>
+            <h3 class="font-weight-light"><a href="{{ item.base_name }}.html">{{ item.titulo }}</a></h3>
             <div class="text-white mb-3"><span class="text-black-opacity-05"><small>por {{ autor }} <span class="sep">/</span> {{ item.fecha_publicacion }}</small></span></div>
             <p class="mb-4">{{ item.descripcion }}</p>
 
@@ -154,24 +158,26 @@
       <div class="container">
             <div class="row">
 
-                <div class="col-md-6">
+                <div class="col-md-4">
                     <h3 class="footer-heading mb-4">Suscribirse</h3>
                     <div>
                       {% for rss in RSSs %}
                         {% if rss.nombre == "atom" %}
                         <a href="{{ rss.url }}" class="pl-3 pr-3"><span class="icon-rss"></span></a>
-                        <a href="{{ rss.url }}" class="pl-3 pr-3"><span class="icon-spotify"></span></a>
                         {% endif %}
-
-                        {% if rss.nombre == 'itunes' %}
-                        <a href="{{ rss.url }}" class="pl-3 pr-3"><span class="icon-itunes"></span></a>
-                        {% endif %}
-
                       {% endfor %}
+
+                      {% if spotify %}
+                        <a href="{{ spotify }}" class="pl-3 pr-3"><span class="icon-spotify"></span></a>
+                      {% endif %}
+
+                      {% if itunes %}
+                        <a href="{{ itunes }}" class="pl-3 pr-3"><span class="icon-itunes"></span></a>
+                      {% endif %}
                     </div>
                 </div>
                   
-              <div class="col-md-6">
+              <div class="col-md-4">
                 <h3 class="footer-heading mb-4">Redes</h3>
                 <div>
                   {% if youtube %}

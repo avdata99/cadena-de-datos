@@ -125,24 +125,26 @@
         <div class="container">
               <div class="row">
   
-                  <div class="col-md-6">
+                  <div class="col-md-4">
                       <h3 class="footer-heading mb-4">Suscribirse</h3>
                       <div>
                         {% for rss in canal.RSSs %}
                           {% if rss.nombre == "atom" %}
                           <a href="{{ rss.url }}" class="pl-3 pr-3"><span class="icon-rss"></span></a>
-                          <a href="{{ rss.url }}" class="pl-3 pr-3"><span class="icon-spotify"></span></a>
                           {% endif %}
-  
-                          {% if rss.nombre == 'itunes' %}
-                          <a href="{{ rss.url }}" class="pl-3 pr-3"><span class="icon-itunes"></span></a>
-                          {% endif %}
-  
                         {% endfor %}
+
+                        {% if spotify %}
+                          <a href="{{ spotify }}" class="pl-3 pr-3"><span class="icon-spotify"></span></a>
+                        {% endif %}
+
+                        {% if itunes %}
+                          <a href="{{ itunes }}" class="pl-3 pr-3"><span class="icon-itunes"></span></a>
+                        {% endif %}
                       </div>
                   </div>
                     
-                <div class="col-md-6">
+                <div class="col-md-4">
                   <h3 class="footer-heading mb-4">Redes</h3>
                   <div>
                     {% if canal.youtube %}
