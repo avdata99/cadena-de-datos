@@ -6,7 +6,7 @@
         <description>Podcast con entrevistas a referentes de los datos abiertos en Argentina. Las personas consultadas me sugieren nuevos posibles entrevistados que alimentan este podcast</description>
         <language>es-ar</language>
         <ttl>1440</ttl>
-        <lastBuildDate>Mon, 14 Jan 2019 10:28:41 +0300</lastBuildDate>
+        <lastBuildDate>Mon, 14 Jan 2019 12:15:18 +0300</lastBuildDate>
         <author>Andrés Vázquez</author>
         <image>
             <title>Cadena de datos</title>
@@ -24,7 +24,7 @@
 
         
         <item>
-            <title>Entrevista con Andrés Snitcofsky s01e01</title>
+            <title>Entrevista con Andrés Snitcofsky [s01e01]</title>
             <guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/ruso.html</guid>
             <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/ruso.html</link>
             <pubDate>Sat, 12 Jan 2019 16:00:00 +0300</pubDate>
@@ -61,7 +61,7 @@
             <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/ruso.mp3" length="41340811" type="audio/mpeg"/>
 
             <image>
-                <title>Entrevista con Andrés Snitcofsky s01e01</title>
+                <title>Entrevista con Andrés Snitcofsky [s01e01]</title>
                 <url>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/ruso.png</url>
                 <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/ruso.png</link>
             </image>
@@ -78,6 +78,27 @@
             <br />Ideas: <ul>
             <li>Comenzó formlamente en la Dirección de Innovación y Gobierno abierto en el verano de 2013.</li>
             <li>Desde el 2010 trabaja en gobierno y ya tenía curiosidades en temas de datos.</li>
+            <li>Uno de sus primeros referentes fue Andy Tow y su blog. Tambien Gonzalo Iglesias y Rudi Bormann</li>
+            <li>Actualmente trabaja en fortalecer la oferta de datos y fomentar su reutilización en la comunidad.</li>
+            <li>La Ciudad de Buenos Aires esta hoy reemplazando su portal de datos por la tecnología CKAN/Andino</li>
+            <li>Se está rediseñando la política de datos abierto generando enlaces en cada ministerio con la responsabilidad de fomentar la apertura.</li>
+            <li>Se están creando tableros de seguimiento en tiempo real (abierto y reutilizable por otros gobiernos).</li>
+            <li>Hay un deuda de impulsar emprendimientos privados basados en datos. No se ha logrado aún algún caso destacable como tienen New York y Londres por ejemplo en transporte</li>
+            <li>Los concursos de ideas pueden impulsar la innovacion y el emprendoderismo con datos</li>
+            <li>Hay que avanzar con la academia y el sector científico, que vean al gobierno como un proveedor de datos confiable</li>
+            <li>Para generar mas impacto hay que buscar a los colectivos y las organizaciones que ya existen en cada temática. Ellos saben mucho de los temas que los gobiernos pueden impulsar</li>
+            <li>El sentido común es muy peligroso, nos trae sesgos. Hay que descartarlo de plano. Hay que mirar datos</li>
+            <li>Hay áreas que son muy creativas usando datos, hay que buscar esos ejemplos. Antes era de nicho y ya es más moneda correinte</li>
+            <li>Las fuentes alternativas no oficiales tambien pueden ser de utilidad para los gobiernos</li>
+            <li>El acervo de datos, su archivo histórico de datos debe ser resguardado</li>
+            <li>Se deben institucionalizar las políticas de datos abiertos para conservarlas y trascender más allá de sus gestiones. GitHub puede ser una forma de conservación.</li>
+            <li>Para comenzar con Gobierno Abierto no hay recetas únicas, cada funcionario debe analizar el contexto de su ciudad y conocer a los actores válidos de la sociedad</li>
+            <li>La transparencia esta partidizada, se la vincula a algunos partidos y no todavía a el estado en general.</li>
+            <li>Los sindicatos y los partidos políticos todavía estan lejos de aplicar políticas de transparencia. Ha permeado un poco el discurso pero no es parte de la agenda todavía</li>
+            <li>Los gobiernos tenemos que conseguir mucho más impacto para contagiar. A los gobiernos les queda mucho por hacer todavía, hay que sumar nuevas cabezas e ideas</li>
+            <li>Hay que mirar a: Rudi Bormann y Gonzalo Iglesias</li>
+            <li>Hay que mirar a: Natalia Sampietro</li>
+            <li>Hay que mirar a: Antonio Milanese</li>
             </ul>]]></description>
             
             <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e02-alalu.mp3" length="31223740" type="audio/mpeg"/>
