@@ -149,13 +149,16 @@ file_resultado.write(index)
 file_resultado.close()
 
 # generar todos los HTMLs individuales
-for episodio in canal_info['episodios']:
+episodios = canal_info['episodios']
+dic = {'canal': canal_info, 'episodios': episodios}
+
+for episodio in episodios:
     # crear html del episodio
     tpl = open('templates-html/episode.html')
     template = Template(tpl.read())
     tpl.close()
-    dic = {'canal': canal_info, 'episodio': episodio}
+    dic['episodio'] = episodio
     epihtml = template.render(dic)
-    file_resultado = open('../{}.html'.format(base_name), 'w')
+    file_resultado = open('../{}.html'.format(episodio['base_name']), 'w')
     file_resultado.write(epihtml)
     file_resultado.close()
