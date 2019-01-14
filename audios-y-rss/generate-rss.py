@@ -72,7 +72,7 @@ for mp3 in mp3s:
     imagen_encontrada = None
 
     for ext in extensiones_imagenes_aceptadas:
-        imagen = '{}/{}.png'.format(directorio, base_name)
+        imagen = '{}/{}.{}'.format(directorio, base_name, ext)
         if os.path.isfile(imagen):
             imagen_encontrada = imagen
     
