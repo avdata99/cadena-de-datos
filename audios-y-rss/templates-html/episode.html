@@ -161,6 +161,9 @@
         </div>
         <div class="row">
           {% for epi in canal.episodios %}
+          
+          {% if episodio.base_name != epi.base_name %}
+
           <div class="col-md-6">
             <div class="d-block podcast-entry bg-white mb-5" data-aos="fade-up">
               <div class="image w-100" style="height: 300px; background-image: url('{{ epi.url_imagen }}');"></div>
@@ -176,6 +179,9 @@
               </div>
             </div>
           </div>
+
+          {% endif %}
+
           {% endfor %}
           
         </div>

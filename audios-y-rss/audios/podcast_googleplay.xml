@@ -51,5 +51,21 @@
 			<pubDate>Sat, 12 Jan 2019 16:00:00 +0300</pubDate>
 		</item>
         
+        <item>
+			<title>Entrevista con Martín Alalu [s01e02]</title>
+			<googleplay:description><![CDATA[Martín es actualmente Gerente Operativo de Gobierno Abierto de la Ciudad de Buenos Aíres. Ex director de Datos abiertos de la Provincia de Buenos Aires, Licenciado en ciencias políticas y Técnico superior en periodismo. Parte del proyecto https://www.34surmapas.com/
+            <br />Ideas: <ul>
+            <li>Comenzó formlamente en la Dirección de Innovación y Gobierno abierto en el verano de 2013.</li>
+            <li>Desde el 2010 trabaja en gobierno y ya tenía curiosidades en temas de datos.</li>
+            </ul>]]>
+			 </googleplay:description>
+			<googleplay:author>Andrés Vázquez</googleplay:author>
+			<googleplay:image href='https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e02-alalu.png'/>
+			<googleplay:explicit>No</googleplay:explicit>
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e02-alalu.mp3" length="31223740" type="audio/x-mp3"/>
+			<guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e02-alalu.html</guid>
+			<pubDate>Mon, 14 Jan 2019 09:30:00 +0300</pubDate>
+		</item>
+        
 	</channel>
 </rss>

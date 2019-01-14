@@ -6,7 +6,7 @@
         <description>Podcast con entrevistas a referentes de los datos abiertos en Argentina. Las personas consultadas me sugieren nuevos posibles entrevistados que alimentan este podcast</description>
         <language>es-ar</language>
         <ttl>1440</ttl>
-        <lastBuildDate>Sun, 13 Jan 2019 22:05:48 +0300</lastBuildDate>
+        <lastBuildDate>Mon, 14 Jan 2019 10:28:41 +0300</lastBuildDate>
         <author>Andrés Vázquez</author>
         <image>
             <title>Cadena de datos</title>
@@ -64,6 +64,28 @@
                 <title>Entrevista con Andrés Snitcofsky s01e01</title>
                 <url>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/ruso.png</url>
                 <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/ruso.png</link>
+            </image>
+
+        </item>
+        
+        <item>
+            <title>Entrevista con Martín Alalu [s01e02]</title>
+            <guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e02-alalu.html</guid>
+            <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e02-alalu.html</link>
+            <pubDate>Mon, 14 Jan 2019 09:30:00 +0300</pubDate>
+            <author>Andrés Vázquez</author>
+            <description><![CDATA[Martín es actualmente Gerente Operativo de Gobierno Abierto de la Ciudad de Buenos Aíres. Ex director de Datos abiertos de la Provincia de Buenos Aires, Licenciado en ciencias políticas y Técnico superior en periodismo. Parte del proyecto https://www.34surmapas.com/
+            <br />Ideas: <ul>
+            <li>Comenzó formlamente en la Dirección de Innovación y Gobierno abierto en el verano de 2013.</li>
+            <li>Desde el 2010 trabaja en gobierno y ya tenía curiosidades en temas de datos.</li>
+            </ul>]]></description>
+            
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e02-alalu.mp3" length="31223740" type="audio/mpeg"/>
+
+            <image>
+                <title>Entrevista con Martín Alalu [s01e02]</title>
+                <url>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e02-alalu.png</url>
+                <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e02-alalu.png</link>
             </image>
 
         </item>
