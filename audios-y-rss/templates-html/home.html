@@ -82,31 +82,31 @@
             <p>
                 {% for rss in RSSs %}
                   {% if rss.nombre == "atom" %}
-                  <a href="{{ rss.url }}" class="pl-3 pr-3"><span class="icon-rss"></span></a>
+                  <a href="{{ rss.url }}" class="pl-3 pr-3"><span class="icon-rss" style="font-size: 64px"></span></a>
                   {% endif %}
-  
-                  
-                  {% if spotify %}
-                    <a href="{{ spotify }}" class="pl-3 pr-3"><span class="icon-spotify"></span></a>
-                  {% endif %}
-
-                  {% if itunes %}
-                    <a href="{{ itunes }}" class="pl-3 pr-3"><span class="icon-itunes"></span></a>
-                  {% endif %}
-  
                 {% endfor %}
+  
+                {% if spotify %}
+                  <a href="{{ spotify }}" class="pl-3 pr-3"><span class="icon-spotify" style="font-size: 64px"></span></a>
+                {% endif %}
+
+                {% if itunes %}
+                  <a href="{{ itunes }}" class="pl-3 pr-3"><span class="icon-itunes" style="font-size: 64px"></span></a>
+                {% endif %}
+
+                
                 {% if youtube %}
-                <a href="{{ youtube }}" class="pl-0 pr-3"><span class="icon-youtube"></span></a>
+                <a href="{{ youtube }}" class="pl-0 pr-3"><span class="icon-youtube" style="font-size: 64px"></span></a>
                 {% endif %}
   
                 {% if twitter %}
-                <a href="{{ twitter }}" class="pl-3 pr-3"><span class="icon-twitter"></span></a>
+                <a href="{{ twitter }}" class="pl-3 pr-3"><span class="icon-twitter" style="font-size: 64px"></span></a>
                 {% endif %}
                 {% if instagram %}
-                <a href="{{ instagram }}" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
+                <a href="{{ instagram }}" class="pl-3 pr-3"><span class="icon-instagram" style="font-size: 64px"></span></a>
                 {% endif %}
                 {% if linkedin %}
-                <a href="{{ linkedin }}" class="pl-3 pr-3"><span class="icon-linkedin"></span></a>
+                <a href="{{ linkedin }}" class="pl-3 pr-3"><span class="icon-linkedin" style="font-size: 64px"></span></a>
                 {% endif %}
             </p>
 
@@ -121,6 +121,21 @@
 
     <div class="site-section bg-light">
       <div class="container">
+
+          <div class="row mb-5" data-aos="fade-up">
+              <div class="col-md-12 text-center">
+                <h2 class="font-weight-bold text-black">Sobre este podcast</h2>
+              </div>
+          </div>
+            
+            
+          <div class="row">
+            <div class="col-md-12">
+                <p>{{ descripcion }}</p>
+              </div>
+          </div>
+    
+            
 
         <div class="row mb-5" data-aos="fade-up">
           <div class="col-md-12 text-center">

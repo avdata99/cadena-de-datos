@@ -112,6 +112,43 @@
 
 
 
+            <div class="row mb-5">
+                <div class="col-md-12">
+            <p>
+                {% for rss in canal.RSSs %}
+                  {% if rss.nombre == "atom" %}
+                  <a href="{{ rss.url }}" class="pl-3 pr-3"><span class="icon-rss" style="font-size: 64px"></span></a>
+                  {% endif %}
+                {% endfor %}
+  
+                {% if canal.spotify %}
+                  <a href="{{ canal.spotify }}" class="pl-3 pr-3"><span class="icon-spotify" style="font-size: 64px"></span></a>
+                {% endif %}
+
+                {% if canal.itunes %}
+                  <a href="{{ canal.itunes }}" class="pl-3 pr-3"><span class="icon-itunes" style="font-size: 64px"></span></a>
+                {% endif %}
+
+                
+                {% if canal.youtube %}
+                <a href="{{ canal.youtube }}" class="pl-0 pr-3"><span class="icon-youtube" style="font-size: 64px"></span></a>
+                {% endif %}
+  
+                {% if canal.twitter %}
+                <a href="{{ canal.twitter }}" class="pl-3 pr-3"><span class="icon-twitter" style="font-size: 64px"></span></a>
+                {% endif %}
+                {% if canal.instagram %}
+                <a href="{{ canal.instagram }}" class="pl-3 pr-3"><span class="icon-instagram" style="font-size: 64px"></span></a>
+                {% endif %}
+                {% if canal.linkedin %}
+                <a href="{{ canal.linkedin }}" class="pl-3 pr-3"><span class="icon-linkedin" style="font-size: 64px"></span></a>
+                {% endif %}
+            </p>
+
+
+              </div>
+            </div>
+
         <div class="row mb-5">
           <div class="col-md-12 text-center">
             <h2 class="font-weight-bold text-black">otros episodios</h2>

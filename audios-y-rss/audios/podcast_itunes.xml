@@ -3,12 +3,12 @@
     <channel>
         <title>Cadena de datos</title>
         <link>https://avdata99.github.io/cadena-de-datos</link>
-        <description>Podcast con entrevistas a referentes de los datoas abiertos en Argentina.</description>
-        <itunes:summary>Podcast con entrevistas a referentes de los datoas abiertos en Argentina.</itunes:summary>
+        <description>Podcast con entrevistas a referentes de los datos abiertos en Argentina. Las personas consultadas me sugieren nuevos posibles entrevistados que alimentan este podcast</description>
+        <itunes:summary>Podcast con entrevistas a referentes de los datos abiertos en Argentina. Las personas consultadas me sugieren nuevos posibles entrevistados que alimentan este podcast</itunes:summary>
         <itunes:author>Andrés Vázquez</itunes:author>
         <language>es-ar</language>
         <ttl>1440</ttl>
-        <lastBuildDate>Sun, 13 Jan 2019 20:49:26 +0300</lastBuildDate>
+        <lastBuildDate>Sun, 13 Jan 2019 21:07:09 +0300</lastBuildDate>
 
         <image>
             <title>Cadena de datos</title>
