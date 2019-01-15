@@ -6,7 +6,7 @@
         <description>Podcast con entrevistas a referentes de los datos abiertos en Argentina. Las personas consultadas me sugieren nuevos posibles entrevistados que alimentan este podcast</description>
         <language>es-ar</language>
         <ttl>1440</ttl>
-        <lastBuildDate>Mon, 14 Jan 2019 20:31:29 +0300</lastBuildDate>
+        <lastBuildDate>Tue, 15 Jan 2019 19:41:57 +0300</lastBuildDate>
         <author>Andrés Vázquez</author>
         <image>
             <title>Cadena de datos</title>
@@ -107,6 +107,28 @@
                 <title>Entrevista con Martín Alalu [s01e02]</title>
                 <url>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e02-alalu.png</url>
                 <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e02-alalu.png</link>
+            </image>
+
+        </item>
+        
+        <item>
+            <title>Entrevista con Antonio Milanese [s01e04]</title>
+            <guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e04-tony.html</guid>
+            <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e04-tony.html</link>
+            <pubDate>Tue, 15 Jan 2019 18:00:00 +0300</pubDate>
+            <author>Andrés Vázquez</author>
+            <description><![CDATA[Antonio Licenciado en Ciencias Políticas y Master en Ciencias Sociales. Trabajo en el Gobierno de CABA en su primera versión del portal de datos y para la plataforma Junar. Actualmente lidera su propia consultora Unicorio Data
+            <br />Ideas: <ul>
+            <li>Los portales de datos abiertos genericos podrían ser superados por portales específicos por temática y con clientes claros y definidos.</li>
+            <li></li>
+            </ul>]]></description>
+            
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e04-tony.mp3" length="30536115" type="audio/mpeg"/>
+
+            <image>
+                <title>Entrevista con Antonio Milanese [s01e04]</title>
+                <url>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e04-tony.png</url>
+                <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e04-tony.png</link>
             </image>
 
         </item>

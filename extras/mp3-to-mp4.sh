@@ -6,3 +6,6 @@ ffmpeg -loop 1 -framerate 1 -i ruso03.png -i ruso.mp3 \
 
 ffmpeg -loop 1 -framerate 1 -i se01e03-selvood.jpg -i se01e03-selvood.mp3 \
 -c:v libx264 -preset veryslow -crf 0 -c:a copy -shortest se01e03-selvood.mkv
+
+# mp4 to mp3
+ffmpeg -i s01e04-tony.mp4 s01e04-tony.mp3
