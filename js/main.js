@@ -20,8 +20,6 @@ jQuery(document).ready(function($) {
 			'event_label' : etiqueta
 					}
 				);
-			}
-		
 		e.preventDefault();  
 		
 	});
