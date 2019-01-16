@@ -92,37 +92,37 @@
                 {% for rss in RSSs %}
                   {% if rss.nombre == "atom" %}
                   <a href="{{ rss.url }}" class="pl-3 pr-3">
-                    <span class="icon-rss" style="font-size: 64px" class="analyticable" data-evento="click" data-categoria="rss" data-etiqueta="{{ rss.nombre }}"></span></a>
+                    <span class="icon-rss analyticable" style="font-size: 64px" data-evento="click" data-categoria="rss" data-etiqueta="{{ rss.nombre }}"></span></a>
                   {% endif %}
                 {% endfor %}
   
                 {% if spotify %}
                   <a href="{{ spotify }}" class="pl-3 pr-3">
-                    <span class="icon-spotify" style="font-size: 64px" class="analyticable" data-evento="click" data-categoria="rss" data-etiqueta="spotify"></span></a>
+                    <span class="icon-spotify analyticable" style="font-size: 64px" data-evento="click" data-categoria="rss" data-etiqueta="spotify"></span></a>
                 {% endif %}
 
                 {% if itunes %}
                   <a href="{{ itunes }}" class="pl-3 pr-3">
-                    <span class="icon-itunes" style="font-size: 64px" class="analyticable" data-evento="click" data-categoria="rss" data-etiqueta="itunes"></span></a>
+                    <span class="icon-itunes analyticable" style="font-size: 64px" data-evento="click" data-categoria="rss" data-etiqueta="itunes"></span></a>
                 {% endif %}
 
                 
                 {% if youtube %}
                 <a href="{{ youtube }}" class="pl-0 pr-3">
-                  <span class="icon-youtube" style="font-size: 64px" class="analyticable" data-evento="click" data-categoria="rss" data-etiqueta="youtube"></span></a>
+                  <span class="icon-youtube analyticable" style="font-size: 64px" data-evento="click" data-categoria="rss" data-etiqueta="youtube"></span></a>
                 {% endif %}
   
                 {% if twitter %}
                 <a href="{{ twitter }}" class="pl-3 pr-3">
-                  <span class="icon-twitter" style="font-size: 64px" class="analyticable" data-evento="click" data-categoria="redes" data-etiqueta="twitter"></span></a>
+                  <span class="icon-twitter analyticable" style="font-size: 64px" data-evento="click" data-categoria="redes" data-etiqueta="twitter"></span></a>
                 {% endif %}
                 {% if instagram %}
                 <a href="{{ instagram }}" class="pl-3 pr-3">
-                  <span class="icon-instagram" style="font-size: 64px" class="analyticable"data-evento="click" data-categoria="redes" data-etiqueta="instagram"></span></a>
+                  <span class="icon-instagram analyticable" style="font-size: 64px"data-evento="click" data-categoria="redes" data-etiqueta="instagram"></span></a>
                 {% endif %}
                 {% if linkedin %}
                 <a href="{{ linkedin }}" class="pl-3 pr-3">
-                  <span class="icon-linkedin" style="font-size: 64px" class="analyticable" data-evento="click" data-categoria="redes" data-etiqueta="linkedin"></span></a>
+                  <span class="icon-linkedin analyticable" style="font-size: 64px" data-evento="click" data-categoria="redes" data-etiqueta="linkedin"></span></a>
                 {% endif %}
             </p>
 
@@ -196,19 +196,19 @@
                     <div>
                       {% for rss in RSSs %}
                         {% if rss.nombre == "atom" %}
-                        <a href="{{ rss.url }}">
-                          <span class="icon-rss" class="pl-3 pr-3" class="analyticable" data-evento="click" data-categoria="rss" data-etiqueta="{{ rss.nombre }}"></span></a>
+                        <a href="{{ rss.url }}" class="pl-3 pr-3">
+                          <span class="icon-rss analyticable" data-evento="click" data-categoria="rss" data-etiqueta="{{ rss.nombre }}"></span></a>
                         {% endif %}
                       {% endfor %}
 
                       {% if spotify %}
                         <a href="{{ spotify }}" class="pl-3 pr-3">
-                          <span class="icon-spotify" class="analyticable" data-evento="click" data-categoria="rss" data-etiqueta="spotify"></span></a>
+                          <span class="icon-spotify analyticable" data-evento="click" data-categoria="rss" data-etiqueta="spotify"></span></a>
                       {% endif %}
 
                       {% if itunes %}
                         <a href="{{ itunes }}" class="pl-3 pr-3">
-                          <span class="icon-itunes" class="analyticable" data-evento="click" data-categoria="rss" data-etiqueta="itunes"></span></a>
+                          <span class="icon-itunes analyticable" data-evento="click" data-categoria="rss" data-etiqueta="itunes"></span></a>
                       {% endif %}
                     </div>
                 </div>
@@ -218,20 +218,20 @@
                 <div>
                   {% if youtube %}
                   <a href="{{ youtube }}" class="pl-0 pr-3">
-                    <span class="icon-youtube" class="analyticable" data-evento="click" data-categoria="rss" data-etiqueta="youtube"></span></a>
+                    <span class="icon-youtube analyticable" data-evento="click" data-categoria="rss" data-etiqueta="youtube"></span></a>
                   {% endif %}
 
                   {% if twitter %}
                   <a href="{{ twitter }}" class="pl-3 pr-3">
-                    <span class="icon-twitter" class="analyticable" data-evento="click" data-categoria="redes" data-etiqueta="twitter"></span></a>
+                    <span class="icon-twitter analyticable" data-evento="click" data-categoria="redes" data-etiqueta="twitter"></span></a>
                   {% endif %}
                   {% if instagram %}
                   <a href="{{ instagram }}" class="pl-3 pr-3">
-                    <span class="icon-instagram" class="analyticable" data-evento="click" data-categoria="redes" data-etiqueta="instagram"></span></a>
+                    <span class="icon-instagram analyticable" data-evento="click" data-categoria="redes" data-etiqueta="instagram"></span></a>
                   {% endif %}
                   {% if linkedin %}
                   <a href="{{ linkedin }}" class="pl-3 pr-3">
-                    <span class="icon-linkedin" class="analyticable" data-evento="click" data-categoria="redes" data-etiqueta="linkedin"></span></a>
+                    <span class="icon-linkedin analyticable" data-evento="click" data-categoria="redes" data-etiqueta="linkedin"></span></a>
                   {% endif %}
                 </div>
               </div>
