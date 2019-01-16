@@ -61,11 +61,11 @@
                     <a href="#">RSS</a>
                     <ul class="dropdown arrow-top">
                         
-                          <li><a href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/podcast_googleplay.xml">googleplay</a></li>
+                          <li><a href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/podcast_googleplay.xml" class="analyticable" data-evento="click" data-categoria="rss" data-etiqueta="googleplay">googleplay</a></li>
                         
-                          <li><a href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/podcast_atom.xml">atom</a></li>
+                          <li><a href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/podcast_atom.xml" class="analyticable" data-evento="click" data-categoria="rss" data-etiqueta="atom">atom</a></li>
                         
-                          <li><a href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/podcast_itunes.xml">itunes</a></li>
+                          <li><a href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/podcast_itunes.xml" class="analyticable" data-evento="click" data-categoria="rss" data-etiqueta="itunes">itunes</a></li>
                         
                         </ul>
                       </li>
@@ -88,7 +88,7 @@
 
           <div class="col-md-8" data-aos="fade-up" data-aos-delay="400">
             <h2 class="text-white font-weight-light mb-2 display-4">Cadena de datos</h2>
-            <div class="text-white mb-4"><span class="text-white-opacity-05"><small>por Andrés Vázquez | Tue, 15 Jan 2019 20:35:46 +0300</small></span></div>
+            <div class="text-white mb-4"><span class="text-white-opacity-05"><small>por Andrés Vázquez | Wed, 16 Jan 2019 16:53:44 +0300</small></span></div>
             
             <!-- <p><a href="single-post.html" class="btn btn-primary btn-sm py-3 px-4 small">Read The Transcript</a></p> -->
 
@@ -97,31 +97,37 @@
                   
                 
                   
-                  <a href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/podcast_atom.xml" class="pl-3 pr-3"><span class="icon-rss" style="font-size: 64px"></span></a>
+                  <a href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/podcast_atom.xml" class="pl-3 pr-3" class="analyticable" data-evento="click" data-categoria="rss" data-etiqueta="atom">
+                    <span class="icon-rss" style="font-size: 64px"></span></a>
                   
                 
                   
                 
   
                 
-                  <a href="https://open.spotify.com/show/3DyOBY3f7mxnrb3TeI86D8?si=mAJL-u1vTomnbUU1AISrLw" class="pl-3 pr-3"><span class="icon-spotify" style="font-size: 64px"></span></a>
+                  <a href="https://open.spotify.com/show/3DyOBY3f7mxnrb3TeI86D8?si=mAJL-u1vTomnbUU1AISrLw" class="pl-3 pr-3" class="analyticable" data-evento="click" data-categoria="rss" data-etiqueta="spotify">
+                    <span class="icon-spotify" style="font-size: 64px"></span></a>
                 
 
                 
 
                 
                 
-                <a href="https://www.youtube.com/playlist?list=PLqm_8zUynUDJSOe-S1pNC_Og7qUuKv8a_" class="pl-0 pr-3"><span class="icon-youtube" style="font-size: 64px"></span></a>
+                <a href="https://www.youtube.com/playlist?list=PLqm_8zUynUDJSOe-S1pNC_Og7qUuKv8a_" class="pl-0 pr-3" class="analyticable" data-evento="click" data-categoria="rss" data-etiqueta="youtube">
+                  <span class="icon-youtube" style="font-size: 64px"></span></a>
                 
   
                 
-                <a href="https://twitter.com/avdata99" class="pl-3 pr-3"><span class="icon-twitter" style="font-size: 64px"></span></a>
+                <a href="https://twitter.com/avdata99" class="pl-3 pr-3" class="analyticable" data-evento="click" data-categoria="redes" data-etiqueta="twitter">
+                  <span class="icon-twitter" style="font-size: 64px"></span></a>
                 
                 
-                <a href="https://www.instagram.com/avdata99/" class="pl-3 pr-3"><span class="icon-instagram" style="font-size: 64px"></span></a>
+                <a href="https://www.instagram.com/avdata99/" class="pl-3 pr-3" class="analyticable"data-evento="click" data-categoria="redes" data-etiqueta="instagram">
+                  <span class="icon-instagram" style="font-size: 64px"></span></a>
                 
                 
-                <a href="https://www.linkedin.com/in/andres-vazquez-16059920/" class="pl-3 pr-3"><span class="icon-linkedin" style="font-size: 64px"></span></a>
+                <a href="https://www.linkedin.com/in/andres-vazquez-16059920/" class="pl-3 pr-3" class="analyticable" data-evento="click" data-categoria="redes" data-etiqueta="linkedin">
+                  <span class="icon-linkedin" style="font-size: 64px"></span></a>
                 
             </p>
 
@@ -168,7 +174,9 @@
             <p class="mb-4">Antonio Licenciado en Ciencias Políticas y Master en Ciencias Sociales. Trabajo en el Gobierno de CABA en su primera versión del portal de datos y para la plataforma Junar. Actualmente lidera su propia consultora Unicorio Data</p>
 
             <div class="player">
-              <audio id="player2" preload="none" controls style="max-width: 100%">
+              <audio id="player2" preload="auto" 
+                      controls style="max-width: 100%"
+                      onplay="tag_analytics('audio_start', 'engagement', 'escucha episodio Entrevista con Antonio Milanese [s01e04]');">
                 <source src="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e04-tony.mp3" type="audio/mp3">
               </audio>
             </div>
@@ -186,7 +194,9 @@
             <p class="mb-4">Ines formó parte de equipos de transparencia en el poder ejecutivo y judicial. En organizaciones de la sociedad civil (locales e internacionales) y hasta en el ámbito universitario. Nos cuenta de todas sus experiencias (se corta un poco los primeros tres minutos pero luego el audio funciona perfectamente)</p>
 
             <div class="player">
-              <audio id="player2" preload="none" controls style="max-width: 100%">
+              <audio id="player2" preload="auto" 
+                      controls style="max-width: 100%"
+                      onplay="tag_analytics('audio_start', 'engagement', 'escucha episodio Entrevista con Ines Selvood [s01e03]');">
                 <source src="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e03-selvood.mp3" type="audio/mp3">
               </audio>
             </div>
@@ -204,7 +214,9 @@
             <p class="mb-4">Martín es actualmente Gerente Operativo de Gobierno Abierto de la Ciudad de Buenos Aíres. Ex director de Datos abiertos de la Provincia de Buenos Aires, Licenciado en ciencias políticas y Técnico superior en periodismo. Parte del proyecto https://www.34surmapas.com/</p>
 
             <div class="player">
-              <audio id="player2" preload="none" controls style="max-width: 100%">
+              <audio id="player2" preload="auto" 
+                      controls style="max-width: 100%"
+                      onplay="tag_analytics('audio_start', 'engagement', 'escucha episodio Entrevista con Martín Alalu [s01e02]');">
                 <source src="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e02-alalu.mp3" type="audio/mp3">
               </audio>
             </div>
@@ -222,7 +234,9 @@
             <p class="mb-4">La cumbre (Córdoba, AR), 12 de enero. El Ruso me recibe en sus vacaciones para grabar la entrevista. Hablamos de los inicios de los datos abiertos en Argentina, el estado actual de las políticas públicas de transparencia y los proyectos Cargografías y Economía Feminista.</p>
 
             <div class="player">
-              <audio id="player2" preload="none" controls style="max-width: 100%">
+              <audio id="player2" preload="auto" 
+                      controls style="max-width: 100%"
+                      onplay="tag_analytics('audio_start', 'engagement', 'escucha episodio Entrevista con Andrés Snitcofsky [s01e01]');">
                 <source src="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/ruso.mp3" type="audio/mp3">
               </audio>
             </div>
@@ -249,14 +263,16 @@
                         
                       
                         
-                        <a href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/podcast_atom.xml" class="pl-3 pr-3"><span class="icon-rss"></span></a>
+                        <a href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/podcast_atom.xml" class="pl-3 pr-3" class="analyticable" data-evento="click" data-categoria="rss" data-etiqueta="atom">
+                          <span class="icon-rss"></span></a>
                         
                       
                         
                       
 
                       
-                        <a href="https://open.spotify.com/show/3DyOBY3f7mxnrb3TeI86D8?si=mAJL-u1vTomnbUU1AISrLw" class="pl-3 pr-3"><span class="icon-spotify"></span></a>
+                        <a href="https://open.spotify.com/show/3DyOBY3f7mxnrb3TeI86D8?si=mAJL-u1vTomnbUU1AISrLw" class="pl-3 pr-3" class="analyticable" data-evento="click" data-categoria="rss" data-etiqueta="spotify">
+                          <span class="icon-spotify"></span></a>
                       
 
                       
@@ -267,17 +283,21 @@
                 <h3 class="footer-heading mb-4">Redes</h3>
                 <div>
                   
-                  <a href="https://www.youtube.com/playlist?list=PLqm_8zUynUDJSOe-S1pNC_Og7qUuKv8a_" class="pl-0 pr-3"><span class="icon-youtube"></span></a>
+                  <a href="https://www.youtube.com/playlist?list=PLqm_8zUynUDJSOe-S1pNC_Og7qUuKv8a_" class="pl-0 pr-3" class="analyticable" data-evento="click" data-categoria="rss" data-etiqueta="youtube">
+                    <span class="icon-youtube"></span></a>
                   
 
                   
-                  <a href="https://twitter.com/avdata99" class="pl-3 pr-3"><span class="icon-twitter"></span></a>
+                  <a href="https://twitter.com/avdata99" class="pl-3 pr-3" class="analyticable" data-evento="click" data-categoria="redes" data-etiqueta="twitter">
+                    <span class="icon-twitter"></span></a>
                   
                   
-                  <a href="https://www.instagram.com/avdata99/" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
+                  <a href="https://www.instagram.com/avdata99/" class="pl-3 pr-3" class="analyticable" data-evento="click" data-categoria="redes" data-etiqueta="instagram">
+                    <span class="icon-instagram"></span></a>
                   
                   
-                  <a href="https://www.linkedin.com/in/andres-vazquez-16059920/" class="pl-3 pr-3"><span class="icon-linkedin"></span></a>
+                  <a href="https://www.linkedin.com/in/andres-vazquez-16059920/" class="pl-3 pr-3" class="analyticable" data-evento="click" data-categoria="redes" data-etiqueta="linkedin">
+                    <span class="icon-linkedin"></span></a>
                   
                 </div>
               </div>
@@ -302,6 +322,16 @@
 
 
   <script src="js/main.js"></script>
+
+  <script>
+      function tag_analytics(evento, categoria, etiqueta) {
+        gtag('event', evento, {
+              'event_category' : categoria,
+              'event_label' : etiqueta
+                }
+              );
+      }
+    </script>
     
   </body>
 </html>

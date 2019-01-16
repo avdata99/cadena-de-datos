@@ -82,7 +82,11 @@
                 <small>por Andrés Vázquez <span class="sep">/</span> Tue, 15 Jan 2019 18:00:00 +0300 </small>
               </span>
               <div>
-                <audio id="player2" preload="none" controls style="max-width: 100%">
+                <audio id="player2" 
+                    preload="auto" 
+                    controls 
+                    style="max-width: 100%"
+                    onplay="tag_analytics('audio_start', 'engagement', 'escucha episodio Entrevista con Antonio Milanese [s01e04]');">
                   <source src="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e04-tony.mp3" type="audio/mp3">
                 </audio>
               </div>
@@ -140,8 +144,6 @@
                       
                         <li>A los periodistas le interesan más los pedidos de acceso por sobre los datos abiertos porque tiene más forma de primicia</li>
                       
-                        <li>Hay que mirar a: Gonzalo Iglesias y Rudi Bormann</li>
-                      
                         <li>Hay que mirar a: Rudi Borman y Gpnzalo Iglesias</li>
                       
                         <li>Hay que mirar a: Mauricio Utreras de Energía Abierta (Chile)</li>
@@ -157,38 +159,20 @@
 
             <div class="row mb-5">
                 <div class="col-md-12">
-            <p>
-                
-                  
-                
-                  
-                  <a href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/podcast_atom.xml" class="pl-3 pr-3"><span class="icon-rss" style="font-size: 64px"></span></a>
-                  
-                
-                  
-                
-  
-                
-                  <a href="https://open.spotify.com/show/3DyOBY3f7mxnrb3TeI86D8?si=mAJL-u1vTomnbUU1AISrLw" class="pl-3 pr-3"><span class="icon-spotify" style="font-size: 64px"></span></a>
-                
-
-                
-
-                
-                
-                <a href="https://www.youtube.com/playlist?list=PLqm_8zUynUDJSOe-S1pNC_Og7qUuKv8a_" class="pl-0 pr-3"><span class="icon-youtube" style="font-size: 64px"></span></a>
-                
-  
-                
-                <a href="https://twitter.com/avdata99" class="pl-3 pr-3"><span class="icon-twitter" style="font-size: 64px"></span></a>
-                
-                
-                <a href="https://www.instagram.com/avdata99/" class="pl-3 pr-3"><span class="icon-instagram" style="font-size: 64px"></span></a>
-                
-                
-                <a href="https://www.linkedin.com/in/andres-vazquez-16059920/" class="pl-3 pr-3"><span class="icon-linkedin" style="font-size: 64px"></span></a>
-                
-            </p>
+                    <p>
+                        
+          
+                        
+        
+                        
+        
+                        
+                        
+          
+                        
+                        
+                        
+                    </p>
 
 
               </div>
@@ -279,22 +263,14 @@
     <footer class="site-footer">
         <div class="container">
               <div class="row">
-  
+
                   <div class="col-md-4">
                       <h3 class="footer-heading mb-4">Suscribirse</h3>
                       <div>
                         
-                          
+  
                         
-                          
-                          <a href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/podcast_atom.xml" class="pl-3 pr-3"><span class="icon-rss"></span></a>
-                          
-                        
-                          
-                        
-
-                        
-
+  
                         
                       </div>
                   </div>
@@ -303,17 +279,9 @@
                   <h3 class="footer-heading mb-4">Redes</h3>
                   <div>
                     
-                    <a href="https://www.youtube.com/playlist?list=PLqm_8zUynUDJSOe-S1pNC_Og7qUuKv8a_" class="pl-0 pr-3"><span class="icon-youtube"></span></a>
-                    
   
                     
-                    <a href="https://twitter.com/avdata99" class="pl-3 pr-3"><span class="icon-twitter"></span></a>
                     
-                    
-                    <a href="https://www.instagram.com/avdata99/" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
-                    
-                    
-                    <a href="https://www.linkedin.com/in/andres-vazquez-16059920/" class="pl-3 pr-3"><span class="icon-linkedin"></span></a>
                     
                   </div>
                 </div>
@@ -338,6 +306,16 @@
   <script src="js/aos.js"></script>
 
   <script src="js/main.js"></script>
+
+  <script>
+    function tag_analytics(evento, categoria, etiqueta) {
+      gtag('event', evento, {
+            'event_category' : categoria,
+            'event_label' : etiqueta
+              }
+            );
+    }
+  </script>
     
   </body>
 </html>

@@ -61,7 +61,7 @@
                     <a href="#">RSS</a>
                     <ul class="dropdown arrow-top">
                         {% for rss in RSSs %}
-                          <li><a href="{{ rss.url }}">{{ rss.nombre }}</a></li>
+                          <li><a href="{{ rss.url }}" class="analyticable" data-evento="click" data-categoria="rss" data-etiqueta="{{ rss.nombre }}">{{ rss.nombre }}</a></li>
                         {% endfor %}
                         </ul>
                       </li>
@@ -91,31 +91,38 @@
             <p>
                 {% for rss in RSSs %}
                   {% if rss.nombre == "atom" %}
-                  <a href="{{ rss.url }}" class="pl-3 pr-3"><span class="icon-rss" style="font-size: 64px"></span></a>
+                  <a href="{{ rss.url }}" class="pl-3 pr-3" class="analyticable" data-evento="click" data-categoria="rss" data-etiqueta="{{ rss.nombre }}">
+                    <span class="icon-rss" style="font-size: 64px"></span></a>
                   {% endif %}
                 {% endfor %}
   
                 {% if spotify %}
-                  <a href="{{ spotify }}" class="pl-3 pr-3"><span class="icon-spotify" style="font-size: 64px"></span></a>
+                  <a href="{{ spotify }}" class="pl-3 pr-3" class="analyticable" data-evento="click" data-categoria="rss" data-etiqueta="spotify">
+                    <span class="icon-spotify" style="font-size: 64px"></span></a>
                 {% endif %}
 
                 {% if itunes %}
-                  <a href="{{ itunes }}" class="pl-3 pr-3"><span class="icon-itunes" style="font-size: 64px"></span></a>
+                  <a href="{{ itunes }}" class="pl-3 pr-3" class="analyticable" data-evento="click" data-categoria="rss" data-etiqueta="itunes">
+                    <span class="icon-itunes" style="font-size: 64px"></span></a>
                 {% endif %}
 
                 
                 {% if youtube %}
-                <a href="{{ youtube }}" class="pl-0 pr-3"><span class="icon-youtube" style="font-size: 64px"></span></a>
+                <a href="{{ youtube }}" class="pl-0 pr-3" class="analyticable" data-evento="click" data-categoria="rss" data-etiqueta="youtube">
+                  <span class="icon-youtube" style="font-size: 64px"></span></a>
                 {% endif %}
   
                 {% if twitter %}
-                <a href="{{ twitter }}" class="pl-3 pr-3"><span class="icon-twitter" style="font-size: 64px"></span></a>
+                <a href="{{ twitter }}" class="pl-3 pr-3" class="analyticable" data-evento="click" data-categoria="redes" data-etiqueta="twitter">
+                  <span class="icon-twitter" style="font-size: 64px"></span></a>
                 {% endif %}
                 {% if instagram %}
-                <a href="{{ instagram }}" class="pl-3 pr-3"><span class="icon-instagram" style="font-size: 64px"></span></a>
+                <a href="{{ instagram }}" class="pl-3 pr-3" class="analyticable"data-evento="click" data-categoria="redes" data-etiqueta="instagram">
+                  <span class="icon-instagram" style="font-size: 64px"></span></a>
                 {% endif %}
                 {% if linkedin %}
-                <a href="{{ linkedin }}" class="pl-3 pr-3"><span class="icon-linkedin" style="font-size: 64px"></span></a>
+                <a href="{{ linkedin }}" class="pl-3 pr-3" class="analyticable" data-evento="click" data-categoria="redes" data-etiqueta="linkedin">
+                  <span class="icon-linkedin" style="font-size: 64px"></span></a>
                 {% endif %}
             </p>
 
@@ -162,7 +169,9 @@
             <p class="mb-4">{{ item.descripcion }}</p>
 
             <div class="player">
-              <audio id="player2" preload="auto" controls style="max-width: 100%">
+              <audio id="player2" preload="auto" 
+                      controls style="max-width: 100%"
+                      onplay="tag_analytics('audio_start', 'engagement', 'escucha episodio {{ item.titulo }}');">
                 <source src="{{ item.url_audio }}" type="audio/mp3">
               </audio>
             </div>
@@ -187,16 +196,19 @@
                     <div>
                       {% for rss in RSSs %}
                         {% if rss.nombre == "atom" %}
-                        <a href="{{ rss.url }}" class="pl-3 pr-3"><span class="icon-rss"></span></a>
+                        <a href="{{ rss.url }}" class="pl-3 pr-3" class="analyticable" data-evento="click" data-categoria="rss" data-etiqueta="{{ rss.nombre }}">
+                          <span class="icon-rss"></span></a>
                         {% endif %}
                       {% endfor %}
 
                       {% if spotify %}
-                        <a href="{{ spotify }}" class="pl-3 pr-3"><span class="icon-spotify"></span></a>
+                        <a href="{{ spotify }}" class="pl-3 pr-3" class="analyticable" data-evento="click" data-categoria="rss" data-etiqueta="spotify">
+                          <span class="icon-spotify"></span></a>
                       {% endif %}
 
                       {% if itunes %}
-                        <a href="{{ itunes }}" class="pl-3 pr-3"><span class="icon-itunes"></span></a>
+                        <a href="{{ itunes }}" class="pl-3 pr-3" class="analyticable" data-evento="click" data-categoria="rss" data-etiqueta="itunes">
+                          <span class="icon-itunes"></span></a>
                       {% endif %}
                     </div>
                 </div>
@@ -205,17 +217,21 @@
                 <h3 class="footer-heading mb-4">Redes</h3>
                 <div>
                   {% if youtube %}
-                  <a href="{{ youtube }}" class="pl-0 pr-3"><span class="icon-youtube"></span></a>
+                  <a href="{{ youtube }}" class="pl-0 pr-3" class="analyticable" data-evento="click" data-categoria="rss" data-etiqueta="youtube">
+                    <span class="icon-youtube"></span></a>
                   {% endif %}
 
                   {% if twitter %}
-                  <a href="{{ twitter }}" class="pl-3 pr-3"><span class="icon-twitter"></span></a>
+                  <a href="{{ twitter }}" class="pl-3 pr-3" class="analyticable" data-evento="click" data-categoria="redes" data-etiqueta="twitter">
+                    <span class="icon-twitter"></span></a>
                   {% endif %}
                   {% if instagram %}
-                  <a href="{{ instagram }}" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
+                  <a href="{{ instagram }}" class="pl-3 pr-3" class="analyticable" data-evento="click" data-categoria="redes" data-etiqueta="instagram">
+                    <span class="icon-instagram"></span></a>
                   {% endif %}
                   {% if linkedin %}
-                  <a href="{{ linkedin }}" class="pl-3 pr-3"><span class="icon-linkedin"></span></a>
+                  <a href="{{ linkedin }}" class="pl-3 pr-3" class="analyticable" data-evento="click" data-categoria="redes" data-etiqueta="linkedin">
+                    <span class="icon-linkedin"></span></a>
                   {% endif %}
                 </div>
               </div>
@@ -240,6 +256,16 @@
 
 
   <script src="js/main.js"></script>
+
+  <script>
+      function tag_analytics(evento, categoria, etiqueta) {
+        gtag('event', evento, {
+              'event_category' : categoria,
+              'event_label' : etiqueta
+                }
+              );
+      }
+    </script>
     
   </body>
 </html>

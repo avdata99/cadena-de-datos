@@ -8,7 +8,23 @@ jQuery(document).ready(function($) {
 
 	"use strict";
 
-	
+	$('body').on('click', '.analyticable', function(e) {
+		var $this = $(this);
+		
+		var evento = $this.data('evento');
+		var categoria = $this.data('categoria');
+		var etiqueta = $this.data('etiqueta');
+
+		gtag('event', evento, {
+			'event_category' : categoria,
+			'event_label' : etiqueta
+					}
+				);
+			}
+		
+		e.preventDefault();  
+		
+	});
 
 	var siteMenuClone = function() {
 
