@@ -1,6 +1,6 @@
 1
 0:00:05,620 --> 0:00:11,190
-AV: Cadena de datos episodio número 6 el
+>> ANDRES: <b>Cadena de datos</b> episodio número 6 el
 
 2
 0:00:09,070 --> 0:00:14,019
@@ -28,27 +28,28 @@ financiamiento de campañas electorales.
 
 8
 0:00:21,480 --> 0:00:26,500
-Actualmente es director del director
+Actualmente es Director
 
 9
 0:00:24,520 --> 0:00:28,599
-ejecutivo de la fundación Poder
+Ejecutivo de la fundación Poder
 
 10
 0:00:26,500 --> 0:00:30,520
-Ciudadano y fue también consultor en
+Ciudadano y fue también consultor de
 
 11
 0:00:28,599 --> 0:00:32,309
-transparencia internacional.  Hola Pablo, 
+Transparencia Internacional. Hola Pablo, 
 
 12
 0:00:30,520 --> 0:00:35,620
-buenas tardes. ¿Estuvo bien la presentación?.  
+buenas tardes. ¿Estuvo bien la presentación?
 
 13
 0:00:32,309 --> 0:00:38,050
-Perfecta muy bien pero que sí pues bueno
+>> PABLO: Perfecta.
+>> ANDRES: Bueno
 
 14
 0:00:35,620 --> 0:00:41,710
@@ -56,11 +57,11 @@ muchísimas gracias pablo por compartir
 
 15
 0:00:38,050 --> 0:00:43,989
-con nosotros vamos directamente a las
+con nosotros, vamos directamente a las
 
 16
 0:00:41,710 --> 0:00:46,449
-preguntas cuando estaba revisando tubío
+preguntas: ¿Cuándo estaba revisando tu <i>bio</i>
 
 17
 0:00:43,989 --> 0:00:48,550
@@ -68,15 +69,15 @@ veo que trabajaste como consultor de
 
 18
 0:00:46,449 --> 0:00:51,129
-transparencia para atrapar ese
+transparencia
 
 19
 0:00:48,550 --> 0:00:54,399
-internacional el 2009 y mi duda es cómo
+internacional en el 2009 y mi duda es cómo
 
 20
 0:00:51,129 --> 0:00:55,899
-era ese 2009 qué qué cosas me imagino
+era ese 2009, qué cosas me imagino
 
 21
 0:00:54,399 --> 0:00:57,399
@@ -96,7 +97,8 @@ transparencia de los gobiernos en el
 
 25
 0:01:02,409 --> 0:01:09,090
-2009 bueno nosotros hablando de portales
+2009. 
+>> PABLO: Bueno nosotros hablando de portales
 
 26
 0:01:06,100 --> 0:01:10,870
@@ -104,11 +106,11 @@ de datos en 2009 ya tenía digamos
 
 27
 0:01:09,090 --> 0:01:15,940
-publicado 2
+publicado dos
 
 28
 0:01:10,870 --> 0:01:17,530
-bases de datos con un formato abierto 1
+bases de datos con un formato abierto: 1
 
 29
 0:01:15,940 --> 0:01:19,150
@@ -116,11 +118,11 @@ en relación al financiamiento político
 
 30
 0:01:17,530 --> 0:01:23,770
-una base de datos que llamaba dinero y
+una base de datos que llamaba <i>Dinero y
 
 31
 0:01:19,150 --> 0:01:26,770
-política y otra relativa a la publicidad
+Política</i> y otra relativa a la publicidad
 
 32
 0:01:23,770 --> 0:01:29,350
@@ -144,7 +146,7 @@ querés podemos hablar si fue tal
 
 37
 0:01:36,370 --> 0:01:42,870
-revolución o no pero el trabajo en un
+<i>revolución</i> o no pero el trabajo en un
 
 38
 0:01:40,030 --> 0:01:45,790
@@ -3240,5 +3242,5 @@ dificultades por delante bueno
 
 811
 0:31:46,150 --> 0:31:50,370
-muchísimas gracias Pablo nos vemos
+muchísimas gracias pablo nos vemos
 
