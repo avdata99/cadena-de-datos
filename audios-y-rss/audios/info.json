@@ -16,6 +16,9 @@
     "linkedin": "https://www.linkedin.com/in/andres-vazquez-16059920/",
     "spotify": "https://open.spotify.com/show/3DyOBY3f7mxnrb3TeI86D8?si=mAJL-u1vTomnbUU1AISrLw",
     "itunes": null,
-    "GA_TRACKING_ID": "UA-24864140-1"
-
+    "GA_TRACKING_ID": "UA-24864140-1",
+    "itunes_categories": [
+        ["Politics"],
+        ["Technology", "Information Technology"]
+    ]
 }

@@ -6,6 +6,9 @@
         <description>{{ descripcion }}</description>
         <itunes:summary>{{ descripcion }}</itunes:summary>
         <itunes:author>{{ autor }}</itunes:author>
+        {% for category in itunes_categories %}
+            <itunes:category text="{{ category.0 }}">{% if category.1 %}<itunes:category text="{{ category.1 }}"/>{% endif %}</itunes:category>
+        {% endfor %}
         <language>{{ lenguaje }}</language>
         <ttl>{{ ttl_minutos }}</ttl>
         <lastBuildDate>{{ ultima_compilacion }}</lastBuildDate>
