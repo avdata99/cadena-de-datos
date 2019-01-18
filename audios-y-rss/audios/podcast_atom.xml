@@ -6,7 +6,7 @@
         <description>Podcast con entrevistas a referentes de los datos abiertos en Argentina. Las personas consultadas me sugieren nuevos posibles entrevistados que alimentan este podcast</description>
         <language>es-ar</language>
         <ttl>1440</ttl>
-        <lastBuildDate>Thu, 17 Jan 2019 19:34:04 +0300</lastBuildDate>
+        <lastBuildDate>Fri, 18 Jan 2019 00:05:21 +0300</lastBuildDate>
         <author>Andrés Vázquez</author>
         <image>
             <title>Cadena de datos</title>
@@ -257,7 +257,7 @@
             <li>Hay que estandarizar los datos. Si hubiera estándares nacionales los datos serían comparables y mucho más interesantes.</li>
             <li>Los 135 municipios de la Provincia de Buenos Aires usan el mismo software de administración de dinero pero no se aprovecha en publicar datos estandarizados.</li>
             <li>Existen periodistas que usan los datos y construyen y otros que destruyen: 'Un periodista mediocre a veces hace más daño que un político corrupto'</li>
-            <li>La Nación Nata hace trabajos interesantes para mirar</li>
+            <li>La Nación Data hace trabajos interesantes para mirar</li>
             <li>Hay que mirar a: Manuel Aristarán</li>
             <li>Hay que mirar a: Javier Arteaga</li>
             </ul>]]></description>
