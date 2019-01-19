@@ -1,8 +1,8 @@
 # crear video con la onda del audio de fondo y una imagen
 # https://stackoverflow.com/questions/34029575/showfreqs-and-showwaves-over-background-image
-TEXTO="JuanI Belbis en Cadena de datos"
+TEXTO="Manuel Aristarán en Cadena de datos"
 TTF_FILE="/usr/share/fonts/truetype/ttf-bitstream-vera/Vera.ttf"
-FONT_SIZE=20
+FONT_SIZE=10
 FONT_COLOR=black
 ANCHO=962
 ANCHO_WAVE1=300
@@ -22,7 +22,7 @@ FILTER="[0:a]showfreqs=mode=bar:ascale=lin:fscale=lin:s=${ANCHO_WAVE1}x${ALTO_WA
         [0:a]showwaves=s=${ANCHO_WAVE2}x${ALTO_WAVE2}:mode=${WAVE_MODE}:n=${SAMPLESXCOLUMN}:colors=red[sw]; \
         [sf][sw]vstack[fg]; \
         [1:v]scale=${ANCHO}:-1,crop=iw:${ALTO_IMAGEN}[bg]; \
-        [bg][fg]overlay=shortest=1:format=auto,format=yuv420p,drawtext=fontfile=$TTF_FILE:fontsize=${FONT_SIZE}:fontcolor=${FONT_COLOR}:x=10:y=10:text='$TEXTO'[out]"
+        [bg][fg]overlay=shortest=1:format=auto,format=yuv420p,drawtext=fontfile=$TTF_FILE:fontsize=${FONT_SIZE}:fontcolor=${FONT_COLOR}:x=5:y=5:text='$TEXTO'[out]"
 
 echo $FILTER
 echo "*************************************"
