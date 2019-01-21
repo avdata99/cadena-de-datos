@@ -6,7 +6,7 @@
         <description>Podcast con entrevistas a referentes de los datos abiertos en Argentina. Las personas consultadas me sugieren nuevos posibles entrevistados que alimentan este podcast</description>
         <language>es-ar</language>
         <ttl>1440</ttl>
-        <lastBuildDate>Sat, 19 Jan 2019 15:18:02 +0300</lastBuildDate>
+        <lastBuildDate>Sun, 20 Jan 2019 23:47:45 +0300</lastBuildDate>
         <author>Andrés Vázquez</author>
         <image>
             <title>Cadena de datos</title>
@@ -354,6 +354,41 @@
                 <title>Entrevista con Manuel Aristarán [s01e08]</title>
                 <url>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e08-manu.jpg</url>
                 <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e08-manu.jpg</link>
+            </image>
+
+        </item>
+        
+        <item>
+            <title>Entrevista con Javier Arteaga [s01e09]</title>
+            <guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e09-arteaga.html</guid>
+            <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e09-arteaga.html</link>
+            <pubDate>Sun, 20 Jan 2019 22:15:00 +0300</pubDate>
+            <author>Andrés Vázquez</author>
+            <description><![CDATA[Javier publicista y especialista en marketing político. Es Director de la consultora Feeling, Director de PastoLAB y docente universitario.
+            <br />Ideas: <ul>
+            <li>Javier viene del mundo, de la comunicación política. Comenzó creando una escuela de innovación política con nmuchos temas, entre ellos, Gobierno Abierto.</li>
+            <li>Las referencias a mirar en aquel momento fueron las políticas de Obama, Bahía Blanca (AR) y Córdoba (AR). No había en Colombia ejemplos.</li>
+            <li>Feeling es Design Thinking a lo Latinoamericano, se le suma la empatía con la gente. Políticas centradas en el corazon de las personas</li>
+            <li>'Le tengo el dato' es un diario 100% basado en datos. Cada nota está basada en al menos un datasets abierto.</li>
+            <li>Las notas del diario son sobre temas llanos, de interés para todos los ciudadanos.</li>
+            <li>Nariño tiene su propio portal de datos con DKAN.</li>
+            <li>Ha publicado su presupuesto pensando en el ciudadano, no pensando en que sea útil a la secretaria de hacienda.</li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li>Hay que mirar a: </li>
+            <li>Hay que mirar a: del Gobierno de Nariñi</li>
+            </ul>]]></description>
+            
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e09-arteaga.mp3" length="35318273" type="audio/mpeg"/>
+
+            <image>
+                <title>Entrevista con Javier Arteaga [s01e09]</title>
+                <url>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e09-arteaga.jpg</url>
+                <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e09-arteaga.jpg</link>
             </image>
 
         </item>
