@@ -1,6 +1,6 @@
 # crear video con la onda del audio de fondo y una imagen
 # https://stackoverflow.com/questions/34029575/showfreqs-and-showwaves-over-background-image
-TEXTO="Silvana Fumega en Cadena de datos"
+TEXTO="Maximiliano Chisnerman en Cadena de datos"
 TTF_FILE="/usr/share/fonts/truetype/ttf-bitstream-vera/Vera.ttf"
 FONT_SIZE=10
 FONT_COLOR=black
