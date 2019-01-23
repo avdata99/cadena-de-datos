@@ -13,7 +13,7 @@
         
         <language>es-ar</language>
         <ttl>1440</ttl>
-        <lastBuildDate>Tue, 22 Jan 2019 20:37:20 +0300</lastBuildDate>
+        <lastBuildDate>Wed, 23 Jan 2019 08:02:45 +0300</lastBuildDate>
 
         <image>
             <title>Cadena de datos</title>
@@ -447,6 +447,39 @@
             <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e11-chisnerman.mp3" length="28781281" type="audio/mpeg"/>
 
             <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e11-chisnerman.jpg" />
+
+        </item>
+        
+        <item>
+            <title>Entrevista con Jorge Aznar [s01e12]</title>
+            <guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e12-aznar.html</guid>
+            <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e12-aznar.html</link>
+            <pubDate>Wed, 23 Jan 2019 06:30:00 +0300</pubDate>
+            <description><![CDATA[Jorge es diseñador y desarrollador de software en Zaragoza, España. Es además lo que llamaríamos en Argentina un activista o hacker cívico que tiene numerosos proyectos propios.
+            <br />Ideas: <ul>
+            <li>Jorge comenzo a trabajar con datos desde el primer portal de Aragón.</li>
+            <li>Bislai es un proyecto de análisis de datos sobre el debate legislativo. Los datos publicados eran muy pobres y con este proyecto los datos se hicieron más accesibles y con la posibilidad de buscar.</li>
+            <li>Bislai crea un dataset con el resumen de todas las votaciones que permite generar estadísticas.</li>
+            <li>La base de datos de los códigos postales esta cerrado desde 2017 (pagando se puede acceder)</li>
+            <li>Con los datos históricos de clima puede verse como afecta el cambio climático a tu ciudad.</li>
+            <li>Ahora Jorge esta ampliando este análisis del clima de Zaragoza para toda España.</li>
+            <li>Jorge estaría dispuesto a ser funcionario de Gobierno.</li>
+            <li>El gobierno a veces se saca la foto luego de liberar el portal y después no le dan todo el seguieminto que se requiere.</li>
+            <li>Hay formulario (bastante feo según Jorge) online de pedidos de acceso a la información pública.</li>
+            <li>Cuando los activistas no conocen a ley a veces caen en respuestas del gobierno de que no deben publicar algo cuan si deben.</li>
+            <li>Hay periodismo de datos en España pero no particularmente en Zaragoza y Aragón.</li>
+            <li>Jorge pide más y mejor comunicación del gobierno hacia os usuarios de los datos.</li>
+            <li>Hay que mirar a: Beatriz Hernandez de R-Ladies Madrid</li>
+            <li>Hay que mirar a: Civio</li>
+            <li>Hay que mirar a: Populate (Alvaro y Fernando) con el producto Gobierto</li>
+            <li>Hay que mirar a: Alberto Labarga (funcionario y activista)</li>
+            </ul>]]>
+            </description>
+            <itunes:summary>Jorge es diseñador y desarrollador de software en Zaragoza, España. Es además lo que llamaríamos en Argentina un activista o hacker cívico que tiene numerosos proyectos propios.</itunes:summary>
+            
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e12-aznar.mp3" length="23128993" type="audio/mpeg"/>
+
+            <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e12-aznar.jpg" />
 
         </item>
         

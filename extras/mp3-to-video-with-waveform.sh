@@ -4,12 +4,12 @@ TEXTO="Maximiliano Chisnerman en Cadena de datos"
 TTF_FILE="/usr/share/fonts/truetype/ttf-bitstream-vera/Vera.ttf"
 FONT_SIZE=10
 FONT_COLOR=black
-ANCHO=962
+ANCHO=814
 ANCHO_WAVE1=300
 ANCHO_WAVE2=300
 ALTO_WAVE1=50
 ALTO_WAVE2=500
-ALTO_IMAGEN=528
+ALTO_IMAGEN=618
 ALTO=ALTO_WAVE1 + ALTO_WAVE2 + ALTO_IMAGEN
 SAMPLESXCOLUMN=1
 # Modo de la onda:
