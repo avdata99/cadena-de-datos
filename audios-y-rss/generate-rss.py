@@ -18,12 +18,15 @@ from termcolor import colored
 import json
 from jinja2 import Template
 from datetime import date, datetime
+import urllib
+
 
 # el primer parámetro de la llamada debe indicar la carpeta donde buscar
 directorio = 'audios'
 mp3s = []
 # todos los links publicos en la web dependeran de una misma base dependiendo de donde se publique este código
-base_url = 'https://avdata99.github.io/cadena-de-datos/audios-y-rss'
+base_web = 'https://avdata99.github.io/cadena-de-datos'
+base_url = '{}/audios-y-rss'.format(base_web)
 
 """
 dentro del "directorio" se espera que estén:
@@ -68,6 +71,11 @@ for mp3 in mp3s:
     # IMAGEN del episodio -----------------------------
     base_name = mp3.replace('.mp3', '')
     episodio['base_name'] = base_name
+
+    # preparar URL completa y encodeada para compartir
+    episodio['full_url'] = '{}/{}.html'.format(base_web, base_name)
+    episodio['full_url_encoded'] = urllib.parse.quote(episodio['full_url'])
+
     extensiones_imagenes_aceptadas = ['png', 'jpg']
     imagen_encontrada = None
 
@@ -100,6 +108,8 @@ for mp3 in mp3s:
                         episodio["hora_publicacion"], episodio["minuto_publicacion"])
 
     episodio['fecha_publicacion'] = d.strftime("%a, %d %b %Y %H:%M:%S +0300")
+
+    episodio['titulo_encoded'] = urllib.parse.quote(episodio['titulo'])
 
     print('-------------------------------------')
     nice_json = json.dumps(episodio, indent=4)
