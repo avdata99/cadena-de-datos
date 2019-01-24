@@ -185,7 +185,7 @@
             <p class="mb-4">{{ item.descripcion }}</p>
             
             <div class="player">
-              <audio id="player2" preload="auto" 
+              <audio id="player2" preload="none" 
                       controls="controls"
                       onplay="tag_analytics('audio_start', 'engagement', 'escucha episodio {{ item.titulo }}');">
                 <source src="{{ item.url_audio }}" type="audio/mp3">
