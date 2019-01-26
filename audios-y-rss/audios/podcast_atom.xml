@@ -6,7 +6,7 @@
         <description>Podcast con entrevistas a referentes de los datos abiertos en Argentina. Las personas consultadas me sugieren nuevos posibles entrevistados que alimentan este podcast</description>
         <language>es-ar</language>
         <ttl>1440</ttl>
-        <lastBuildDate>Wed, 23 Jan 2019 17:06:39 +0300</lastBuildDate>
+        <lastBuildDate>Thu, 24 Jan 2019 23:19:07 +0300</lastBuildDate>
         <author>Andrés Vázquez</author>
         <image>
             <title>Cadena de datos</title>
@@ -507,6 +507,46 @@
                 <title>Entrevista con Jorge Aznar [s01e12]</title>
                 <url>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e12-aznar.jpg</url>
                 <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e12-aznar.jpg</link>
+            </image>
+
+        </item>
+        
+        <item>
+            <title>Entrevista con María José Vanni [s01e13]</title>
+            <guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e13-vanni.html</guid>
+            <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e13-vanni.html</link>
+            <pubDate>Tue, 22 Jan 2019 19:00:00 +0300</pubDate>
+            <author>Andrés Vázquez</author>
+            <description><![CDATA[María José Vanni es archivera con conocimiento en tecnología y datos abiertos. Activista de esos dos mundos con más en común de los que parece.
+            <br />Ideas: <ul>
+            <li>Si tenemos una mala gestión de documentos en papel seguirá siendo mala en internet.</li>
+            <li>Los portales y los datos en la web debe ser mirados por los gobiernos a través de una gestion integral de la información que se muestra a la sociedad independientemente del formato</li>
+            <li>Los lugares del mundo que admiramos en cuanto a datos abiertos tienen de fondo una política de gestión documental.</li>
+            <li>Los datos abiertos son otra forma de ver cosas que ya se estaban haciendo.</li>
+            <li>El sistema que usa el gobierno nacional (GDE) no tiene de fondo contemplada la forma correcta de gestión de documentos.</li>
+            <li>El archivo histórico nacional esta haciendo esfuerzos para conectarse al sistema GDE sin todo el éxtio que debería.</li>
+            <li>La despapelización puede sonar bien pero a veces es peor que la gestión de documentos que reemplaza.</li>
+            <li>Ningún informático puede garantizar hoy que los datos que procesamos vayan a ser accesibles en 10 años.</li>
+            <li>Lo datasets son tambien documentos archivísticos. Deben ser tratados como tales.</li>
+            <li>Los archivos que no muestran lo que guardan no existen.</li>
+            <li>Se ven mucho de apertura de datos suelta, no es el reflejo de una política de datos abiertos elaborada.</li>
+            <li>El inventario de documentos que produce cada oficina es importante para que los usuarios pueda pedir mejor sus solicitudes de acceso a la información.</li>
+            <li>El concepto 'Open Washing' describe un poco nuestra realidad en datos abiertos</li>
+            <li>'Los Datos abiertos no están ni vivos ni muertos, están encarcelados' entre la endogamia que se genera entre las oficinas de gobiernos y las organizaciones sociales</li>
+            <li>La voluntad política es la clave para que corrijamos todo lo que hace falta.</li>
+            <li>Todavía cuesta que los funcionarios publiquen sus DDJJ y CVs.</li>
+            <li>Antes de digitalizar algo hay que tener el proceso documental bien elaborado. No es solo escanear.</li>
+            <li>Hay que mirar a: Leonardo Martinez</li>
+            <li>Hay que mirar a: Andres Pak Linares</li>
+            <li>Hay que mirar a: Luis Casella y Serra (de Girona) Tienen la cadena de proteccion documental para garantizar la vigencia a largo plazo.</li>
+            </ul>]]></description>
+            
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e13-vanni.mp3" length="25657193" type="audio/mpeg"/>
+
+            <image>
+                <title>Entrevista con María José Vanni [s01e13]</title>
+                <url>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e13-vanni.jpg</url>
+                <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e13-vanni.jpg</link>
             </image>
 
         </item>

@@ -177,7 +177,7 @@
         
         {% for item in episodios|reverse %}
         <div class="d-block d-md-flex podcast-entry bg-white mb-5" data-aos="fade-up">
-          <div class="image" style="background-image: url('{{ item.url_imagen }}');"></div>
+          <div class="image" style="background-image: url('{{ item.relative_url_imagen }}');"></div>
           <div class="text">
 
             <h3 class="font-weight-light"><a href="{{ item.base_name }}.html">{{ item.titulo }}</a></h3>

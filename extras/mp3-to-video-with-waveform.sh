@@ -1,10 +1,10 @@
 # crear video con la onda del audio de fondo y una imagen
 # https://stackoverflow.com/questions/34029575/showfreqs-and-showwaves-over-background-image
-TEXTO="Maximiliano Chisnerman en Jorge Aznar"
+TEXTO="Cadena de datos"
 TTF_FILE="/usr/share/fonts/truetype/ttf-bitstream-vera/Vera.ttf"
 FONT_SIZE=10
 FONT_COLOR=black
-ANCHO=81
+ANCHO=810
 ANCHO_WAVE1=300
 ANCHO_WAVE2=300
 ALTO_WAVE1=50
