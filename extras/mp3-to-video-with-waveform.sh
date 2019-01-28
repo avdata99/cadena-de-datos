@@ -27,7 +27,7 @@ FILTER="[0:a]showfreqs=mode=bar:ascale=lin:fscale=lin:s=${ANCHO_WAVE1}x${ALTO_WA
 echo $FILTER
 echo "*************************************"
 cmd="ffmpeg -i audio.mp3 \
-    -loop 1 \
+    -loop 1 -y \
     -i imagen.png \
     -filter_complex \"$FILTER\" \
     -map '[out]' \
