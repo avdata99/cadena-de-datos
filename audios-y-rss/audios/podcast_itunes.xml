@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>Cadena de datos</title>
+        <link>https://avdata99.github.io/cadena-de-datos</link>
+        <description>Podcast con entrevistas a referentes de los datos abiertos en Argentina. Las personas consultadas me sugieren nuevos posibles entrevistados que alimentan este podcast</description>
+        <itunes:summary>Podcast con entrevistas a referentes de los datos abiertos en Argentina. Las personas consultadas me sugieren nuevos posibles entrevistados que alimentan este podcast</itunes:summary>
+        <itunes:author>Andrés Vázquez</itunes:author>
+        
+            <itunes:category text="Politics"></itunes:category>
+        
+            <itunes:category text="Technology"><itunes:category text="Information Technology"/></itunes:category>
+        
+        <language>es-ar</language>
+        <ttl>1440</ttl>
+        <lastBuildDate>Mon, 28 Jan 2019 10:21:31 +0300</lastBuildDate>
+
+        <image>
+            <title>Cadena de datos</title>
+            <url>https://andresvazquez.com.ar/blog/wp-content/uploads/2016/11/Selecci%C3%B3n_419-1024x512.png</url>
+            <link>https://avdata99.github.io/cadena-de-datos</link>
+        </image>
+        <itunes:image href="https://andresvazquez.com.ar/blog/wp-content/uploads/2016/11/Selecci%C3%B3n_419-1024x512.png" />
+        <itunes:explicit>No</itunes:explicit>
+        
+        <webMaster>andres@data99.com.ar</webMaster>
+        
+
+        
+        <managingEditor>andres@data99.com.ar</managingEditor>
+        
+
+        
+        <item>
+            <title>Entrevista con Raúl Olivan [s01e14]</title>
+            <guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e14-olivan.html</guid>
+            <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e14-olivan.html</link>
+            <pubDate>Thu, 24 Jan 2019 06:30:00 +0300</pubDate>
+            <description><![CDATA[Actualmente Raúl es Director General de Participación, Transparencia, Cooperación y Voluntariado en el Gobierno de Aragón. Fué 10 años Director de Zaragoza Activa (ZAC), un ecosistema público de emprendimiento e innovación social. Raúl Es Licenciado en Publicidad y Relaciones Públicas y Diplomado en Trabajo Social.
+            <br />Ideas: <ul>
+            <li>Raúl comenzo siendo activista social y paso al gobierno desde Zaragoza.</li>
+            <li>Hay que aceptar trabajar en los gobiernos. Se requiere abrir las instituciones desde adentro.</li>
+            <li>Algunos procesos de participación se convocan solo para legitimar una postura previa.</li>
+            <li>La participación real esta dispuesta a aceptar la influencia de los participantes.</li>
+            <li>Hay dos extremos de la participación que son malos: los muy tecnocráticos conducidos por grupos de expertos y lo contrario una asamble pura sin conocimiento que guie u oriente el proceso, como un simulacro de la democracia directa. No se puede dar datos sin digerir o explicar a los ciudadanos para particiar. Una mezcla de ambas lógicas es lo mejor.</li>
+            <li>Los procesos de participación por más pequeños que parezcan si logran cohesionar a los vecinos y sentir que el poder de decisión esta en ellos es muy válido.</li>
+            <li>En el modelo anterior de Aragon el proceso era muy cerrado, vamos hacia una nueva versión más entretenida, mas apetecible.</li>
+            <li>Hay que evitar que la participación ciudadana se convierta en un reducto de unos pocos con mucho tiempo libre.</li>
+            <li>Se busca que participen más mujeres, niños y la audiencias que no lo hacen habitualmente.</li>
+            <li>Se requieren canales de participación online que sea muy simples.</li>
+            <li>En latinoamérica el publico que participa es mucha más agradecida que en Europa</li>
+            <li>En Europa la democracia esta en un estado pos-bienestar, hay indivisualismos que no se permite construir comunidades, cuesta más que en latinoamérica</li>
+            <li>De estos procesos participativos se generan datos y hay rendiciones de cuentas que hacer, sobre todo a las personas que participan.</li>
+            <li>En Aragón se puede seguir en tiempo real los 147 objetivos del gobierno y su cumplimiento.</li>
+            <li>Ejemplos de laboratorios a mirar es MediaLab-Prado, SantaLab y CISNA de Nariño</li>
+            <li>Hay que mirar a: Cecilia Guemes</li>
+            <li>Hay que mirar a: Dardo Ceballos de Santalab</li>
+            <li>Hay que mirar a: Javier Arteaga</li>
+            <li>Hay que mirar a: Ismael Peña de Cataluña</li>
+            </ul>]]>
+            </description>
+            <itunes:summary>Actualmente Raúl es Director General de Participación, Transparencia, Cooperación y Voluntariado en el Gobierno de Aragón. Fué 10 años Director de Zaragoza Activa (ZAC), un ecosistema público de emprendimiento e innovación social. Raúl Es Licenciado en Publicidad y Relaciones Públicas y Diplomado en Trabajo Social.</itunes:summary>
+            
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e14-olivan.mp3" length="21007278" type="audio/mpeg"/>
+
+            <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e14-olivan.jpg" />
+
+        </item>
+        
+
+    </channel>
+</rss>

@@ -80,7 +80,7 @@
             <h2 class="text-white font-weight-light mb-2 display-4">{{ episodio.titulo }}</h2>
             <div class="text-white mb-3">
               <span class="text-white-opacity-05">
-                <small>por {{ canal.autor }} <span class="sep">/</span> {{ episodio.fecha_publicacion }} </small>
+                <small>por <a href='{{ canal.autor_url }}'>{{ canal.autor }}</a> <span class="sep">/</span> {{ episodio.fecha_publicacion }} </small>
               </span>
               <div>
                 <audio id="player2" 
@@ -222,7 +222,7 @@
               <div class="text w-100">
 
                 <h3 class="font-weight-light"><a href="{{ epi.base_name }}.html">{{ epi.titulo}}</a></h3>
-                <div class="text-white mb-3"><span class="text-black-opacity-05"><small>por {{canal.autor}} 
+                <div class="text-white mb-3"><span class="text-black-opacity-05"><small>por <a href='{{ canal.autor_url }}'>{{ canal.autor }}</a>
                   <span class="sep">/</span> {{ epi.fecha_publicacion }}</small></span></div>
                 <p class="mb-4">
                   {{ epi.descripcion }}
