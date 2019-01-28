@@ -1,0 +1,31 @@
+{
+    "titulo": "Entrevista con Silvana Fumega [s01e10]",
+    "anio_publicacion": 2019,
+    "mes_publicacion": 1,
+    "dia_publicacion": 21,
+    "hora_publicacion": 19,
+    "minuto_publicacion": 0,
+    "descripcion": "Silvana es licenciada en Ciencia Política tiene una Maestría en Políticas Públicas y posee un PhD. Hoy es Directora de Investigación y Políticas en ILDA (la Iniciativa Latinoamericana por los Datos Abiertos) y se ha desempeñado como consultora para numerosas organizaciones internacionales, gobiernos y grupos de sociedad civil. Trabaja en la intersección entre las políticas de datos abiertos y el derecho de acceso a la información pública.",
+    "ideas": [
+        "Comenzo en 2007 como consultora de transparencia del Banco Mundia en 2007 cuando el acceso a la información pública era la forma de trabajar y los datos abiertos todavía no se usaban como los conocemos hoy.",
+        "En algunos lugares todavía se pueden dar peleas vía acceso a la información pública porque no hay políticas de datos abiertos.",
+        "En cuanto al acceso a la información pública los países 'más desarrollados' estan mejor. En cuando a datos abiertos no estamos tan atrás en latinoamérica.",
+        "La cultura del secreto es lo mas dificil de vencer, hoy el obstáculo no es tecnológico.",
+        "ILDA esta trabajando en transparentar contrataciones en latinoamérica. En lo personal Silvana atiende temas de género (datos de feminicidios, igualdad y otros).",
+        "Los datos de feminicidios tienen multiples problemas en su elaboración previa, no hay un protocolo para contabilizarlos. Hay una parte artesanal que debe estandarizarse para que contar feminicidios en cualquier lugar equivalga a los mismo.",
+        "Nos tenemos que ayudar entre todos (academia, organizaciones, gobiernos, etc), hablar con las usuarias de datos, preguntar y conocer.",
+        "Algunas aplicaciones hechas con las mejores intenciones (ej: mapa de lugares seguros para mujeres) a veces son contraproducentes. Publicar sin pensar en los riesgos y la privacidad no es buena idea.",
+        "Hay casos interesantes donde la sociedad civil inicia proyectos (solo, con financiación internacional o con apoyo de gobiernos) que apuntan a temas de interés de la ciudadanía y que pueden ser muy utiles.",
+        "Silvana cree que puede aportar más desde su espacio en la sociedad civil o academia, en principio no ejercería un cargo público.",
+        "El concepto de Gobierno Abierto es mucho más antiguo que Datos Abiertos, no son sinónimos.",
+        "Para diferencias iniciativas sinceras de apertura podemos ver como evolucionan en el tiempo, como aceptan o no las voces incómodas. Podemos ver quienes están incitados a la mesa de decisión y que tanto se las escucha.",
+        "No parece haber ejemplos interesantes de Gobierno Abierto en universidades, partidos políticos o sindicatos.",
+        "Hay que hablar con los potenciales usuarios de los datos que vamos a liberar.",
+        "Todo el sistema estadístico no piensa el género, piensa en categorías de sexo binaria. Eso se tiene que corregir.",
+        "Hay que mirar a: Romina Colman (acceso a la info)",
+        "Hay que mirar a: Momi Peralta (armo un equipo de datos en un medio)",
+        "Hay que mirar a: Gabriela Rodriguez (datos de género desde una perspectiva técnica)",
+        "Hay que mirar a: Ernesto Mislej (datos abiertos desde la ciencia de datos)"
+    ],
+    "youtube_id": "doDs2KW7388"
+}

@@ -6,7 +6,7 @@
         <description>Podcast con entrevistas a referentes de los datos abiertos en Argentina. Las personas consultadas me sugieren nuevos posibles entrevistados que alimentan este podcast</description>
         <language>es-ar</language>
         <ttl>1440</ttl>
-        <lastBuildDate>Mon, 28 Jan 2019 10:21:31 +0300</lastBuildDate>
+        <lastBuildDate>Sat, 26 Jan 2019 23:24:41 +0300</lastBuildDate>
         <author>Andrés Vázquez</author>
         <image>
             <title>Cadena de datos</title>
@@ -24,40 +24,529 @@
 
         
         <item>
-            <title>Entrevista con Raúl Olivan [s01e14]</title>
-            <guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e14-olivan.html</guid>
-            <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e14-olivan.html</link>
-            <pubDate>Thu, 24 Jan 2019 06:30:00 +0300</pubDate>
+            <title>Entrevista con Andrés Snitcofsky [s01e01]</title>
+            <guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/ruso.html</guid>
+            <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/ruso.html</link>
+            <pubDate>Sat, 12 Jan 2019 16:00:00 +0300</pubDate>
             <author>Andrés Vázquez</author>
-            <description><![CDATA[Actualmente Raúl es Director General de Participación, Transparencia, Cooperación y Voluntariado en el Gobierno de Aragón. Fué 10 años Director de Zaragoza Activa (ZAC), un ecosistema público de emprendimiento e innovación social. Raúl Es Licenciado en Publicidad y Relaciones Públicas y Diplomado en Trabajo Social.
+            <description><![CDATA[La cumbre (Córdoba, AR), 12 de enero. El Ruso me recibe en sus vacaciones para grabar la entrevista. Hablamos de los inicios de los datos abiertos en Argentina, el estado actual de las políticas públicas de transparencia y los proyectos Cargografías y Economía Feminista.
             <br />Ideas: <ul>
-            <li>Raúl comenzo siendo activista social y paso al gobierno desde Zaragoza.</li>
-            <li>Hay que aceptar trabajar en los gobiernos. Se requiere abrir las instituciones desde adentro.</li>
-            <li>Algunos procesos de participación se convocan solo para legitimar una postura previa.</li>
-            <li>La participación real esta dispuesta a aceptar la influencia de los participantes.</li>
-            <li>Hay dos extremos de la participación que son malos: los muy tecnocráticos conducidos por grupos de expertos y lo contrario una asamble pura sin conocimiento que guie u oriente el proceso, como un simulacro de la democracia directa. No se puede dar datos sin digerir o explicar a los ciudadanos para particiar. Una mezcla de ambas lógicas es lo mejor.</li>
-            <li>Los procesos de participación por más pequeños que parezcan si logran cohesionar a los vecinos y sentir que el poder de decisión esta en ellos es muy válido.</li>
-            <li>En el modelo anterior de Aragon el proceso era muy cerrado, vamos hacia una nueva versión más entretenida, mas apetecible.</li>
-            <li>Hay que evitar que la participación ciudadana se convierta en un reducto de unos pocos con mucho tiempo libre.</li>
-            <li>Se busca que participen más mujeres, niños y la audiencias que no lo hacen habitualmente.</li>
-            <li>Se requieren canales de participación online que sea muy simples.</li>
-            <li>En latinoamérica el publico que participa es mucha más agradecida que en Europa</li>
-            <li>En Europa la democracia esta en un estado pos-bienestar, hay indivisualismos que no se permite construir comunidades, cuesta más que en latinoamérica</li>
-            <li>De estos procesos participativos se generan datos y hay rendiciones de cuentas que hacer, sobre todo a las personas que participan.</li>
-            <li>En Aragón se puede seguir en tiempo real los 147 objetivos del gobierno y su cumplimiento.</li>
-            <li>Ejemplos de laboratorios a mirar es MediaLab-Prado, SantaLab y CISNA de Nariño</li>
-            <li>Hay que mirar a: Cecilia Guemes</li>
-            <li>Hay que mirar a: Dardo Ceballos de Santalab</li>
-            <li>Hay que mirar a: Javier Arteaga</li>
-            <li>Hay que mirar a: Ismael Peña de Cataluña</li>
+            <li>Se inició en 2011 con la idea que luego se convirtió en el proyecto Cargografías</li>
+            <li>Forma parte de proyectos de visualizaciones de datos con medios y gobiernos de toda latinoamérica</li>
+            <li>Sin ser programador formalmente ha aprendido lo necesario para llevar adelantes proyectos con datos</li>
+            <li>Con una planilla de cálculo simples (preferentemente online y compartidas) pueden resolverse atenderse ideas que requieren datos</li>
+            <li>Conocer al grupo Hacks/Hackers (pioneros) le sirvio para hacer crecer sus ideas y conocer gente que generosamente comparte su conocimiento</li>
+            <li>El proyecto Mapa76 fue uno de los primeros donde la comunidad usando datos</li>
+            <li>Destaca el trabajo de los diseñadores clásicos como Aleksandr Ródchenko</li>
+            <li>Usó los datos del atlas electoral de Andy Tow cuando no había aún funtes públicas o comunitarias de datos</li>
+            <li>Postularse para algunas financiaciones para proyectos de interés público lo ayudaron a desarrollarlos</li>
+            <li>Sus proyectos no le han permitido vivir de ello pero si ha viajado por toda latinoamérica invitado a numerosos eventos</li>
+            <li>Los periodistas son un público ávido de productos elaborados por la comunidad. Todavía los medios no invirtien en tecnología y datos (muchos perioditas si)</li>
+            <li>La participación ciudadana está rota porque el ciudadano desconfía del estado (y con razón)</li>
+            <li>La forma de participación ciudadana que ofrece el estado es pueril, muchas veces son encuestas para elegir el nombre de una plaza </li>
+            <li>Si me llaman por una pregunta banal no voy a tener interés en participar, si lo hacen sobre un tema en el que conozco si voy a tener en participar</li>
+            <li>La evidencia sola, el dato duro crudo no existen. Tienen que usarse datos a través de grupos de interés externos al gobiernos y especializados</li>
+            <li>El valor del acceso a la información pública y los datos abiertos es que el ciudadano recuerde y comprenda que tiene el poder</li>
+            <li>Los gobiernos deben alimentar e incentivar a la comunidad porque son los que siguen cuando los gobiernos pasan</li>
+            <li>Hay que explorar el camino de los laboratorios ciudadanos como forma de alimentar a la comunidades usuarias de datos</li>
+            <li>La autonomía del gobierno de turno en los organismos públicos de transparencia es importante. Hay modelos a seguir</li>
+            <li>Se requieren penas y castigos para la falta de respuesta a los pedidos de acceso a la información. Hoy no hay costo por no ser transparente</li>
+            <li>Hay que mirar a: Santa Lab (Ceballos o Romiti)</li>
+            <li>Hay que mirar a: Hacks/Hacker Mendoza (Castro, Oliva Penelli) y Universidad de Cuyo</li>
+            <li>Hay que mirar a: Romina Collman de LNData</li>
+            <li>Hay que mirar a: Redacción (medio de CABA)</li>
+            <li>Hay que mirar a: a la Universidad de Buenos Aires</li>
             </ul>]]></description>
             
-            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e14-olivan.mp3" length="21007278" type="audio/mpeg"/>
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/ruso.mp3" length="41340811" type="audio/mpeg"/>
 
             <image>
-                <title>Entrevista con Raúl Olivan [s01e14]</title>
-                <url>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e14-olivan.jpg</url>
-                <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e14-olivan.jpg</link>
+                <title>Entrevista con Andrés Snitcofsky [s01e01]</title>
+                <url>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/ruso.png</url>
+                <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/ruso.png</link>
+            </image>
+
+        </item>
+        
+        <item>
+            <title>Entrevista con Martín Alalu [s01e02]</title>
+            <guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e02-alalu.html</guid>
+            <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e02-alalu.html</link>
+            <pubDate>Mon, 14 Jan 2019 09:30:00 +0300</pubDate>
+            <author>Andrés Vázquez</author>
+            <description><![CDATA[Martín es actualmente Gerente Operativo de Gobierno Abierto de la Ciudad de Buenos Aíres. Ex director de Datos abiertos de la Provincia de Buenos Aires, Licenciado en ciencias políticas y Técnico superior en periodismo. Parte del proyecto https://www.34surmapas.com/
+            <br />Ideas: <ul>
+            <li>Comenzó formlamente en la Dirección de Innovación y Gobierno abierto en el verano de 2013.</li>
+            <li>Desde el 2010 trabaja en gobierno y ya tenía curiosidades en temas de datos.</li>
+            <li>Uno de sus primeros referentes fue Andy Tow y su blog. Tambien Gonzalo Iglesias y Rudi Bormann</li>
+            <li>Actualmente trabaja en fortalecer la oferta de datos y fomentar su reutilización en la comunidad.</li>
+            <li>La Ciudad de Buenos Aires esta hoy reemplazando su portal de datos por la tecnología CKAN/Andino</li>
+            <li>Se está rediseñando la política de datos abierto generando enlaces en cada ministerio con la responsabilidad de fomentar la apertura.</li>
+            <li>Se están creando tableros de seguimiento en tiempo real (abierto y reutilizable por otros gobiernos).</li>
+            <li>Hay un deuda de impulsar emprendimientos privados basados en datos. No se ha logrado aún algún caso destacable como tienen New York y Londres por ejemplo en transporte</li>
+            <li>Los concursos de ideas pueden impulsar la innovacion y el emprendoderismo con datos</li>
+            <li>Hay que avanzar con la academia y el sector científico, que vean al gobierno como un proveedor de datos confiable</li>
+            <li>Para generar mas impacto hay que buscar a los colectivos y las organizaciones que ya existen en cada temática. Ellos saben mucho de los temas que los gobiernos pueden impulsar</li>
+            <li>El sentido común es muy peligroso, nos trae sesgos. Hay que descartarlo de plano. Hay que mirar datos</li>
+            <li>Hay áreas que son muy creativas usando datos, hay que buscar esos ejemplos. Antes era de nicho y ya es más moneda correinte</li>
+            <li>Las fuentes alternativas no oficiales tambien pueden ser de utilidad para los gobiernos</li>
+            <li>El acervo de datos, su archivo histórico de datos debe ser resguardado</li>
+            <li>Se deben institucionalizar las políticas de datos abiertos para conservarlas y trascender más allá de sus gestiones. GitHub puede ser una forma de conservación.</li>
+            <li>Para comenzar con Gobierno Abierto no hay recetas únicas, cada funcionario debe analizar el contexto de su ciudad y conocer a los actores válidos de la sociedad</li>
+            <li>La transparencia esta partidizada, se la vincula a algunos partidos y no todavía a el estado en general.</li>
+            <li>Los sindicatos y los partidos políticos todavía estan lejos de aplicar políticas de transparencia. Ha permeado un poco el discurso pero no es parte de la agenda todavía</li>
+            <li>Los gobiernos tenemos que conseguir mucho más impacto para contagiar. A los gobiernos les queda mucho por hacer todavía, hay que sumar nuevas cabezas e ideas</li>
+            <li>Hay que mirar a: Rudi Bormann y Gonzalo Iglesias</li>
+            <li>Hay que mirar a: Natalia Sampietro</li>
+            <li>Hay que mirar a: Antonio Milanese</li>
+            </ul>]]></description>
+            
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e02-alalu.mp3" length="31223740" type="audio/mpeg"/>
+
+            <image>
+                <title>Entrevista con Martín Alalu [s01e02]</title>
+                <url>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e02-alalu.png</url>
+                <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e02-alalu.png</link>
+            </image>
+
+        </item>
+        
+        <item>
+            <title>Entrevista con Ines Selvood [s01e03]</title>
+            <guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e03-selvood.html</guid>
+            <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e03-selvood.html</link>
+            <pubDate>Mon, 14 Jan 2019 10:40:00 +0300</pubDate>
+            <author>Andrés Vázquez</author>
+            <description><![CDATA[Ines formó parte de equipos de transparencia en el poder ejecutivo y judicial. En organizaciones de la sociedad civil (locales e internacionales) y hasta en el ámbito universitario. Nos cuenta de todas sus experiencias (se corta un poco los primeros tres minutos pero luego el audio funciona perfectamente)
+            <br />Ideas: <ul>
+            <li>Comenzó en el área de comunicación de Poder Ciudadano en el año 2000</li>
+            <li>A principios de este siglo los datos se pasaban en papel y había un trabajo muy artesanal de digitalización a los fines de analizar datos públicos. No había portales de datos.</li>
+            <li>Participó en el lanzamiento del portal de datos del Poder Judicial de CABA en 2015, no era (ni es) común que el este poder libere datos</li>
+            <li>Se inspiraron en las bases de OGP para la apertura en el Concejo de la Magistratura</li>
+            <li>El leguaje técnico del estado debe ser 'traducido' a lenguaje más llano</li>
+            <li>Mirar ejemplos de otras instituciones puede ser util para elegir como proceder</li>
+            <li>Sólo 2 de los 24 juzgados de CABA se sumaron a liberar datos. El Poder Judicial no es amigable con el Gobierno Abierto</li>
+            <li>La UBA en 2011 abrió una oficina de acceso a la información pública. Inés trabajo en generar el reglamente y fue la primera directora del área.</li>
+            <li>Chequeado recién: Todavía no hay canales online, te bajas el formulario y lo llevas en persona</li>
+            <li>A Ines le gusta más estar del lado de las ONGs porque en el estado las cosas son menos libres y mucho más dificiles. El aparato del estado es grande y dificil de cambiar</li>
+            <li>Los organismos descentralizados son muchos y muy dificil de coordinar para alcanzarlos en el acceso a la info pública. Ayuda mucho el expediente electrónico</li>
+            <li>Estamos lejos todavía de que la ley de acceso a información publica llegue como debe a todos los sujetos obligados (sindicatos, partidos políticos, universidades, etc)</li>
+            <li>La autonimía de las oficinas de transparencia es un tema que necesita avanzar</li>
+            <li>Las penas a los que no permiten aceso a la información no estimulan mucho a cambiar la realidad</li>
+            <li>Hay un registro de incumplidores de los pedidos de acceso a la información. Es una especie de condena social. Muchos organismos no quieren estar en ese registro y tratan de mejorar</li>
+            <li>Se pueden iniciar sumarios y acciones legales en algunos casos.</li>
+            <li>El sistema de expediente electrónico (GDE) genera datos y permite elaborar reportes sobre la tramitación de solicitudes de acceso.</li>
+            <li>Hay que prestar más atención a los datos que realmente nos sirven a los ciudadanos y dejar lo que es bonito o está de moda.</li>
+            <li>Todavía hoy hay intendentes que no presentan su DDJJ, nos falta.</li>
+            <li>Los periodistas tienen al equipo de La Nación Data para mirar y aprender. Hacen un trabajo destacado.</li>
+            <li>Hay que mirar a: los dos jueces que si aceptaron la apertura en CABA. Lorena Tula del Moral y Pablo Casas</li>
+            </ul>]]></description>
+            
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e03-selvood.mp3" length="35747135" type="audio/mpeg"/>
+
+            <image>
+                <title>Entrevista con Ines Selvood [s01e03]</title>
+                <url>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e03-selvood.jpg</url>
+                <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e03-selvood.jpg</link>
+            </image>
+
+        </item>
+        
+        <item>
+            <title>Entrevista con Antonio Milanese [s01e04]</title>
+            <guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e04-tony.html</guid>
+            <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e04-tony.html</link>
+            <pubDate>Tue, 15 Jan 2019 18:00:00 +0300</pubDate>
+            <author>Andrés Vázquez</author>
+            <description><![CDATA[Antonio Licenciado en Ciencias Políticas y Master en Ciencias Sociales. Trabajo en el Gobierno de CABA en su primera versión del portal de datos y para la plataforma Junar. Actualmente lidera su propia consultora Unicorio Data
+            <br />Ideas: <ul>
+            <li>Antonio comenzó con el portal de datos de la Ciudad de Buenos Aires en 2012</li>
+            <li>Un caso muy interesante de publciación de datos abiertos es el de 'Energía Abierta' en Chile</li>
+            <li>El proyecto Energía Abierta de Chile incluye toda la matriz de producción y consumo de energía en Chile</li>
+            <li>Publicando los datos abiertamente a todos los postulantes a licitaciones Chile logro (en temas de energía) ampliar el número de postulantes y redujo los precios un 17%</li>
+            <li>El gobierno de CABA eligión CKAN (software libre) en lugar de Junar porque este último requería licitación y esto llevaba más tiempo</li>
+            <li>Antonio prefiere no asumir compromisos mas fuertes desde dentro de los gobiernos. Si está interesado en participar con proyectos específicos que le den más libertad.</li>
+            <li>Es barato y simple tener portales de datos. Los gobiernos que no lo tengan deben generarlo rápidamente. Eso ya no es un desafío</li>
+            <li>Antonio recomineda portales específicos por temática con clientes claros y definidos.</li>
+            <li>Es bueno tener contacto directo y amplio con los clientes de los datos</li>
+            <li>Una forma de que los proyectos de la comunidad (incluyendo empresas) que consuman datos de gobierno es que no dependan de subsidios o concursos sino a negocios reales.</li>
+            <li>Muchos de los trabajos con datos que piden los funcionarios son super simples y se resuleven con planillas de cálculo.</li>
+            <li>Llevamos varios años con portales de datos, no es una moda pasajera.</li>
+            <li>En la medida que los clientes de los datos sean importantes lás areas de Gobierno Abierto son vistas hoy por muchos funcionarios como un área de márketing</li>
+            <li>Una forma de que los portales de datos no desaparezcan es que haya intereses y clientes importantes sobre los datos.</li>
+            <li>Además de La Nación Data hay buenos periodistas trabajando con datos</li>
+            <li>A los periodistas le interesan más los pedidos de acceso por sobre los datos abiertos porque tiene más forma de primicia</li>
+            <li>Hay que mirar a: Rudi Borman y Gpnzalo Iglesias</li>
+            <li>Hay que mirar a: Mauricio Utreras de Energía Abierta (Chile)</li>
+            <li>Hay que mirar a: Pablo Casas (el mismo que sugiere Selvood)</li>
+            </ul>]]></description>
+            
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e04-tony.mp3" length="30536115" type="audio/mpeg"/>
+
+            <image>
+                <title>Entrevista con Antonio Milanese [s01e04]</title>
+                <url>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e04-tony.png</url>
+                <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e04-tony.png</link>
+            </image>
+
+        </item>
+        
+        <item>
+            <title>Entrevista con Pablo Secchi [s01e05]</title>
+            <guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e05-secchi.html</guid>
+            <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e05-secchi.html</link>
+            <pubDate>Wed, 16 Jan 2019 19:40:00 +0300</pubDate>
+            <author>Andrés Vázquez</author>
+            <description><![CDATA[Pablo Secchi es Licenciado en Ciencia Política (Universidad del Salvador). Maestrado en Análisis, Gestión y Derecho Electoral (Universidad de San Martín). Trabaja temas de transparencia institucional y lucha contra la corrupción. Es especialista en transparencia en el financiamiento de las campañas electorales, tema sobre el cual ha realizado diversas consultorías. Es Director Ejecutivo de la Fundación Poder Ciudadano desde 2012
+            <br />Ideas: <ul>
+            <li>En 2009 ya existía 'Dinero y Política' y se publicaban algunos datos desde Poder Ciudadano.</li>
+            <li>Dinero y política era muy interesante tuvo impacto nulo en la ciudadanía pero si en la Cámara Electoral que comenzó a publicar datos.</li>
+            <li>Pablo aceptaría algún cargo político si estuvieran dadas las condiciones (un mayor voluntad política de transformar la realidad).</li>
+            <li>Tenemos que trabajar más en el control de recursos públicos con fines electorales (incluyendo pauta publicitaria).</li>
+            <li>Se publica pauta publicitaria en general pero hace falta desagregar mejor los datos (dueños de los medios, campañas publicitarias específicas, confirmación de la efectiva realización de la publicidad, etc).</li>
+            <li>Otros datos que los gobiernos son reacios a publicar son informes de auditorías donde el estado hace investigaciones exhaustivas pero luego no las muestra.</li>
+            <li>La autonomía es importante para las instituciones. No todos los casos son iguales. Tenemos 3 poderes, cualquier oficina va a depender de alguien necesariamente.</li>
+            <li>Había una promesa de que los datos iban a revolucionar al estado. Eso no sucedió, el trabajo manual de los pedidos de acceso, la crítica por redes y medios, etc son todavía más eficientes.</li>
+            <li>Los datos abiertos prometieron mucho más de lo que realmente dieron. Esto desplazó un poco al trabajo manual de las organizaciones pero no dió mejores resultados.</li>
+            <li>El trabajo en los hackathones es vistoso pero no llega a productos con impacto.</li>
+            <li>Todo proyecto que depende de un financiamiento in eternum es un proyecto que fracasa (ej: Dinero y Política)</li>
+            <li>Si el gobierno o la sociedad no consumen masivamente un proyecto este no va a continuar</li>
+            <li>Es más facil que una organización publique datos de otros actores que regula que los propios.</li>
+            <li>Las políticas de transparencia todavía tienen que ir derramando sobre los demás sujetos obligados de la ley de acceso a la información pública.</li>
+            <li>El periodismos tiene poco tiempo para trabajar con datos y hacer investigaciones interesantes.</li>
+            <li>Hay que mirar a: Delia Ferreira Rubio</li>
+            <li>Hay que mirar a: Andrés Snitcofsky</li>
+            <li>Hay que mirar a: Bertoni (Director Acceso Info Pública AR)</li>
+            <li>Hay que mirar a: equipo de TEDIC Paraguay</li>
+            </ul>]]></description>
+            
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e05-secchi.mp3" length="26301915" type="audio/mpeg"/>
+
+            <image>
+                <title>Entrevista con Pablo Secchi [s01e05]</title>
+                <url>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e05-secchi.jpg</url>
+                <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e05-secchi.jpg</link>
+            </image>
+
+        </item>
+        
+        <item>
+            <title>Entrevista con Esteban Mirofsky [s01e06]</title>
+            <guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e06-mirofsky.html</guid>
+            <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e06-mirofsky.html</link>
+            <pubDate>Thu, 17 Jan 2019 18:05:00 +0300</pubDate>
+            <author>Andrés Vázquez</author>
+            <description><![CDATA[Esteban es productor de espectáculos y consultor en temas de gobierno Abierto. Fue Titular de primera Agencia de Innovación y Gobierno Abierto de Argentina, en Bahía Blanca. Asesor del municipio de Córdoba y de la Cámara de Diputados de Nación en materia de tecnología, innovación y gobierno abierto. Consultor de CIPPEC en el programa Usina de Ciudades Inteligentes.
+            <br />Ideas: <ul>
+            <li>Cuando Bahía Blanca lanzo su portal de datos ya existían publicaciónes de compras y el portal GastoPublicBahiense de un vecino de la ciudad</li>
+            <li>En 2012 Esteban miro los casos de Obama (desde 2009) y la plataforma Irekia del Pais Vasco</li>
+            <li>Bahía Blanca empezo publciando datos sensibles y críticos (ambientales, de compras, sueldos, etc)</li>
+            <li>Se comenzó con Junar porque muy rápido se pudo publicar datos con visualizaciones, formatos reutilizables y APIs</li>
+            <li>Se potenció el portal GastoPublicoBahiense entregando los datos que gestión anterior intentaba bloquear.</li>
+            <li>Esteban no trabajaría de nuevo dentro de un gobierno</li>
+            <li>Muchos gobiernos toman al Gobierno Abierto como a una oficina de marketing</li>
+            <li>La Ciudad de Bahía Blanca acompaño a la plataforma que permitía transparentar todos los gastos a los 135 municipios de Provincia de Buenos Aires pero ninguno de los otros gobiernos aprovecho la oportunidad.</li>
+            <li>Para generar impacto el foco es la participación ciudadana.</li>
+            <li>Hay que crear políticas de estado (a largo plazo) y no políticas de gobierno (gestión actual).</li>
+            <li>El Gobierno Abierto debe ser una política de estado con normas y leyes que acompañen. Hay que llegar al conceso de que este es el camino.</li>
+            <li>En Argentina no hay ciudades inteligentes y posiblemente no haya en latinoamerica. Tampoco hay muchas en el mundo.</li>
+            <li>Hay formas inteligentes de resolver las cosas y no en todas las ciudades es igual.</li>
+            <li>La inteligencia esta en el uso de la tecnología, en el uso de datos para tomar decidiones pero no hay una fórmula.</li>
+            <li>No hay mediciones del impacto que generan las políticas de Gobierno Abierto.</li>
+            <li>Hasta no hace mucho se medía la transparencia por la cantidad de datos liberados. Hay que ir mas allá y ver para que y que generan los datos liberados.</li>
+            <li>Hay que estandarizar los datos. Si hubiera estándares nacionales los datos serían comparables y mucho más interesantes.</li>
+            <li>Los 135 municipios de la Provincia de Buenos Aires usan el mismo software de administración de dinero pero no se aprovecha en publicar datos estandarizados.</li>
+            <li>Existen periodistas que usan los datos y construyen y otros que destruyen: 'Un periodista mediocre a veces hace más daño que un político corrupto'</li>
+            <li>La Nación Data hace trabajos interesantes para mirar</li>
+            <li>Hay que mirar a: Manuel Aristarán</li>
+            <li>Hay que mirar a: Javier Arteaga</li>
+            </ul>]]></description>
+            
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e06-mirofsky.mp3" length="18543884" type="audio/mpeg"/>
+
+            <image>
+                <title>Entrevista con Esteban Mirofsky [s01e06]</title>
+                <url>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e06-mirofsky.png</url>
+                <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e06-mirofsky.png</link>
+            </image>
+
+        </item>
+        
+        <item>
+            <title>Entrevista con Juan Ignacio Belbis [s01e07]</title>
+            <guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e07-juanibelbis.html</guid>
+            <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e07-juanibelbis.html</link>
+            <pubDate>Fri, 18 Jan 2019 18:15:00 +0300</pubDate>
+            <author>Andrés Vázquez</author>
+            <description><![CDATA[Juan Ignacio Belbis es comunicador, analista de políticas públicas, consultor en innovación cívica y docente universitario de grado y posgrado. Actualmente es Investigador Asociado de la Iniciativa Latinoamericana de Datos Abiertos. Colaboró y colabora con diferentes gobiernos y organizaciones de la sociedad civil en el desarrollo de políticas públicas que tienen como eje la apertura gubernamental y la transparencia activa. Ha trabajado como asesor técnico y político en el Ministerio de Gobierno de la Provincia de Buenos Aires y en el Senado de la Nación Argentina.
+            <br />Ideas: <ul>
+            <li>Comenzo con intereses en cruzar tecnología y política. Su primer proyecto fue con CEPAL analizando las inciativas de datos abiertos en América Latina (hay papers de el interesantes para leer online</li>
+            <li>Los primeros casos interesantes para mirar en Argentina fueron los de Bahía Blanca y CABA.</li>
+            <li>GarageLab y DAL (desarrollando America Latina) fueron de las primeras iniciativas interesantes</li>
+            <li>Juan participó del primer portal de datos abiertos de la Cámara de Diputados de Argentina</li>
+            <li>El portal de Diputados se demoró por diferentes cuestiones, una de ellas fue el simple caso de conectar a los legisladores en la base de datos de la nómina con la base de datos que administra las iniciativas legislativas (estos temas son gestionados por equipos técnicos)</li>
+            <li>Como ejemplo de apertura legislativa Juan miró el de Brasil.</li>
+            <li>Si bien el congreso de Brasil es un ejemplo de transparencia el cuerpo no cuenta con una imagen positiva en la población.</li>
+            <li>Juan participó de la creación de portal de datos de la UCR, no es común que los partidos políticos abran datos.</li>
+            <li>Hoy Juan trabaja desde ILDA para ayudar a los gobiernos locales a abrir sus administraciones. Están escribiendo un kit de apertura de datos.</li>
+            <li>Hay que pensar en el ecosistema que va a usar en los datos antes de priorizar que abrir. Es necesario para esto conocer a la comunidad de usuarios.</li>
+            <li>La continuidad de las políticas públicas de Gobierno Abierto va a depender de la volutad de financiación interna de los gobiernos y externa. Hoy Canada, el BID, el Banco Mundial siguen financiando estos temas.</li>
+            <li>En la medida que los datos abiertos sirvan para construir valor y desarrollo seguirá vigente.</li>
+            <li>El olfato político sigue guiando muchas decisiones pero cada vez más se usan datos.</li>
+            <li>A la hora de resolver temas electorales y de marketing los politicos miran más datos que en su gestión pública.</li>
+            <li>Faltan gerentes de tecnología en la gestión pública.</li>
+            <li>La sociedad civil a veces ayuda desde afuera y a veces obstaculiza ('tirando piedras') los procesos de apertura.</li>
+            <li>Los partidos políticos necesitan gerenciar la tecnología y el uso de datos, profesionalizarse.</li>
+            <li>En el caso de Trump vs Clinton se da que ambos tenían los mismos datos. Los de Trump los usaban, los de Clintos no los podían creer y los desestimaban.</li>
+            <li>Hoy no mirar datos como la EPH y otros disponibles es una carencia de los partidos políticos. Los datos deben ser materia prima.</li>
+            <li>Uno de los actores más beneficiado por los datos abiertos en Google que mira todo.</li>
+            <li>El análisis de datos chiquito, de 'entre casa', sigue siendo útil para realizar pequeños cambios de nuestra realidad.</li>
+            <li>Hay que mirar a: Manuel Aristarán</li>
+            <li>Hay que mirar a: Rudi Bormann o Gonzalo Iglesias</li>
+            </ul>]]></description>
+            
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e07-juanibelbis.mp3" length="26744539" type="audio/mpeg"/>
+
+            <image>
+                <title>Entrevista con Juan Ignacio Belbis [s01e07]</title>
+                <url>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e07-juanibelbis.jpg</url>
+                <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e07-juanibelbis.jpg</link>
+            </image>
+
+        </item>
+        
+        <item>
+            <title>Entrevista con Manuel Aristarán [s01e08]</title>
+            <guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e08-manu.html</guid>
+            <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e08-manu.html</link>
+            <pubDate>Sat, 19 Jan 2019 11:00:00 +0300</pubDate>
+            <author>Andrés Vázquez</author>
+            <description><![CDATA[Manuel es Desarrollador de Software. Tiene una maestría en el MIT Media Lab. Fue parte del equipo de satélites Satellogic. A través de la Fundación Mozilla trabajo con el equipo de periodismo de datos del Diario La Nación. Fue el creador de la plataforma GastoPúblicoBahiense, trabajó en la publicación de datos del software RAFAM. Fué lider técnico del portal de datos DataChile y actualmete es consultor independiente
+            <br />Ideas: <ul>
+            <li>A Manuel siempre le interesó la política. Comenzó procrastinando y termino desarrollando el portal GastoPúblicoBahiense</li>
+            <li>Desde 2000 o 2001 Bahía publica las compras a proveedores. GPB toma esos datos y los muestra mucho mejor</li>
+            <li>El lanzamiento de GPB generó mucho 'lío' en la ciudad.</li>
+            <li>Previo a GPB existía 'Dinero y política' lanzado por Gonzalo Iglesias junto a Poder Ciudadano</li>
+            <li>Además de Bahía en aquellos años Moron y Mar del Plata publicaban compras en sus sitios webs.</li>
+            <li>Tabula PDF (desarrollada por Manuel) es una herramienta usada por todo el mundo para extraer tablas de archivos PDFs. No solo se usa dirctamente si no a través de librerías R o Python.</li>
+            <li>Todavía hoy se sigue usando PDF para publicar datos cuando no es el formato adecuado para la reutilización.</li>
+            <li>Lo que Manuel hizo con Bahía blanca podría haberse extendido a toda la Provincia de Buenos Aires porque muchas cosas se basaban en RAFAM, software que la provincia provee a casi todos los municipios.</li>
+            <li>Vía GarageLab se hicieron algunos proyectos y eventos (Que pasa bahía con datos ambientales por ejemplo). EL Gobierno acompaño genuinamente las iniciativas.</li>
+            <li>Los productos derivados de consumir (vía ingeniería inversa) la base de datos de RAFAM se llama OpenRAFAM y podría usarse por más de 100 municipios de PBA. Nadie lo usa.</li>
+            <li>Manuel intento 'vender' (en realidad de regalar) OpenRAFAM pero no lo consiguió. No había voluntad política, técnicamente era posible. El proyecto no salió de Bahía.</li>
+            <li>Hacer réplicas de bases de datos en producción es buena idea para no afectar a los sistemas que las usan.</li>
+            <li>@Dat_AR es un esfuerzo desde la comunidad por guardar datos que no están en otros lugares.</li>
+            <li>Hoy no pasa nada si un gobierno no responde un pedido de acceso a la información pública, la ley es apenas una sugerencia. En otros lugares del mundo tambien pasas como aquí.</li>
+            <li>El equipo de REDATAM (el software de CEPAL que usan los países de latam para los censos) miente al decir que encripta sus datos. Estos pueden extraerse en detalle (sin nombre, ni dirección). Es interesante pero peligroso.</li>
+            <li>En una fantasía tecnocrática todo debería estab basado en la evidencia. Los datos tienen una aura de veracidad que no es tan cierta. La realidad es que las decisiones son motivadas por muchas cosas, no solo datos.</li>
+            <li>Si bien las cosas se cambian desde adentro para que un desarrollador de software (y posiblemente otras profesiones) se sume a una gestión debe resignar tiempo, libertades y dinero</li>
+            <li>El impacto de GPB fue más sobre lo que paso en general que sobre los datos en particular. Había más jugo para sacar.</li>
+            <li>Para generar impacto a los ciudadanos masivamente hay que ir por los datos de servicios (transporte público, recolección de residuos, turnos, etc) que el vecino usa regularmente.</li>
+            <li>Los gobiernos son el ejemplo a seguir por las demás instituciones, los sujetos obligados de la ley de acceso a la información pública, van a mejorar su desempeño cuando los gobiernos mejoren sustancialmente.</li>
+            <li>A futuro Manuel es optimista con respecto a la situación de transparencia actual.</li>
+            <li>Hay que mirar a: Cesar Hidalgo</li>
+            <li>Hay que mirar a: Fabrizio Scrollini</li>
+            </ul>]]></description>
+            
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e08-manu.mp3" length="34878639" type="audio/mpeg"/>
+
+            <image>
+                <title>Entrevista con Manuel Aristarán [s01e08]</title>
+                <url>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e08-manu.jpg</url>
+                <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e08-manu.jpg</link>
+            </image>
+
+        </item>
+        
+        <item>
+            <title>Entrevista con Javier Arteaga [s01e09]</title>
+            <guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e09-arteaga.html</guid>
+            <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e09-arteaga.html</link>
+            <pubDate>Sun, 20 Jan 2019 22:15:00 +0300</pubDate>
+            <author>Andrés Vázquez</author>
+            <description><![CDATA[Javier publicista y especialista en marketing político. Es Director de la consultora Feeling, Director de PastoLAB y docente universitario.
+            <br />Ideas: <ul>
+            <li>Javier viene del mundo, de la comunicación política. Comenzó creando una escuela de innovación política con nmuchos temas, entre ellos, Gobierno Abierto.</li>
+            <li>Las referencias a mirar en aquel momento fueron las políticas de Obama, Bahía Blanca (AR) y Córdoba (AR). No había en Colombia ejemplos.</li>
+            <li>Feeling es Design Thinking a lo Latinoamericano, se le suma la empatía con la gente. Políticas centradas en el corazon de las personas</li>
+            <li>'Le tengo el dato' es un diario 100% basado en datos. Cada nota está basada en al menos un datasets abierto.</li>
+            <li>Las notas del diario son sobre temas llanos, de interés para todos los ciudadanos.</li>
+            <li>Nariño tiene su propio portal de datos con DKAN.</li>
+            <li>Por primera vez se publicaron las declaraciones juramentadas de bienes de los funcionarios</li>
+            <li>Para evitar la excusa de que no hay tecnología para publicar DDJJ se dispuso una herramienta para que cualquier persona pueda subir la suya.</li>
+            <li>Ha publicado su presupuesto pensando en el ciudadano, no pensando en que sea útil a la secretaria de hacienda.</li>
+            <li>Todos los trabajos estan centrados en el ciudadano y sus intereses. Es más dificil para los funcionarios pero la prioridad son los ciudadanos.</li>
+            <li>Mucho material de comunicación se produce tambien en papel y se distribuye masivamente entre los ciudadanos.</li>
+            <li>Se busca siempre usar datos sensibles pero cercanos al ciudadano. El centro es siempre el ciudadano.</li>
+            <li>Al equipo de Javier no le interesa como le caen las publicaciones que se hacen en los funcionarios de gobierno (hay apoyo directo del Gobernador).</li>
+            <li>En algunos casos los funcionarios de gobierno no comprenden estos procesos.</li>
+            <li>Pareciera que la oposición esta esperando que se termine esta gestión para cerrar todas las herramientas nuevas que se abrieron.</li>
+            <li>Javier prefiere seguien en el equipo y en la forma de trabajo actual. Sería dificil que se sume como funcionario de un gobierno específico.</li>
+            <li>Le propusieron a los 64 municipios de Nariño publicar sus DDJJ y NINGUNO aceptó.</li>
+            <li>El grave error es pensar desde arriba hacia abajo. El conocimiento de lo que se necesita esta en la gente, hay que econtrarlo ahí.</li>
+            <li>El presupuesto participativo ha sido una gran experiencia (ganó una mención en Media Lab Prado)</li>
+            <li>Aún cuando los funcionarios no miren los datos (deberían) si conseguimos que los ciudadanos los usen ya cumplimos un objetivo.</li>
+            <li>El mundo universitario en Colombia no tiene políticas de transparencia, hay pocos avances (algunas cosas en participación).</li>
+            <li>Hay todavía poco de periodismo de datos en Colombia. La lógica de los medios tradicionales sigue siendo distinta a la de mirar datos para criticar o aprobar políticas públicas.</li>
+            <li>Hay que mirar a: Juan Pablo Marín de DataScketch</li>
+            <li>Hay que mirar a: Harold Bonilla del Gobierno de Nariño</li>
+            </ul>]]></description>
+            
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e09-arteaga.mp3" length="35318273" type="audio/mpeg"/>
+
+            <image>
+                <title>Entrevista con Javier Arteaga [s01e09]</title>
+                <url>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e09-arteaga.jpg</url>
+                <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e09-arteaga.jpg</link>
+            </image>
+
+        </item>
+        
+        <item>
+            <title>Entrevista con Silvana Fumega [s01e10]</title>
+            <guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e10-fumega.html</guid>
+            <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e10-fumega.html</link>
+            <pubDate>Mon, 21 Jan 2019 19:00:00 +0300</pubDate>
+            <author>Andrés Vázquez</author>
+            <description><![CDATA[Silvana es licenciada en Ciencia Política tiene una Maestría en Políticas Públicas y posee un PhD. Hoy es Directora de Investigación y Políticas en ILDA (la Iniciativa Latinoamericana por los Datos Abiertos) y se ha desempeñado como consultora para numerosas organizaciones internacionales, gobiernos y grupos de sociedad civil. Trabaja en la intersección entre las políticas de datos abiertos y el derecho de acceso a la información pública.
+            <br />Ideas: <ul>
+            <li>Comenzo en 2007 como consultora de transparencia del Banco Mundia en 2007 cuando el acceso a la información pública era la forma de trabajar y los datos abiertos todavía no se usaban como los conocemos hoy.</li>
+            <li>En algunos lugares todavía se pueden dar peleas vía acceso a la información pública porque no hay políticas de datos abiertos.</li>
+            <li>En cuanto al acceso a la información pública los países 'más desarrollados' estan mejor. En cuando a datos abiertos no estamos tan atrás en latinoamérica.</li>
+            <li>La cultura del secreto es lo mas dificil de vencer, hoy el obstáculo no es tecnológico.</li>
+            <li>ILDA esta trabajando en transparentar contrataciones en latinoamérica. En lo personal Silvana atiende temas de género (datos de feminicidios, igualdad y otros).</li>
+            <li>Los datos de feminicidios tienen multiples problemas en su elaboración previa, no hay un protocolo para contabilizarlos. Hay una parte artesanal que debe estandarizarse para que contar feminicidios en cualquier lugar equivalga a los mismo.</li>
+            <li>Nos tenemos que ayudar entre todos (academia, organizaciones, gobiernos, etc), hablar con las usuarias de datos, preguntar y conocer.</li>
+            <li>Algunas aplicaciones hechas con las mejores intenciones (ej: mapa de lugares seguros para mujeres) a veces son contraproducentes. Publicar sin pensar en los riesgos y la privacidad no es buena idea.</li>
+            <li>Hay casos interesantes donde la sociedad civil inicia proyectos (solo, con financiación internacional o con apoyo de gobiernos) que apuntan a temas de interés de la ciudadanía y que pueden ser muy utiles.</li>
+            <li>Silvana cree que puede aportar más desde su espacio en la sociedad civil o academia, en principio no ejercería un cargo público.</li>
+            <li>El concepto de Gobierno Abierto es mucho más antiguo que Datos Abiertos, no son sinónimos.</li>
+            <li>Para diferencias iniciativas sinceras de apertura podemos ver como evolucionan en el tiempo, como aceptan o no las voces incómodas. Podemos ver quienes están incitados a la mesa de decisión y que tanto se las escucha.</li>
+            <li>No parece haber ejemplos interesantes de Gobierno Abierto en universidades, partidos políticos o sindicatos.</li>
+            <li>Hay que hablar con los potenciales usuarios de los datos que vamos a liberar.</li>
+            <li>Todo el sistema estadístico no piensa el género, piensa en categorías de sexo binaria. Eso se tiene que corregir.</li>
+            <li>Hay que mirar a: Romina Colman (acceso a la info)</li>
+            <li>Hay que mirar a: Momi Peralta (armo un equipo de datos en un medio)</li>
+            <li>Hay que mirar a: Gabriela Rodriguez (datos de género desde una perspectiva técnica)</li>
+            <li>Hay que mirar a: Ernesto Mislej (datos abiertos desde la ciencia de datos)</li>
+            </ul>]]></description>
+            
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e10-fumega.mp3" length="31579628" type="audio/mpeg"/>
+
+            <image>
+                <title>Entrevista con Silvana Fumega [s01e10]</title>
+                <url>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e10-fumega.png</url>
+                <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e10-fumega.png</link>
+            </image>
+
+        </item>
+        
+        <item>
+            <title>Entrevista con Maximiliano Chisnerman [s01e11]</title>
+            <guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e11-chisnerman.html</guid>
+            <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e11-chisnerman.html</link>
+            <pubDate>Tue, 22 Jan 2019 19:00:00 +0300</pubDate>
+            <author>Andrés Vázquez</author>
+            <description><![CDATA[Maximiliano fue responsable de Modernización y digitalización de Marcos Paz desde el 2004, Subsecretario de Modernización de Mercedes desde el 2009, Asesor de Modernización de Pilar desde el 2016 y actualmente es Director de Sistemas de la Municipalidad de Lujan.
+            <br />Ideas: <ul>
+            <li>Maxi inicio abriendo datos en 2005 en Marcos Paz. Se publicaron (con desarrollo propio) compras, proveedores e ingresos públicos. Duro SOLO una semana.</li>
+            <li>'La gente cree que cobramos millonadas' y publicar los sueldos de los funcionarios es una forma de mostrar la realidad</li>
+            <li>Con la plataforma Junar pudieron arrancar muy rápido en el Municipio de Mercedes</li>
+            <li>En Mercedes más allá de algunas críticas decidieron publicar en tiempo real datos críticos sobre el nivel y caudal del río Lujan (que ha inundado varias veces la zona).</li>
+            <li>Publicar datos críticos (como los del río Lujan) genero muchas visitas en el portal de datos, mucho más que cualquier otro dato.</li>
+            <li>'A nadie le importaba lo que publicabamos' (casi no tenía visitas). El periodismo de datos fue muy poco tambien. Maxi es pesimista sobre el impacto de los portales de datos (aunque reconoce que hay que hacerlos).</li>
+            <li>En Pilar iniciamos un camino que quedo trunco. En enero en 2018 se cerró la Secretaría de Modernización.</li>
+            <li>'Es muy dificil que los intendentes entindan de que va todo esto'</li>
+            <li>'Entiendo a los intendentes, hay cosas mucho más urgentes'</li>
+            <li>Maxi se permite descreer de la transparencia de las ONGs. Muchas no publican cuantos fondos reciben, de donde vienen, sus sueldos, etc.</li>
+            <li>Publica datos es una forma de mostrar gestión (aún con errores) de la misma forma que ocultarlos podría ser un indicio de falta de confianza en la eficacia propia.</li>
+            <li>Los gobiernos abiertos exponen las virtudes y tambien los defectos.</li>
+            <li>Hay que mirar a: A los Diputados Gustavo Bevilacua (ex intendente Bahía Blanca) y Carlos Selva (ex intentendente Mercedes)</li>
+            <li>Hay que mirar a: Cecilia Luca</li>
+            </ul>]]></description>
+            
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e11-chisnerman.mp3" length="28781281" type="audio/mpeg"/>
+
+            <image>
+                <title>Entrevista con Maximiliano Chisnerman [s01e11]</title>
+                <url>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e11-chisnerman.jpg</url>
+                <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e11-chisnerman.jpg</link>
+            </image>
+
+        </item>
+        
+        <item>
+            <title>Entrevista con Jorge Aznar [s01e12]</title>
+            <guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e12-aznar.html</guid>
+            <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e12-aznar.html</link>
+            <pubDate>Wed, 23 Jan 2019 06:30:00 +0300</pubDate>
+            <author>Andrés Vázquez</author>
+            <description><![CDATA[Jorge es diseñador y desarrollador de software en Zaragoza, España. Es además lo que llamaríamos en Argentina un activista o hacker cívico que tiene numerosos proyectos propios.
+            <br />Ideas: <ul>
+            <li>Jorge comenzo a trabajar con datos desde el primer portal de Aragón.</li>
+            <li>Bislai es un proyecto de análisis de datos sobre el debate legislativo. Los datos publicados eran muy pobres y con este proyecto los datos se hicieron más accesibles y con la posibilidad de buscar.</li>
+            <li>Bislai crea un dataset con el resumen de todas las votaciones que permite generar estadísticas.</li>
+            <li>La base de datos de los códigos postales esta cerrado desde 2017 (pagando se puede acceder)</li>
+            <li>Con los datos históricos de clima puede verse como afecta el cambio climático a tu ciudad.</li>
+            <li>Ahora Jorge esta ampliando este análisis del clima de Zaragoza para toda España.</li>
+            <li>Jorge estaría dispuesto a ser funcionario de Gobierno.</li>
+            <li>El gobierno a veces se saca la foto luego de liberar el portal y después no le dan todo el seguieminto que se requiere.</li>
+            <li>Hay formulario (bastante feo según Jorge) online de pedidos de acceso a la información pública.</li>
+            <li>Cuando los activistas no conocen a ley a veces caen en respuestas del gobierno de que no deben publicar algo cuan si deben.</li>
+            <li>Hay periodismo de datos en España pero no particularmente en Zaragoza y Aragón.</li>
+            <li>Jorge pide más y mejor comunicación del gobierno hacia os usuarios de los datos.</li>
+            <li>Hay que mirar a: Beatriz Hernandez de R-Ladies Madrid</li>
+            <li>Hay que mirar a: Civio</li>
+            <li>Hay que mirar a: Populate (Alvaro y Fernando) con el producto Gobierto</li>
+            <li>Hay que mirar a: Alberto Labarga (funcionario y activista)</li>
+            </ul>]]></description>
+            
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e12-aznar.mp3" length="23128993" type="audio/mpeg"/>
+
+            <image>
+                <title>Entrevista con Jorge Aznar [s01e12]</title>
+                <url>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e12-aznar.jpg</url>
+                <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e12-aznar.jpg</link>
+            </image>
+
+        </item>
+        
+        <item>
+            <title>Entrevista con María José Vanni [s01e13]</title>
+            <guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e13-vanni.html</guid>
+            <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e13-vanni.html</link>
+            <pubDate>Wed, 23 Jan 2019 19:00:00 +0300</pubDate>
+            <author>Andrés Vázquez</author>
+            <description><![CDATA[María José Vanni es archivera con conocimiento en tecnología y datos abiertos. Activista de esos dos mundos con más en común de los que parece.
+            <br />Ideas: <ul>
+            <li>Si tenemos una mala gestión de documentos en papel seguirá siendo mala en internet.</li>
+            <li>Los portales y los datos en la web debe ser mirados por los gobiernos a través de una gestion integral de la información que se muestra a la sociedad independientemente del formato</li>
+            <li>Los lugares del mundo que admiramos en cuanto a datos abiertos tienen de fondo una política de gestión documental.</li>
+            <li>Los datos abiertos son otra forma de ver cosas que ya se estaban haciendo.</li>
+            <li>El sistema que usa el gobierno nacional (GDE) no tiene de fondo contemplada la forma correcta de gestión de documentos.</li>
+            <li>El archivo histórico nacional esta haciendo esfuerzos para conectarse al sistema GDE sin todo el éxtio que debería.</li>
+            <li>La despapelización puede sonar bien pero a veces es peor que la gestión de documentos que reemplaza.</li>
+            <li>Ningún informático puede garantizar hoy que los datos que procesamos vayan a ser accesibles en 10 años.</li>
+            <li>Lo datasets son tambien documentos archivísticos. Deben ser tratados como tales.</li>
+            <li>Los archivos que no muestran lo que guardan no existen.</li>
+            <li>Se ven mucho de apertura de datos suelta, no es el reflejo de una política de datos abiertos elaborada.</li>
+            <li>El inventario de documentos que produce cada oficina es importante para que los usuarios pueda pedir mejor sus solicitudes de acceso a la información.</li>
+            <li>El concepto 'Open Washing' describe un poco nuestra realidad en datos abiertos</li>
+            <li>'Los Datos abiertos no están ni vivos ni muertos, están encarcelados' entre la endogamia que se genera entre las oficinas de gobiernos y las organizaciones sociales</li>
+            <li>La voluntad política es la clave para que corrijamos todo lo que hace falta.</li>
+            <li>Todavía cuesta que los funcionarios publiquen sus DDJJ y CVs.</li>
+            <li>Antes de digitalizar algo hay que tener el proceso documental bien elaborado. No es solo escanear.</li>
+            <li>Hay que mirar a: Leonardo Martinez</li>
+            <li>Hay que mirar a: Andres Pak Linares</li>
+            <li>Hay que mirar a: Luis Casella y Serra (de Girona) Tienen la cadena de proteccion documental para garantizar la vigencia a largo plazo.</li>
+            </ul>]]></description>
+            
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e13-vanni.mp3" length="25657193" type="audio/mpeg"/>
+
+            <image>
+                <title>Entrevista con María José Vanni [s01e13]</title>
+                <url>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e13-vanni.jpg</url>
+                <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e13-vanni.jpg</link>
             </image>
 
         </item>
