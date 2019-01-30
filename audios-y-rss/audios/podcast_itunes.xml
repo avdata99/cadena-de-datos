@@ -13,7 +13,7 @@
         
         <language>es-ar</language>
         <ttl>1440</ttl>
-        <lastBuildDate>Mon, 28 Jan 2019 13:53:47 +0300</lastBuildDate>
+        <lastBuildDate>Tue, 29 Jan 2019 23:35:02 +0300</lastBuildDate>
 
         <image>
             <title>Cadena de datos</title>
@@ -595,7 +595,7 @@
             </description>
             <itunes:summary>Pablo es licenciado en Análisis de Sistemas, desarrollador de software y especialista en visualizaciones. Trabaja como desarrollador de DataWheel, Chequeado, en SocioPublico y en proyectos como freelance. Es además profesor universitario.</itunes:summary>
             
-            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e15-pala.mp3" length="37459026" type="audio/mpeg"/>
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e15-pala.mp3" length="38217901" type="audio/mpeg"/>
 
             <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e15-pala.jpg" />
 

@@ -80,8 +80,18 @@
             <h2 class="text-white font-weight-light mb-2 display-4">{{ episodio.titulo }}</h2>
             <div class="text-white mb-3">
               <span class="text-white-opacity-05">
-                <small>por <a href='{{ canal.autor_url }}'>{{ canal.autor }}</a> <span class="sep">/</span> {{ episodio.fecha_publicacion }} </small>
+                <small>por <a href='{{ canal.autor_url }}'>{{ canal.autor }}</a> 
+                  <span class="sep">/</span> {{ episodio.fecha_publicacion }} 
+                </small>
               </span>
+                {% if episodio.musica_intro %} 
+                
+                  <br/><span class="text-white-opacity-05">
+                    <small>INTRO: {{ episodio.musica_intro }}</small>
+                  </span>
+                
+                {% endif %}
+              
               <div>
                 <audio id="player2" 
                     preload="auto" 
@@ -227,6 +237,7 @@
                 <p class="mb-4">
                   {{ epi.descripcion }}
                 </p>
+                
 
               </div>
             </div>
