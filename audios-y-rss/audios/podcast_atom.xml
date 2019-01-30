@@ -6,7 +6,7 @@
         <description>Podcast con entrevistas a referentes de los datos abiertos en Argentina. Las personas consultadas me sugieren nuevos posibles entrevistados que alimentan este podcast</description>
         <language>es-ar</language>
         <ttl>1440</ttl>
-        <lastBuildDate>Tue, 29 Jan 2019 23:35:02 +0300</lastBuildDate>
+        <lastBuildDate>Wed, 30 Jan 2019 00:09:12 +0300</lastBuildDate>
         <author>Andrés Vázquez</author>
         <image>
             <title>Cadena de datos</title>
@@ -634,6 +634,30 @@
                 <title>Entrevista con Pablo H Paladino [s01e15]</title>
                 <url>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e15-pala.jpg</url>
                 <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e15-pala.jpg</link>
+            </image>
+
+        </item>
+        
+        <item>
+            <title>Entrevista con Martín Sarsale [s01e16]</title>
+            <guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e16-runixo.html</guid>
+            <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e16-runixo.html</link>
+            <pubDate>Wed, 30 Jan 2019 19:20:00 +0300</pubDate>
+            <author>Andrés Vázquez</author>
+            <description><![CDATA[Martín es socio fundador de Hacks/Hackers Buenos Aires desde 2011. Forma parte de la comunidad de activistas cívicos. Es desarrollador web y actualmente CTO de Properati desde donde publica datos del sector inmobiliario.
+            <br />Ideas: <ul>
+            <li></li>
+            <li></li>
+            <li>Hay que mirar a: </li>
+            <li>Hay que mirar a: </li>
+            </ul>]]></description>
+            
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e16-runixo.mp3" length="34966673" type="audio/mpeg"/>
+
+            <image>
+                <title>Entrevista con Martín Sarsale [s01e16]</title>
+                <url>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e16-runixo.jpg</url>
+                <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e16-runixo.jpg</link>
             </image>
 
         </item>
