@@ -13,7 +13,7 @@
         
         <language>es-ar</language>
         <ttl>1440</ttl>
-        <lastBuildDate>Wed, 30 Jan 2019 00:09:12 +0300</lastBuildDate>
+        <lastBuildDate>Fri, 01 Feb 2019 19:08:17 +0300</lastBuildDate>
 
         <image>
             <title>Cadena de datos</title>
@@ -608,10 +608,23 @@
             <pubDate>Wed, 30 Jan 2019 19:20:00 +0300</pubDate>
             <description><![CDATA[Martín es socio fundador de Hacks/Hackers Buenos Aires desde 2011. Forma parte de la comunidad de activistas cívicos. Es desarrollador web y actualmente CTO de Properati desde donde publica datos del sector inmobiliario.
             <br />Ideas: <ul>
-            <li></li>
-            <li></li>
-            <li>Hay que mirar a: </li>
-            <li>Hay que mirar a: </li>
+            <li>Esta entrevista debe escucharse haciendo analogías de la empresa de Martín con como podrían pensar sus datos los gobiernos.</li>
+            <li>Hacks/Hackers BA nace de conversaciones de Martín con Mariano Blejman. Entre otras cosas se abre un espacio de cruce de programadores y periodistas.</li>
+            <li>Mapa76 fue una idea muy buena que si bien no tuvo éxito sirvio de ejemplo de lo que la comunidad podía hacer.</li>
+            <li>Properati es una plataforma inmobiliaria que valoriza y muestra muchos datos.</li>
+            <li>Properati tiene una sección llamada Properati DATA que libera muchos datos del sector inmobiliario. Esto no existe en empresas similares.</li>
+            <li>La política de datos abiertos de Properati esta influida por la comunidad de HHBA</li>
+            <li>Properati usa datos públicos para cruzar con datos propios y publicar en su plataforma.</li>
+            <li>Algunos datasets brindan información que baja la imagen de algunas propiedades. Algunos se publican y otros no porque podrían generar un perjuicio injusto a algunos propietarios.</li>
+            <li>Así como algunas políticas públicas se centran en el ciudadano por sobre otros intereses Properati trata de brindar datos de interés al ciudadano para una mejor decisión</li>
+            <li>Publicar datos sin un análisis serio de cada caso podría perjudicar o beneficiar propietarios injustamente.</li>
+            <li>Martín usa mucho los datos para tomar decisiones y conocer el mercado sobre el que trabaja a diario.</li>
+            <li>Si los datos contradicen la intuición hay que seguir respetando a los datos. Para ser creibles hay que basarse en datos.</li>
+            <li>A Martín le gustaría trabajar como CTO de algún gobierno afín a su ideología.</li>
+            <li>Los equipos interdisciplinarios enriquecen mucho cualquier tarea.</li>
+            <li>Hay que mirar a: Andy Tow</li>
+            <li>Hay que mirar a: Pablo Paladino</li>
+            <li>Hay que mirar a: Alguien de OSM o WikiData</li>
             </ul>]]>
             </description>
             <itunes:summary>Martín es socio fundador de Hacks/Hackers Buenos Aires desde 2011. Forma parte de la comunidad de activistas cívicos. Es desarrollador web y actualmente CTO de Properati desde donde publica datos del sector inmobiliario.</itunes:summary>
