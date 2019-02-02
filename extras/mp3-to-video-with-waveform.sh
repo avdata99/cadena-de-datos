@@ -4,12 +4,12 @@ TEXTO="CADENA DE DATOS"
 TTF_FILE="/usr/share/fonts/truetype/ttf-bitstream-vera/Vera.ttf"
 FONT_SIZE=30
 FONT_COLOR=black
-ANCHO=400
-ANCHO_WAVE1=400
-ANCHO_WAVE2=400
+ANCHO=990
+ANCHO_WAVE1=320
+ANCHO_WAVE2=320
 ALTO_WAVE1=50
 ALTO_WAVE2=500
-ALTO_IMAGEN=700
+ALTO_IMAGEN=698
 ALTO=ALTO_WAVE1 + ALTO_WAVE2 + ALTO_IMAGEN
 SAMPLESXCOLUMN=3
 COLOR_ONDA=00AAAA
@@ -28,7 +28,7 @@ FILTER="[0:a]showfreqs=mode=bar:ascale=lin:fscale=lin:s=${ANCHO_WAVE1}x${ALTO_WA
 echo $FILTER
 echo "*************************************"
 cmd="ffmpeg -i audio.mp3 \
-    -loop 1 \
+    -loop 1 -y \
     -i imagen.png \
     -filter_complex \"$FILTER\" \
     -map '[out]' \
