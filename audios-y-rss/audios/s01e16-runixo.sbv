@@ -1,0 +1,3285 @@
+0:00:00.080,0:00:12.019
+[Música]
+
+0:00:12.920,0:00:24.040
+[Aplausos]
+
+0:00:15.620,0:00:27.110
+[Música]
+
+0:00:24.040,0:00:27.110
+[Aplausos]
+
+0:00:32.720,0:00:38.360
+cadena de datos episodio número 16 el
+
+0:00:36.140,0:00:41.720
+invitado de hoy es martín salsa le
+
+0:00:38.360,0:00:44.600
+martín es socio fundador de hacks
+
+0:00:41.720,0:00:46.490
+hackers buenos aires desde 2011 y desde
+
+0:00:44.600,0:00:47.930
+hay forma parte de la comunidad que
+
+0:00:46.490,0:00:50.450
+podríamos denominar de activistas
+
+0:00:47.930,0:00:53.120
+cívicos es desarrollador web
+
+0:00:50.450,0:00:55.940
+actualmente cto jefe de tecnología
+
+0:00:53.120,0:00:59.900
+digamos de la empresa propiedad y donde
+
+0:00:55.940,0:01:01.520
+además de trabajar publica datos del
+
+0:00:59.900,0:01:03.590
+sector inmobiliario cosa que es muy
+
+0:01:01.520,0:01:05.030
+interesante hola martín buenas tardes le
+
+0:01:03.590,0:01:08.360
+agregaría algo esta presentación le
+
+0:01:05.030,0:01:09.920
+cambiarías algo no solamente diría que
+
+0:01:08.360,0:01:13.270
+porque me parece que es informante para
+
+0:01:09.920,0:01:14.510
+eso además uno de los fundadores
+
+0:01:13.270,0:01:17.240
+buenísimo
+
+0:01:14.510,0:01:18.770
+después volvemos a esto porque vamos
+
+0:01:17.240,0:01:21.020
+importante
+
+0:01:18.770,0:01:22.520
+vamos a hablar de prototipo que me
+
+0:01:21.020,0:01:24.200
+interesa particularmente pero antes de
+
+0:01:22.520,0:01:26.180
+eso no me quiero adelantar te quiero
+
+0:01:24.200,0:01:29.390
+hacer la pregunta con la que inició en
+
+0:01:26.180,0:01:32.060
+general con los invitados y es vos estás
+
+0:01:29.390,0:01:34.100
+conectado al activismo
+
+0:01:32.060,0:01:35.390
+son una especie de hacker cívico no
+
+0:01:34.100,0:01:37.790
+sabría cómo decirte pero desde hace
+
+0:01:35.390,0:01:39.740
+mucho tiempo además de trabajar el
+
+0:01:37.790,0:01:41.960
+sector privado tenés como una curiosidad
+
+0:01:39.740,0:01:43.850
+quiere saber en qué momento eso apareció
+
+0:01:41.960,0:01:45.439
+cuál fue tu primer proyecto en el que te
+
+0:01:43.850,0:01:47.119
+interesaste en datos públicos o en
+
+0:01:45.439,0:01:50.750
+gobierno abierto en lo que fuera por
+
+0:01:47.119,0:01:53.000
+donde empresas te mira
+
+0:01:50.750,0:01:54.259
+empezó antes de que yo supiera que
+
+0:01:53.000,0:01:57.130
+existía el gobierno abierto a que
+
+0:01:54.259,0:01:59.270
+existían los datos abiertas yo en el año
+
+0:01:57.130,0:02:01.280
+2003 trabaja para el gobierno de la
+
+0:01:59.270,0:02:04.610
+ciudad en un proyecto muy interesante
+
+0:02:01.280,0:02:06.860
+que era el gobierno ciudad gasta una
+
+0:02:04.610,0:02:08.899
+fortuna en licencias esto era corona
+
+0:02:06.860,0:02:11.660
+argentina 2003 todos recordamos cómo
+
+0:02:08.899,0:02:14.560
+venía la mano esto el gobierno una
+
+0:02:11.660,0:02:17.989
+fortuna licencias de windows máis
+
+0:02:14.560,0:02:22.549
+windows microsoft sql server hay ahí es
+
+0:02:17.989,0:02:26.390
+y a s&p y estaban en una migración hacia
+
+0:02:22.549,0:02:27.739
+linux php más igual y yo entré a
+
+0:02:26.390,0:02:29.299
+trabajar en este proyecto que era un
+
+0:02:27.739,0:02:30.890
+proyecto espectacular donde íbamos
+
+0:02:29.299,0:02:33.740
+mirando
+
+0:02:30.890,0:02:36.380
+partes de buenosaires gob ar en ese
+
+0:02:33.740,0:02:38.270
+momento era algo de corta bueno saben
+
+0:02:36.380,0:02:40.430
+escobar las íbamos migrando a software
+
+0:02:38.270,0:02:42.500
+libre en un proyecto espectacular y
+
+0:02:40.430,0:02:44.569
+dentro ese proyecto estamos encontrando
+
+0:02:42.500,0:02:47.330
+con distintas bases de datos que tiene
+
+0:02:44.569,0:02:49.010
+el gobierno también nos volvían locos si
+
+0:02:47.330,0:02:51.410
+quieres la base de arbolado urbano que
+
+0:02:49.010,0:02:53.660
+es un censo de árboles que hace el
+
+0:02:51.410,0:02:56.540
+gobierno de la ciudad y yo veía que
+
+0:02:53.660,0:02:57.980
+todavía no eran abiertos pero yo de
+
+0:02:56.540,0:02:59.989
+haber pasado por otros gobiernos había
+
+0:02:57.980,0:03:02.810
+visto la data que había y las cosas que
+
+0:02:59.989,0:03:05.570
+te podían hacer así que ver mucho porque
+
+0:03:02.810,0:03:08.239
+un poco siento que ese fue mi
+
+0:03:05.570,0:03:10.010
+fascinación por los datos de los
+
+0:03:08.239,0:03:12.050
+gobiernos de los estados
+
+0:03:10.010,0:03:14.090
+pudiste decirle a alguien ha dicho y
+
+0:03:12.050,0:03:16.459
+esto si no largamos capaz que alguien
+
+0:03:14.090,0:03:18.080
+imaginó el 2003 lo difícil que era hoy
+
+0:03:16.459,0:03:20.030
+es difícil explicarle
+
+0:03:18.080,0:03:21.530
+en la potencia de que los datos se han
+
+0:03:20.030,0:03:22.970
+abierto a algunos funcionarios en aquel
+
+0:03:21.530,0:03:26.480
+momento se lo puede decir alguien es
+
+0:03:22.970,0:03:27.800
+inquietud y no la verdad que no y aparte
+
+0:03:26.480,0:03:29.330
+en este momento también estábamos dando
+
+0:03:27.800,0:03:30.620
+hasta la nuestra batalla directo por
+
+0:03:29.330,0:03:32.690
+libre así que yo estaba bastante
+
+0:03:30.620,0:03:34.670
+satisfecho en términos políticos digamos
+
+0:03:32.690,0:03:38.060
+no no necesitaban nuevos desafíos porque
+
+0:03:34.670,0:03:41.010
+éste ya era enorme y era espectacular
+
+0:03:38.060,0:03:42.030
+y el software libre es un tema que ya
+
+0:03:41.010,0:03:43.920
+tenemos invitados para tratar
+
+0:03:42.030,0:03:48.569
+especialmente pero me imagino que vos
+
+0:03:43.920,0:03:50.819
+sos usuario habitual algo para decir te
+
+0:03:48.569,0:03:55.500
+parece que el software libre tiene que
+
+0:03:50.819,0:03:57.330
+ser una forma de transparencia desde no
+
+0:03:55.500,0:03:58.560
+solamente usar sus folios y no publicar
+
+0:03:57.330,0:04:00.780
+el software que hacen los gobiernos te
+
+0:03:58.560,0:04:02.819
+parece que los gobiernos pueden ver una
+
+0:04:00.780,0:04:04.890
+nueva forma de transparencia en la
+
+0:04:02.819,0:04:06.420
+publicación de los procesos internos que
+
+0:04:04.890,0:04:09.620
+son un poco el software que los
+
+0:04:06.420,0:04:09.620
+gobiernos usan y desarrollan
+
+0:04:10.050,0:04:16.739
+a mí en mi experiencia es muy difícil
+
+0:04:13.710,0:04:18.570
+hacer software que digamos de un uso
+
+0:04:16.739,0:04:21.780
+general estirado de una calidad
+
+0:04:18.570,0:04:23.790
+suficiente para ser reproducida no para
+
+0:04:21.780,0:04:24.960
+ser publicada es como que los gobiernos
+
+0:04:23.790,0:04:27.240
+van teniendo problemas y va naciendo
+
+0:04:24.960,0:04:29.370
+soluciones pero solamente son soluciones
+
+0:04:27.240,0:04:31.440
+bastante a medida digamos como nada
+
+0:04:29.370,0:04:34.200
+demasiado estas cosas que podría usarse
+
+0:04:31.440,0:04:35.370
+como base para después convertirlos en
+
+0:04:34.200,0:04:38.490
+software libre
+
+0:04:35.370,0:04:39.810
+a mí si quieres lo que me parece pero
+
+0:04:38.490,0:04:41.330
+hay una cosa que al mismo tiempo me
+
+0:04:39.810,0:04:44.010
+parece que debería funcionar es que
+
+0:04:41.330,0:04:46.920
+diversos nos en diversas ciudades
+
+0:04:44.010,0:04:49.350
+diversas provincias compartan software
+
+0:04:46.920,0:04:52.680
+dentro dentro del mismo estado la verdad
+
+0:04:49.350,0:04:54.750
+que no tengo todo claro si es útil para
+
+0:04:52.680,0:04:57.120
+todo el mundo porque muchas veces el
+
+0:04:54.750,0:05:01.530
+software de esos estados los gobiernos
+
+0:04:57.120,0:05:03.540
+es bastante es bastante específico pero
+
+0:05:01.530,0:05:05.370
+sí me parece que hay mucho desarrollo y
+
+0:05:03.540,0:05:06.900
+hay mucho mucha plata puesto en
+
+0:05:05.370,0:05:09.270
+desarrollo adentro de los gobierno
+
+0:05:06.900,0:05:11.220
+entonces me parece que es claro que los
+
+0:05:09.270,0:05:14.190
+gobiernos usan software libre y puedan
+
+0:05:11.220,0:05:15.450
+devolver quizás modificaciones o plugins
+
+0:05:14.190,0:05:17.200
+o parches
+
+0:05:15.450,0:05:19.990
+o mejoras que hagan
+
+0:05:17.200,0:05:21.850
+yo no me imagino o por lo menos en mi
+
+0:05:19.990,0:05:23.710
+experiencia no recuerdo que nosotros
+
+0:05:21.850,0:05:24.580
+hayamos producido esto porque digamos no
+
+0:05:23.710,0:05:26.200
+nuestro
+
+0:05:24.580,0:05:28.090
+realmente aportaría a la comunidad
+
+0:05:26.200,0:05:29.530
+estamos libres pero si cosas más
+
+0:05:28.090,0:05:31.060
+pequeñas haríamos más cambios
+
+0:05:29.530,0:05:33.370
+entonces no porque es importante que el
+
+0:05:31.060,0:05:35.890
+gobierno use software libre y contribuya
+
+0:05:33.370,0:05:37.570
+con cambios y mejoras no me imagino
+
+0:05:35.890,0:05:41.250
+desarrollando software a frank scratch
+
+0:05:37.570,0:05:44.170
+digamos desde cero y liberándolos pero
+
+0:05:41.250,0:05:47.590
+en esencia el efecto de los gobiernos
+
+0:05:44.170,0:05:50.020
+que cuando comenzamos un desarrollo no
+
+0:05:47.590,0:05:52.390
+pensamos en un producto replicables sino
+
+0:05:50.020,0:05:54.310
+que vamos apurado a resolver nuestro
+
+0:05:52.390,0:05:56.680
+problema específico o sea nos falta ver
+
+0:05:54.310,0:05:57.910
+yo estoy pensando en rafáh el software
+
+0:05:56.680,0:06:00.190
+de edición o software de administración
+
+0:05:57.910,0:06:04.210
+financiera en la provincia de buenos
+
+0:06:00.190,0:06:07.060
+aires y casi en la totalidad de los 135
+
+0:06:04.210,0:06:09.070
+municipios lo usan entonces alguien si
+
+0:06:07.060,0:06:10.420
+pudo hacer esto decir que que no es
+
+0:06:09.070,0:06:11.680
+normal coincidimos que no es normal pero
+
+0:06:10.420,0:06:13.270
+no es normal por una falla de los
+
+0:06:11.680,0:06:17.050
+gobiernos
+
+0:06:13.270,0:06:19.960
+pero a mí me parece también que a veces
+
+0:06:17.050,0:06:22.390
+uno como desarrollador de software o
+
+0:06:19.960,0:06:24.160
+como ingenieros o lo que sea digamos no
+
+0:06:22.390,0:06:25.330
+trata a veces empezó empieza a color lo
+
+0:06:24.160,0:06:27.100
+que buscamos no hagamos que esto sea
+
+0:06:25.330,0:06:29.920
+genérico y configurable y que sirva para
+
+0:06:27.100,0:06:31.630
+todos y quizás sabes los los gobiernos
+
+0:06:29.920,0:06:33.310
+los estados tienen problemas específicos
+
+0:06:31.630,0:06:36.580
+y hay que resolver esos problemas
+
+0:06:33.310,0:06:38.410
+específicos me parece que él diga desde
+
+0:06:36.580,0:06:41.260
+esa podría hacer resolver el problema no
+
+0:06:38.410,0:06:43.030
+convertirse en software libre porque si
+
+0:06:41.260,0:06:44.290
+digamos nos parece que lo que primero
+
+0:06:43.030,0:06:47.140
+hay que hacer es restaurar el problema
+
+0:06:44.290,0:06:48.370
+que los gobiernos después se pueden
+
+0:06:47.140,0:06:50.860
+convertir en tropas libias del ideal
+
+0:06:48.370,0:06:53.710
+pero lo que sí me parece que realmente
+
+0:06:50.860,0:06:55.030
+entre municipios entre provincias entre
+
+0:06:53.710,0:06:56.770
+ciudades y es así que me parece que
+
+0:06:55.030,0:06:58.860
+tiene mucho sentido porque los problemas
+
+0:06:56.770,0:07:00.960
+son muy similares
+
+0:06:58.860,0:07:03.360
+bien nos vinimos mucho más para acá en
+
+0:07:00.960,0:07:04.830
+el 2003 viste alguna base de datos
+
+0:07:03.360,0:07:06.780
+dentro del gobierno que tan sagrada
+
+0:07:04.830,0:07:09.539
+dijiste que bueno que estaría que te
+
+0:07:06.780,0:07:10.919
+llevó al 2011 donde esa inquietud ya
+
+0:07:09.539,0:07:13.379
+encontraste muchas más vías para
+
+0:07:10.919,0:07:15.180
+compartirlo ahí se fundó vote en la mesa
+
+0:07:13.379,0:07:18.030
+de fundación de jaxa que el buenos aires
+
+0:07:15.180,0:07:19.110
+es así como fue como pensado comenzó con
+
+0:07:18.030,0:07:21.419
+un peso esa comunidad
+
+0:07:19.110,0:07:24.870
+mira empezó de una manera bastante
+
+0:07:21.419,0:07:28.080
+graciosa yo leía en su momento de
+
+0:07:24.870,0:07:31.500
+cultura digital en página 11
+
+0:07:28.080,0:07:35.900
+en donde él escribirá o el editor era
+
+0:07:31.500,0:07:37.740
+mariano blejman también comentado
+
+0:07:35.900,0:07:40.319
+pegado a las computadoras desde muy
+
+0:07:37.740,0:07:42.000
+chiquito y a mí me posición
+
+0:07:40.319,0:07:44.639
+sorprendentemente bueno lo que escribía
+
+0:07:42.000,0:07:46.979
+mariano en un periódico de alcance
+
+0:07:44.639,0:07:48.990
+nacional entonces me llamaba un poco la
+
+0:07:46.979,0:07:51.900
+tensión como que esto está demasiado
+
+0:07:48.990,0:07:53.219
+bueno para ser estados demasiado los
+
+0:07:51.900,0:07:55.110
+problemas que trataban marianos las
+
+0:07:53.219,0:07:58.639
+cosas que las cosas que de las que
+
+0:07:55.110,0:08:00.750
+escribía a mí me interesaba mucho y
+
+0:07:58.639,0:08:03.569
+bueno qué impresionante que esto pueda
+
+0:08:00.750,0:08:07.379
+parecer un medio real entonces le mandé
+
+0:08:03.569,0:08:11.370
+un tweet diciendo leche tomamos un café
+
+0:08:07.379,0:08:13.440
+y medio sin agenda la verdad y entonces
+
+0:08:11.370,0:08:15.479
+de casualidad mi oficina ese momento no
+
+0:08:13.440,0:08:18.000
+bastante cerca de la casa de mariano
+
+0:08:15.479,0:08:23.610
+vino mariano le salió un café pero tiró
+
+0:08:18.000,0:08:26.580
+encima y le servía otro profe
+
+0:08:23.610,0:08:28.979
+nos pusimos a charlar y charlamos un
+
+0:08:26.580,0:08:31.800
+poco medio de nada realmente y al final
+
+0:08:28.979,0:08:33.539
+de todo marina mejor saber exactamente
+
+0:08:31.800,0:08:36.779
+por qué a mí me gustaría hacer solo
+
+0:08:33.539,0:08:39.899
+ahora que ni siquiera había escuchado el
+
+0:08:36.779,0:08:41.519
+cruce o se había escuchado alguna vez
+
+0:08:39.899,0:08:43.620
+descripciones periódicas y programadores
+
+0:08:41.519,0:08:47.250
+pero ni siquiera sabía que estaba más
+
+0:08:43.620,0:08:49.769
+bien articulado en un organización un
+
+0:08:47.250,0:08:52.769
+nosequé y un poco realmente ese hay un
+
+0:08:49.769,0:08:55.050
+tweet fundacional y después la verdad
+
+0:08:52.769,0:08:57.450
+que mariano siempre fue como la gran
+
+0:08:55.050,0:08:58.950
+locomotora de hackers no como una
+
+0:08:57.450,0:09:01.290
+comunidad que fue creciendo mucho pero
+
+0:08:58.950,0:09:05.010
+mariano siempre tirando desde adelante
+
+0:09:01.290,0:09:06.450
+desde muy adelante y a quien tenían para
+
+0:09:05.010,0:09:08.820
+mirar en ese momento
+
+0:09:06.450,0:09:11.040
+existe un capítulo hacker supongo
+
+0:09:08.820,0:09:14.070
+internacional en alguna ciudad grande
+
+0:09:11.040,0:09:15.839
+eeuu pero había otras cosas más en
+
+0:09:14.070,0:09:18.149
+argentina en chile anulado que es que
+
+0:09:15.839,0:09:19.950
+vos en aquel momento las mirado aunque
+
+0:09:18.149,0:09:21.180
+sea una vez después de conocer la oreja
+
+0:09:19.950,0:09:22.680
+para sí bueno mirá acá tenemos para
+
+0:09:21.180,0:09:24.360
+copiar estas cosas no estamos tan loco
+
+0:09:22.680,0:09:26.220
+no no estamos inventando algo esto ya
+
+0:09:24.360,0:09:28.380
+existe y podemos copiar
+
+0:09:26.220,0:09:31.980
+la verdad es que yo regional ni recordó
+
+0:09:28.380,0:09:34.340
+nada lo que sí estaba bueno la knight
+
+0:09:31.980,0:09:36.660
+foundation y mozilla foundation
+
+0:09:34.340,0:09:38.610
+empujando y poniendo plata y haciendo
+
+0:09:36.660,0:09:41.610
+cosas pero nada de la presión al día un
+
+0:09:38.610,0:09:42.600
+de hecho mariano la media parte y si
+
+0:09:41.610,0:09:46.020
+quieres que es con el gran evento
+
+0:09:42.600,0:09:48.540
+fighters aparece porque maría no va a un
+
+0:09:46.020,0:09:49.770
+evento de mozilla creo que el donde se
+
+0:09:48.540,0:09:51.270
+vuelve dice bueno tenemos que hacer es
+
+0:09:49.770,0:09:53.310
+un evento internacional en buenos aires
+
+0:09:51.270,0:09:56.190
+para estimar ya no básicamente siempre
+
+0:09:53.310,0:09:56.970
+estuvo muy loco y bueno pero comentó no
+
+0:09:56.190,0:09:58.950
+le fue bien
+
+0:09:56.970,0:10:02.220
+una diagnósticas visionarios lo que
+
+0:09:58.950,0:10:04.740
+estuve lo que espero es realmente
+
+0:10:02.220,0:10:09.840
+regionalmente no había nada y mariano lo
+
+0:10:04.740,0:10:12.450
+tenía visto además del norte y mar ya no
+
+0:10:09.840,0:10:14.130
+lo veo más con un perfil periodístico y
+
+0:10:12.450,0:10:15.760
+hago más con un perfil más duro más
+
+0:10:14.130,0:10:18.820
+tecnológico
+
+0:10:15.760,0:10:20.890
+cuando ustedes dos y los otros chicos se
+
+0:10:18.820,0:10:22.600
+juntaron que proyectos que fue los
+
+0:10:20.890,0:10:24.340
+primeros que fue la cosa más linda que
+
+0:10:22.600,0:10:26.110
+hicieron en esos comienzos como
+
+0:10:24.340,0:10:29.650
+proyectos tecnológicos tuviste el mapa
+
+0:10:26.110,0:10:32.680
+76 con algunas de esas otras cosas si yo
+
+0:10:29.650,0:10:33.850
+estuve un tiempo de una pasión 16 donde
+
+0:10:32.680,0:10:37.300
+queríamos algunas cosas que estaban
+
+0:10:33.850,0:10:41.470
+buenas nos faltó bastante creo que ya
+
+0:10:37.300,0:10:48.940
+estaba iniciado no estaba bastante
+
+0:10:41.470,0:10:52.750
+un poco me parece que tiene mucho valor
+
+0:10:48.940,0:10:55.290
+porque es un hermoso proyecto está
+
+0:10:52.750,0:10:57.820
+buenísimo nosotros lo que había
+
+0:10:55.290,0:11:00.040
+identificado es que en los juicios de
+
+0:10:57.820,0:11:01.570
+lesa humanidad está produciendo montones
+
+0:11:00.040,0:11:04.720
+de documentación había un montón de
+
+0:11:01.570,0:11:07.300
+juicios en marcha en simultáneo en el
+
+0:11:04.720,0:11:09.670
+país se producían cientos de páginas por
+
+0:11:07.300,0:11:12.390
+día y realmente la información que tenía
+
+0:11:09.670,0:11:15.520
+un sentido se cruzaba en esos documentos
+
+0:11:12.390,0:11:17.200
+como que en un juicio lo que hicieron
+
+0:11:15.520,0:11:19.560
+charcos pasaba algo alguien ha visto
+
+0:11:17.200,0:11:21.700
+alguien no se aparecía con un testimonio
+
+0:11:19.560,0:11:23.440
+una mención de algo que podía servir
+
+0:11:21.700,0:11:25.630
+para un juicio que estuviese ocurriendo
+
+0:11:23.440,0:11:28.570
+en otra en otra provincia o un juicio
+
+0:11:25.630,0:11:31.150
+que todavía no investigación y textos
+
+0:11:28.570,0:11:34.840
+aburridos legales encontraron nombres de
+
+0:11:31.150,0:11:36.490
+personas lugares y cosas y para los que
+
+0:11:34.840,0:11:38.230
+no sean de argentina los juicios a los
+
+0:11:36.490,0:11:40.750
+que te referís son los juicios después
+
+0:11:38.230,0:11:42.190
+de nuestra dictadura militar a los
+
+0:11:40.750,0:11:43.900
+dictadores a los militares a todos los
+
+0:11:42.190,0:11:46.150
+que forman parte que fueron cientos y
+
+0:11:43.900,0:11:47.200
+miles de juicios no no no sé cuánto
+
+0:11:46.150,0:11:49.180
+fueron
+
+0:11:47.200,0:11:51.250
+encontraron datos interesante algún dato
+
+0:11:49.180,0:11:53.920
+de que sea grande ahí les sirvió a algún
+
+0:11:51.250,0:11:55.390
+abogado a alguien un poco la verdad que
+
+0:11:53.920,0:11:57.720
+como como te decía digamos empezamos a
+
+0:11:55.390,0:11:59.500
+desarrollar bastante de esto
+
+0:11:57.720,0:12:01.330
+teníamos que unas ideas que estaban
+
+0:11:59.500,0:12:03.160
+buenas después abierto de una parte que
+
+0:12:01.330,0:12:05.080
+nos faltaba que era más bien todo lo que
+
+0:12:03.160,0:12:07.300
+era el tratamiento lenguaje natural que
+
+0:12:05.080,0:12:10.860
+lo empezamos con un aprovechó un poco un
+
+0:12:07.300,0:12:13.620
+poco naif un poco naif
+
+0:12:10.860,0:12:15.810
+y bueno es un proyecto después continuó
+
+0:12:13.620,0:12:17.730
+mariano con otra gente y yo soy en cómo
+
+0:12:15.810,0:12:19.650
+es el estado el estatus ahora ahora es
+
+0:12:17.730,0:12:22.260
+que no está buenísimo yo perdíamos
+
+0:12:19.650,0:12:23.940
+mirando para atrás no de cuenta que nos
+
+0:12:22.260,0:12:26.810
+faltaba estamos encarando
+
+0:12:23.940,0:12:29.700
+incorrectamente dice tecnológico después
+
+0:12:26.810,0:12:31.410
+una versión más nueva donde está
+
+0:12:29.700,0:12:33.030
+involucrado fernando barbáchano también
+
+0:12:31.410,0:12:34.950
+silbar y otra gente que entendíamos el
+
+0:12:33.030,0:12:37.530
+tema y fueron avanzando y era
+
+0:12:34.950,0:12:39.720
+interesante la verdad es que creo creo
+
+0:12:37.530,0:12:42.180
+que lamentablemente no hubo ningún gran
+
+0:12:39.720,0:12:44.370
+éxito digamos en los juicios pero el
+
+0:12:42.180,0:12:47.520
+proyecto era muy interesante y a mí
+
+0:12:44.370,0:12:49.110
+personalmente me sirvió para bueno vista
+
+0:12:47.520,0:12:51.480
+a veces uno como programador se
+
+0:12:49.110,0:12:53.580
+encuentra bueno nuestra extracción de
+
+0:12:51.480,0:12:55.260
+software para otros como a veces
+
+0:12:53.580,0:12:57.090
+inclusive cómo se pierde el sentido no
+
+0:12:55.260,0:12:58.470
+sé ni siquiera qué estoy haciendo y me
+
+0:12:57.090,0:13:00.810
+dio estas especificaciones lo está
+
+0:12:58.470,0:13:02.730
+implementando esto deja realmente una
+
+0:13:00.810,0:13:03.600
+cosa donde era el programa inteligente
+
+0:13:02.730,0:13:05.640
+tecnológicamente
+
+0:13:03.600,0:13:07.620
+por otro lado interesante políticamente
+
+0:13:05.640,0:13:09.360
+donde no sentía que se podía agregar
+
+0:13:07.620,0:13:12.600
+valor que se podía
+
+0:13:09.360,0:13:16.380
+del mundo básicamente entonces para mí
+
+0:13:12.600,0:13:18.990
+esto también me abrió las puertas a nada
+
+0:13:16.380,0:13:20.610
+distintas distintas organizaciones y
+
+0:13:18.990,0:13:23.820
+otra gente que se veía muy beneficiada
+
+0:13:20.610,0:13:25.350
+con nuestros kills como programadores no
+
+0:13:23.820,0:13:27.779
+lo que nosotros podemos hacer rapidísimo
+
+0:13:25.350,0:13:28.830
+y para ellos eran semanas y semanas de
+
+0:13:27.779,0:13:32.850
+trabajo
+
+0:13:28.830,0:13:34.590
+y después de ese mapa 76 antes de
+
+0:13:32.850,0:13:37.770
+traerte las cosas que estás inoperativa
+
+0:13:34.590,0:13:40.320
+algún otro proyecto de hack hackers no
+
+0:13:37.770,0:13:42.000
+sé además de mediapart y algo algo si
+
+0:13:40.320,0:13:43.950
+quieres con uso datos públicos o
+
+0:13:42.000,0:13:46.260
+vinculados los gobiernos hay algún
+
+0:13:43.950,0:13:48.180
+proyecto que a vos te haya gustado más
+
+0:13:46.260,0:13:51.410
+que los demás que quieras destacar que
+
+0:13:48.180,0:13:51.410
+puedas contarnos
+
+0:13:52.579,0:14:00.589
+estoy pensando que para mí era muy muy
+
+0:13:56.749,0:14:03.259
+interesante muy interesante toda la que
+
+0:14:00.589,0:14:05.809
+empezó a pasar alrededor organizamos un
+
+0:14:03.259,0:14:07.730
+primer evento donde realmente no
+
+0:14:05.809,0:14:10.249
+teníamos ni idea si iba a ir a alguien
+
+0:14:07.730,0:14:13.250
+primero y después quién iba a ir no
+
+0:14:10.249,0:14:16.610
+entendíamos cidade todos periodistas qué
+
+0:14:13.250,0:14:18.170
+que definitivamente es una profesión que
+
+0:14:16.610,0:14:21.230
+está en un momento muy de cambio no hay
+
+0:14:18.170,0:14:22.910
+los medios en un momento medio de crisis
+
+0:14:21.230,0:14:25.040
+pues no tendríamos y decidió accionar de
+
+0:14:22.910,0:14:27.080
+periodistas que querían ver si había
+
+0:14:25.040,0:14:28.670
+algo interesante para hacer ahí si no
+
+0:14:27.080,0:14:31.220
+sabemos los programas son los tiempos
+
+0:14:28.670,0:14:33.560
+nos imaginamos como gente muy ocupada en
+
+0:14:31.220,0:14:36.230
+sus trabajos para viciosamente bien
+
+0:14:33.560,0:14:38.930
+pagados y todo eso satisfechos digamos
+
+0:14:36.230,0:14:40.100
+en sus oficinas ahora es que el primer
+
+0:14:38.930,0:14:43.250
+evento que hicimos que lo hicimos en
+
+0:14:40.100,0:14:45.970
+área 3 el fundamento espectacular donde
+
+0:14:43.250,0:14:48.890
+realmente está perfectamente balanceado
+
+0:14:45.970,0:14:51.620
+programadores y programadores y
+
+0:14:48.890,0:14:53.570
+periodistas donde hicimos algunas
+
+0:14:51.620,0:14:55.550
+presentaciones yo hice una proyección de
+
+0:14:53.570,0:14:57.170
+que decía que podemos en los
+
+0:14:55.550,0:14:59.720
+programadores digamos contando un poco
+
+0:14:57.170,0:15:02.690
+que hacen los programadores básicamente
+
+0:14:59.720,0:15:04.250
+con una idea de explicar por qué a un
+
+0:15:02.690,0:15:07.670
+periodista le podría servir lo que puede
+
+0:15:04.250,0:15:09.320
+hacer un programador entonces estas
+
+0:15:07.670,0:15:12.050
+cosas funcionan bien y había mucha y el
+
+0:15:09.320,0:15:14.420
+networking que se formando estaba todo
+
+0:15:12.050,0:15:15.890
+el tema de la nación ellos ya venían
+
+0:15:14.420,0:15:16.880
+siguiendo con las cosas venía mirando
+
+0:15:15.890,0:15:19.130
+algunas cosas creo que en ese momento
+
+0:15:16.880,0:15:20.930
+haciendo también existía pero ya
+
+0:15:19.130,0:15:24.740
+existiendo inquietud adentro del diario
+
+0:15:20.930,0:15:26.600
+y peralta ramos siempre fue empujando y
+
+0:15:24.740,0:15:29.540
+vamos allá dentro de la enorme
+
+0:15:26.600,0:15:33.860
+corporación fue empujando diversas cosas
+
+0:15:29.540,0:15:37.339
+entonces la verdad es que para mí la
+
+0:15:33.860,0:15:40.100
+comunidad de buenos aires era una cosa
+
+0:15:37.339,0:15:42.290
+realmente poderosa donde realmente yo
+
+0:15:40.100,0:15:44.930
+siento como que se abrió mi red de
+
+0:15:42.290,0:15:47.270
+contactos de manera escandalosa cuando
+
+0:15:44.930,0:15:48.530
+conocí a una parte del mundo y de
+
+0:15:47.270,0:15:50.900
+repente para este puesto a conocer
+
+0:15:48.530,0:15:52.820
+muchísima otra no como gente apasionada
+
+0:15:50.900,0:15:54.560
+también de sus trabajos y unos trabajos
+
+0:15:52.820,0:15:57.360
+muy distintos a los míos y no sólo
+
+0:15:54.560,0:15:58.860
+periodistas sino también diseñadores
+
+0:15:57.360,0:16:01.800
+interfaces diseñadores gráficos
+
+0:15:58.860,0:16:04.140
+realmente se fue abriendo mucho el mundo
+
+0:16:01.800,0:16:06.600
+para mí esa comunidad y la buena onda
+
+0:16:04.140,0:16:08.660
+que rodea esa comunidad es muy
+
+0:16:06.600,0:16:12.630
+impresionante
+
+0:16:08.660,0:16:15.390
+destacó un poco de todo eso lo que debo
+
+0:16:12.630,0:16:17.250
+destacar recién a veces los proyectos no
+
+0:16:15.390,0:16:20.040
+se terminan a veces como decimos no
+
+0:16:17.250,0:16:22.470
+terminan en un éxito gigantesco de que
+
+0:16:20.040,0:16:24.240
+cambiaste el mundo pero en el proceso
+
+0:16:22.470,0:16:26.100
+mientras tanto se genera una comunidad
+
+0:16:24.240,0:16:29.190
+que tiene seguramente fortaleza para
+
+0:16:26.100,0:16:32.610
+buscar otros proyectos mientras todo
+
+0:16:29.190,0:16:36.300
+esto pasaba vos estabas trabajando en el
+
+0:16:32.610,0:16:38.310
+mundo del inmobiliario hasta que fundase
+
+0:16:36.300,0:16:41.339
+en una en algún momento propia era ti y
+
+0:16:38.310,0:16:43.110
+la propuesta de pro para ti es muy linda
+
+0:16:41.339,0:16:45.209
+estéticamente pero yo la destacó por la
+
+0:16:43.110,0:16:46.800
+cantidad de datos que tiene y lo lindo
+
+0:16:45.209,0:16:48.570
+que es para lo que nos gustan los datos
+
+0:16:46.800,0:16:50.459
+de entrar yo no busco propiedad pero
+
+0:16:48.570,0:16:51.980
+entregan de entrevistas de para como
+
+0:16:50.459,0:16:54.260
+estaba ahí es
+
+0:16:51.980,0:16:56.090
+es hermoso empecé a ver cuánto varían
+
+0:16:54.260,0:16:58.010
+las propiedades de mi ciudad comparado
+
+0:16:56.090,0:17:00.590
+cuánto valen las provincias las ciudades
+
+0:16:58.010,0:17:02.810
+vecinas no solamente eso en la ficha de
+
+0:17:00.590,0:17:04.070
+los de los nobles sino que tienes una
+
+0:17:02.810,0:17:06.860
+sección que se llama proper actividad
+
+0:17:04.070,0:17:09.500
+donde liberas datos y en instancia los
+
+0:17:06.860,0:17:11.960
+gobiernos que los usen para complementar
+
+0:17:09.500,0:17:13.820
+colores que tienen contra men cómo se
+
+0:17:11.960,0:17:15.140
+puede ser bueno liberando datos de una
+
+0:17:13.820,0:17:16.880
+empresa privada porque parece que
+
+0:17:15.140,0:17:21.650
+ninguna empresa privada más de esto como
+
+0:17:16.880,0:17:23.240
+lo ves vos bueno mejor cuando haga una
+
+0:17:21.650,0:17:25.580
+programación la programación de nosotros
+
+0:17:23.240,0:17:26.930
+cuando empezamos pero therapy con con un
+
+0:17:25.580,0:17:29.210
+socio porque llamado a abrir glover
+
+0:17:26.930,0:17:31.590
+nosotros empezamos el propio existe más
+
+0:17:29.210,0:17:34.440
+o menos unos siete años
+
+0:17:31.590,0:17:35.820
+y la verdad es que yo soy programa de
+
+0:17:34.440,0:17:39.110
+los economistas como luego bastante
+
+0:17:35.820,0:17:41.460
+menos entre más datos
+
+0:17:39.110,0:17:43.410
+siempre forma parte de medio de nuestras
+
+0:17:41.460,0:17:44.520
+vidas y de nuestros análisis y cuando
+
+0:17:43.410,0:17:46.110
+empezamos a armar un sitio de
+
+0:17:44.520,0:17:49.050
+propiedades era muy claro que iba a
+
+0:17:46.110,0:17:51.990
+tener mucha data alrededor y metida en
+
+0:17:49.050,0:17:53.310
+medio y nada realmente lo que es lo que
+
+0:17:51.990,0:17:55.920
+ha trabajado pero gracias la cantidad de
+
+0:17:53.310,0:17:57.980
+plata que hay hoy hizo el principio
+
+0:17:55.920,0:18:01.410
+activo sobre toda mención de tomás del
+
+0:17:57.980,0:18:04.920
+proceso y el fundador porque nada
+
+0:18:01.410,0:18:07.830
+básicamente siendo el fundador tuve
+
+0:18:04.920,0:18:09.450
+muchos de mis opiniones y realmente en
+
+0:18:07.830,0:18:11.310
+propiedad están muy influidos si quieres
+
+0:18:09.450,0:18:15.270
+por todo el mundo nosotros abiertos y
+
+0:18:11.310,0:18:17.220
+por fax akers y realmente siendo el
+
+0:18:15.270,0:18:19.230
+fundador de mi opinión tenía suficiente
+
+0:18:17.220,0:18:21.300
+de peso para hacer algo que nadie más en
+
+0:18:19.230,0:18:25.640
+el mundo hace que es regalar datos del
+
+0:18:21.300,0:18:28.500
+mercado inmobiliario básicamente son
+
+0:18:25.640,0:18:30.720
+realmente una mina de oro digamos sí sí
+
+0:18:28.500,0:18:32.730
+una está obtención está trabajando uno
+
+0:18:30.720,0:18:34.800
+compra vende propiedades compra para
+
+0:18:32.730,0:18:37.470
+construir digamos ahí y tiene poder de
+
+0:18:34.800,0:18:39.870
+analizar eso es realmente denominador
+
+0:18:37.470,0:18:41.370
+te lo cuestionaron eso internamente en
+
+0:18:39.870,0:18:44.040
+algún momento socios inversionistas no
+
+0:18:41.370,0:18:46.910
+se enteran y se dijeron basta martín por
+
+0:18:44.040,0:18:46.910
+favor deja de hacer
+
+0:18:49.280,0:18:56.220
+no es muy interesante y es pero para mí
+
+0:18:53.190,0:18:58.350
+es como un gran es un aprendizaje que
+
+0:18:56.220,0:19:01.170
+uno tiene que aprovechar los momentos
+
+0:18:58.350,0:19:03.150
+son los que en los que la vida le da
+
+0:19:01.170,0:19:05.820
+poder o que no tiene poder en las
+
+0:19:03.150,0:19:08.460
+organizaciones en las que pertenece para
+
+0:19:05.820,0:19:11.730
+intentar hacer el bien no hacer cosas
+
+0:19:08.460,0:19:13.260
+distintas y empujar cosas que uno
+
+0:19:11.730,0:19:15.300
+desearía que su jefe se hubieran hecho
+
+0:19:13.260,0:19:17.160
+en otro momento digamos ese proceso
+
+0:19:15.300,0:19:19.140
+cuando trabajar una velocidad el mismo
+
+0:19:17.160,0:19:21.420
+diálogo esos datos son de arbolado
+
+0:19:19.140,0:19:24.180
+urbano que muchos años después el dibujo
+
+0:19:21.420,0:19:25.680
+por y te sacaste las ganas y lo usaste
+
+0:19:24.180,0:19:27.480
+para proveer a ti si quieres encontrar
+
+0:19:25.680,0:19:30.810
+rápidamente como un juego que los
+
+0:19:27.480,0:19:32.510
+libreros y lo usaste para ver bien bien
+
+0:19:30.810,0:19:35.130
+dicho para beneficio propio
+
+0:19:32.510,0:19:37.590
+entonces de arbolado urbano cuando
+
+0:19:35.130,0:19:39.750
+cuando lo liberaron para mí era bueno
+
+0:19:37.590,0:19:42.090
+realmente para mí era muy impresionante
+
+0:19:39.750,0:19:43.440
+eso porque como yo sabía que existía ese
+
+0:19:42.090,0:19:46.110
+entonces eso se lo había contado a mis
+
+0:19:43.440,0:19:47.580
+amigos yo habíamos jugado haciendo una
+
+0:19:46.110,0:19:49.560
+interfaz pública es decir a placer
+
+0:19:47.580,0:19:50.730
+podría la dirección tu casa que decíamos
+
+0:19:49.560,0:19:53.340
+tu árbol estado
+
+0:19:50.730,0:19:59.010
+era muy divertida sólo conocía hacia
+
+0:19:53.340,0:20:00.720
+atrás y hubo es una de las cosas también
+
+0:19:59.010,0:20:03.750
+en otra cosa rara que hicimos del pro
+
+0:20:00.720,0:20:06.870
+para ti que es que hay unos árboles que
+
+0:20:03.750,0:20:09.450
+son muy muy comunes en argentina que son
+
+0:20:06.870,0:20:11.880
+plátanos tienen nada que ver con las
+
+0:20:09.450,0:20:14.160
+bananas sino que son unos árboles muy
+
+0:20:11.880,0:20:18.450
+hermosos que dan una sombra popular y
+
+0:20:14.160,0:20:20.460
+tienen la característica de que el fruto
+
+0:20:18.450,0:20:24.270
+estimó que es la flor o el fruto bueno
+
+0:20:20.460,0:20:26.490
+es una pelota que cae en primavera cae
+
+0:20:24.270,0:20:30.000
+al lado de la calle cuando acaba la
+
+0:20:26.490,0:20:32.640
+clase se explota en realmente miles de
+
+0:20:30.000,0:20:35.520
+pequeñas pelusas con un aguijón que
+
+0:20:32.640,0:20:38.190
+flotan en la ciudad y buenos aires por
+
+0:20:35.520,0:20:40.950
+lo menos para para la primera vez más y
+
+0:20:38.190,0:20:43.290
+convierte entró durante un una zona de
+
+0:20:40.950,0:20:46.050
+sufrimiento para los alérgicos porque
+
+0:20:43.290,0:20:48.120
+normalmente para la ocasión cubierta
+
+0:20:46.050,0:20:49.260
+de estas pelusas con aguijones que se
+
+0:20:48.120,0:20:51.780
+clavan en los ojos
+
+0:20:49.260,0:20:54.870
+la conjuntivitis yo no ando anticíclicas
+
+0:20:51.780,0:20:56.340
+de mucho y llorando en bici que todo se
+
+0:20:54.870,0:20:58.710
+te clavan en los ojos te entra en la
+
+0:20:56.340,0:21:01.680
+garganta bueno bastante sufrimiento
+
+0:20:58.710,0:21:03.300
+entonces en property hicimos usando el
+
+0:21:01.680,0:21:06.330
+dato son de arbolado urbano que
+
+0:21:03.300,0:21:07.830
+básicamente tiene relevados todos los
+
+0:21:06.330,0:21:10.200
+cerros los hemos sido buenos aires- la
+
+0:21:07.830,0:21:12.990
+especie la posición geográfica de ese
+
+0:21:10.200,0:21:15.390
+árbol y algunos otros más nuestro es lo
+
+0:21:12.990,0:21:18.180
+que hicimos fue bloquear en un mapa
+
+0:21:15.390,0:21:20.220
+dónde estaban los plátanos entonces si
+
+0:21:18.180,0:21:21.900
+desarrollamos el plátano metro donde
+
+0:21:20.220,0:21:23.730
+bajamos la dirección de la casa que te
+
+0:21:21.900,0:21:26.490
+quieres comprar y nosotros decimos y que
+
+0:21:23.730,0:21:28.830
+te agrada es la cuestión de plátanos en
+
+0:21:26.490,0:21:31.670
+ese lugar
+
+0:21:28.830,0:21:33.870
+esto fue nada realmente algo bastante
+
+0:21:31.670,0:21:36.840
+largo
+
+0:21:33.870,0:21:38.580
+ahí está poniendo en el centro al al
+
+0:21:36.840,0:21:40.350
+cliente final
+
+0:21:38.580,0:21:42.780
+yo tengo una casa para vender la pongo
+
+0:21:40.350,0:21:45.210
+en propiedad y estoy lleno de plátanos
+
+0:21:42.780,0:21:47.550
+yo tú decir martín yo subir que te pago
+
+0:21:45.210,0:21:50.169
+no me escraches con este dato malo si a
+
+0:21:47.550,0:21:52.869
+vos ponés en el centro d
+
+0:21:50.169,0:21:55.960
+el interés al tipo que va a comprar al
+
+0:21:52.869,0:21:58.149
+interesado que él quiere saber y en
+
+0:21:55.960,0:22:00.700
+segundo lugar a la persona que digamos
+
+0:21:58.149,0:22:03.129
+que paga para que los publiquen ayer me
+
+0:22:00.700,0:22:05.529
+decisión interesante difícil
+
+0:22:03.129,0:22:08.289
+y te cuento que cuenta una mucho más
+
+0:22:05.529,0:22:11.799
+importante y mucho más fuerte si quieres
+
+0:22:08.289,0:22:13.809
+en méxico su fin se acuerdan donde tenía
+
+0:22:11.799,0:22:14.950
+pasado un terremoto fuertísimo y
+
+0:22:13.809,0:22:17.379
+nosotros en ese momento teníamos
+
+0:22:14.950,0:22:18.489
+propiedad y méxico pero fue muy
+
+0:22:17.379,0:22:21.489
+impresionante todo lo que pasó y
+
+0:22:18.489,0:22:23.490
+realmente como queda bueno no movilizó
+
+0:22:21.489,0:22:26.490
+un país no
+
+0:22:23.490,0:22:29.429
+y entonces nosotros encontramos que un
+
+0:22:26.490,0:22:32.550
+organismo estatal mexicano hacía un mapa
+
+0:22:29.429,0:22:35.550
+de riesgo sísmico donde estaba la ciudad
+
+0:22:32.550,0:22:37.920
+de mexico la ciudad méxico por como ésta
+
+0:22:35.550,0:22:40.679
+está sentada sobre un suelo creo que muy
+
+0:22:37.920,0:22:42.510
+muy esponjoso entonces esta institución
+
+0:22:40.679,0:22:44.370
+analizando el tipo de suelo y 8 este
+
+0:22:42.510,0:22:47.820
+mapa de riesgo sísmico donde estaba
+
+0:22:44.370,0:22:49.590
+dividido en cinco categorías donde es
+
+0:22:47.820,0:22:52.320
+tan grave era que tengamos afectado un
+
+0:22:49.590,0:22:54.210
+sismo a esa zona la ciudad entonces
+
+0:22:52.320,0:22:57.320
+nosotros dijimos perfecto nosotros
+
+0:22:54.210,0:22:57.320
+agregamos este dato
+
+0:22:59.840,0:23:04.500
+mirado si miramos una propiedad de
+
+0:23:02.550,0:23:06.450
+procuración méxico 11 de méxico nosotros
+
+0:23:04.500,0:23:09.000
+te mostramos ahora la capa de riesgos y
+
+0:23:06.450,0:23:10.710
+pico y te mostrábamos en qué tan grave
+
+0:23:09.000,0:23:15.500
+era donde estaba construida esto
+
+0:23:10.710,0:23:15.500
+realmente los clientes
+
+0:23:15.780,0:23:23.790
+bueno es un dato interesante buena estos
+
+0:23:19.500,0:23:25.260
+tironeos y lo publicaron okina nos duró
+
+0:23:23.790,0:23:27.660
+un tiempo y después lo sacamos también
+
+0:23:25.260,0:23:28.679
+hay muchas realmente lo que nos empezó a
+
+0:23:27.660,0:23:31.860
+pasar es que
+
+0:23:28.679,0:23:34.080
+viste 11 encuentro el propio set y se
+
+0:23:31.860,0:23:35.490
+mete adentro pero de repente borrar la
+
+0:23:34.080,0:23:36.869
+capa pero de repente alguien te empieza
+
+0:23:35.490,0:23:39.509
+a cuestionar y edición en ópera pero
+
+0:23:36.869,0:23:41.429
+para no es lo mismo una casa que está
+
+0:23:39.509,0:23:43.080
+construyendo esta zona de riesgo sísmico
+
+0:23:41.429,0:23:45.240
+de altos riesgos químicos no es lo mismo
+
+0:23:43.080,0:23:46.649
+que sea un edificio entonces podría una
+
+0:23:45.240,0:23:48.240
+casa no le afecta tanto el edificio
+
+0:23:46.649,0:23:49.970
+mucho más viste es como que uno es
+
+0:23:48.240,0:23:52.799
+también un poquito es un poquito
+
+0:23:49.970,0:23:54.360
+riesgoso porque no hay otra pregunta por
+
+0:23:52.799,0:23:57.830
+qué no también conocía por qué no
+
+0:23:54.360,0:23:57.830
+agregan mapas d
+
+0:23:58.880,0:24:02.450
+sobre la ciudad buenos aires historia
+
+0:24:00.650,0:24:03.950
+donde tengan datos digamos propiedad y
+
+0:24:02.450,0:24:06.170
+están muy armados armados de una manera
+
+0:24:03.950,0:24:10.480
+donde nosotros cuando conseguimos datos
+
+0:24:06.170,0:24:12.890
+externos muy fácilmente el sitio de
+
+0:24:10.480,0:24:14.540
+construcción de este papel lo podemos
+
+0:24:12.890,0:24:16.280
+agregar aunque no no lo tengamos para
+
+0:24:14.540,0:24:17.690
+toda parte del país
+
+0:24:16.280,0:24:19.670
+entonces nos habla mucho porque no
+
+0:24:17.690,0:24:22.040
+agregan datos eps de
+
+0:24:19.670,0:24:23.270
+de delitos en la ciudad buenos aires que
+
+0:24:22.040,0:24:25.250
+tiene varias partes que se inundan
+
+0:24:23.270,0:24:27.890
+porque no agregan datos de inundaciones
+
+0:24:25.250,0:24:30.020
+o zonas inundables y nosotros tenemos
+
+0:24:27.890,0:24:33.020
+esos datos pero realmente entendemos que
+
+0:24:30.020,0:24:35.300
+tiene bastante riesgo digamos agregar
+
+0:24:33.020,0:24:37.570
+esos datos y exponerlos si no hay un
+
+0:24:35.300,0:24:41.570
+análisis un poco más serio digamos
+
+0:24:37.570,0:24:43.610
+entonces nosotros muchas veces no
+
+0:24:41.570,0:24:45.200
+estamos en un tironeo de conseguimos un
+
+0:24:43.610,0:24:46.940
+doctor seth hicimos esto lo agregamos y
+
+0:24:45.200,0:24:48.350
+esto cuánto vale la agrega y estamos
+
+0:24:46.940,0:24:50.600
+perjudicando a alguien que no quizás no
+
+0:24:48.350,0:24:53.570
+deberíamos perjudicar y hay bastante
+
+0:24:50.600,0:24:55.490
+reflexión al respecto a veces uno tiene
+
+0:24:53.570,0:24:59.240
+que aguantar la tentación de decir esto
+
+0:24:55.490,0:25:01.880
+lo ponemos y agregamos y no sé qué voy a
+
+0:24:59.240,0:25:03.830
+mirar tableros para tomar decisiones en
+
+0:25:01.880,0:25:06.050
+la empresa que asistir de los datos para
+
+0:25:03.830,0:25:09.619
+tomar decisiones
+
+0:25:06.050,0:25:11.549
+sí sí sí nosotros todo el tiempo estamos
+
+0:25:09.619,0:25:14.429
+básicamente primero todos tenemos una
+
+0:25:11.549,0:25:16.700
+política de hamás se borra nada y todos
+
+0:25:14.429,0:25:20.570
+los datos están acumulados desde siempre
+
+0:25:16.700,0:25:20.570
+electores barato y
+
+0:25:20.919,0:25:26.029
+ante la duda y tanto alguien con una
+
+0:25:23.869,0:25:28.549
+pregunta es impresionante porque puedo
+
+0:25:26.029,0:25:30.019
+esperar respuestas hace cinco años
+
+0:25:28.549,0:25:31.759
+podemos ver tendencias podemos ver un
+
+0:25:30.019,0:25:33.590
+montón de cosas electo así que empezamos
+
+0:25:31.759,0:25:38.940
+por operativo
+
+0:25:33.590,0:25:41.370
+tengo una cosa muy interesante que
+
+0:25:38.940,0:25:43.710
+descubrimos y una funcionalidad que
+
+0:25:41.370,0:25:46.890
+agregamos a preparar basta estrictamente
+
+0:25:43.710,0:25:49.110
+en datos un día nos estamos trabajando
+
+0:25:46.890,0:25:50.940
+en un mapa que llamamos una palabra por
+
+0:25:49.110,0:25:53.190
+barrio donde agarramos y buscamos cuál
+
+0:25:50.940,0:25:54.570
+es la palabra que más se repite la
+
+0:25:53.190,0:25:55.920
+palabra característica que más se repite
+
+0:25:54.570,0:25:58.380
+en los anuncios de cada barrio por
+
+0:25:55.920,0:25:59.970
+ejemplo es un departamento en venta el
+
+0:25:58.380,0:26:03.990
+barrio recoleta en buenos aires dice
+
+0:25:59.970,0:26:06.990
+hermoso departamento luminoso con no
+
+0:26:03.990,0:26:08.610
+sedes con patio y terraza entonces
+
+0:26:06.990,0:26:10.370
+nosotros lo que agarramos vamos contando
+
+0:26:08.610,0:26:12.240
+palabras si nos fijamos con la palabra
+
+0:26:10.370,0:26:13.980
+característica de cada barrio que más se
+
+0:26:12.240,0:26:15.360
+repite y eso es muy interesante porque
+
+0:26:13.980,0:26:17.250
+lo que va contando es como una historia
+
+0:26:15.360,0:26:19.320
+de la ciudadanía yo no puede ir viendo
+
+0:26:17.250,0:26:20.340
+ejemplo que la palabra que más se repite
+
+0:26:19.320,0:26:23.160
+en recoleta
+
+0:26:20.340,0:26:24.660
+a la hora luminoso no es casualidad que
+
+0:26:23.160,0:26:27.980
+recoleta es un barrio que también siendo
+
+0:26:24.660,0:26:27.980
+muy oscuro entonces
+
+0:26:30.770,0:26:40.290
+y nos lo va haciendo es muy linda porque
+
+0:26:36.750,0:26:42.870
+por ejemplo parece de seguridad y no sé
+
+0:26:40.290,0:26:44.160
+en villa crespo por ejemplo aparece la
+
+0:26:42.870,0:26:45.870
+palabra corriente que es cobardía
+
+0:26:44.160,0:26:49.140
+corrientes lo que es muy triste que el
+
+0:26:45.870,0:26:51.179
+barrio de chacarita que es un barrio
+
+0:26:49.140,0:26:53.550
+precioso y va a la casualidad que
+
+0:26:51.179,0:26:55.650
+interior gigantesco en el mayor ciudad
+
+0:26:53.550,0:26:57.570
+en chacarita entonces el barrio es
+
+0:26:55.650,0:26:59.550
+precioso pero la palabra que más se
+
+0:26:57.570,0:27:01.590
+repite la palabra característica como se
+
+0:26:59.550,0:27:05.600
+repite en los anuncios de chacarita es
+
+0:27:01.590,0:27:05.600
+la palabra palermo palermo macri
+
+0:27:06.630,0:27:11.850
+trendy entonces esto esto como que si
+
+0:27:09.990,0:27:13.350
+esto que empezamos a analizar y lo que
+
+0:27:11.850,0:27:14.850
+es lo que escriben las dos inmobiliarias
+
+0:27:13.350,0:27:17.370
+cuando estaban escribiendo escriben dos
+
+0:27:14.850,0:27:18.960
+propiedades empiezan a decir claro
+
+0:27:17.370,0:27:20.820
+acerca de palermo a dos cuadras de
+
+0:27:18.960,0:27:22.620
+palermo o directamente escriben esta
+
+0:27:20.820,0:27:25.830
+propiedad está en palermo exacto lo que
+
+0:27:22.620,0:27:29.040
+nos dio a pensar es en realidad que
+
+0:27:25.830,0:27:31.650
+utilizas una sospecha pero que quizás
+
+0:27:29.040,0:27:34.440
+los usuarios y las lastimaduras cuando
+
+0:27:31.650,0:27:36.950
+publican anuncios en pro para ti no
+
+0:27:34.440,0:27:39.080
+están respetando los límites oficiales
+
+0:27:36.950,0:27:40.970
+sino que agarran me imponen las
+
+0:27:39.080,0:27:42.470
+propiedades lo ponen la longitud de
+
+0:27:40.970,0:27:44.210
+longitud correcta pero cuando tienen que
+
+0:27:42.470,0:27:46.250
+describir en qué barrio hasta ese punto
+
+0:27:44.210,0:27:48.529
+empieza a poner otro barrios de por ahí
+
+0:27:46.250,0:27:50.120
+nos convenga más entonces esto nos lleva
+
+0:27:48.529,0:27:51.830
+al armar otro mapa que es interesante
+
+0:27:50.120,0:27:55.760
+que se llama barrios que quieren ser
+
+0:27:51.830,0:27:58.820
+otros donde nosotros lo pusimos formando
+
+0:27:55.760,0:27:59.990
+es interactiva donde uno por encima de
+
+0:27:58.820,0:28:01.880
+palermo y nosotros te mostramos
+
+0:27:59.990,0:28:03.769
+propiedades que dicen estar en palermo
+
+0:28:01.880,0:28:05.899
+pero geográficamente están en otros
+
+0:28:03.769,0:28:07.760
+barrios y esto muestra cómo hay barrios
+
+0:28:05.899,0:28:11.570
+invasores y barrios inválidos y es muy
+
+0:28:07.760,0:28:14.600
+divertido y la primera sensación de todo
+
+0:28:11.570,0:28:15.799
+esto es esto lo hacen los vendedores
+
+0:28:14.600,0:28:17.269
+porque lo que quieren hacer es mostrar
+
+0:28:15.799,0:28:19.100
+decir lo que la propiedad de nuestro
+
+0:28:17.269,0:28:21.080
+barrio en un barrio más caro y entonces
+
+0:28:19.100,0:28:23.179
+es para vendernos más cara y uno como
+
+0:28:21.080,0:28:25.279
+agarra y uno como programador dice no no
+
+0:28:23.179,0:28:27.169
+no esto lo vamos a corregir porque
+
+0:28:25.279,0:28:28.970
+nosotros tenemos la cartografía oficial
+
+0:28:27.169,0:28:30.889
+de la ciudad entonces yo de esta
+
+0:28:28.970,0:28:32.330
+propiedad que dice estar en este barrio
+
+0:28:30.889,0:28:34.279
+pero está en otro sólo voy a poner el
+
+0:28:32.330,0:28:35.990
+barrio correcto y se pone un poco duro
+
+0:28:34.279,0:28:37.820
+pues cuando uno empieza a mirar y
+
+0:28:35.990,0:28:39.710
+empiezas a analizar lo que todas cuentas
+
+0:28:37.820,0:28:40.450
+que en realidad por supuesto todo se
+
+0:28:39.710,0:28:42.400
+estaba
+
+0:28:40.450,0:28:43.870
+el pícaro que intentaba publicar la
+
+0:28:42.400,0:28:45.640
+propiedad en un barrio más caro que
+
+0:28:43.870,0:28:48.940
+corresponde pero realmente también lo
+
+0:28:45.640,0:28:51.670
+que sé es que la imagen mental
+
+0:28:48.940,0:28:53.650
+el mapa mental que tienen los ciudadanos
+
+0:28:51.670,0:28:56.320
+o los habitantes de la ciudad no
+
+0:28:53.650,0:28:59.050
+corresponde exactamente con el mapa
+
+0:28:56.320,0:29:00.310
+oficial y la gente no sabe en qué barrio
+
+0:28:59.050,0:29:02.380
+vive
+
+0:29:00.310,0:29:03.880
+a veces yo soy yo a veces considera
+
+0:29:02.380,0:29:05.350
+bueno esto debe ser palermo que en
+
+0:29:03.880,0:29:07.030
+realidad no es pago pero no importa la
+
+0:29:05.350,0:29:08.830
+gente considera que entonces nosotros en
+
+0:29:07.030,0:29:10.120
+vez de combatir esto lo que hicimos fue
+
+0:29:08.830,0:29:11.620
+agregamos un operativo y una
+
+0:29:10.120,0:29:12.550
+funcionalidad que es distinta y es así
+
+0:29:11.620,0:29:15.220
+eso cuando
+
+0:29:12.550,0:29:17.230
+[Música]
+
+0:29:15.220,0:29:19.690
+pero nosotros creemos que esta propiedad
+
+0:29:17.230,0:29:21.789
+o aparezca en las dos búsquedas o sea si
+
+0:29:19.690,0:29:24.159
+yo estoy buscando una casa en palermo
+
+0:29:21.789,0:29:26.200
+una casa que esté en chacarita pero dice
+
+0:29:24.159,0:29:28.600
+estar en palermo va a burton y si uno
+
+0:29:26.200,0:29:30.880
+está buscando en chacarita ese mismo
+
+0:29:28.600,0:29:32.350
+anuncio te va a aparecer aunque esta
+
+0:29:30.880,0:29:32.980
+propia propiedad declara que está en
+
+0:29:32.350,0:29:35.230
+palermo
+
+0:29:32.980,0:29:37.150
+entonces lo que es interesante es que
+
+0:29:35.230,0:29:38.919
+esto lo que nos permite es por supuesto
+
+0:29:37.150,0:29:42.880
+a cada tanto se cuela uno y alguien que
+
+0:29:38.919,0:29:44.620
+esté en el piso porque éste no aparece
+
+0:29:42.880,0:29:46.179
+pero realmente cuando alguien está hacer
+
+0:29:44.620,0:29:48.220
+una búsqueda más sofisticada dicen ahora
+
+0:29:46.179,0:29:50.380
+yo no quiero vivir en pablo yo quiero
+
+0:29:48.220,0:29:54.250
+recuperarnos en chacarita porque tiene
+
+0:29:50.380,0:29:56.080
+un precio más barato y tiene el barrio
+
+0:29:54.250,0:29:58.030
+me encanta entonces teníamos
+
+0:29:56.080,0:30:00.190
+satisfaciendo a los dos a los dos
+
+0:29:58.030,0:30:03.730
+usuarios y es muy interesante y esto es
+
+0:30:00.190,0:30:05.230
+realmente una visión basada en datos lo
+
+0:30:03.730,0:30:06.700
+descubrimos porque nos encontramos de
+
+0:30:05.230,0:30:08.890
+repente que estaban haciendo estos
+
+0:30:06.700,0:30:10.680
+trampa y esto romperemos tomás que
+
+0:30:08.890,0:30:12.960
+porque me encanta
+
+0:30:10.680,0:30:14.580
+este es una cosa un patrón que se ve
+
+0:30:12.960,0:30:16.290
+realmente en todo el mundo cuando
+
+0:30:14.580,0:30:18.210
+nosotros en un momento teníamos por
+
+0:30:16.290,0:30:19.710
+operativo brasil y esto se veía muy
+
+0:30:18.210,0:30:21.750
+claramente en san pablo
+
+0:30:19.710,0:30:22.470
+esto sobre en lima esto solo en santiago
+
+0:30:21.750,0:30:24.570
+de chile
+
+0:30:22.470,0:30:27.150
+en bogotá entonces este espectáculo
+
+0:30:24.570,0:30:28.530
+porque este juego de juego que está acá
+
+0:30:27.150,0:30:31.530
+pero en realidad está geográficamente en
+
+0:30:28.530,0:30:33.570
+este otro y este y algunos haciendo
+
+0:30:31.530,0:30:37.590
+trampas y otros tratando de reproducir
+
+0:30:33.570,0:30:41.180
+el mapa mental es realmente apasionante
+
+0:30:37.590,0:30:45.540
+y está bueno por darle una solución a
+
+0:30:41.180,0:30:47.730
+ese problema exacto bueno por lo que veo
+
+0:30:45.540,0:30:50.310
+te nutrir muchísimo de los datos y me
+
+0:30:47.730,0:30:52.020
+preguntes qué pasa cuando tu sentido
+
+0:30:50.310,0:30:54.420
+común tu intuición te dice una cosa y
+
+0:30:52.020,0:30:58.330
+los datos insisten en decirte otra le
+
+0:30:54.420,0:30:59.650
+cree a los datos o seguís tu intuición
+
+0:30:58.330,0:31:05.520
+com
+
+0:30:59.650,0:31:05.520
+la pregunta y la verdad es que
+
+0:31:06.269,0:31:12.150
+creo
+
+0:31:08.210,0:31:17.450
+pensando yo lo que muchas veces nos pasa
+
+0:31:12.150,0:31:19.830
+es que a veces uno entra con una idea de
+
+0:31:17.450,0:31:21.510
+sospecho que este barrio va a ser mucho
+
+0:31:19.830,0:31:23.190
+más caro que otro y cuando realmente ves
+
+0:31:21.510,0:31:26.070
+los números tras cuenta que ese barrio
+
+0:31:23.190,0:31:27.360
+no era más claro y al principio es una
+
+0:31:26.070,0:31:30.540
+desilusión no porque estamos trabajando
+
+0:31:27.360,0:31:32.760
+en esa hipótesis para sacar una nota
+
+0:31:30.540,0:31:36.590
+para el blog o una nota para algún medio
+
+0:31:32.760,0:31:36.590
+es una desilusión porque uno dice bueno
+
+0:31:38.010,0:31:42.690
+pero lo que es muchas veces descubrimos
+
+0:31:39.840,0:31:45.960
+es que se desprenden otras notas de eso
+
+0:31:42.690,0:31:48.060
+ya veces lo que parecía ser aburrido
+
+0:31:45.960,0:31:50.430
+empieza a estar divertido o interesante
+
+0:31:48.060,0:31:53.690
+por algún otro motivo pero la verdad es
+
+0:31:50.430,0:31:55.890
+que la verdad es que somos somos
+
+0:31:53.690,0:31:58.830
+bastante respetuosos somos bastante
+
+0:31:55.890,0:32:01.530
+respetuosos de los datos porque porque
+
+0:31:58.830,0:32:04.070
+como realmente como como te digo si
+
+0:32:01.530,0:32:06.690
+nosotros empezamos por operativo sin
+
+0:32:04.070,0:32:08.760
+recursos muy limitados y la verdad es
+
+0:32:06.690,0:32:10.410
+que lo que teníamos nosotros empezamos a
+
+0:32:08.760,0:32:14.010
+construir nuestra imagen
+
+0:32:10.410,0:32:17.210
+del mundo inmobiliario ahora que
+
+0:32:14.010,0:32:19.620
+teníamos que ser creíbles entonces era
+
+0:32:17.210,0:32:23.010
+teníamos ahora si alguien nos
+
+0:32:19.620,0:32:24.480
+desenmascaraba una mentira o datos
+
+0:32:23.010,0:32:26.810
+demasiado forzados era un poco feo
+
+0:32:24.480,0:32:30.390
+entonces por ejemplo tenemos tenemos un
+
+0:32:26.810,0:32:32.040
+post que hacemos que es un idea de
+
+0:32:30.390,0:32:33.780
+nicolás broma que es un proyecto que
+
+0:32:32.040,0:32:36.870
+trabaja en preparativos hace muchos años
+
+0:32:33.780,0:32:39.180
+eso es si tú eres realmente el motor de
+
+0:32:36.870,0:32:42.150
+trabajo deportiva está
+
+0:32:39.180,0:32:44.070
+es un post muy interesante donde
+
+0:32:42.150,0:32:45.870
+nosotros al final cuando nosotros
+
+0:32:44.070,0:32:48.240
+tenemos tantos datos del mercado
+
+0:32:45.870,0:32:49.710
+inmobiliario de propiedad que se ofrecen
+
+0:32:48.240,0:32:51.270
+de alguna manera lo que empieza a hacer
+
+0:32:49.710,0:32:53.880
+es si quieres un mapa de calor de
+
+0:32:51.270,0:32:55.680
+precios por zonas de la ciudad
+
+0:32:53.880,0:32:56.790
+digámoslo de otra manera vos podría
+
+0:32:55.680,0:33:00.360
+decir que el precio de las propiedades
+
+0:32:56.790,0:33:03.470
+son un proxy o el poder adquisitivo de
+
+0:33:00.360,0:33:06.450
+las personas que viven en esas zonas
+
+0:33:03.470,0:33:09.000
+entonces lo que nosotros empezamos a
+
+0:33:06.450,0:33:12.000
+usar es que empezamos a cruzar el precio
+
+0:33:09.000,0:33:14.250
+por metro cuadrado contra donde otras
+
+0:33:12.000,0:33:16.050
+variables no y una que este crimen
+
+0:33:14.250,0:33:17.640
+tónico que es espectacular es donde
+
+0:33:16.050,0:33:19.620
+nosotros agarramos y cruzamos precio por
+
+0:33:17.640,0:33:21.780
+metro cuadrado contra los resultados de
+
+0:33:19.620,0:33:23.640
+las elecciones en la ciudad donde
+
+0:33:21.780,0:33:26.130
+nosotros operamos el sociómetro amico y
+
+0:33:23.640,0:33:28.020
+coincide cuando miras eso con lo que vos
+
+0:33:26.130,0:33:32.100
+te imaginabas en la gente rica votando a
+
+0:33:28.020,0:33:34.200
+la gente de menos recursos votando ve es
+
+0:33:32.100,0:33:36.210
+espectacular porque porque realmente
+
+0:33:34.200,0:33:38.760
+lado digamos esto lo hicimos siempre con
+
+0:33:36.210,0:33:40.620
+con un dato bueno no sólo el otro loco
+
+0:33:38.760,0:33:43.000
+espero que nuevamente le toque le toca
+
+0:33:40.620,0:33:46.240
+el subsidio dijo
+
+0:33:43.000,0:33:49.060
+esto es muy interesante porque uno tiene
+
+0:33:46.240,0:33:51.580
+estas sospechas pero bueno realmente
+
+0:33:49.060,0:33:53.290
+cuando lo ves cuando lo ves con los
+
+0:33:51.580,0:33:54.490
+datos postal son espectaculares y una
+
+0:33:53.290,0:33:55.720
+cosa que nos pasó es que hay un grupo en
+
+0:33:54.490,0:33:57.850
+facebook muy intenso por eso nada está
+
+0:33:55.720,0:34:01.210
+solo en argentina cuando nosotros
+
+0:33:57.850,0:34:02.680
+posteamos los mapas de cómo daban estos
+
+0:34:01.210,0:34:03.850
+mapas lo hicimos para una solución
+
+0:34:02.680,0:34:06.340
+opción de la ciudad bueno sabemos han
+
+0:34:03.850,0:34:08.679
+quedado clarísimo como la parte más rica
+
+0:34:06.340,0:34:11.710
+de la ciudad ha votado no solamente al
+
+0:34:08.679,0:34:14.510
+pro y la parte más pobre de la ciudad si
+
+0:34:11.710,0:34:16.280
+queréis votar al frente para la victoria
+
+0:34:14.510,0:34:17.690
+y cuando posteamos nosotros este
+
+0:34:16.280,0:34:19.880
+artículo nosotros este mismo artículo
+
+0:34:17.690,0:34:22.100
+bueno por un lado funciona particular
+
+0:34:19.880,0:34:24.230
+para los medios y clarín los tubos lo
+
+0:34:22.100,0:34:25.850
+tuvo un montón de tiempo ahí en un lugar
+
+0:34:24.230,0:34:27.770
+de papá de bajón funcionamos de las
+
+0:34:25.850,0:34:29.810
+redes sociales y cuando nosotros tenemos
+
+0:34:27.770,0:34:31.730
+este artículo en
+
+0:34:29.810,0:34:33.890
+en datos hay un argentino este grupo de
+
+0:34:31.730,0:34:36.020
+facebook que está buenísimo empezaron a
+
+0:34:33.890,0:34:39.080
+pedirnos data bueno a ver tipo muestre
+
+0:34:36.020,0:34:41.360
+muestre los datos a través de estos y la
+
+0:34:39.080,0:34:46.840
+verdad que estuvo bueno y como
+
+0:34:41.360,0:34:46.840
+viste cómo va un poquito en pánico
+
+0:34:49.030,0:34:52.270
+los peces
+
+0:34:59.170,0:35:04.850
+empiezan a preguntar a ver cómo sólo
+
+0:35:02.470,0:35:12.320
+porque podemos mostrar como realmente
+
+0:35:04.850,0:35:13.730
+todos los actos que tengamos y martín el
+
+0:35:12.320,0:35:15.290
+sector privado de la sensación que en
+
+0:35:13.730,0:35:18.080
+algunos casos se usan cada vez más datos
+
+0:35:15.290,0:35:19.670
+pensás que en el sector público se usan
+
+0:35:18.080,0:35:20.750
+los datos al nivel por ejemplo que
+
+0:35:19.670,0:35:22.640
+buscan pero para ti
+
+0:35:20.750,0:35:24.640
+ahí hay ahí esa conciencia dentro de los
+
+0:35:22.640,0:35:27.329
+gobiernos
+
+0:35:24.640,0:35:29.829
+bueno la verdad es que los gobiernos y
+
+0:35:27.329,0:35:32.200
+los gobiernos por muchos años fueron los
+
+0:35:29.829,0:35:36.130
+que los que producían entonces está
+
+0:35:32.200,0:35:38.579
+cantidad enorme de datos lo usaban lo
+
+0:35:36.130,0:35:41.650
+consumían los funcionarios que piden
+
+0:35:38.579,0:35:43.390
+trabaja dentro del tiempo tableros o sea
+
+0:35:41.650,0:35:46.490
+usan los datos como un insumo para tomar
+
+0:35:43.390,0:35:48.800
+decisiones mucho poco o nada
+
+0:35:46.490,0:35:54.760
+el valor es que también mi época fue más
+
+0:35:48.800,0:35:54.760
+en 2003 yo me imagino que sí que sí
+
+0:35:54.900,0:35:58.920
+yo realmente creería que sí ya sé
+
+0:35:57.180,0:36:01.410
+digamos en diversos momentos que
+
+0:35:58.920,0:36:04.200
+nosotros tuvimos tuvimos contacto con
+
+0:36:01.410,0:36:06.150
+diversas áreas del gobierno realmente
+
+0:36:04.200,0:36:07.529
+vemos que nos pide siempre están
+
+0:36:06.150,0:36:10.170
+pidiendo los otros y tienen bastante
+
+0:36:07.529,0:36:11.640
+claro lo que nos piden que lo que nos
+
+0:36:10.170,0:36:14.010
+piden que les procesamos lo que le piden
+
+0:36:11.640,0:36:16.349
+nos piden que les demos entonces yo
+
+0:36:14.010,0:36:20.390
+tengo tengo la idea de que de que los
+
+0:36:16.349,0:36:20.390
+usan no tengo lo tengo claro
+
+0:36:21.310,0:36:26.690
+lamentablemente no puedo no sé qué pasa
+
+0:36:23.990,0:36:29.870
+ya veremos pero me gustaría crear que
+
+0:36:26.690,0:36:32.990
+los usan bien a vos te parece que a un
+
+0:36:29.870,0:36:34.670
+funcionario yo me estoy empezando a
+
+0:36:32.990,0:36:36.530
+sospechar y no tengo ningún dato pero
+
+0:36:34.670,0:36:39.110
+vos me contás que hiciste algo muy
+
+0:36:36.530,0:36:41.360
+interesante para mezclar precio por
+
+0:36:39.110,0:36:42.680
+metro cuadrado y resultado electoral ese
+
+0:36:41.360,0:36:44.240
+es un dato que a un funcionario le
+
+0:36:42.680,0:36:46.760
+interesa en tanto que pertenece un
+
+0:36:44.240,0:36:48.410
+partido que quiere ganar las elecciones
+
+0:36:46.760,0:36:50.120
+ese dato te parece a vos que le llama
+
+0:36:48.410,0:36:52.670
+mucho más la atención a los funcionarios
+
+0:36:50.120,0:36:54.410
+el dato en el mundo electoral que cuando
+
+0:36:52.670,0:36:56.810
+tiran un dato que le puede servir para
+
+0:36:54.410,0:36:59.030
+tomar una decisión de política pública o
+
+0:36:56.810,0:37:00.560
+si el funcionario le importan en igual
+
+0:36:59.030,0:37:04.010
+medida los datos electorales que los
+
+0:37:00.560,0:37:07.330
+datos para el beneficio de la ciudadanía
+
+0:37:04.010,0:37:07.330
+pero qué
+
+0:37:09.360,0:37:15.550
+doy mi opinión sin intentar denunciado
+
+0:37:13.120,0:37:18.550
+yo creo que las campañas electorales
+
+0:37:15.550,0:37:22.750
+están bastante sofisticadas últimamente
+
+0:37:18.550,0:37:24.550
+y nos parece que lo que realmente son me
+
+0:37:22.750,0:37:26.500
+parece que un poco escapan no como que
+
+0:37:24.550,0:37:30.010
+si quieres los funcionarios los
+
+0:37:26.500,0:37:31.840
+políticos tienen más el ese tacto
+
+0:37:30.010,0:37:33.670
+político pero me parece que la parte más
+
+0:37:31.840,0:37:35.650
+sofisticada de datos viene viene por
+
+0:37:33.670,0:37:37.800
+otro lado y no creo que sean los
+
+0:37:35.650,0:37:37.800
+funcionarios
+
+0:37:38.470,0:37:43.450
+o los políticos si quieres lo que están
+
+0:37:41.290,0:37:45.310
+los que están analizando esos datos me
+
+0:37:43.450,0:37:49.030
+parece que philip quizás él solo puede
+
+0:37:45.310,0:37:50.140
+ver como como interesante cuando uno ve
+
+0:37:49.030,0:37:52.570
+los datos que tenemos nosotros como
+
+0:37:50.140,0:37:55.360
+propiedad y se imaginan los datos que
+
+0:37:52.570,0:37:57.610
+están adentro del estado y sabemos que
+
+0:37:55.360,0:38:00.070
+bueno nada también están bastante
+
+0:37:57.610,0:38:02.800
+borroneados los límites no entre entre
+
+0:38:00.070,0:38:05.530
+el estado y los partidos y el uso por lo
+
+0:38:02.800,0:38:08.680
+menos en la ciudad buenos aires el uso y
+
+0:38:05.530,0:38:11.320
+abuso de sms emails las campañas
+
+0:38:08.680,0:38:13.970
+electorales es bastante bastante gruesa
+
+0:38:11.320,0:38:16.970
+lo que termina pasando entonces
+
+0:38:13.970,0:38:20.090
+yo yo creo que con los datos que tienen
+
+0:38:16.970,0:38:22.520
+los datos que tienen los estados
+
+0:38:20.090,0:38:25.100
+más que suficiente personal unas
+
+0:38:22.520,0:38:25.730
+campañas más para que te hagas mucho más
+
+0:38:25.100,0:38:27.410
+específicas
+
+0:38:25.730,0:38:29.450
+no hace falta dejar los datos de los
+
+0:38:27.410,0:38:31.250
+privados pero bueno ojo hay tura dos
+
+0:38:29.450,0:38:35.450
+interesantes conviene para el teléfono
+
+0:38:31.250,0:38:37.780
+de los vascos última pregunta si tú es
+
+0:38:35.450,0:38:39.980
+última última pregunta más martín
+
+0:38:37.780,0:38:42.230
+supongamos que no se haga ninguna
+
+0:38:39.980,0:38:44.720
+diferencia económica te llama a macri o
+
+0:38:42.230,0:38:47.060
+la recta presidente o el gordo ciudad
+
+0:38:44.720,0:38:48.980
+dice martín quiero que seas mi director
+
+0:38:47.060,0:38:50.570
+de datos abiertos quiero que aplique
+
+0:38:48.980,0:38:52.430
+toda tu experiencia aquí y ganas
+
+0:38:50.570,0:38:55.010
+exactamente lo mismo no importa cuánto
+
+0:38:52.430,0:39:00.110
+sea en lo que gana en el sector privado
+
+0:38:55.010,0:39:02.740
+de pasar y es mira yo cuando trabajo el
+
+0:39:00.110,0:39:02.740
+gobierno de la ciudad
+
+0:39:03.240,0:39:08.820
+a mí me encantaba mi trabajo de denuncia
+
+0:39:05.100,0:39:10.950
+porque como te digo digamos estaba un
+
+0:39:08.820,0:39:12.900
+poco alineado estaba alineado
+
+0:39:10.950,0:39:14.580
+políticamente en un premiado software
+
+0:39:12.900,0:39:17.010
+digamos estado haciendo una migración es
+
+0:39:14.580,0:39:20.310
+ser libre y para mí eso era espectacular
+
+0:39:17.010,0:39:22.200
+digamos que el estado el estado
+
+0:39:20.310,0:39:24.060
+argentino dejó ahora bueno el gobierno
+
+0:39:22.200,0:39:26.850
+de la ciudad dejará de pagar licencias a
+
+0:39:24.060,0:39:30.210
+maestros para mí era un cambio bastante
+
+0:39:26.850,0:39:32.580
+bastante reconfortante y al mismo tiempo
+
+0:39:30.210,0:39:34.230
+cuando uno en oratoria de la época
+
+0:39:32.580,0:39:35.910
+todavía no había tantos sl
+
+0:39:34.230,0:39:37.530
+yo no podía haber digamos los keywords
+
+0:39:35.910,0:39:40.470
+que buscaba la gente móvil y cómo llegar
+
+0:39:37.530,0:39:42.119
+al sitio y yo pediría perfectamente como
+
+0:39:40.470,0:39:44.850
+sea este tipo de un problema lo voleó
+
+0:39:42.119,0:39:46.740
+cayó en la guantera consumada la guía de
+
+0:39:44.850,0:39:47.640
+trámites y entendió cómo restaurar su
+
+0:39:46.740,0:39:51.300
+problema para mí esto era muy
+
+0:39:47.640,0:39:54.330
+satisfactorio y yo realmente me gustaría
+
+0:39:51.300,0:39:55.740
+volver a trabajar el estado en algún
+
+0:39:54.330,0:39:58.140
+momento
+
+0:39:55.740,0:40:00.930
+pero por supuesto siempre dentro de un
+
+0:39:58.140,0:40:03.470
+proyecto político del que se sienta fin
+
+0:40:00.930,0:40:06.940
+me parece que
+
+0:40:03.470,0:40:09.980
+los datos por los bordos muy bien
+
+0:40:06.940,0:40:12.080
+necesitaría necesito me gustaría hacer
+
+0:40:09.980,0:40:15.950
+tenía ser algo me gustaría ser el cto de
+
+0:40:12.080,0:40:18.050
+un gobierno que me guste si primero
+
+0:40:15.950,0:40:20.450
+habría que inventarlo al cargo porque no
+
+0:40:18.050,0:40:22.640
+sé si está claro quién es el 7 o de un
+
+0:40:20.450,0:40:24.890
+gobierno pero pero como tengo soporte no
+
+0:40:22.640,0:40:27.410
+entiendo por ejemplo que en el otro pero
+
+0:40:24.890,0:40:32.090
+el gobierno de obama por lo menos había
+
+0:40:27.410,0:40:35.869
+un choque y realmente hay cosas paso de
+
+0:40:32.090,0:40:38.270
+arriba para abajo no para mí nada me
+
+0:40:35.869,0:40:40.250
+pasó por el estado que tengo muchísimo
+
+0:40:38.270,0:40:42.770
+cariño me parece que se pueden cambiar
+
+0:40:40.250,0:40:45.290
+cosas enormes del estado en decisión
+
+0:40:42.770,0:40:48.650
+algún momento me encantaría volver no
+
+0:40:45.290,0:40:49.700
+todavía bien martín nos pasamos el
+
+0:40:48.650,0:40:51.680
+tiempo pero creo que está totalmente
+
+0:40:49.700,0:40:53.240
+valió la pena me encantaron los casos
+
+0:40:51.680,0:40:55.849
+que contraste creo que van a ser súper
+
+0:40:53.240,0:41:01.770
+interesante para para los que quieren
+
+0:40:55.849,0:41:05.130
+empezar a usar datos por supuesto
+
+0:41:01.770,0:41:08.010
+que para mí gran parte de lo que
+
+0:41:05.130,0:41:10.320
+nosotros hicimos en proto gratis
+
+0:41:08.010,0:41:12.630
+y el éxito es que nosotros hicimos un
+
+0:41:10.320,0:41:14.810
+propósito realmente tenemos un equipo
+
+0:41:12.630,0:41:17.220
+que es muy multidisciplinario y que
+
+0:41:14.810,0:41:20.940
+realmente hay una mezcla una mezcla de
+
+0:41:17.220,0:41:23.010
+personas pensando y aportando que eso le
+
+0:41:20.940,0:41:25.950
+agrega una complejidad que no es fácil
+
+0:41:23.010,0:41:27.300
+de ver y a veces yo miro dormido me
+
+0:41:25.950,0:41:31.440
+parece que tengo como una especie de
+
+0:41:27.300,0:41:33.120
+dream team existe que nada que no no es
+
+0:41:31.440,0:41:35.460
+muy común pero no tengo a periodistas
+
+0:41:33.120,0:41:37.620
+tenemos economistas tenemos un geógrafo
+
+0:41:35.460,0:41:39.660
+tenemos un físico entonces realmente hay
+
+0:41:37.620,0:41:42.630
+tanta gente distinta y tenemos a mí que
+
+0:41:39.660,0:41:45.120
+no tenía el cbc digo ay qué tan distinta
+
+0:41:42.630,0:41:47.580
+pensando sobre sobre las cosas que
+
+0:41:45.120,0:41:48.780
+hacemos que me parece mucha riqueza de
+
+0:41:47.580,0:41:50.760
+mi parte que se valora que tratar de
+
+0:41:48.780,0:41:53.280
+armar mano se lo sugerimos a los
+
+0:41:50.760,0:41:55.440
+gobiernos entonces que no piensen en en
+
+0:41:53.280,0:41:57.780
+comprar servidores y conseguir rateros
+
+0:41:55.440,0:42:00.420
+sino que tengan una mirada bien integral
+
+0:41:57.780,0:42:01.890
+de lo que pasa con la tecnología y los
+
+0:42:00.420,0:42:04.460
+datos para llegar a conclusiones
+
+0:42:01.890,0:42:04.460
+interesantes
+
+0:42:04.960,0:42:09.110
+este podcast se llama cadena de datos
+
+0:42:07.370,0:42:10.970
+porque voy encadenando invitados quería
+
+0:42:09.110,0:42:13.250
+preguntarte a que dos o tres personas sí
+
+0:42:10.970,0:42:16.610
+o sí tengo que entrevistar para conocer
+
+0:42:13.250,0:42:19.750
+más de datos abiertos de gobiernos y
+
+0:42:16.610,0:42:23.510
+demás bueno lo veréis bastante bien
+
+0:42:19.750,0:42:26.990
+venimos ponte bien te lo vengo siguiendo
+
+0:42:23.510,0:42:29.050
+y veniste gracias para mí
+
+0:42:26.990,0:42:31.310
+andy top es una persona que es clave
+
+0:42:29.050,0:42:34.100
+hago una pausa hago un llamado a la
+
+0:42:31.310,0:42:37.450
+solidaridad si escucha esto que responde
+
+0:42:34.100,0:42:37.450
+el mail que le mande hace dos semanas
+
+0:42:37.780,0:42:45.140
+es muy especial para mí
+
+0:42:41.990,0:42:48.500
+el líbero a datos del csb en formato
+
+0:42:45.140,0:42:51.740
+reutilizable el 2007 en su blog es el
+
+0:42:48.500,0:42:55.070
+mejor lo que hicieron cuando nosotros
+
+0:42:51.740,0:42:57.590
+desde hackers queríamos usar toda una
+
+0:42:55.070,0:43:00.110
+visualización en tiempo real de las
+
+0:42:57.590,0:43:01.839
+elecciones el vamos corsé y veníamos sin
+
+0:43:00.110,0:43:04.390
+compasión
+
+0:43:01.839,0:43:08.009
+inventando cómo hacer todo y alguien
+
+0:43:04.390,0:43:08.009
+dijo no les voy a llevar una persona
+
+0:43:12.849,0:43:21.400
+y bueno entonces me parece que andy es
+
+0:43:18.539,0:43:25.029
+andy es espectacular y también me parece
+
+0:43:21.400,0:43:29.739
+un poco poco radial pero me parece que
+
+0:43:25.029,0:43:31.869
+el trabajo para la mago es una persona
+
+0:43:29.739,0:43:35.109
+los grabados con el que no se publicó
+
+0:43:31.869,0:43:39.180
+todavía es un experto en visualizaciones
+
+0:43:35.109,0:43:39.180
+no se tienen a poco radiales
+
+0:43:39.489,0:43:46.630
+ya sea pública mañana pasado perfecto
+
+0:43:43.150,0:43:48.819
+perfecto bueno entonces son nosotros son
+
+0:43:46.630,0:43:51.420
+mis sugerencias y tienes alguno más si
+
+0:43:48.819,0:43:51.420
+no está bien
+
+0:43:51.500,0:43:56.410
+[Música]
+
+0:43:53.050,0:43:56.410
+pero quizás
+
+0:43:58.869,0:44:05.410
+interesante a disculpa mientras intente
+
+0:44:01.130,0:44:05.410
+que consigas alguien deja otras tres más
+
+0:44:05.740,0:44:12.170
+o sino de proyecto de wikis gate que es
+
+0:44:09.350,0:44:14.690
+en la parte de datos de wikipedia y si
+
+0:44:12.170,0:44:16.310
+si tengo tengo alguien pero interesante
+
+0:44:14.690,0:44:18.170
+que me lo proponga porque me parece que
+
+0:44:16.310,0:44:19.550
+hay una visión ahí para sumar de fuera
+
+0:44:18.170,0:44:22.220
+de los gobiernos y de un proyecto tan
+
+0:44:19.550,0:44:24.080
+interesante como como detrás de
+
+0:44:22.220,0:44:26.000
+wikipedia bueno martín un millón de
+
+0:44:24.080,0:44:28.280
+gracias por esta conversación
+
+0:44:26.000,0:44:30.680
+muchísimas gracias no me confundo varias
+
+0:44:28.280,0:44:36.040
+cosas bueno para la próxima entonces un
+
+0:44:30.680,0:44:36.040
+abrazo al hospital punto
+
