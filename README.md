@@ -1,7 +1,7 @@
 # Cadena de datos
 
 Podcast con entrevistas a referentes de los datoas abiertos en Argentina.  
-Se colocan los [audios](/audios-y-rss/audios) manualmente, se agregan [textos estructurados](/audios-y-rss/audios)/ruso.json y una [imagen](/audios-y-rss/audios/ruso.png) para cada uno.  
+Se colocan los [audios](/audios-y-rss/audios) manualmente, se agregan [textos estructurados](/audios-y-rss/audios/ruso.json) y una [imagen](/audios-y-rss/audios/ruso.png) para cada uno.  
 Finalmente con [un script](/audios-y-rss/generate-rss.py) se generan los archivos HTML (a través de un [template](https://colorlib.com/wp/template/podca/) almacenado [en este repo](/audios-y-rss/templates-html)).  
 Esto genera [un sitio web](https://avdata99.github.io/cadena-de-datos/) que público gracias a _GitHub pages_.  
 
