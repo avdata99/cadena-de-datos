@@ -6,6 +6,7 @@ Finalmente con [un script](/audios-y-rss/generate-rss.py) se generan los archivo
 Esto genera [un sitio web](https://avdata99.github.io/cadena-de-datos/) que público gracias a _GitHub pages_.  
 
 Además se generan feers RSS compatibles con las plataformas mas conocidas (Spotifu, Itunes, iVoox o cualquiera) vía [templates RSS](/audios-y-rss/templates-rss) que incluyen [info general del podcast](/audios-y-rss/audios/info.json).  
+![publi](img/publi-readme.png)
 
 ## Transcripciones de las entrevistas
 
