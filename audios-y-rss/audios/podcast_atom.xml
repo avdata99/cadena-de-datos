@@ -6,7 +6,7 @@
         <description>Podcast con entrevistas a referentes de los datos abiertos en Argentina. Las personas consultadas me sugieren nuevos posibles entrevistados que alimentan este podcast</description>
         <language>es-ar</language>
         <ttl>1440</ttl>
-        <lastBuildDate>Mon, 04 Feb 2019 23:27:35 +0300</lastBuildDate>
+        <lastBuildDate>Wed, 06 Feb 2019 12:20:45 +0300</lastBuildDate>
         <author>Andrés Vázquez</author>
         <image>
             <title>Cadena de datos</title>
@@ -730,12 +730,15 @@
             <li>2: No es de mis prioridades, yo me dedico a otra cosa, no a datos</li>
             <li>3: Necesito la autorización de mi jefe (decisión política)</li>
             <li>Hay guías de apertura específicas (anti-corrupción, cambio climático, etc)</li>
-            <li>No hay políticas de apertura fuera de los estados.</li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li>Hay que mirar a: </li>
-            <li>Hay que mirar a: </li>
+            <li>No hay muchas políticas de apertura fuera de los estados.</li>
+            <li>En UK regularon que las empresas de más de 250 empleados deben publicar datos de salarios para conocer brecha salarial.</li>
+            <li>Es muy dificil medir el impacto de las políticas de datos abiertos (hay que diferenciarlo de resultados)</li>
+            <li>Ejemplos de impacto son las aplicaciones de transporte</li>
+            <li>En Londres se abrieron los datos en tiempo real de transporte y una app pública que fue ampliamente superada por una de la comunidad (Citymapper)</li>
+            <li>Están bien los perfiles mixtos pero sigue siendo válido que cada quien (periodistas y programadores) ocupen los roles que conocen bien.</li>
+            <li>Una forma de combate a las fake news son los datos bien analizados.</li>
+            <li>Hay que mirar a: en Susana Soto de Abriendo Datos Costa Rica</li>
+            <li>Hay que mirar a: Daniel Carranza de DataUY</li>
             </ul>]]></description>
             
             <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e18-carfi.mp3" length="30851179" type="audio/mpeg"/>
