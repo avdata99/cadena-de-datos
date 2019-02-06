@@ -13,7 +13,7 @@
         
         <language>es-ar</language>
         <ttl>1440</ttl>
-        <lastBuildDate>Sun, 03 Feb 2019 20:08:22 +0300</lastBuildDate>
+        <lastBuildDate>Mon, 04 Feb 2019 23:27:35 +0300</lastBuildDate>
 
         <image>
             <title>Cadena de datos</title>
@@ -666,6 +666,39 @@
             <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e17-julian-moyano.mp3" length="32533133" type="audio/mpeg"/>
 
             <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e17-julian-moyano.jpg" />
+
+        </item>
+        
+        <item>
+            <title>Entrevista con Natalia Carfi [s01e18]</title>
+            <guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e18-carfi.html</guid>
+            <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e18-carfi.html</link>
+            <pubDate>Mon, 04 Feb 2019 19:00:00 +0300</pubDate>
+            <description><![CDATA[Natalia es licenciada en Ciencias Políticas. Actualmente es Vicedirectora de la Carta Internacional de Datos Abiertos (OpenDataCharter). Fue Directora de Gobierno Abierto de la República Argentina; Coordinadora de Gobierno Abierto de la Ciudad de Buenos Aires; Coordinadora de Gobierno Abierto de Secretaría General de la Presidencia de Chile
+            <br />Ideas: <ul>
+            <li>Natalia viene de las Ciencias Sociales pero en sus estudios en la UBA no se tocaba el tema de Gobierno Abierto.</li>
+            <li>Los 6 principios de OpenDataCharter son un buen resumen de lo que se puede esperar de un gobierno.</li>
+            <li>Hay una comunidad muy potente que pelea contra el Open Washing, cualquier cierre de políticas de apertura no va a pasar desapercibida.</li>
+            <li>La comunidad de Latinoamérica no tiene nada que envidiarle a la del resto del mundo.</li>
+            <li>Muchos gobiernos querían arrancar con la regulación porque consideraban que sin ella no iban a poder abrir un portal.</li>
+            <li>La tecnología o plataforma para portales ya existe.</li>
+            <li>Razones más comunes por las que no se abren datos (encuenta a multiples funcionarios) 1: Que van a hacer con mis datos? lo van a malinterpretar?</li>
+            <li>2: No es de mis prioridades, yo me dedico a otra cosa, no a datos</li>
+            <li>3: Necesito la autorización de mi jefe (decisión política)</li>
+            <li>Hay guías de apertura específicas (anti-corrupción, cambio climático, etc)</li>
+            <li>No hay políticas de apertura fuera de los estados.</li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li>Hay que mirar a: </li>
+            <li>Hay que mirar a: </li>
+            </ul>]]>
+            </description>
+            <itunes:summary>Natalia es licenciada en Ciencias Políticas. Actualmente es Vicedirectora de la Carta Internacional de Datos Abiertos (OpenDataCharter). Fue Directora de Gobierno Abierto de la República Argentina; Coordinadora de Gobierno Abierto de la Ciudad de Buenos Aires; Coordinadora de Gobierno Abierto de Secretaría General de la Presidencia de Chile</itunes:summary>
+            
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e18-carfi.mp3" length="30851179" type="audio/mpeg"/>
+
+            <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e18-carfi.jpg" />
 
         </item>
         
