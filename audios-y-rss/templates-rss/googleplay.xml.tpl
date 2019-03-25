@@ -21,9 +21,10 @@
         <item>
 			<title>{{ item.titulo }}</title>
 			<googleplay:description><![CDATA[{{ item.descripcion }}
+			{% if item.ideas %}
             <br />Ideas: <ul>{% for idea in item.ideas %}
             <li>{{ idea }}</li>{% endfor %}
-            </ul>]]>
+            </ul>]]>{% endif %}
 			 </googleplay:description>
 			<googleplay:author>{{ autor }}</googleplay:author>
 			<googleplay:image href='{{ item.url_imagen }}'/>

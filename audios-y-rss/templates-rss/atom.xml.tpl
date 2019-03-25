@@ -36,9 +36,12 @@
             <pubDate>{{ item.fecha_publicacion }}</pubDate>
             <author>{{autor}}</author>
             <description><![CDATA[{{ item.descripcion }}
+            {% if item.ideas %}
             <br />Ideas: <ul>{% for idea in item.ideas %}
             <li>{{ idea }}</li>{% endfor %}
-            </ul>]]></description>
+            </ul>]]>{% endif %}
+            </description>
+            
             {# aqui va la URL al audio, lo importante #}
             <enclosure url="{{ item.url_audio }}" length="{{ item.audio_size_bytes }}" type="audio/mpeg"/>
 

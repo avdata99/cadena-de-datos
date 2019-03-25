@@ -41,9 +41,10 @@
             <link>{{ item.link }}</link>
             <pubDate>{{ item.fecha_publicacion }}</pubDate>
             <description><![CDATA[{{ item.descripcion }}
+            {% if item.ideas %}
             <br />Ideas: <ul>{% for idea in item.ideas %}
             <li>{{ idea }}</li>{% endfor %}
-            </ul>]]>
+            </ul>]]>{% endif %}
             </description>
             <itunes:summary>{{ item.descripcion }}</itunes:summary>
             {# aqui va la URL al audio, lo importante #}
