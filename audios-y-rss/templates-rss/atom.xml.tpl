@@ -8,6 +8,7 @@
         <ttl>{{ ttl_minutos }}</ttl>
         <lastBuildDate>{{ ultima_compilacion }}</lastBuildDate>
         <author>{{autor}}</author>
+        <itunes:author>{{ autor }}</itunes:author>
         <image>
             <title>{{ imagen_titulo }}</title>
             <url>{{ imagen_url }}</url>

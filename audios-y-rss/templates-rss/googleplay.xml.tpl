@@ -10,7 +10,7 @@
 		<googleplay:image href='{{ imagen_url }}'/>
 		<googleplay:description>{{ descripcion }}</googleplay:description>
 		<googleplay:explicit>No</googleplay:explicit>
-
+		<itunes:author>{{ autor }}</itunes:author>
 		<itunes:owner>
             <itunes:name>{{ autor }}</itunes:name>
             <itunes:email>{{ editor_email }}</itunes:email>
