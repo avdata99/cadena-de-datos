@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
     <channel>
         <title>{{ titulo }}</title>
         <link>{{ link }}</link>
@@ -13,6 +13,11 @@
             <url>{{ imagen_url }}</url>
             <link>{{ imagen_link }}</link>
         </image>
+
+        <itunes:owner>
+            <itunes:name>{{ autor }}</itunes:name>
+            <itunes:email>{{ editor_email }}</itunes:email>
+        </itunes:owner>
 
         {% if webmaster_email %}
         <webMaster>{{ webmaster_email }}</webMaster>

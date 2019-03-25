@@ -6,6 +6,12 @@
         <description>{{ descripcion }}</description>
         <itunes:summary>{{ descripcion }}</itunes:summary>
         <itunes:author>{{ autor }}</itunes:author>
+
+        <itunes:owner>
+            <itunes:name>{{ autor }}</itunes:name>
+            <itunes:email>{{ editor_email }}</itunes:email>
+        </itunes:owner>
+        
         {% for category in itunes_categories %}
             <itunes:category text="{{ category.0 }}">{% if category.1 %}<itunes:category text="{{ category.1 }}"/>{% endif %}</itunes:category>
         {% endfor %}

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 	<channel>
 		<title> {{ titulo }}</title>
 		<link>{{ link }}</link>
@@ -10,6 +10,12 @@
 		<googleplay:image href='{{ imagen_url }}'/>
 		<googleplay:description>{{ descripcion }}</googleplay:description>
 		<googleplay:explicit>No</googleplay:explicit>
+
+		<itunes:owner>
+            <itunes:name>{{ autor }}</itunes:name>
+            <itunes:email>{{ editor_email }}</itunes:email>
+        </itunes:owner>
+
 		<!-- <googleplay:category text="CATEGORY NAME HERE"/> -->
         {% for item in episodios %}
         <item>
