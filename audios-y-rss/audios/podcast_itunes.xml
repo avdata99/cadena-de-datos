@@ -6,6 +6,12 @@
         <description>Podcast con entrevistas a referentes de los datos abiertos en Argentina. Las personas consultadas me sugieren nuevos posibles entrevistados que alimentan este podcast</description>
         <itunes:summary>Podcast con entrevistas a referentes de los datos abiertos en Argentina. Las personas consultadas me sugieren nuevos posibles entrevistados que alimentan este podcast</itunes:summary>
         <itunes:author>Andrés Vázquez</itunes:author>
+
+        <itunes:owner>
+            <itunes:name>Andrés Vázquez</itunes:name>
+            <itunes:email>andres@data99.com.ar</itunes:email>
+        </itunes:owner>
+        
         
             <itunes:category text="Politics"></itunes:category>
         
@@ -13,7 +19,7 @@
         
         <language>es-ar</language>
         <ttl>1440</ttl>
-        <lastBuildDate>Fri, 22 Mar 2019 20:32:15 +0300</lastBuildDate>
+        <lastBuildDate>Wed, 27 Mar 2019 09:53:29 +0300</lastBuildDate>
 
         <image>
             <title>Cadena de datos</title>
@@ -37,6 +43,7 @@
             <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/ruso.html</link>
             <pubDate>Sat, 12 Jan 2019 16:00:00 +0300</pubDate>
             <description><![CDATA[La cumbre (Córdoba, AR), 12 de enero. El Ruso me recibe en sus vacaciones para grabar la entrevista. Hablamos de los inicios de los datos abiertos en Argentina, el estado actual de las políticas públicas de transparencia y los proyectos Cargografías y Economía Feminista.
+            
             <br />Ideas: <ul>
             <li>Se inició en 2011 con la idea que luego se convirtió en el proyecto Cargografías</li>
             <li>Forma parte de proyectos de visualizaciones de datos con medios y gobiernos de toda latinoamérica</li>
@@ -79,6 +86,7 @@
             <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e02-alalu.html</link>
             <pubDate>Mon, 14 Jan 2019 09:30:00 +0300</pubDate>
             <description><![CDATA[Martín es actualmente Gerente Operativo de Gobierno Abierto de la Ciudad de Buenos Aíres. Ex director de Datos abiertos de la Provincia de Buenos Aires, Licenciado en ciencias políticas y Técnico superior en periodismo. Parte del proyecto https://www.34surmapas.com/
+            
             <br />Ideas: <ul>
             <li>Comenzó formlamente en la Dirección de Innovación y Gobierno abierto en el verano de 2013.</li>
             <li>Desde el 2010 trabaja en gobierno y ya tenía curiosidades en temas de datos.</li>
@@ -119,6 +127,7 @@
             <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e03-selvood.html</link>
             <pubDate>Mon, 14 Jan 2019 10:40:00 +0300</pubDate>
             <description><![CDATA[Ines formó parte de equipos de transparencia en el poder ejecutivo y judicial. En organizaciones de la sociedad civil (locales e internacionales) y hasta en el ámbito universitario. Nos cuenta de todas sus experiencias (se corta un poco los primeros tres minutos pero luego el audio funciona perfectamente)
+            
             <br />Ideas: <ul>
             <li>Comenzó en el área de comunicación de Poder Ciudadano en el año 2000</li>
             <li>A principios de este siglo los datos se pasaban en papel y había un trabajo muy artesanal de digitalización a los fines de analizar datos públicos. No había portales de datos.</li>
@@ -157,6 +166,7 @@
             <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e04-tony.html</link>
             <pubDate>Tue, 15 Jan 2019 18:00:00 +0300</pubDate>
             <description><![CDATA[Antonio Licenciado en Ciencias Políticas y Master en Ciencias Sociales. Trabajo en el Gobierno de CABA en su primera versión del portal de datos y para la plataforma Junar. Actualmente lidera su propia consultora Unicorio Data
+            
             <br />Ideas: <ul>
             <li>Antonio comenzó con el portal de datos de la Ciudad de Buenos Aires en 2012</li>
             <li>Un caso muy interesante de publciación de datos abiertos es el de 'Energía Abierta' en Chile</li>
@@ -193,6 +203,7 @@
             <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e05-secchi.html</link>
             <pubDate>Wed, 16 Jan 2019 19:40:00 +0300</pubDate>
             <description><![CDATA[Pablo Secchi es Licenciado en Ciencia Política (Universidad del Salvador). Maestrado en Análisis, Gestión y Derecho Electoral (Universidad de San Martín). Trabaja temas de transparencia institucional y lucha contra la corrupción. Es especialista en transparencia en el financiamiento de las campañas electorales, tema sobre el cual ha realizado diversas consultorías. Es Director Ejecutivo de la Fundación Poder Ciudadano desde 2012
+            
             <br />Ideas: <ul>
             <li>En 2009 ya existía 'Dinero y Política' y se publicaban algunos datos desde Poder Ciudadano.</li>
             <li>Dinero y política era muy interesante tuvo impacto nulo en la ciudadanía pero si en la Cámara Electoral que comenzó a publicar datos.</li>
@@ -229,6 +240,7 @@
             <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e06-mirofsky.html</link>
             <pubDate>Thu, 17 Jan 2019 18:05:00 +0300</pubDate>
             <description><![CDATA[Esteban es productor de espectáculos y consultor en temas de gobierno Abierto. Fue Titular de primera Agencia de Innovación y Gobierno Abierto de Argentina, en Bahía Blanca. Asesor del municipio de Córdoba y de la Cámara de Diputados de Nación en materia de tecnología, innovación y gobierno abierto. Consultor de CIPPEC en el programa Usina de Ciudades Inteligentes.
+            
             <br />Ideas: <ul>
             <li>Cuando Bahía Blanca lanzo su portal de datos ya existían publicaciónes de compras y el portal GastoPublicBahiense de un vecino de la ciudad</li>
             <li>En 2012 Esteban miro los casos de Obama (desde 2009) y la plataforma Irekia del Pais Vasco</li>
@@ -268,6 +280,7 @@
             <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e07-juanibelbis.html</link>
             <pubDate>Fri, 18 Jan 2019 18:15:00 +0300</pubDate>
             <description><![CDATA[Juan Ignacio Belbis es comunicador, analista de políticas públicas, consultor en innovación cívica y docente universitario de grado y posgrado. Actualmente es Investigador Asociado de la Iniciativa Latinoamericana de Datos Abiertos. Colaboró y colabora con diferentes gobiernos y organizaciones de la sociedad civil en el desarrollo de políticas públicas que tienen como eje la apertura gubernamental y la transparencia activa. Ha trabajado como asesor técnico y político en el Ministerio de Gobierno de la Provincia de Buenos Aires y en el Senado de la Nación Argentina.
+            
             <br />Ideas: <ul>
             <li>Comenzo con intereses en cruzar tecnología y política. Su primer proyecto fue con CEPAL analizando las inciativas de datos abiertos en América Latina (hay papers de el interesantes para leer online</li>
             <li>Los primeros casos interesantes para mirar en Argentina fueron los de Bahía Blanca y CABA.</li>
@@ -308,6 +321,7 @@
             <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e08-manu.html</link>
             <pubDate>Sat, 19 Jan 2019 11:00:00 +0300</pubDate>
             <description><![CDATA[Manuel es Desarrollador de Software. Tiene una maestría en el MIT Media Lab. Fue parte del equipo de satélites Satellogic. A través de la Fundación Mozilla trabajo con el equipo de periodismo de datos del Diario La Nación. Fue el creador de la plataforma GastoPúblicoBahiense, trabajó en la publicación de datos del software RAFAM. Fué lider técnico del portal de datos DataChile y actualmete es consultor independiente
+            
             <br />Ideas: <ul>
             <li>A Manuel siempre le interesó la política. Comenzó procrastinando y termino desarrollando el portal GastoPúblicoBahiense</li>
             <li>Desde 2000 o 2001 Bahía publica las compras a proveedores. GPB toma esos datos y los muestra mucho mejor</li>
@@ -348,6 +362,7 @@
             <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e09-arteaga.html</link>
             <pubDate>Sun, 20 Jan 2019 22:15:00 +0300</pubDate>
             <description><![CDATA[Javier publicista y especialista en marketing político. Es Director de la consultora Feeling, Director de PastoLAB y docente universitario.
+            
             <br />Ideas: <ul>
             <li>Javier viene del mundo, de la comunicación política. Comenzó creando una escuela de innovación política con nmuchos temas, entre ellos, Gobierno Abierto.</li>
             <li>Las referencias a mirar en aquel momento fueron las políticas de Obama, Bahía Blanca (AR) y Córdoba (AR). No había en Colombia ejemplos.</li>
@@ -389,6 +404,7 @@
             <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e10-fumega.html</link>
             <pubDate>Mon, 21 Jan 2019 19:00:00 +0300</pubDate>
             <description><![CDATA[Silvana es licenciada en Ciencia Política tiene una Maestría en Políticas Públicas y posee un PhD. Hoy es Directora de Investigación y Políticas en ILDA (la Iniciativa Latinoamericana por los Datos Abiertos) y se ha desempeñado como consultora para numerosas organizaciones internacionales, gobiernos y grupos de sociedad civil. Trabaja en la intersección entre las políticas de datos abiertos y el derecho de acceso a la información pública.
+            
             <br />Ideas: <ul>
             <li>Comenzo en 2007 como consultora de transparencia del Banco Mundia en 2007 cuando el acceso a la información pública era la forma de trabajar y los datos abiertos todavía no se usaban como los conocemos hoy.</li>
             <li>En algunos lugares todavía se pueden dar peleas vía acceso a la información pública porque no hay políticas de datos abiertos.</li>
@@ -425,6 +441,7 @@
             <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e11-chisnerman.html</link>
             <pubDate>Tue, 22 Jan 2019 19:00:00 +0300</pubDate>
             <description><![CDATA[Maximiliano fue responsable de Modernización y digitalización de Marcos Paz desde el 2004, Subsecretario de Modernización de Mercedes desde el 2009, Asesor de Modernización de Pilar desde el 2016 y actualmente es Director de Sistemas de la Municipalidad de Lujan.
+            
             <br />Ideas: <ul>
             <li>Maxi inicio abriendo datos en 2005 en Marcos Paz. Se publicaron (con desarrollo propio) compras, proveedores e ingresos públicos. Duro SOLO una semana.</li>
             <li>'La gente cree que cobramos millonadas' y publicar los sueldos de los funcionarios es una forma de mostrar la realidad</li>
@@ -456,6 +473,7 @@
             <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e12-aznar.html</link>
             <pubDate>Wed, 23 Jan 2019 06:30:00 +0300</pubDate>
             <description><![CDATA[Jorge es diseñador y desarrollador de software en Zaragoza, España. Es además lo que llamaríamos en Argentina un activista o hacker cívico que tiene numerosos proyectos propios.
+            
             <br />Ideas: <ul>
             <li>Jorge comenzo a trabajar con datos desde el primer portal de Aragón.</li>
             <li>Bislai es un proyecto de análisis de datos sobre el debate legislativo. Los datos publicados eran muy pobres y con este proyecto los datos se hicieron más accesibles y con la posibilidad de buscar.</li>
@@ -489,6 +507,7 @@
             <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e13-vanni.html</link>
             <pubDate>Wed, 23 Jan 2019 19:00:00 +0300</pubDate>
             <description><![CDATA[María José Vanni es archivera con conocimiento en tecnología y datos abiertos. Activista de esos dos mundos con más en común de los que parece.
+            
             <br />Ideas: <ul>
             <li>Si tenemos una mala gestión de documentos en papel seguirá siendo mala en internet.</li>
             <li>Los portales y los datos en la web debe ser mirados por los gobiernos a través de una gestion integral de la información que se muestra a la sociedad independientemente del formato</li>
@@ -526,6 +545,7 @@
             <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e14-olivan.html</link>
             <pubDate>Thu, 24 Jan 2019 06:30:00 +0300</pubDate>
             <description><![CDATA[Actualmente Raúl es Director General de Participación, Transparencia, Cooperación y Voluntariado en el Gobierno de Aragón. Fué 10 años Director de Zaragoza Activa (ZAC), un ecosistema público de emprendimiento e innovación social. Raúl Es Licenciado en Publicidad y Relaciones Públicas y Diplomado en Trabajo Social.
+            
             <br />Ideas: <ul>
             <li>Raúl comenzo siendo activista social y paso al gobierno desde Zaragoza.</li>
             <li>Hay que aceptar trabajar en los gobiernos. Se requiere abrir las instituciones desde adentro.</li>
@@ -562,6 +582,7 @@
             <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e15-pala.html</link>
             <pubDate>Thu, 24 Jan 2019 19:00:00 +0300</pubDate>
             <description><![CDATA[Pablo es licenciado en Análisis de Sistemas, desarrollador de software y especialista en visualizaciones. Trabaja como desarrollador de DataWheel, Chequeado, en SocioPublico y en proyectos como freelance. Es además profesor universitario.
+            
             <br />Ideas: <ul>
             <li>Pablo comenzo Nardoz, Hacks/Hackers BA y los primeros hackathones del gobierno de Ciudad de Buenos Aires.</li>
             <li>Las comunidades de datos abiertos crecio en hackatones y espacios colaborativos de experimentación.</li>
@@ -607,6 +628,7 @@
             <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e16-runixo.html</link>
             <pubDate>Wed, 30 Jan 2019 19:20:00 +0300</pubDate>
             <description><![CDATA[Martín es socio fundador de Hacks/Hackers Buenos Aires desde 2011. Forma parte de la comunidad de activistas cívicos. Es desarrollador web y actualmente CTO de Properati desde donde publica datos del sector inmobiliario.
+            
             <br />Ideas: <ul>
             <li>Esta entrevista debe escucharse haciendo analogías de la empresa de Martín con como podrían pensar sus datos los gobiernos.</li>
             <li>Hacks/Hackers BA nace de conversaciones de Martín con Mariano Blejman. Entre otras cosas se abre un espacio de cruce de programadores y periodistas.</li>
@@ -641,6 +663,7 @@
             <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e17-julian-moyano.html</link>
             <pubDate>Thu, 31 Jan 2019 18:30:00 +0300</pubDate>
             <description><![CDATA[Julián trabaja en la actualidad en el Gobierno de Aragón en el portal de datos abiertos Aragón Open Data. Desde el 2005 ha colaborado en diferentes proyectos en materia de administración electrónica y de archivos en organizaciones públicas como privadas. Julián es Docente universitario y está graduado en Información y Documentación y Máster en Gestión de Unidades y Servicios de Información y Documentación
+            
             <br />Ideas: <ul>
             <li>Aunque en latinoamérica no sea usuan los archivos y los datos abiertos están muy estrechamente relacionados</li>
             <li>En Aragon no se pueden ceoncebir datos sin archivos</li>
@@ -675,6 +698,7 @@
             <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e18-carfi.html</link>
             <pubDate>Mon, 04 Feb 2019 19:00:00 +0300</pubDate>
             <description><![CDATA[Natalia es licenciada en Ciencias Políticas. Actualmente es Vicedirectora de la Carta Internacional de Datos Abiertos (OpenDataCharter). Fue Directora de Gobierno Abierto de la República Argentina; Coordinadora de Gobierno Abierto de la Ciudad de Buenos Aires; Coordinadora de Gobierno Abierto de Secretaría General de la Presidencia de Chile
+            
             <br />Ideas: <ul>
             <li>Natalia viene de las Ciencias Sociales pero en sus estudios en la UBA no se tocaba el tema de Gobierno Abierto.</li>
             <li>Los 6 principios de OpenDataCharter son un buen resumen de lo que se puede esperar de un gobierno.</li>
@@ -711,6 +735,7 @@
             <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e19-scrollini.html</link>
             <pubDate>Mon, 18 Feb 2019 19:10:00 +0300</pubDate>
             <description><![CDATA[Fabrizio es abogado, Master en políticas públicas y Doctor en Ciencia Política y Gobierno. Actualmente es Director Ejecutivo de ILDA (Iniciativa Latinoamericana de Datos Abiertos). Fué Presidente de DATA Uruguay, co-fundador de Abrelatam y Condatos, y asesor de la Carta Internacional de Datos Abiertos.
+            
             <br />Ideas: <ul>
             <li>Fabrizio comenzó (2010 o 2011) con el proyecto Que Sabes? (https://quesabes.org/) donde conectaban ciudadanos con funcionarios para hacer pedidos de acceso a la información pública</li>
             <li>'Que sabés?' se desarrollo sobre el software libre Alaveteli (https://alaveteli.org/es/), creció y fue tomado por el gobierno. </li>
@@ -754,6 +779,7 @@
             <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e20-encina.html</link>
             <pubDate>Thu, 28 Feb 2019 19:10:00 +0300</pubDate>
             <description><![CDATA[Álvaro es licenciado en Sociología. Actualmente es Gestor Gobierno Datos en el Banco BCI (Banco de Crédito e Inversiones). Fue consultor de la plataforma Junar por 6 años e Investigador de la World Wide Web Foundation sobre Gobierno Abierto para el OpenDataBarometer.
+            
             <br />Ideas: <ul>
             <li>Álvaro estuvo 6 años desde la Platafora Junar conectado con clientes (gobiernos) que abrían datos desde México, Chile, USA, Argentina, Costa Rica, Ecuador, Perú y otros.</li>
             <li>Como sociólogo Álvaro sabia procesar y curar datos.</li>
@@ -787,6 +813,7 @@
             <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e21-tobar.html</link>
             <pubDate>Fri, 22 Mar 2019 19:00:00 +0300</pubDate>
             <description><![CDATA[Dennis es Ingeniero en informática y trabaja con grandes volúmenes de datos. Es gestor y desarrollador de aplicaciones del ámbito académico y usando MediaWiki para proyectos de índole colaborativa. Es integrante del Directorio de Wikimedia Chile
+            
             <br />Ideas: <ul>
             <li>Wikidata es el proyecto de datos abiertos para que las máquinas puedan identificar el conocimiento y ayudarnos a sacarle valor desde Wikipedia.</li>
             <li>Es necesario que las organizaciones que son almacenes de datos suban sus contenidos a Wikidata.</li>
@@ -810,6 +837,22 @@
             <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e21-tobar.mp3" length="23852846" type="audio/mpeg"/>
 
             <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e21-tobar.jpg" />
+
+        </item>
+        
+        <item>
+            <title>Entrevista con Helena Suarez y Paula Domínguez Font [s01e22]</title>
+            <guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e22-suarez-font.html</guid>
+            <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e22-suarez-font.html</link>
+            <pubDate>Tue, 26 Mar 2019 18:20:00 +0300</pubDate>
+            <description><![CDATA[Helena es Comunicadora social enfocada en crear comunicaciones digitales y eventos culturales en el area de derechos humanos y feminismo. He trabajado en Londres, Johannesburgo y Montevideo con organizaciones como Amnistía Internacional, el Llamado Mundial a la Acción contra la Pobreza (GCAP) y Cotidiano Mujer.  Recientemente finalicé una maestría en Género, Medios y Cultura en Goldsmiths, Universidad de Londres. Es la creadora de feminicidiouruguay.net y actualmente co-conduce el podcast semanal #InformativoFeminista. Paula es Estudiante de Bibliotecología. Participa en proyectos de digitalización y, actualmente, trabaja en el armado y puesta a punto de distintas bibliotecas. Su principal área de interés es la búsqueda y recuperación de información en el entorno digital. Miembro de Wikimedia Uruguay.
+            
+            </description>
+            <itunes:summary>Helena es Comunicadora social enfocada en crear comunicaciones digitales y eventos culturales en el area de derechos humanos y feminismo. He trabajado en Londres, Johannesburgo y Montevideo con organizaciones como Amnistía Internacional, el Llamado Mundial a la Acción contra la Pobreza (GCAP) y Cotidiano Mujer.  Recientemente finalicé una maestría en Género, Medios y Cultura en Goldsmiths, Universidad de Londres. Es la creadora de feminicidiouruguay.net y actualmente co-conduce el podcast semanal #InformativoFeminista. Paula es Estudiante de Bibliotecología. Participa en proyectos de digitalización y, actualmente, trabaja en el armado y puesta a punto de distintas bibliotecas. Su principal área de interés es la búsqueda y recuperación de información en el entorno digital. Miembro de Wikimedia Uruguay.</itunes:summary>
+            
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e22-suarez-font.mp3" length="17358653" type="audio/mpeg"/>
+
+            <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e22-suarez-font.png" />
 
         </item>
         
