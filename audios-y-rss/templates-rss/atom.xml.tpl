@@ -39,7 +39,7 @@
             {% if item.ideas %}
             <br />Ideas: <ul>{% for idea in item.ideas %}
             <li>{{ idea }}</li>{% endfor %}
-            </ul>]]>{% endif %}
+            </ul>{% endif %}]]>
             </description>
             
             {# aqui va la URL al audio, lo importante #}

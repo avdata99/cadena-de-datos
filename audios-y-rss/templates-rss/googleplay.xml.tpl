@@ -24,7 +24,7 @@
 			{% if item.ideas %}
             <br />Ideas: <ul>{% for idea in item.ideas %}
             <li>{{ idea }}</li>{% endfor %}
-            </ul>]]>{% endif %}
+            </ul>{% endif %}]]>
 			 </googleplay:description>
 			<googleplay:author>{{ autor }}</googleplay:author>
 			<googleplay:image href='{{ item.url_imagen }}'/>
