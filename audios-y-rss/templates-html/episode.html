@@ -128,9 +128,12 @@
                         <li><a href="mailto:?subject=Cadena%20de%20datos%20{{ episodio.titulo_encoded }}&body=Podcast%20sobre%20datos%20abiertos:%20{{ episodio.full_url_encoded }}" target="_blank" title="Send email"><img alt="Send email" src="img/flat_web_icon_set/black/Email.png" /></a></li>
                       </ul>
 
+                {% if episodio.ideas %}
                 <h2 class="font-weight-bold text-black">Ideas de la charla</h2>
+                {% endif %}
               </div>
             </div>
+            {% if episodio.ideas %}
             <div class="row">
                 <div class="col-md-12">
                   <ul>
@@ -141,6 +144,7 @@
                 </div>
               
             </div>
+            {% endif %}
 
             <div class="row mb-5">
                 <div class="col-md-12 text-center">

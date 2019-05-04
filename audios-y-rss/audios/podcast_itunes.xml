@@ -19,7 +19,7 @@
         
         <language>es-ar</language>
         <ttl>1440</ttl>
-        <lastBuildDate>Fri, 12 Apr 2019 09:47:24 +0300</lastBuildDate>
+        <lastBuildDate>Sat, 04 May 2019 10:52:35 +0300</lastBuildDate>
 
         <image>
             <title>Cadena de datos</title>
@@ -905,6 +905,22 @@
             <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e23-lucca.mp3" length="22473946" type="audio/mpeg"/>
 
             <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e23-lucca.jpg" />
+
+        </item>
+        
+        <item>
+            <title>Episodio final</title>
+            <guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e24-FINAL.html</guid>
+            <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e24-FINAL.html</link>
+            <pubDate>Sat, 04 May 2019 10:30:00 +0300</pubDate>
+            <description><![CDATA[
+            
+            </description>
+            <itunes:summary></itunes:summary>
+            
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e24-FINAL.mp3" length="9714568" type="audio/mpeg"/>
+
+            <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e24-FINAL.png" />
 
         </item>
         
