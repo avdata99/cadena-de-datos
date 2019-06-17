@@ -833,5 +833,45 @@
 			<pubDate>Sat, 04 May 2019 10:30:00 +0300</pubDate>
 		</item>
         
+        <item>
+			<title>Entrevista con Mercè Fígols Puigbò [s02e01]</title>
+			<googleplay:description><![CDATA[Mercè Fígols Puigbò es Licenciada en Matemáticas por la Universidad de Barcelona. Trabajó en el Instituto Municipal de Informática del Ayuntamiento de Barcelona en la Dirección de desarrollo y sistemas de información. Actualmente es responsable del servicio de Open Data BCN parte de la Oficina de Datos Municipal del Ayuntamiento de Barcelona.
+			
+            <br />Ideas: <ul>
+            <li>Si bien Barcelona tiene portal de datos desde 2011 Merce esta en Open Data BCN desde 2014 cuando el portal se reordenó (se pasaron a formatos reutilizables) y se relanzó.</li>
+            <li>En 2014 se tomaron como referencia a portales estadounidenses (Obama y sus políticas) Boston, San Francisco, New York, Helsinki y UK</li>
+            <li>El portal se desarrollo siguiendo una hoja de ruta con acompañamiento de universidades locales. Se planificó.</li>
+            <li>Usan CKAN como parte de una decisión de soberanía tecnológica sobre software libre.</li>
+            <li>La implementación de CKAN se hizo con vía una licitación (hubo que aprender a pedir software libre en un pliego). Se contrató una empresa implementadora y aun experto en datos abiertos (Martín Alvarez Espenar)</li>
+            <li>La misma empresa que gano en 2014 sigue hasta hoy (2019)</li>
+            <li>Hay portales que nacieron antes que este portal (por ejemplo el GeoPortal) y tienen otros portales. El camino es centralizar y se podrían unificar.</li>
+            <li>Hay una política de apertura por oportunidad. Cuando alguien pide un dato este se busca y si existe, se publica. En otros casos las oficinas directamente piden (hay 12.000 personas en el ayuntamiento)</li>
+            <li>Hay un protocolo que guía el proceso de actualización (saber si es en tiempo real o cual es su frecuencia, cual es la licencia)</li>
+            <li>Cada dataset tiene un usuario interno responsable que puede responder consultas sobre los datos</li>
+            <li>Más del 50% del portal esta automatizado (salen directo desde un backoffice conectado al portal). Muchos datos son en tiempo real (son los más atractivos</li>
+            <li>Los datos de transporte los provee una empresa (TMB) y sale directo, tienen su propio portal</li>
+            <li>Se publican datos en RDF buscando las 5 estrellas de Tim Berners Lee. Fue una recomendación de los asesores.</li>
+            <li>La comunidad de usuarios de datos inicialmente era de desarrolladores, ahora esto ha cambiado. El estandar que más les sirve a todos el CSV</li>
+            <li>Los datos en tiempo real deben tener cortes periódicos para publicarse como series históricas, esto se tiene en cuenta.</li>
+            <li>Se utiliza OSM para los mapas de base en las vistas que tienen datos geoespaciales.</li>
+            <li>En este momento se están haciendo intercambios con la oficina de datos abiertos en Kobe (Japón).</li>
+            <li>Reto Barcelona Datos abiertos. Aquí se habló con las escuelas secundarias para que presenten proyectos usando datos abiertos. Primero se capacito a docentes (que participaron voluntariamente) y ellos lo impulsaron con los estudiantes. Las ganadoras de la edición anterior (dos chicas) ya están trabajando con datos abiertos.</li>
+            <li>Se confía en cada uno de los publicadores de datos. Ellos conocen que normas deben cumplir (incluidas la de privacidad)</li>
+            <li>Barcelona tiene una organización y más de 60 repositorios en GitHub. Desde la oficina de datos abiertos hay un software libres para federar los datos con el portal nacional (que a su vez se federa con el portal Europeo).</li>
+            <li>El portal de Catalunya usa Socrata sin embargo los datos pueden conectarse e intercambiarse.</li>
+            <li>Barcelona usa la una plataforma propia de software libre que se llama Decidim.</li>
+            <li>Hay que mirar a: Martín Alvarez Espenar W3C Consortium</li>
+            <li>Hay que mirar a: Esther Hyer European Data Portal</li>
+            <li>Hay que mirar a: Olager Zagarra, empresa Drivia</li>
+            </ul>]]>
+			 </googleplay:description>
+			<googleplay:author>Andrés Vázquez</googleplay:author>
+			<googleplay:image href='https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e01-merce-figols-puigbo.png'/>
+			<googleplay:explicit>No</googleplay:explicit>
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e01-merce-figols-puigbo.mp3" length="52138379" type="audio/x-mp3"/>
+			<guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s02e01-merce-figols-puigbo.html</guid>
+			<pubDate>Mon, 17 Jun 2019 09:15:00 +0300</pubDate>
+		</item>
+        
 	</channel>
 </rss>

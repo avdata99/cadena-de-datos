@@ -3,6 +3,8 @@
 ffmpeg -loop 1 -framerate 1 -i ruso03.png -i ruso.mp3 \
 -c:v libx264 -preset veryslow -crf 0 -c:a copy -shortest ruso.mkv
 
+ffmpeg -loop 1 -framerate 1 -i s02e01-merce-figols-puigbo.png -i s02e01-merce-figols-puigbo.mp3 \
+-c:v libx264 -preset veryslow -crf 0 -c:a copy -shortest s02e01-merce-figols-puigbo.mkv
 
 ffmpeg -loop 1 -framerate 1 -i s01e16-runixo.jpg -i s01e16-runixo.mp3 \
 -c:v libx264 -preset veryslow -crf 0 -c:a copy -shortest s01e16-runixo.mkv
