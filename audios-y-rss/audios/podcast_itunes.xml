@@ -19,7 +19,7 @@
         
         <language>es-ar</language>
         <ttl>1440</ttl>
-        <lastBuildDate>Mon, 17 Jun 2019 15:39:56 +0300</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jun 2019 18:53:57 +0300</lastBuildDate>
 
         <image>
             <title>Cadena de datos</title>
@@ -932,6 +932,7 @@
             <description><![CDATA[Mercè Fígols Puigbò es Licenciada en Matemáticas por la Universidad de Barcelona. Trabajó en el Instituto Municipal de Informática del Ayuntamiento de Barcelona en la Dirección de desarrollo y sistemas de información. Actualmente es responsable del servicio de Open Data BCN parte de la Oficina de Datos Municipal del Ayuntamiento de Barcelona.
             
             <br />Ideas: <ul>
+            <li><b>En proceso de corrección y pendiente de revisión</b></li>
             <li>Si bien Barcelona tiene portal de datos desde 2011 Merce esta en Open Data BCN desde 2014 cuando el portal se reordenó (se pasaron a formatos reutilizables) y se relanzó.</li>
             <li>El único portal oficial es https://opendata-ajuntament.barcelona.cat, existen otras iniciativas privadas que no son oficiales.</li>
             <li>En 2014 se tomaron como referencia a portales estadounidenses (Obama y sus políticas) Boston, San Francisco, New York. También se miró a Helsinki y UK.</li>
