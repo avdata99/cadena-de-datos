@@ -19,7 +19,7 @@
         
         <language>es-ar</language>
         <ttl>1440</ttl>
-        <lastBuildDate>Thu, 20 Jun 2019 19:17:22 +0300</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jun 2019 19:21:33 +0300</lastBuildDate>
 
         <image>
             <title>Cadena de datos</title>
@@ -933,7 +933,7 @@
             
             <br />Ideas: <ul>
             <li>Si bien Barcelona tiene portal de datos desde 2011 Mercè esta en Open Data BCN desde 2014 cuando se decidió realizar un proceso de reordenación (se pasaron a formatos reutilizables todos los datasets) y se relanzó la iniciativa.</li>
-            <li>El único portal oficial de datos abiertos es Open Data BCN, <a href='https://opendata-ajuntament.barcelona.cat>https://opendata-ajuntament.barcelona.cat</a>. Existen otras iniciativas privadas pero no son oficiales.</li>
+            <li>El único portal oficial de datos abiertos es Open Data BCN, <a href='https://opendata-ajuntament.barcelona.cat'>https://opendata-ajuntament.barcelona.cat</a>. Existen otras iniciativas privadas pero no son oficiales.</li>
             <li>Siempre bajo las directrices de una hoja de ruta realizada conjuntamente con IESE, en 2014 se empieza a pensar en un nuevo portal, tomando como referencia a portales estadounidenses (Gobierno de Obama y sus políticas) Boston, San Francisco, New York. También europeos como Helsinki y UK.</li>
             <li>Usan CKAN como parte de una decisión de <b>soberanía tecnológica</b> sobre software libre.</li>
             <li>La implementación del nuevo portal en CKAN se hizo vía una licitación. Cuando el pliego se redactó no se pudieron pedir especificaciones concretas en referencia al software libre. El contrato incluía también asesoría experta en datos abiertos (Martín Álvarez Espinar, director del W3C en España)</li>
