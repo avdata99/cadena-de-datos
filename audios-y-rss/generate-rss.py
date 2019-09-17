@@ -105,7 +105,7 @@ for mp3 in mp3s:
     episodio.update(json_data_file)
     u2 = json_data_file.get('usar_audio_externo', '')
     if u2 != '':
-        episodio['url_audio'] = 2
+        episodio['url_audio'] = u2
 
     # https://github.com/simplepie/simplepie-ng/wiki/Spec:-iTunes-Podcast-RSS#pubdate
     d = datetime(episodio["anio_publicacion"],

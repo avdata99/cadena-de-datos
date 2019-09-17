@@ -6,7 +6,7 @@
         <description>Podcast con entrevistas a referentes de los datos abiertos de habla hispana.</description>
         <language>es-ar</language>
         <ttl>1440</ttl>
-        <lastBuildDate>Mon, 16 Sep 2019 21:40:52 +0300</lastBuildDate>
+        <lastBuildDate>Mon, 16 Sep 2019 21:46:23 +0300</lastBuildDate>
         <author>Andrés Vázquez</author>
         <itunes:author>Andrés Vázquez</itunes:author>
         <image>
@@ -67,7 +67,7 @@
             </description>
             
             
-            <enclosure url="2" length="41340811" type="audio/mpeg"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-andres-snitcofsky-s01e01.mp3" length="41340811" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Andrés Snitcofsky [s01e01]</title>
@@ -113,7 +113,7 @@
             </description>
             
             
-            <enclosure url="2" length="31223740" type="audio/mpeg"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-martin-alalu-s01e02.mp3" length="31223740" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Martín Alalu [s01e02]</title>
@@ -157,7 +157,7 @@
             </description>
             
             
-            <enclosure url="2" length="35747135" type="audio/mpeg"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-ines-selvood-s01e03.mp3" length="35747135" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Ines Selvood [s01e03]</title>
@@ -199,7 +199,7 @@
             </description>
             
             
-            <enclosure url="2" length="30536115" type="audio/mpeg"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-antonio-milanese-s01e04.mp3" length="30536115" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Antonio Milanese [s01e04]</title>
@@ -241,7 +241,7 @@
             </description>
             
             
-            <enclosure url="2" length="26301915" type="audio/mpeg"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-pablo-secchi-s01e05.mp3" length="26301915" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Pablo Secchi [s01e05]</title>
@@ -286,7 +286,7 @@
             </description>
             
             
-            <enclosure url="2" length="18543884" type="audio/mpeg"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-esteban-mirofsky-s01e06.mp3" length="18543884" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Esteban Mirofsky [s01e06]</title>
@@ -332,7 +332,7 @@
             </description>
             
             
-            <enclosure url="2" length="26744539" type="audio/mpeg"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-juan-ignacio-belbis-s01e07.mp3" length="26744539" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Juan Ignacio Belbis [s01e07]</title>
@@ -378,7 +378,7 @@
             </description>
             
             
-            <enclosure url="2" length="34878639" type="audio/mpeg"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-manuel-aristaran-s01e08.mp3" length="34878639" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Manuel Aristarán [s01e08]</title>
@@ -425,7 +425,7 @@
             </description>
             
             
-            <enclosure url="2" length="35318273" type="audio/mpeg"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-javier-arteaga-s01e09.mp3" length="35318273" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Javier Arteaga [s01e09]</title>
@@ -467,7 +467,7 @@
             </description>
             
             
-            <enclosure url="2" length="31579628" type="audio/mpeg"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-silvana-fumega-s01e10.mp3" length="31579628" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Silvana Fumega [s01e10]</title>
@@ -504,7 +504,7 @@
             </description>
             
             
-            <enclosure url="2" length="28781281" type="audio/mpeg"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-maximiliano-chisnerman-s01e11.mp3" length="28781281" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Maximiliano Chisnerman [s01e11]</title>
@@ -543,7 +543,7 @@
             </description>
             
             
-            <enclosure url="2" length="23128993" type="audio/mpeg"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-jorge-aznar-s01e12.mp3" length="23128993" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Jorge Aznar [s01e12]</title>
@@ -586,7 +586,7 @@
             </description>
             
             
-            <enclosure url="2" length="25657193" type="audio/mpeg"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-maria-jose-vanni-s01e13.mp3" length="25657193" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con María José Vanni [s01e13]</title>
@@ -628,7 +628,7 @@
             </description>
             
             
-            <enclosure url="2" length="21007278" type="audio/mpeg"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-raul-olivan-s01e14.mp3" length="21007278" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Raúl Olivan [s01e14]</title>
@@ -679,7 +679,7 @@
             </description>
             
             
-            <enclosure url="2" length="38217901" type="audio/mpeg"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-pablo-h-paladino-s01e15.mp3" length="38217901" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Pablo H Paladino [s01e15]</title>
@@ -719,7 +719,7 @@
             </description>
             
             
-            <enclosure url="2" length="34966673" type="audio/mpeg"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-martin-sarsale-s01e16.mp3" length="34966673" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Martín Sarsale [s01e16]</title>
@@ -759,7 +759,7 @@
             </description>
             
             
-            <enclosure url="2" length="32533133" type="audio/mpeg"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-julian-moyano-collado-s01e17.mp3" length="32533133" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Julián Moyano Collado [s01e17]</title>
@@ -801,7 +801,7 @@
             </description>
             
             
-            <enclosure url="2" length="30851179" type="audio/mpeg"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-natalia-carfi-s01e18.mp3" length="30851179" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Natalia Carfi [s01e18]</title>
@@ -850,7 +850,7 @@
             </description>
             
             
-            <enclosure url="2" length="31149449" type="audio/mpeg"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-fabrizio-scrollini-s01e19.mp3" length="31149449" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Fabrizio Scrollini [s01e19]</title>
@@ -889,7 +889,7 @@
             </description>
             
             
-            <enclosure url="2" length="27583736" type="audio/mpeg"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-alvaro-encina-s01e20.mp3" length="27583736" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Álvaro Encina [s01e20]</title>
@@ -927,7 +927,7 @@
             </description>
             
             
-            <enclosure url="2" length="23852846" type="audio/mpeg"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-dennis-tobar-s01e21.mp3" length="23852846" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Dennis Tobar [s01e21]</title>
@@ -967,7 +967,7 @@
             </description>
             
             
-            <enclosure url="2" length="17358653" type="audio/mpeg"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-helena-suarez-y-paula-dominguez-font-s01e22.mp3" length="17358653" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Helena Suarez y Paula Domínguez Font [s01e22]</title>
@@ -1005,7 +1005,7 @@
             </description>
             
             
-            <enclosure url="2" length="22473946" type="audio/mpeg"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-cecilia-lucca-s01e23.mp3" length="22473946" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista Cecilia Lucca [s01e23]</title>
@@ -1055,7 +1055,7 @@
             </description>
             
             
-            <enclosure url="2" length="52138379" type="audio/mpeg"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-merce-figols-puigbo-s02e01.mp3" length="52138379" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Mercè Fígols Puigbò [s02e01]</title>
@@ -1105,7 +1105,7 @@
             </description>
             
             
-            <enclosure url="2" length="16838354" type="audio/mpeg"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-mariano-mosquera-s02e02.mp3" length="16838354" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Mariano Mosquera [s02e02]</title>
@@ -1157,7 +1157,7 @@
             </description>
             
             
-            <enclosure url="2" length="26189318" type="audio/mpeg"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-oleguer-sagarra-s02e03.mp3" length="26189318" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Oleguer Sagarra [s02e03]</title>
@@ -1203,7 +1203,7 @@
             </description>
             
             
-            <enclosure url="2" length="34704866" type="audio/mpeg"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-martin-alvarez-espinar-s02e04.mp3" length="34704866" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Martín Álvarez-Espinar [s02e04]</title>

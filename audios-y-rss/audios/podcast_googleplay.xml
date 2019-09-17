@@ -53,7 +53,7 @@
 			<googleplay:author>Andrés Vázquez</googleplay:author>
 			<googleplay:image href='https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/ruso.png'/>
 			<googleplay:explicit>No</googleplay:explicit>
-            <enclosure url="2" length="41340811" type="audio/x-mp3"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-andres-snitcofsky-s01e01.mp3" length="41340811" type="audio/x-mp3"/>
 			<guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/ruso.html</guid>
 			<pubDate>Sat, 12 Jan 2019 16:00:00 +0300</pubDate>
 		</item>
@@ -91,7 +91,7 @@
 			<googleplay:author>Andrés Vázquez</googleplay:author>
 			<googleplay:image href='https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e02-alalu.png'/>
 			<googleplay:explicit>No</googleplay:explicit>
-            <enclosure url="2" length="31223740" type="audio/x-mp3"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-martin-alalu-s01e02.mp3" length="31223740" type="audio/x-mp3"/>
 			<guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e02-alalu.html</guid>
 			<pubDate>Mon, 14 Jan 2019 09:30:00 +0300</pubDate>
 		</item>
@@ -127,7 +127,7 @@
 			<googleplay:author>Andrés Vázquez</googleplay:author>
 			<googleplay:image href='https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e03-selvood.jpg'/>
 			<googleplay:explicit>No</googleplay:explicit>
-            <enclosure url="2" length="35747135" type="audio/x-mp3"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-ines-selvood-s01e03.mp3" length="35747135" type="audio/x-mp3"/>
 			<guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e03-selvood.html</guid>
 			<pubDate>Mon, 14 Jan 2019 10:40:00 +0300</pubDate>
 		</item>
@@ -161,7 +161,7 @@
 			<googleplay:author>Andrés Vázquez</googleplay:author>
 			<googleplay:image href='https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e04-tony.png'/>
 			<googleplay:explicit>No</googleplay:explicit>
-            <enclosure url="2" length="30536115" type="audio/x-mp3"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-antonio-milanese-s01e04.mp3" length="30536115" type="audio/x-mp3"/>
 			<guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e04-tony.html</guid>
 			<pubDate>Tue, 15 Jan 2019 18:00:00 +0300</pubDate>
 		</item>
@@ -195,7 +195,7 @@
 			<googleplay:author>Andrés Vázquez</googleplay:author>
 			<googleplay:image href='https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e05-secchi.jpg'/>
 			<googleplay:explicit>No</googleplay:explicit>
-            <enclosure url="2" length="26301915" type="audio/x-mp3"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-pablo-secchi-s01e05.mp3" length="26301915" type="audio/x-mp3"/>
 			<guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e05-secchi.html</guid>
 			<pubDate>Wed, 16 Jan 2019 19:40:00 +0300</pubDate>
 		</item>
@@ -232,7 +232,7 @@
 			<googleplay:author>Andrés Vázquez</googleplay:author>
 			<googleplay:image href='https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e06-mirofsky.png'/>
 			<googleplay:explicit>No</googleplay:explicit>
-            <enclosure url="2" length="18543884" type="audio/x-mp3"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-esteban-mirofsky-s01e06.mp3" length="18543884" type="audio/x-mp3"/>
 			<guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e06-mirofsky.html</guid>
 			<pubDate>Thu, 17 Jan 2019 18:05:00 +0300</pubDate>
 		</item>
@@ -270,7 +270,7 @@
 			<googleplay:author>Andrés Vázquez</googleplay:author>
 			<googleplay:image href='https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e07-juanibelbis.jpg'/>
 			<googleplay:explicit>No</googleplay:explicit>
-            <enclosure url="2" length="26744539" type="audio/x-mp3"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-juan-ignacio-belbis-s01e07.mp3" length="26744539" type="audio/x-mp3"/>
 			<guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e07-juanibelbis.html</guid>
 			<pubDate>Fri, 18 Jan 2019 18:15:00 +0300</pubDate>
 		</item>
@@ -308,7 +308,7 @@
 			<googleplay:author>Andrés Vázquez</googleplay:author>
 			<googleplay:image href='https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e08-manu.jpg'/>
 			<googleplay:explicit>No</googleplay:explicit>
-            <enclosure url="2" length="34878639" type="audio/x-mp3"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-manuel-aristaran-s01e08.mp3" length="34878639" type="audio/x-mp3"/>
 			<guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e08-manu.html</guid>
 			<pubDate>Sat, 19 Jan 2019 11:00:00 +0300</pubDate>
 		</item>
@@ -347,7 +347,7 @@
 			<googleplay:author>Andrés Vázquez</googleplay:author>
 			<googleplay:image href='https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e09-arteaga.jpg'/>
 			<googleplay:explicit>No</googleplay:explicit>
-            <enclosure url="2" length="35318273" type="audio/x-mp3"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-javier-arteaga-s01e09.mp3" length="35318273" type="audio/x-mp3"/>
 			<guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e09-arteaga.html</guid>
 			<pubDate>Sun, 20 Jan 2019 22:15:00 +0300</pubDate>
 		</item>
@@ -381,7 +381,7 @@
 			<googleplay:author>Andrés Vázquez</googleplay:author>
 			<googleplay:image href='https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e10-fumega.png'/>
 			<googleplay:explicit>No</googleplay:explicit>
-            <enclosure url="2" length="31579628" type="audio/x-mp3"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-silvana-fumega-s01e10.mp3" length="31579628" type="audio/x-mp3"/>
 			<guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e10-fumega.html</guid>
 			<pubDate>Mon, 21 Jan 2019 19:00:00 +0300</pubDate>
 		</item>
@@ -410,7 +410,7 @@
 			<googleplay:author>Andrés Vázquez</googleplay:author>
 			<googleplay:image href='https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e11-chisnerman.jpg'/>
 			<googleplay:explicit>No</googleplay:explicit>
-            <enclosure url="2" length="28781281" type="audio/x-mp3"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-maximiliano-chisnerman-s01e11.mp3" length="28781281" type="audio/x-mp3"/>
 			<guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e11-chisnerman.html</guid>
 			<pubDate>Tue, 22 Jan 2019 19:00:00 +0300</pubDate>
 		</item>
@@ -441,7 +441,7 @@
 			<googleplay:author>Andrés Vázquez</googleplay:author>
 			<googleplay:image href='https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e12-aznar.jpg'/>
 			<googleplay:explicit>No</googleplay:explicit>
-            <enclosure url="2" length="23128993" type="audio/x-mp3"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-jorge-aznar-s01e12.mp3" length="23128993" type="audio/x-mp3"/>
 			<guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e12-aznar.html</guid>
 			<pubDate>Wed, 23 Jan 2019 06:30:00 +0300</pubDate>
 		</item>
@@ -476,7 +476,7 @@
 			<googleplay:author>Andrés Vázquez</googleplay:author>
 			<googleplay:image href='https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e13-vanni.jpg'/>
 			<googleplay:explicit>No</googleplay:explicit>
-            <enclosure url="2" length="25657193" type="audio/x-mp3"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-maria-jose-vanni-s01e13.mp3" length="25657193" type="audio/x-mp3"/>
 			<guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e13-vanni.html</guid>
 			<pubDate>Wed, 23 Jan 2019 19:00:00 +0300</pubDate>
 		</item>
@@ -510,7 +510,7 @@
 			<googleplay:author>Andrés Vázquez</googleplay:author>
 			<googleplay:image href='https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e14-olivan.jpg'/>
 			<googleplay:explicit>No</googleplay:explicit>
-            <enclosure url="2" length="21007278" type="audio/x-mp3"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-raul-olivan-s01e14.mp3" length="21007278" type="audio/x-mp3"/>
 			<guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e14-olivan.html</guid>
 			<pubDate>Thu, 24 Jan 2019 06:30:00 +0300</pubDate>
 		</item>
@@ -553,7 +553,7 @@
 			<googleplay:author>Andrés Vázquez</googleplay:author>
 			<googleplay:image href='https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e15-pala.jpg'/>
 			<googleplay:explicit>No</googleplay:explicit>
-            <enclosure url="2" length="38217901" type="audio/x-mp3"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-pablo-h-paladino-s01e15.mp3" length="38217901" type="audio/x-mp3"/>
 			<guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e15-pala.html</guid>
 			<pubDate>Thu, 24 Jan 2019 19:00:00 +0300</pubDate>
 		</item>
@@ -585,7 +585,7 @@
 			<googleplay:author>Andrés Vázquez</googleplay:author>
 			<googleplay:image href='https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e16-runixo.jpg'/>
 			<googleplay:explicit>No</googleplay:explicit>
-            <enclosure url="2" length="34966673" type="audio/x-mp3"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-martin-sarsale-s01e16.mp3" length="34966673" type="audio/x-mp3"/>
 			<guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e16-runixo.html</guid>
 			<pubDate>Wed, 30 Jan 2019 19:20:00 +0300</pubDate>
 		</item>
@@ -617,7 +617,7 @@
 			<googleplay:author>Andrés Vázquez</googleplay:author>
 			<googleplay:image href='https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e17-julian-moyano.jpg'/>
 			<googleplay:explicit>No</googleplay:explicit>
-            <enclosure url="2" length="32533133" type="audio/x-mp3"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-julian-moyano-collado-s01e17.mp3" length="32533133" type="audio/x-mp3"/>
 			<guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e17-julian-moyano.html</guid>
 			<pubDate>Thu, 31 Jan 2019 18:30:00 +0300</pubDate>
 		</item>
@@ -651,7 +651,7 @@
 			<googleplay:author>Andrés Vázquez</googleplay:author>
 			<googleplay:image href='https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e18-carfi.jpg'/>
 			<googleplay:explicit>No</googleplay:explicit>
-            <enclosure url="2" length="30851179" type="audio/x-mp3"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-natalia-carfi-s01e18.mp3" length="30851179" type="audio/x-mp3"/>
 			<guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e18-carfi.html</guid>
 			<pubDate>Mon, 04 Feb 2019 19:00:00 +0300</pubDate>
 		</item>
@@ -692,7 +692,7 @@
 			<googleplay:author>Andrés Vázquez</googleplay:author>
 			<googleplay:image href='https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e19-scrollini.png'/>
 			<googleplay:explicit>No</googleplay:explicit>
-            <enclosure url="2" length="31149449" type="audio/x-mp3"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-fabrizio-scrollini-s01e19.mp3" length="31149449" type="audio/x-mp3"/>
 			<guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e19-scrollini.html</guid>
 			<pubDate>Mon, 18 Feb 2019 19:10:00 +0300</pubDate>
 		</item>
@@ -723,7 +723,7 @@
 			<googleplay:author>Andrés Vázquez</googleplay:author>
 			<googleplay:image href='https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e20-encina.jpg'/>
 			<googleplay:explicit>No</googleplay:explicit>
-            <enclosure url="2" length="27583736" type="audio/x-mp3"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-alvaro-encina-s01e20.mp3" length="27583736" type="audio/x-mp3"/>
 			<guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e20-encina.html</guid>
 			<pubDate>Thu, 28 Feb 2019 19:10:00 +0300</pubDate>
 		</item>
@@ -753,7 +753,7 @@
 			<googleplay:author>Andrés Vázquez</googleplay:author>
 			<googleplay:image href='https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e21-tobar.jpg'/>
 			<googleplay:explicit>No</googleplay:explicit>
-            <enclosure url="2" length="23852846" type="audio/x-mp3"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-dennis-tobar-s01e21.mp3" length="23852846" type="audio/x-mp3"/>
 			<guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e21-tobar.html</guid>
 			<pubDate>Fri, 22 Mar 2019 19:00:00 +0300</pubDate>
 		</item>
@@ -785,7 +785,7 @@
 			<googleplay:author>Andrés Vázquez</googleplay:author>
 			<googleplay:image href='https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e22-suarez-font.png'/>
 			<googleplay:explicit>No</googleplay:explicit>
-            <enclosure url="2" length="17358653" type="audio/x-mp3"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-helena-suarez-y-paula-dominguez-font-s01e22.mp3" length="17358653" type="audio/x-mp3"/>
 			<guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e22-suarez-font.html</guid>
 			<pubDate>Tue, 26 Mar 2019 18:20:00 +0300</pubDate>
 		</item>
@@ -815,7 +815,7 @@
 			<googleplay:author>Andrés Vázquez</googleplay:author>
 			<googleplay:image href='https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e23-lucca.jpg'/>
 			<googleplay:explicit>No</googleplay:explicit>
-            <enclosure url="2" length="22473946" type="audio/x-mp3"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-cecilia-lucca-s01e23.mp3" length="22473946" type="audio/x-mp3"/>
 			<guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e23-lucca.html</guid>
 			<pubDate>Mon, 01 Apr 2019 19:20:00 +0300</pubDate>
 		</item>
@@ -857,7 +857,7 @@
 			<googleplay:author>Andrés Vázquez</googleplay:author>
 			<googleplay:image href='https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e01-merce-figols-puigbo.png'/>
 			<googleplay:explicit>No</googleplay:explicit>
-            <enclosure url="2" length="52138379" type="audio/x-mp3"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-merce-figols-puigbo-s02e01.mp3" length="52138379" type="audio/x-mp3"/>
 			<guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s02e01-merce-figols-puigbo.html</guid>
 			<pubDate>Mon, 17 Jun 2019 09:15:00 +0300</pubDate>
 		</item>
@@ -899,7 +899,7 @@
 			<googleplay:author>Andrés Vázquez</googleplay:author>
 			<googleplay:image href='https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e02-mariano-mosquera.jpg'/>
 			<googleplay:explicit>No</googleplay:explicit>
-            <enclosure url="2" length="16838354" type="audio/x-mp3"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-mariano-mosquera-s02e02.mp3" length="16838354" type="audio/x-mp3"/>
 			<guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s02e02-mariano-mosquera.html</guid>
 			<pubDate>Mon, 08 Jul 2019 23:00:00 +0300</pubDate>
 		</item>
@@ -943,7 +943,7 @@
 			<googleplay:author>Andrés Vázquez</googleplay:author>
 			<googleplay:image href='https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e03-oleguer-sagarra.png'/>
 			<googleplay:explicit>No</googleplay:explicit>
-            <enclosure url="2" length="26189318" type="audio/x-mp3"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-oleguer-sagarra-s02e03.mp3" length="26189318" type="audio/x-mp3"/>
 			<guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s02e03-oleguer-sagarra.html</guid>
 			<pubDate>Thu, 11 Jul 2019 13:00:00 +0300</pubDate>
 		</item>
@@ -981,7 +981,7 @@
 			<googleplay:author>Andrés Vázquez</googleplay:author>
 			<googleplay:image href='https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e04-martin-alvarez-espinar.png'/>
 			<googleplay:explicit>No</googleplay:explicit>
-            <enclosure url="2" length="34704866" type="audio/x-mp3"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-martin-alvarez-espinar-s02e04.mp3" length="34704866" type="audio/x-mp3"/>
 			<guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s02e04-martin-alvarez-espinar.html</guid>
 			<pubDate>Fri, 19 Jul 2019 13:00:00 +0300</pubDate>
 		</item>
