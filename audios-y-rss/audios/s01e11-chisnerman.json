@@ -5,6 +5,7 @@
     "dia_publicacion": 22,
     "hora_publicacion": 19,
     "minuto_publicacion": 0,
+    "usar_audio_externo": "https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-maximiliano-chisnerman-s01e11.mp3",
     "descripcion": "Maximiliano fue responsable de Modernización y digitalización de Marcos Paz desde el 2004, Subsecretario de Modernización de Mercedes desde el 2009, Asesor de Modernización de Pilar desde el 2016 y actualmente es Director de Sistemas de la Municipalidad de Lujan.",
     "ideas": [
         "Maxi inicio abriendo datos en 2005 en Marcos Paz. Se publicaron (con desarrollo propio) compras, proveedores e ingresos públicos. Duro SOLO una semana.",

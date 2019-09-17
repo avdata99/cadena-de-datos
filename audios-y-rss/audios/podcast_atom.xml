@@ -3,10 +3,10 @@
     <channel>
         <title>Cadena de datos</title>
         <link>https://avdata99.github.io/cadena-de-datos</link>
-        <description>Podcast con entrevistas a referentes de los datos abiertos en Argentina. Las personas consultadas me sugieren nuevos posibles entrevistados que alimentan este podcast</description>
+        <description>Podcast con entrevistas a referentes de los datos abiertos de habla hispana.</description>
         <language>es-ar</language>
         <ttl>1440</ttl>
-        <lastBuildDate>Wed, 24 Jul 2019 21:04:31 +0300</lastBuildDate>
+        <lastBuildDate>Mon, 16 Sep 2019 21:40:52 +0300</lastBuildDate>
         <author>Andrés Vázquez</author>
         <itunes:author>Andrés Vázquez</itunes:author>
         <image>
@@ -67,7 +67,7 @@
             </description>
             
             
-            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/ruso.mp3" length="41340811" type="audio/mpeg"/>
+            <enclosure url="2" length="41340811" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Andrés Snitcofsky [s01e01]</title>
@@ -113,7 +113,7 @@
             </description>
             
             
-            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e02-alalu.mp3" length="31223740" type="audio/mpeg"/>
+            <enclosure url="2" length="31223740" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Martín Alalu [s01e02]</title>
@@ -157,7 +157,7 @@
             </description>
             
             
-            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e03-selvood.mp3" length="35747135" type="audio/mpeg"/>
+            <enclosure url="2" length="35747135" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Ines Selvood [s01e03]</title>
@@ -199,7 +199,7 @@
             </description>
             
             
-            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e04-tony.mp3" length="30536115" type="audio/mpeg"/>
+            <enclosure url="2" length="30536115" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Antonio Milanese [s01e04]</title>
@@ -241,7 +241,7 @@
             </description>
             
             
-            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e05-secchi.mp3" length="26301915" type="audio/mpeg"/>
+            <enclosure url="2" length="26301915" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Pablo Secchi [s01e05]</title>
@@ -286,7 +286,7 @@
             </description>
             
             
-            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e06-mirofsky.mp3" length="18543884" type="audio/mpeg"/>
+            <enclosure url="2" length="18543884" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Esteban Mirofsky [s01e06]</title>
@@ -332,7 +332,7 @@
             </description>
             
             
-            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e07-juanibelbis.mp3" length="26744539" type="audio/mpeg"/>
+            <enclosure url="2" length="26744539" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Juan Ignacio Belbis [s01e07]</title>
@@ -378,7 +378,7 @@
             </description>
             
             
-            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e08-manu.mp3" length="34878639" type="audio/mpeg"/>
+            <enclosure url="2" length="34878639" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Manuel Aristarán [s01e08]</title>
@@ -425,7 +425,7 @@
             </description>
             
             
-            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e09-arteaga.mp3" length="35318273" type="audio/mpeg"/>
+            <enclosure url="2" length="35318273" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Javier Arteaga [s01e09]</title>
@@ -467,7 +467,7 @@
             </description>
             
             
-            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e10-fumega.mp3" length="31579628" type="audio/mpeg"/>
+            <enclosure url="2" length="31579628" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Silvana Fumega [s01e10]</title>
@@ -504,7 +504,7 @@
             </description>
             
             
-            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e11-chisnerman.mp3" length="28781281" type="audio/mpeg"/>
+            <enclosure url="2" length="28781281" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Maximiliano Chisnerman [s01e11]</title>
@@ -543,7 +543,7 @@
             </description>
             
             
-            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e12-aznar.mp3" length="23128993" type="audio/mpeg"/>
+            <enclosure url="2" length="23128993" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Jorge Aznar [s01e12]</title>
@@ -586,7 +586,7 @@
             </description>
             
             
-            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e13-vanni.mp3" length="25657193" type="audio/mpeg"/>
+            <enclosure url="2" length="25657193" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con María José Vanni [s01e13]</title>
@@ -628,7 +628,7 @@
             </description>
             
             
-            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e14-olivan.mp3" length="21007278" type="audio/mpeg"/>
+            <enclosure url="2" length="21007278" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Raúl Olivan [s01e14]</title>
@@ -679,7 +679,7 @@
             </description>
             
             
-            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e15-pala.mp3" length="38217901" type="audio/mpeg"/>
+            <enclosure url="2" length="38217901" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Pablo H Paladino [s01e15]</title>
@@ -719,7 +719,7 @@
             </description>
             
             
-            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e16-runixo.mp3" length="34966673" type="audio/mpeg"/>
+            <enclosure url="2" length="34966673" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Martín Sarsale [s01e16]</title>
@@ -759,7 +759,7 @@
             </description>
             
             
-            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e17-julian-moyano.mp3" length="32533133" type="audio/mpeg"/>
+            <enclosure url="2" length="32533133" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Julián Moyano Collado [s01e17]</title>
@@ -801,7 +801,7 @@
             </description>
             
             
-            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e18-carfi.mp3" length="30851179" type="audio/mpeg"/>
+            <enclosure url="2" length="30851179" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Natalia Carfi [s01e18]</title>
@@ -850,7 +850,7 @@
             </description>
             
             
-            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e19-scrollini.mp3" length="31149449" type="audio/mpeg"/>
+            <enclosure url="2" length="31149449" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Fabrizio Scrollini [s01e19]</title>
@@ -889,7 +889,7 @@
             </description>
             
             
-            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e20-encina.mp3" length="27583736" type="audio/mpeg"/>
+            <enclosure url="2" length="27583736" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Álvaro Encina [s01e20]</title>
@@ -927,7 +927,7 @@
             </description>
             
             
-            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e21-tobar.mp3" length="23852846" type="audio/mpeg"/>
+            <enclosure url="2" length="23852846" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Dennis Tobar [s01e21]</title>
@@ -967,7 +967,7 @@
             </description>
             
             
-            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e22-suarez-font.mp3" length="17358653" type="audio/mpeg"/>
+            <enclosure url="2" length="17358653" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Helena Suarez y Paula Domínguez Font [s01e22]</title>
@@ -1005,33 +1005,12 @@
             </description>
             
             
-            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e23-lucca.mp3" length="22473946" type="audio/mpeg"/>
+            <enclosure url="2" length="22473946" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista Cecilia Lucca [s01e23]</title>
                 <url>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e23-lucca.jpg</url>
                 <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e23-lucca.jpg</link>
-            </image>
-
-        </item>
-        
-        <item>
-            <title>Episodio final</title>
-            <guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e24-FINAL.html</guid>
-            <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e24-FINAL.html</link>
-            <pubDate>Sat, 04 May 2019 10:30:00 +0300</pubDate>
-            <author>Andrés Vázquez</author>
-            <description><![CDATA[Cierre de temporada
-            ]]>
-            </description>
-            
-            
-            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e24-FINAL.mp3" length="9714568" type="audio/mpeg"/>
-
-            <image>
-                <title>Episodio final</title>
-                <url>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e24-FINAL.png</url>
-                <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e24-FINAL.png</link>
             </image>
 
         </item>
@@ -1076,7 +1055,7 @@
             </description>
             
             
-            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e01-merce-figols-puigbo.mp3" length="52138379" type="audio/mpeg"/>
+            <enclosure url="2" length="52138379" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Mercè Fígols Puigbò [s02e01]</title>
@@ -1126,7 +1105,7 @@
             </description>
             
             
-            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e02-mariano-mosquera.mp3" length="16838354" type="audio/mpeg"/>
+            <enclosure url="2" length="16838354" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Mariano Mosquera [s02e02]</title>
@@ -1178,7 +1157,7 @@
             </description>
             
             
-            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e03-oleguer-sagarra.mp3" length="26189318" type="audio/mpeg"/>
+            <enclosure url="2" length="26189318" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Oleguer Sagarra [s02e03]</title>
@@ -1224,7 +1203,7 @@
             </description>
             
             
-            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e04-martin-alvarez-espinar.mp3" length="34704866" type="audio/mpeg"/>
+            <enclosure url="2" length="34704866" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista con Martín Álvarez-Espinar [s02e04]</title>

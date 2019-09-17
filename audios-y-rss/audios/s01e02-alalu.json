@@ -5,6 +5,7 @@
     "dia_publicacion": 14,
     "hora_publicacion": 9,
     "minuto_publicacion": 30,
+    "usar_audio_externo": "https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-martin-alalu-s01e02.mp3",
     "descripcion": "Martín es actualmente Gerente Operativo de Gobierno Abierto de la Ciudad de Buenos Aíres. Ex director de Datos abiertos de la Provincia de Buenos Aires, Licenciado en ciencias políticas y Técnico superior en periodismo. Parte del proyecto https://www.34surmapas.com/",
     "ideas": [
         "Comenzó formlamente en la Dirección de Innovación y Gobierno abierto en el verano de 2013.",

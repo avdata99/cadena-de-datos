@@ -5,6 +5,7 @@
     "dia_publicacion": 23,
     "hora_publicacion": 19,
     "minuto_publicacion": 0,
+    "usar_audio_externo": "https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-maria-jose-vanni-s01e13.mp3",
     "descripcion": "María José Vanni es archivera con conocimiento en tecnología y datos abiertos. Activista de esos dos mundos con más en común de los que parece.",
     "ideas": [
         "Si tenemos una mala gestión de documentos en papel seguirá siendo mala en internet.",

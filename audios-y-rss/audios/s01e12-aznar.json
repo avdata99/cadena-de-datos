@@ -5,6 +5,7 @@
     "dia_publicacion": 23,
     "hora_publicacion": 6,
     "minuto_publicacion": 30,
+    "usar_audio_externo": "https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-jorge-aznar-s01e12.mp3",
     "descripcion": "Jorge es diseñador y desarrollador de software en Zaragoza, España. Es además lo que llamaríamos en Argentina un activista o hacker cívico que tiene numerosos proyectos propios.",
     "ideas": [
         "Jorge comenzo a trabajar con datos desde el primer portal de Aragón.",

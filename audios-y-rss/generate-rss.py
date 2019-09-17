@@ -101,11 +101,18 @@ for mp3 in mp3s:
 
     # abrir el archivo JSON, tomar todas sus propiedades y sumarlas (update) a este diccionario
     data_file = open(datos_episodio)
-    episodio.update(json.load(data_file))
+    json_data_file = json.load(data_file)
+    episodio.update(json_data_file)
+    u2 = json_data_file.get('usar_audio_externo', '')
+    if u2 != '':
+        episodio['url_audio'] = 2
 
     # https://github.com/simplepie/simplepie-ng/wiki/Spec:-iTunes-Podcast-RSS#pubdate
-    d = datetime(episodio["anio_publicacion"], episodio["mes_publicacion"], episodio["dia_publicacion"], 
-                        episodio["hora_publicacion"], episodio["minuto_publicacion"])
+    d = datetime(episodio["anio_publicacion"],
+                 episodio["mes_publicacion"],
+                 episodio["dia_publicacion"],
+                 episodio["hora_publicacion"],
+                 episodio["minuto_publicacion"])
 
     episodio['fecha_publicacion'] = d.strftime("%a, %d %b %Y %H:%M:%S +0300")
 
