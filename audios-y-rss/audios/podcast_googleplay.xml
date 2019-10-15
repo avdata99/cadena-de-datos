@@ -986,5 +986,18 @@
 			<pubDate>Fri, 19 Jul 2019 13:00:00 +0300</pubDate>
 		</item>
         
+        <item>
+			<title>Entrevista con Juan Pablo Carranza [s02e05]</title>
+			<googleplay:description><![CDATA[Juan Pablo es Mgter. en Administración Pública y Lic. en Economía por la Universidad Nacional de Córdoba. Estudia la economía urbana y el desarrollo local. Es Consultor Experto en el Programa de Naciones Unidas para el Desarrollo, en el marco del Proyecto de Mejora de la capacidad de gestión del Ministerio de Finanzas de la Provincia de Córdoba en Argentina. Juan Pablo es también docente universitario e investigador.
+			]]>
+			 </googleplay:description>
+			<googleplay:author>Andrés Vázquez</googleplay:author>
+			<googleplay:image href='https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e05-Entrevista-a-Juan-Pablo-Carranza.png'/>
+			<googleplay:explicit>No</googleplay:explicit>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-a-juan-pablo-carranza-s02e05.mp3" length="18733700" type="audio/x-mp3"/>
+			<guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s02e05-Entrevista-a-Juan-Pablo-Carranza.html</guid>
+			<pubDate>Sat, 10 Aug 2019 20:10:00 +0300</pubDate>
+		</item>
+        
 	</channel>
 </rss>

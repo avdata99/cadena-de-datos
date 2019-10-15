@@ -6,7 +6,7 @@
         <description>Podcast con entrevistas a referentes de los datos abiertos de habla hispana.</description>
         <language>es-ar</language>
         <ttl>1440</ttl>
-        <lastBuildDate>Mon, 16 Sep 2019 21:46:23 +0300</lastBuildDate>
+        <lastBuildDate>Mon, 14 Oct 2019 21:30:37 +0300</lastBuildDate>
         <author>Andrés Vázquez</author>
         <itunes:author>Andrés Vázquez</itunes:author>
         <image>
@@ -1209,6 +1209,27 @@
                 <title>Entrevista con Martín Álvarez-Espinar [s02e04]</title>
                 <url>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e04-martin-alvarez-espinar.png</url>
                 <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e04-martin-alvarez-espinar.png</link>
+            </image>
+
+        </item>
+        
+        <item>
+            <title>Entrevista con Juan Pablo Carranza [s02e05]</title>
+            <guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s02e05-Entrevista-a-Juan-Pablo-Carranza.html</guid>
+            <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s02e05-Entrevista-a-Juan-Pablo-Carranza.html</link>
+            <pubDate>Sat, 10 Aug 2019 20:10:00 +0300</pubDate>
+            <author>Andrés Vázquez</author>
+            <description><![CDATA[Juan Pablo es Mgter. en Administración Pública y Lic. en Economía por la Universidad Nacional de Córdoba. Estudia la economía urbana y el desarrollo local. Es Consultor Experto en el Programa de Naciones Unidas para el Desarrollo, en el marco del Proyecto de Mejora de la capacidad de gestión del Ministerio de Finanzas de la Provincia de Córdoba en Argentina. Juan Pablo es también docente universitario e investigador.
+            ]]>
+            </description>
+            
+            
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-a-juan-pablo-carranza-s02e05.mp3" length="18733700" type="audio/mpeg"/>
+
+            <image>
+                <title>Entrevista con Juan Pablo Carranza [s02e05]</title>
+                <url>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e05-Entrevista-a-Juan-Pablo-Carranza.png</url>
+                <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e05-Entrevista-a-Juan-Pablo-Carranza.png</link>
             </image>
 
         </item>
