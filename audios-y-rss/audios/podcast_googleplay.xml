@@ -996,7 +996,20 @@
 			<googleplay:explicit>No</googleplay:explicit>
             <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-a-juan-pablo-carranza-s02e05.mp3" length="18733700" type="audio/x-mp3"/>
 			<guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s02e05-Entrevista-a-Juan-Pablo-Carranza.html</guid>
-			<pubDate>Sat, 10 Aug 2019 20:10:00 +0300</pubDate>
+			<pubDate>Tue, 08 Oct 2019 20:10:00 +0300</pubDate>
+		</item>
+        
+        <item>
+			<title>Entrevista con Verónica Xhardez [s02e06]</title>
+			<googleplay:description><![CDATA[Verónica es consultora e investigadora sobre Big Data y Datos Abiertos en el CIECTI. Docente e investigadora de la Universidad Nacional Tres de Febrero (Argentina). Socia activa de SOLAR desde hace más de 15 años. Doctora en Cs Sociales, Magister en Ciencias políticas y Licenciada en Ciencias Antropológicas de la UBA.
+			]]>
+			 </googleplay:description>
+			<googleplay:author>Andrés Vázquez</googleplay:author>
+			<googleplay:image href='https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e06-xhardez.png'/>
+			<googleplay:explicit>No</googleplay:explicit>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-a-veronica-xhardez-s02e06.mp3" length="6386468" type="audio/x-mp3"/>
+			<guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s02e06-xhardez.html</guid>
+			<pubDate>Fri, 01 Nov 2019 18:30:00 +0300</pubDate>
 		</item>
         
 	</channel>
