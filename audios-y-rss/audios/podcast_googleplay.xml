@@ -1025,5 +1025,18 @@
 			<pubDate>Thu, 07 Nov 2019 18:00:00 +0300</pubDate>
 		</item>
         
+        <item>
+			<title>Entrevista con Florencia Serale [Episodio 32]</title>
+			<googleplay:description><![CDATA[Florencia Serale, Argentina en Washington, trabaja como consultora en temas de datos abiertos y gobierno digital. Es Licenciada en Economía por la Universidad Nacional de La Plata (UNLP) y tiene una Maestría en Administración y Políticas Públicas de la Universidad de San Andrés (UDESA). Coautora de la publicación: Los datos abiertos en América Latina y el Caribe (junto a Arturo Muente-Kunigami). Autora de la Nota Datos abiertos para emprendedores: Una inversión que rinde en el blog 'Gobernarte' del BID.
+			]]>
+			 </googleplay:description>
+			<googleplay:author>Andrés Vázquez</googleplay:author>
+			<googleplay:image href='https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e08-serale.jpg'/>
+			<googleplay:explicit>No</googleplay:explicit>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-a-florecia-serale-32.5dcf320c.mp3" length="4926956" type="audio/x-mp3"/>
+			<guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s02e08-serale.html</guid>
+			<pubDate>Fri, 15 Nov 2019 18:00:00 +0300</pubDate>
+		</item>
+        
 	</channel>
 </rss>
