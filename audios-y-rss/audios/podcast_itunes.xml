@@ -19,7 +19,7 @@
         
         <language>es-ar</language>
         <ttl>1440</ttl>
-        <lastBuildDate>Fri, 15 Nov 2019 20:28:34 +0300</lastBuildDate>
+        <lastBuildDate>Sat, 07 Dec 2019 15:31:45 +0300</lastBuildDate>
 
         <image>
             <title>Cadena de datos</title>
@@ -1147,6 +1147,22 @@
             <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-a-florecia-serale-32.5dcf320c.mp3" length="4926956" type="audio/mpeg"/>
 
             <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e08-serale.jpg" />
+
+        </item>
+        
+        <item>
+            <title>Entrevista a Betariz Hernandez [Episodio 33]</title>
+            <guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s02e09-bea-hernandez.html</guid>
+            <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s02e09-bea-hernandez.html</link>
+            <pubDate>Mon, 02 Dec 2019 16:00:00 +0300</pubDate>
+            <description><![CDATA[Beatriz es Data scientist en el Olympic Channel. Es co-organizadora de R-Ladies Madrid y tienen un grado en matemática por la Universidad Complutense de Madrid.
+            ]]>
+            </description>
+            <itunes:summary>Beatriz es Data scientist en el Olympic Channel. Es co-organizadora de R-Ladies Madrid y tienen un grado en matemática por la Universidad Complutense de Madrid.</itunes:summary>
+            
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-a-florecia-serale-32.5dcf320c.mp3" length="4736984" type="audio/mpeg"/>
+
+            <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e09-bea-hernandez.jpg" />
 
         </item>
         

@@ -1038,5 +1038,18 @@
 			<pubDate>Fri, 15 Nov 2019 18:00:00 +0300</pubDate>
 		</item>
         
+        <item>
+			<title>Entrevista a Betariz Hernandez [Episodio 33]</title>
+			<googleplay:description><![CDATA[Beatriz es Data scientist en el Olympic Channel. Es co-organizadora de R-Ladies Madrid y tienen un grado en matemática por la Universidad Complutense de Madrid.
+			]]>
+			 </googleplay:description>
+			<googleplay:author>Andrés Vázquez</googleplay:author>
+			<googleplay:image href='https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e09-bea-hernandez.jpg'/>
+			<googleplay:explicit>No</googleplay:explicit>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-a-florecia-serale-32.5dcf320c.mp3" length="4736984" type="audio/x-mp3"/>
+			<guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s02e09-bea-hernandez.html</guid>
+			<pubDate>Mon, 02 Dec 2019 16:00:00 +0300</pubDate>
+		</item>
+        
 	</channel>
 </rss>
