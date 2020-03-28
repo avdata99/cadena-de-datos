@@ -6,7 +6,7 @@
         <description>Podcast con entrevistas a referentes de los datos abiertos de habla hispana.</description>
         <language>es-ar</language>
         <ttl>1440</ttl>
-        <lastBuildDate>Sat, 07 Dec 2019 16:13:07 +0300</lastBuildDate>
+        <lastBuildDate>Sat, 28 Mar 2020 19:10:27 +0300</lastBuildDate>
         <author>Andrés Vázquez</author>
         <itunes:author>Andrés Vázquez</itunes:author>
         <image>
@@ -1314,6 +1314,27 @@
                 <title>Entrevista a Beatriz Hernandez [Episodio 33]</title>
                 <url>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e09-bea-hernandez.jpg</url>
                 <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e09-bea-hernandez.jpg</link>
+            </image>
+
+        </item>
+        
+        <item>
+            <title>Pandemia de datos [Episodio 34]</title>
+            <guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s02e34-pandemia-de-datos.html</guid>
+            <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s02e34-pandemia-de-datos.html</link>
+            <pubDate>Sat, 28 Mar 2020 19:00:00 +0300</pubDate>
+            <author>Andrés Vázquez</author>
+            <description><![CDATA[En este contexto de crisis y preocupación por la pandemia donde todos queremos saber que paso ahora, que tan grave es y que va a pasar en las próximas semanas me surgen algunas dudas acerca de las políticas de apertura y uso de los datos relacionados a este tema. @SilvanavF: Silvana Fumega de ILDA, la iniciativa latinoamericana por los datos abiertos. @usagarra: Oleguer Sagarra: Científico de datos y confundador de la empresa Dribia. @Diego_Koz: Diego Kozlowski, Economista y científico de datos. @MeseguerYebra: Joaquin Meseguer, Director General de Transparencia y Buen Gobierno de Castilla y Leon. @tuqmano: Juan Pablo Ruiz Nicolini, cinetífico de datos y politólogo. @pdelboca: Patricio del Boca. Desarrollador de software y analista de datos. Miembro de OpenDataCordoba. @rquiroga777: Rodrigo Quiroga: Bioinformático e investigador asistente de CONICET
+            ]]>
+            </description>
+            
+            
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/pandemia-de-datos.5e7fc84e.mp3" length="37987357" type="audio/mpeg"/>
+
+            <image>
+                <title>Pandemia de datos [Episodio 34]</title>
+                <url>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e34-pandemia-de-datos.png</url>
+                <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e34-pandemia-de-datos.png</link>
             </image>
 
         </item>

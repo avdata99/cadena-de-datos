@@ -1051,5 +1051,18 @@
 			<pubDate>Mon, 02 Dec 2019 16:00:00 +0300</pubDate>
 		</item>
         
+        <item>
+			<title>Pandemia de datos [Episodio 34]</title>
+			<googleplay:description><![CDATA[En este contexto de crisis y preocupación por la pandemia donde todos queremos saber que paso ahora, que tan grave es y que va a pasar en las próximas semanas me surgen algunas dudas acerca de las políticas de apertura y uso de los datos relacionados a este tema. @SilvanavF: Silvana Fumega de ILDA, la iniciativa latinoamericana por los datos abiertos. @usagarra: Oleguer Sagarra: Científico de datos y confundador de la empresa Dribia. @Diego_Koz: Diego Kozlowski, Economista y científico de datos. @MeseguerYebra: Joaquin Meseguer, Director General de Transparencia y Buen Gobierno de Castilla y Leon. @tuqmano: Juan Pablo Ruiz Nicolini, cinetífico de datos y politólogo. @pdelboca: Patricio del Boca. Desarrollador de software y analista de datos. Miembro de OpenDataCordoba. @rquiroga777: Rodrigo Quiroga: Bioinformático e investigador asistente de CONICET
+			]]>
+			 </googleplay:description>
+			<googleplay:author>Andrés Vázquez</googleplay:author>
+			<googleplay:image href='https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e34-pandemia-de-datos.png'/>
+			<googleplay:explicit>No</googleplay:explicit>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/pandemia-de-datos.5e7fc84e.mp3" length="37987357" type="audio/x-mp3"/>
+			<guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s02e34-pandemia-de-datos.html</guid>
+			<pubDate>Sat, 28 Mar 2020 19:00:00 +0300</pubDate>
+		</item>
+        
 	</channel>
 </rss>
