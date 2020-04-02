@@ -6,7 +6,7 @@
         <description>Podcast con entrevistas a referentes de los datos abiertos de habla hispana.</description>
         <language>es-ar</language>
         <ttl>1440</ttl>
-        <lastBuildDate>Sat, 28 Mar 2020 19:10:27 +0300</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2020 20:41:19 +0300</lastBuildDate>
         <author>Andrés Vázquez</author>
         <itunes:author>Andrés Vázquez</itunes:author>
         <image>
@@ -1335,6 +1335,33 @@
                 <title>Pandemia de datos [Episodio 34]</title>
                 <url>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e34-pandemia-de-datos.png</url>
                 <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e34-pandemia-de-datos.png</link>
+            </image>
+
+        </item>
+        
+        <item>
+            <title>Pandemia de datos II [Episodio 35]</title>
+            <guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s02e35-pandemia-de-datos-ii.html</guid>
+            <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s02e35-pandemia-de-datos-ii.html</link>
+            <pubDate>Thu, 02 Apr 2020 20:00:00 +0300</pubDate>
+            <author>Andrés Vázquez</author>
+            <description><![CDATA[Conversamos con Dante Paz y Juan Cabral que formaron parte del equipo que desarrolló un Sistema de soporte para el análisis de datos de la pandemia de COVID-19 en la provincia de Córdoba.
+            
+            <br />Ideas: <ul>
+            <li>Dante Paz: Astrónomo, Investigador de CONICET y Docente en el Observatorio Astronómico de la UNC</li>
+            <li>Juan Cabral: Dr. en Inormatica dedicado al analisis de datos principalmente con Astronomía. Investigador post-doctoral en CONICET y docente del colegio universitario de periodismo en córdoba</li>
+            <li>Sistema de soporte para el análisis de datos: Repo https://github.com/ivco19/brooks + Redes: https://twitter.com/DanteJPaz/status/1245090199643840514</li>
+            <li>Calculadora epidemiológica: Repo: https://github.com/ivco19/epcalc + Redes https://twitter.com/DanteJPaz/status/1245528093013442561</li>
+            </ul>]]>
+            </description>
+            
+            
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/pandemia-de-datos-ii-35.5e8677d3.mp3" length="21768941" type="audio/mpeg"/>
+
+            <image>
+                <title>Pandemia de datos II [Episodio 35]</title>
+                <url>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e35-pandemia-de-datos-ii.png</url>
+                <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e35-pandemia-de-datos-ii.png</link>
             </image>
 
         </item>

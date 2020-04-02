@@ -1064,5 +1064,24 @@
 			<pubDate>Sat, 28 Mar 2020 19:00:00 +0300</pubDate>
 		</item>
         
+        <item>
+			<title>Pandemia de datos II [Episodio 35]</title>
+			<googleplay:description><![CDATA[Conversamos con Dante Paz y Juan Cabral que formaron parte del equipo que desarrolló un Sistema de soporte para el análisis de datos de la pandemia de COVID-19 en la provincia de Córdoba.
+			
+            <br />Ideas: <ul>
+            <li>Dante Paz: Astrónomo, Investigador de CONICET y Docente en el Observatorio Astronómico de la UNC</li>
+            <li>Juan Cabral: Dr. en Inormatica dedicado al analisis de datos principalmente con Astronomía. Investigador post-doctoral en CONICET y docente del colegio universitario de periodismo en córdoba</li>
+            <li>Sistema de soporte para el análisis de datos: Repo https://github.com/ivco19/brooks + Redes: https://twitter.com/DanteJPaz/status/1245090199643840514</li>
+            <li>Calculadora epidemiológica: Repo: https://github.com/ivco19/epcalc + Redes https://twitter.com/DanteJPaz/status/1245528093013442561</li>
+            </ul>]]>
+			 </googleplay:description>
+			<googleplay:author>Andrés Vázquez</googleplay:author>
+			<googleplay:image href='https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e35-pandemia-de-datos-ii.png'/>
+			<googleplay:explicit>No</googleplay:explicit>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/pandemia-de-datos-ii-35.5e8677d3.mp3" length="21768941" type="audio/x-mp3"/>
+			<guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s02e35-pandemia-de-datos-ii.html</guid>
+			<pubDate>Thu, 02 Apr 2020 20:00:00 +0300</pubDate>
+		</item>
+        
 	</channel>
 </rss>

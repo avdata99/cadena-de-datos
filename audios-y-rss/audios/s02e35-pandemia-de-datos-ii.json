@@ -1,0 +1,18 @@
+{
+    "titulo": "Pandemia de datos II [Episodio 35]",
+    "anio_publicacion": 2020,
+    "mes_publicacion": 4,
+    "dia_publicacion": 2,
+    "hora_publicacion": 20,
+    "minuto_publicacion": 0,
+    "usar_audio_externo": "https://parlarispa.com/podcasts/cadena-de-datos/pandemia-de-datos-ii-35.5e8677d3.mp3",
+    "descripcion": "Conversamos con Dante Paz y Juan Cabral que formaron parte del equipo que desarrolló un Sistema de soporte para el análisis de datos de la pandemia de COVID-19 en la provincia de Córdoba.",
+    "musica_intro": "",
+    "youtube_id": "RD9Cx2Kfyxg",
+    "ideas": [
+        "Dante Paz: Astrónomo, Investigador de CONICET y Docente en el Observatorio Astronómico de la UNC",
+        "Juan Cabral: Dr. en Inormatica dedicado al analisis de datos principalmente con Astronomía. Investigador post-doctoral en CONICET y docente del colegio universitario de periodismo en córdoba",
+        "Sistema de soporte para el análisis de datos: Repo https://github.com/ivco19/brooks + Redes: https://twitter.com/DanteJPaz/status/1245090199643840514",
+        "Calculadora epidemiológica: Repo: https://github.com/ivco19/epcalc + Redes https://twitter.com/DanteJPaz/status/1245528093013442561"
+    ]
+}
