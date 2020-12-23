@@ -1083,5 +1083,24 @@
 			<pubDate>Thu, 02 Apr 2020 20:00:00 +0300</pubDate>
 		</item>
         
+        <item>
+			<title>Pablo de Grande [Episodio 36]</title>
+			<googleplay:description><![CDATA[Pablo De Grande es Doctor en Ciencias Sociales y Humanidades y Licenciado en Sociología. Actualmente es profesor e Investigador de CONICET, del Consejo Nacional de Investigaciones Científicas y Técnicas de la Argentina y en el Instituto de Investigación en Ciencias Sociales. Conversamos sobre varios de sus proyectos
+			
+            <br />Ideas: <ul>
+            <li>Conversor REDATAM: https://idiscontinuos.wordpress.com/2015/03/21/convirtiendo-bases-redatam-a-spss/</li>
+            <li>Proyecto Poblaciones: https://poblaciones.org/</li>
+            <li>Gobierno electrònico y accesibilidad: https://www.aacademica.org/pablo.de.grande/60</li>
+            <li>Màs sobre Pablo: - https://www.aacademica.org/pablo.de.grande</li>
+            </ul>]]>
+			 </googleplay:description>
+			<googleplay:author>Andrés Vázquez</googleplay:author>
+			<googleplay:image href='https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e36-pablo-de-grande.png'/>
+			<googleplay:explicit>No</googleplay:explicit>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/pablo-de-grande-36.mp3" length="73868340" type="audio/x-mp3"/>
+			<guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s02e36-pablo-de-grande.html</guid>
+			<pubDate>Wed, 23 Dec 2020 05:00:00 +0300</pubDate>
+		</item>
+        
 	</channel>
 </rss>
