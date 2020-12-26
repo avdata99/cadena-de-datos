@@ -6,7 +6,7 @@
         <description>Podcast con entrevistas a referentes de los datos abiertos de habla hispana.</description>
         <language>es-ar</language>
         <ttl>1440</ttl>
-        <lastBuildDate>Sat, 26 Dec 2020 13:17:49 +0300</lastBuildDate>
+        <lastBuildDate>Sat, 26 Dec 2020 13:19:19 +0300</lastBuildDate>
         <author>Andrés Vázquez</author>
         <itunes:author>Andrés Vázquez</itunes:author>
         <image>
@@ -1367,7 +1367,7 @@
         </item>
         
         <item>
-            <title>Pablo de Grande [Episodio 36]</title>
+            <title>Pablo De Grande [Episodio 36]</title>
             <guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s02e36-pablo-de-grande.html</guid>
             <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s02e36-pablo-de-grande.html</link>
             <pubDate>Wed, 23 Dec 2020 05:00:00 +0300</pubDate>
@@ -1386,7 +1386,7 @@
             <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/pablo-de-grande-36.mp3" length="73868340" type="audio/mpeg"/>
 
             <image>
-                <title>Pablo de Grande [Episodio 36]</title>
+                <title>Pablo De Grande [Episodio 36]</title>
                 <url>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e36-pablo-de-grande.png</url>
                 <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e36-pablo-de-grande.png</link>
             </image>
