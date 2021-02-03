@@ -1,0 +1,20 @@
+{
+    "titulo": "Yanina Bellini Saibene [Episodio 37]",
+    "anio_publicacion": 2021,
+    "mes_publicacion": 2,
+    "dia_publicacion": 3,
+    "hora_publicacion": 11,
+    "minuto_publicacion": 0,
+    "usar_audio_externo": "https://parlarispa.com/podcasts/cadena-de-datos/yanina-bellini-saibene-37.mp3",
+    "descripcion": "Yanina es Licenciada en Sistemas de Información y Magíster en Explotación de Datos y Gestión del Conocimiento. Investigadora en INTA (Instituto Nacional de Tecnología Agropecuaria de Argentina). Cofundadora y organizadora en múltiples espacios colaborativos como Metadocencia, RLadies y Latinr entre otros.",
+    "musica_intro": "",
+    "youtube_id": "5usE2w2v33E",
+    "ideas": [
+        "Sitio web personal de Yanina: https://yabellini.netlify.app/es/",
+        "Metadocencia: https://www.metadocencia.org/",
+        "RLadies: https://rladies.org/",
+        "INTA en DACyTAr: https://dacytar.mincyt.gob.ar/?d=todas&f_reponame_str=INTA%20Digital%20%28INTA%2",
+        "Geo INTA http://www.geointa.inta.gob.ar/acerca-de/",
+        "Repos de INTA en GitHub: https://github.com/INTA-Radar https://github.com/GeoINTA https://github.com/INTA-Suelos"
+    ]
+}

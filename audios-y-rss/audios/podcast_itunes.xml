@@ -19,7 +19,7 @@
         
         <language>es-ar</language>
         <ttl>1440</ttl>
-        <lastBuildDate>Sat, 26 Dec 2020 13:19:19 +0300</lastBuildDate>
+        <lastBuildDate>Wed, 03 Feb 2021 11:58:25 +0300</lastBuildDate>
 
         <image>
             <title>Cadena de datos</title>
@@ -1223,6 +1223,30 @@
             <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/pablo-de-grande-36.mp3" length="73868340" type="audio/mpeg"/>
 
             <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e36-pablo-de-grande.png" />
+
+        </item>
+        
+        <item>
+            <title>Yanina Bellini Saibene [Episodio 37]</title>
+            <guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s02e37-yanina-bellini.html</guid>
+            <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s02e37-yanina-bellini.html</link>
+            <pubDate>Wed, 03 Feb 2021 11:00:00 +0300</pubDate>
+            <description><![CDATA[Yanina es Licenciada en Sistemas de Información y Magíster en Explotación de Datos y Gestión del Conocimiento. Investigadora en INTA (Instituto Nacional de Tecnología Agropecuaria de Argentina). Cofundadora y organizadora en múltiples espacios colaborativos como Metadocencia, RLadies y Latinr entre otros.
+            
+            <br />Ideas: <ul>
+            <li>Sitio web personal de Yanina: https://yabellini.netlify.app/es/</li>
+            <li>Metadocencia: https://www.metadocencia.org/</li>
+            <li>RLadies: https://rladies.org/</li>
+            <li>INTA en DACyTAr: https://dacytar.mincyt.gob.ar/?d=todas&f_reponame_str=INTA%20Digital%20%28INTA%2</li>
+            <li>Geo INTA http://www.geointa.inta.gob.ar/acerca-de/</li>
+            <li>Repos de INTA en GitHub: https://github.com/INTA-Radar https://github.com/GeoINTA https://github.com/INTA-Suelos</li>
+            </ul>]]>
+            </description>
+            <itunes:summary>Yanina es Licenciada en Sistemas de Información y Magíster en Explotación de Datos y Gestión del Conocimiento. Investigadora en INTA (Instituto Nacional de Tecnología Agropecuaria de Argentina). Cofundadora y organizadora en múltiples espacios colaborativos como Metadocencia, RLadies y Latinr entre otros.</itunes:summary>
+            
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/yanina-bellini-saibene-37.mp3" length="54187726" type="audio/mpeg"/>
+
+            <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e37-yanina-bellini.jpg" />
 
         </item>
         
