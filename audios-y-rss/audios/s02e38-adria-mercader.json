@@ -1,0 +1,18 @@
+{
+    "titulo": "Adria Mercader [Episodio 38]",
+    "anio_publicacion": 2021,
+    "mes_publicacion": 2,
+    "dia_publicacion": 10,
+    "hora_publicacion": 20,
+    "minuto_publicacion": 15,
+    "usar_audio_externo": "https://parlarispa.com/podcasts/cadena-de-datos/adria-mercader-38.mp3",
+    "descripcion": "Adrià es Licenciado en Biología y Máster en Sistemas de Información Geográfica. Tiene más de una década de experiencia trabajando en los campos de Datos Abiertos y Tecnología Cívica. Es miembro del equipo técnico de CKAN y trabaja en diferentes proyectos en Open Knowledge International, ayudando a desbloquear el valor de los datos abiertos.",
+    "musica_intro": "",
+    "youtube_id": "ZJVC4SNudxQ",
+    "ideas": [
+        "Sitio web personal de Adria: https://amercader.net/",
+        "GitHub: https://github.com/amercader",
+        "Linkedin: https://www.linkedin.com/in/adriamercader/",
+        "CKAN: https://ckan.org"
+    ]
+}

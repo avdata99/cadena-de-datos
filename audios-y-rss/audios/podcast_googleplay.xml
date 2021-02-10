@@ -1123,5 +1123,24 @@
 			<pubDate>Wed, 03 Feb 2021 11:00:00 +0300</pubDate>
 		</item>
         
+        <item>
+			<title>Adria Mercader [Episodio 38]</title>
+			<googleplay:description><![CDATA[Adrià es Licenciado en Biología y Máster en Sistemas de Información Geográfica. Tiene más de una década de experiencia trabajando en los campos de Datos Abiertos y Tecnología Cívica. Es miembro del equipo técnico de CKAN y trabaja en diferentes proyectos en Open Knowledge International, ayudando a desbloquear el valor de los datos abiertos.
+			
+            <br />Ideas: <ul>
+            <li>Sitio web personal de Adria: https://amercader.net/</li>
+            <li>GitHub: https://github.com/amercader</li>
+            <li>Linkedin: https://www.linkedin.com/in/adriamercader/</li>
+            <li>CKAN: https://ckan.org</li>
+            </ul>]]>
+			 </googleplay:description>
+			<googleplay:author>Andrés Vázquez</googleplay:author>
+			<googleplay:image href='https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e38-adria-mercader.jpg'/>
+			<googleplay:explicit>No</googleplay:explicit>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/adria-mercader-38.mp3" length="46628609" type="audio/x-mp3"/>
+			<guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s02e38-adria-mercader.html</guid>
+			<pubDate>Wed, 10 Feb 2021 20:15:00 +0300</pubDate>
+		</item>
+        
 	</channel>
 </rss>
