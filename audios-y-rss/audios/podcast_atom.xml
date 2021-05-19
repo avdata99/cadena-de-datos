@@ -6,7 +6,7 @@
         <description>Podcast con entrevistas a referentes de los datos abiertos de habla hispana.</description>
         <language>es-ar</language>
         <ttl>1440</ttl>
-        <lastBuildDate>Tue, 18 May 2021 23:43:20 +0300</lastBuildDate>
+        <lastBuildDate>Tue, 18 May 2021 23:51:59 +0300</lastBuildDate>
         <author>Andrés Vázquez</author>
         <itunes:author>Andrés Vázquez</itunes:author>
         <image>
@@ -1450,7 +1450,7 @@
         </item>
         
         <item>
-            <title>Adria Mercader [Episodio 38]</title>
+            <title>Laura Alonso Alemany [Episodio 39]</title>
             <guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s02e39-laura-alonso-alemany.html</guid>
             <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s02e39-laura-alonso-alemany.html</link>
             <pubDate>Tue, 18 May 2021 19:47:00 +0300</pubDate>
@@ -1468,7 +1468,7 @@
             <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/adria-mercader-38.mp3" length="20297415" type="audio/mpeg"/>
 
             <image>
-                <title>Adria Mercader [Episodio 38]</title>
+                <title>Laura Alonso Alemany [Episodio 39]</title>
                 <url>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e39-laura-alonso-alemany.png</url>
                 <link>https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e39-laura-alonso-alemany.png</link>
             </image>
