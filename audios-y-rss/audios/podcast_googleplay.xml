@@ -1142,5 +1142,23 @@
 			<pubDate>Wed, 10 Feb 2021 20:15:00 +0300</pubDate>
 		</item>
         
+        <item>
+			<title>Adria Mercader [Episodio 38]</title>
+			<googleplay:description><![CDATA[Laura Alonso Alemany es profesora en el área de Ciencias de la Computación en la FaMAF de la UNC. Licenciada en Lingüística General con una Maestría y un Doctorado en Lingüística Computacional. Conversamos sobre Procesamiento de Lenguaje Naturtal (NLP), la <a href='https://diplodatos.famaf.unc.edu.ar/'>Diplomatura de Ciencia de datos del FAMAF-UNC</a> y sobre su vida laboral.
+			
+            <br />Ideas: <ul>
+            <li>CV Laura: https://cs.famaf.unc.edu.ar/~laura/LauraAlonsoAlemany.pdf</li>
+            <li>Linkedin: https://www.linkedin.com/in/laura-alonso-alemany-1125235/?originalSubdomain=ar</li>
+            <li>@morlaicassiopea Twitter: https://twitter.com/morlaicassiopea</li>
+            </ul>]]>
+			 </googleplay:description>
+			<googleplay:author>Andrés Vázquez</googleplay:author>
+			<googleplay:image href='https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e39-laura-alonso-alemany.png'/>
+			<googleplay:explicit>No</googleplay:explicit>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/adria-mercader-38.mp3" length="20297415" type="audio/x-mp3"/>
+			<guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s02e39-laura-alonso-alemany.html</guid>
+			<pubDate>Tue, 18 May 2021 19:47:00 +0300</pubDate>
+		</item>
+        
 	</channel>
 </rss>

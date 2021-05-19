@@ -1,6 +1,6 @@
 # crear video con la onda del audio de fondo y una imagen
 # https://stackoverflow.com/questions/34029575/showfreqs-and-showwaves-over-background-image
-TEXTO="Cadena de datos con Pablo De Grande. Episodio 36"
+TEXTO="Cadena de datos con Laura Alonso Alemnay. Episodio 39"
 TTF_FILE="/usr/share/fonts/truetype/ttf-bitstream-vera/Vera.ttf"
 FONT_SIZE=30
 FONT_COLOR=black
@@ -27,9 +27,9 @@ FILTER="[0:a]showfreqs=mode=bar:ascale=lin:fscale=lin:s=${ANCHO_WAVE1}x${ALTO_WA
 
 echo $FILTER
 echo "*************************************"
-cmd="ffmpeg -i audio.mp3 \
+cmd="ffmpeg -i ../audios-y-rss/audios/s02e39-laura-alonso-alemany.mp3 \
     -loop 1 -y \
-    -i imagen.png \
+    -i ../audios-y-rss/audios/s02e39-laura-alonso-alemany.png \
     -filter_complex \"$FILTER\" \
     -map '[out]' \
     -map 0:a \
