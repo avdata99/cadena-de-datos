@@ -19,7 +19,7 @@
         
         <language>es-ar</language>
         <ttl>1440</ttl>
-        <lastBuildDate>Tue, 18 May 2021 23:51:59 +0300</lastBuildDate>
+        <lastBuildDate>Tue, 18 May 2021 23:54:32 +0300</lastBuildDate>
 
         <image>
             <title>Cadena de datos</title>
@@ -1287,7 +1287,7 @@
             </description>
             <itunes:summary>Laura Alonso Alemany es profesora en el área de Ciencias de la Computación en la FaMAF de la UNC. Licenciada en Lingüística General con una Maestría y un Doctorado en Lingüística Computacional. Conversamos sobre Procesamiento de Lenguaje Naturtal (NLP), la <a href='https://diplodatos.famaf.unc.edu.ar/'>Diplomatura de Ciencia de datos del FAMAF-UNC</a> y sobre su vida laboral.</itunes:summary>
             
-            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/adria-mercader-38.mp3" length="20297415" type="audio/mpeg"/>
+            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/laura-alonso-alemany-39.60a446fb.mp3" length="20297415" type="audio/mpeg"/>
 
             <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e39-laura-alonso-alemany.png" />
 
