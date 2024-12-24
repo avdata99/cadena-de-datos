@@ -19,7 +19,7 @@
         
         <language>es-ar</language>
         <ttl>1440</ttl>
-        <lastBuildDate>Tue, 18 May 2021 23:54:32 +0300</lastBuildDate>
+        <lastBuildDate>Tue, 24 Dec 2024 15:34:53 +0300</lastBuildDate>
 
         <image>
             <title>Cadena de datos</title>
@@ -74,7 +74,7 @@
             </description>
             <itunes:summary>La cumbre (Córdoba, AR), 12 de enero. El Ruso me recibe en sus vacaciones para grabar la entrevista. Hablamos de los inicios de los datos abiertos en Argentina, el estado actual de las políticas públicas de transparencia y los proyectos Cargografías y Economía Feminista.</itunes:summary>
             
-            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-andres-snitcofsky-s01e01.mp3" length="41340811" type="audio/mpeg"/>
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/ruso.mp3" length="41340811" type="audio/mpeg"/>
 
             <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/ruso.png" />
 
@@ -115,7 +115,7 @@
             </description>
             <itunes:summary>Martín es actualmente Gerente Operativo de Gobierno Abierto de la Ciudad de Buenos Aíres. Ex director de Datos abiertos de la Provincia de Buenos Aires, Licenciado en ciencias políticas y Técnico superior en periodismo. Parte del proyecto https://www.34surmapas.com/</itunes:summary>
             
-            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-martin-alalu-s01e02.mp3" length="31223740" type="audio/mpeg"/>
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e02-alalu.mp3" length="31223740" type="audio/mpeg"/>
 
             <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e02-alalu.png" />
 
@@ -154,7 +154,7 @@
             </description>
             <itunes:summary>Ines formó parte de equipos de transparencia en el poder ejecutivo y judicial. En organizaciones de la sociedad civil (locales e internacionales) y hasta en el ámbito universitario. Nos cuenta de todas sus experiencias (se corta un poco los primeros tres minutos pero luego el audio funciona perfectamente)</itunes:summary>
             
-            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-ines-selvood-s01e03.mp3" length="35747135" type="audio/mpeg"/>
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e03-selvood.mp3" length="35747135" type="audio/mpeg"/>
 
             <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e03-selvood.jpg" />
 
@@ -191,7 +191,7 @@
             </description>
             <itunes:summary>Antonio Licenciado en Ciencias Políticas y Master en Ciencias Sociales. Trabajo en el Gobierno de CABA en su primera versión del portal de datos y para la plataforma Junar. Actualmente lidera su propia consultora Unicorio Data</itunes:summary>
             
-            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-antonio-milanese-s01e04.mp3" length="30536115" type="audio/mpeg"/>
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e04-tony.mp3" length="30536115" type="audio/mpeg"/>
 
             <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e04-tony.png" />
 
@@ -228,7 +228,7 @@
             </description>
             <itunes:summary>Pablo Secchi es Licenciado en Ciencia Política (Universidad del Salvador). Maestrado en Análisis, Gestión y Derecho Electoral (Universidad de San Martín). Trabaja temas de transparencia institucional y lucha contra la corrupción. Es especialista en transparencia en el financiamiento de las campañas electorales, tema sobre el cual ha realizado diversas consultorías. Es Director Ejecutivo de la Fundación Poder Ciudadano desde 2012</itunes:summary>
             
-            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-pablo-secchi-s01e05.mp3" length="26301915" type="audio/mpeg"/>
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e05-secchi.mp3" length="26301915" type="audio/mpeg"/>
 
             <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e05-secchi.jpg" />
 
@@ -268,7 +268,7 @@
             </description>
             <itunes:summary>Esteban es productor de espectáculos y consultor en temas de gobierno Abierto. Fue Titular de primera Agencia de Innovación y Gobierno Abierto de Argentina, en Bahía Blanca. Asesor del municipio de Córdoba y de la Cámara de Diputados de Nación en materia de tecnología, innovación y gobierno abierto. Consultor de CIPPEC en el programa Usina de Ciudades Inteligentes.</itunes:summary>
             
-            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-esteban-mirofsky-s01e06.mp3" length="18543884" type="audio/mpeg"/>
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e06-mirofsky.mp3" length="18543884" type="audio/mpeg"/>
 
             <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e06-mirofsky.png" />
 
@@ -309,7 +309,7 @@
             </description>
             <itunes:summary>Juan Ignacio Belbis es comunicador, analista de políticas públicas, consultor en innovación cívica y docente universitario de grado y posgrado. Actualmente es Investigador Asociado de la Iniciativa Latinoamericana de Datos Abiertos. Colaboró y colabora con diferentes gobiernos y organizaciones de la sociedad civil en el desarrollo de políticas públicas que tienen como eje la apertura gubernamental y la transparencia activa. Ha trabajado como asesor técnico y político en el Ministerio de Gobierno de la Provincia de Buenos Aires y en el Senado de la Nación Argentina.</itunes:summary>
             
-            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-juan-ignacio-belbis-s01e07.mp3" length="26744539" type="audio/mpeg"/>
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e07-juanibelbis.mp3" length="26744539" type="audio/mpeg"/>
 
             <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e07-juanibelbis.jpg" />
 
@@ -350,7 +350,7 @@
             </description>
             <itunes:summary>Manuel es Desarrollador de Software. Tiene una maestría en el MIT Media Lab. Fue parte del equipo de satélites Satellogic. A través de la Fundación Mozilla trabajo con el equipo de periodismo de datos del Diario La Nación. Fue el creador de la plataforma GastoPúblicoBahiense, trabajó en la publicación de datos del software RAFAM. Fué lider técnico del portal de datos DataChile y actualmete es consultor independiente</itunes:summary>
             
-            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-manuel-aristaran-s01e08.mp3" length="34878639" type="audio/mpeg"/>
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e08-manu.mp3" length="34878639" type="audio/mpeg"/>
 
             <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e08-manu.jpg" />
 
@@ -392,7 +392,7 @@
             </description>
             <itunes:summary>Javier publicista y especialista en marketing político. Es Director de la consultora Feeling, Director de PastoLAB y docente universitario.</itunes:summary>
             
-            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-javier-arteaga-s01e09.mp3" length="35318273" type="audio/mpeg"/>
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e09-arteaga.mp3" length="35318273" type="audio/mpeg"/>
 
             <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e09-arteaga.jpg" />
 
@@ -429,7 +429,7 @@
             </description>
             <itunes:summary>Silvana es licenciada en Ciencia Política tiene una Maestría en Políticas Públicas y posee un PhD. Hoy es Directora de Investigación y Políticas en ILDA (la Iniciativa Latinoamericana por los Datos Abiertos) y se ha desempeñado como consultora para numerosas organizaciones internacionales, gobiernos y grupos de sociedad civil. Trabaja en la intersección entre las políticas de datos abiertos y el derecho de acceso a la información pública.</itunes:summary>
             
-            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-silvana-fumega-s01e10.mp3" length="31579628" type="audio/mpeg"/>
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e10-fumega.mp3" length="31579628" type="audio/mpeg"/>
 
             <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e10-fumega.png" />
 
@@ -461,7 +461,7 @@
             </description>
             <itunes:summary>Maximiliano fue responsable de Modernización y digitalización de Marcos Paz desde el 2004, Subsecretario de Modernización de Mercedes desde el 2009, Asesor de Modernización de Pilar desde el 2016 y actualmente es Director de Sistemas de la Municipalidad de Lujan.</itunes:summary>
             
-            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-maximiliano-chisnerman-s01e11.mp3" length="28781281" type="audio/mpeg"/>
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e11-chisnerman.mp3" length="28781281" type="audio/mpeg"/>
 
             <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e11-chisnerman.jpg" />
 
@@ -495,7 +495,7 @@
             </description>
             <itunes:summary>Jorge es diseñador y desarrollador de software en Zaragoza, España. Es además lo que llamaríamos en Argentina un activista o hacker cívico que tiene numerosos proyectos propios.</itunes:summary>
             
-            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-jorge-aznar-s01e12.mp3" length="23128993" type="audio/mpeg"/>
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e12-aznar.mp3" length="23128993" type="audio/mpeg"/>
 
             <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e12-aznar.jpg" />
 
@@ -533,7 +533,7 @@
             </description>
             <itunes:summary>María José Vanni es archivera con conocimiento en tecnología y datos abiertos. Activista de esos dos mundos con más en común de los que parece.</itunes:summary>
             
-            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-maria-jose-vanni-s01e13.mp3" length="25657193" type="audio/mpeg"/>
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e13-vanni.mp3" length="25657193" type="audio/mpeg"/>
 
             <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e13-vanni.jpg" />
 
@@ -570,7 +570,7 @@
             </description>
             <itunes:summary>Actualmente Raúl es Director General de Participación, Transparencia, Cooperación y Voluntariado en el Gobierno de Aragón. Fué 10 años Director de Zaragoza Activa (ZAC), un ecosistema público de emprendimiento e innovación social. Raúl Es Licenciado en Publicidad y Relaciones Públicas y Diplomado en Trabajo Social.</itunes:summary>
             
-            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-raul-olivan-s01e14.mp3" length="21007278" type="audio/mpeg"/>
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e14-olivan.mp3" length="21007278" type="audio/mpeg"/>
 
             <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e14-olivan.jpg" />
 
@@ -616,7 +616,7 @@
             </description>
             <itunes:summary>Pablo es licenciado en Análisis de Sistemas, desarrollador de software y especialista en visualizaciones. Trabaja como desarrollador de DataWheel, Chequeado, en SocioPublico y en proyectos como freelance. Es además profesor universitario.</itunes:summary>
             
-            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-pablo-h-paladino-s01e15.mp3" length="38217901" type="audio/mpeg"/>
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e15-pala.mp3" length="38217901" type="audio/mpeg"/>
 
             <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e15-pala.jpg" />
 
@@ -651,7 +651,7 @@
             </description>
             <itunes:summary>Martín es socio fundador de Hacks/Hackers Buenos Aires desde 2011. Forma parte de la comunidad de activistas cívicos. Es desarrollador web y actualmente CTO de Properati desde donde publica datos del sector inmobiliario.</itunes:summary>
             
-            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-martin-sarsale-s01e16.mp3" length="34966673" type="audio/mpeg"/>
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e16-runixo.mp3" length="34966673" type="audio/mpeg"/>
 
             <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e16-runixo.jpg" />
 
@@ -686,7 +686,7 @@
             </description>
             <itunes:summary>Julián trabaja en la actualidad en el Gobierno de Aragón en el portal de datos abiertos Aragón Open Data. Desde el 2005 ha colaborado en diferentes proyectos en materia de administración electrónica y de archivos en organizaciones públicas como privadas. Julián es Docente universitario y está graduado en Información y Documentación y Máster en Gestión de Unidades y Servicios de Información y Documentación</itunes:summary>
             
-            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-julian-moyano-collado-s01e17.mp3" length="32533133" type="audio/mpeg"/>
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e17-julian-moyano.mp3" length="32533133" type="audio/mpeg"/>
 
             <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e17-julian-moyano.jpg" />
 
@@ -723,7 +723,7 @@
             </description>
             <itunes:summary>Natalia es licenciada en Ciencias Políticas. Actualmente es Vicedirectora de la Carta Internacional de Datos Abiertos (OpenDataCharter). Fue Directora de Gobierno Abierto de la República Argentina; Coordinadora de Gobierno Abierto de la Ciudad de Buenos Aires; Coordinadora de Gobierno Abierto de Secretaría General de la Presidencia de Chile</itunes:summary>
             
-            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-natalia-carfi-s01e18.mp3" length="30851179" type="audio/mpeg"/>
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e18-carfi.mp3" length="30851179" type="audio/mpeg"/>
 
             <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e18-carfi.jpg" />
 
@@ -767,7 +767,7 @@
             </description>
             <itunes:summary>Fabrizio es abogado, Master en políticas públicas y Doctor en Ciencia Política y Gobierno. Actualmente es Director Ejecutivo de ILDA (Iniciativa Latinoamericana de Datos Abiertos). Fué Presidente de DATA Uruguay, co-fundador de Abrelatam y Condatos, y asesor de la Carta Internacional de Datos Abiertos.</itunes:summary>
             
-            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-fabrizio-scrollini-s01e19.mp3" length="31149449" type="audio/mpeg"/>
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e19-scrollini.mp3" length="31149449" type="audio/mpeg"/>
 
             <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e19-scrollini.png" />
 
@@ -801,7 +801,7 @@
             </description>
             <itunes:summary>Álvaro es licenciado en Sociología. Actualmente es Gestor Gobierno Datos en el Banco BCI (Banco de Crédito e Inversiones). Fue consultor de la plataforma Junar por 6 años e Investigador de la World Wide Web Foundation sobre Gobierno Abierto para el OpenDataBarometer.</itunes:summary>
             
-            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-alvaro-encina-s01e20.mp3" length="27583736" type="audio/mpeg"/>
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e20-encina.mp3" length="27583736" type="audio/mpeg"/>
 
             <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e20-encina.jpg" />
 
@@ -834,7 +834,7 @@
             </description>
             <itunes:summary>Dennis es Ingeniero en informática y trabaja con grandes volúmenes de datos. Es gestor y desarrollador de aplicaciones del ámbito académico y usando MediaWiki para proyectos de índole colaborativa. Es integrante del Directorio de Wikimedia Chile</itunes:summary>
             
-            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-dennis-tobar-s01e21.mp3" length="23852846" type="audio/mpeg"/>
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e21-tobar.mp3" length="23852846" type="audio/mpeg"/>
 
             <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e21-tobar.jpg" />
 
@@ -869,7 +869,7 @@
             </description>
             <itunes:summary>Helena es Comunicadora social enfocada en crear comunicaciones digitales y eventos culturales en el area de derechos humanos y feminismo. He trabajado en Londres, Johannesburgo y Montevideo con organizaciones como Amnistía Internacional, el Llamado Mundial a la Acción contra la Pobreza (GCAP) y Cotidiano Mujer.  Recientemente finalicé una maestría en Género, Medios y Cultura en Goldsmiths, Universidad de Londres. Es la creadora de feminicidiouruguay.net y actualmente co-conduce el podcast semanal #InformativoFeminista. Paula es Estudiante de Bibliotecología. Participa en proyectos de digitalización y, actualmente, trabaja en el armado y puesta a punto de distintas bibliotecas. Su principal área de interés es la búsqueda y recuperación de información en el entorno digital. Miembro de Wikimedia Uruguay.</itunes:summary>
             
-            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-helena-suarez-y-paula-dominguez-font-s01e22.mp3" length="17358653" type="audio/mpeg"/>
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e22-suarez-font.mp3" length="17358653" type="audio/mpeg"/>
 
             <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e22-suarez-font.png" />
 
@@ -902,7 +902,7 @@
             </description>
             <itunes:summary>Cecilia es Licenciada en Ciencias políticas, fue Secretaria de Modernización y Transparencia en el Municipio de Pilar, PBA. En 2018 fundo su propia empresa desde donde trabaja como consultora en temas de transparencia, Gobierno Abierto y el futuro del empleo. Trabajó entre otros con con el OIJ (Organismo Internacional de Juventud). Desde enero de 2019 se desempeña como Directora Nacional en el Laboratorio de Empleo.</itunes:summary>
             
-            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-cecilia-lucca-s01e23.mp3" length="22473946" type="audio/mpeg"/>
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e23-lucca.mp3" length="22473946" type="audio/mpeg"/>
 
             <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e23-lucca.jpg" />
 
@@ -947,7 +947,7 @@
             </description>
             <itunes:summary>Mercè Fígols Puigbò es Licenciada en Matemáticas por la Universidad de Barcelona. Trabajó en el Instituto Municipal de Informática del Ayuntamiento de Barcelona en la Dirección de desarrollo y sistemas de información. Actualmente es responsable del servicio de Open Data BCN parte de la Oficina de Datos Municipal del Ayuntamiento de Barcelona.</itunes:summary>
             
-            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-merce-figols-puigbo-s02e01.mp3" length="52138379" type="audio/mpeg"/>
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e01-merce-figols-puigbo.mp3" length="52138379" type="audio/mpeg"/>
 
             <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e01-merce-figols-puigbo.png" />
 
@@ -992,7 +992,7 @@
             </description>
             <itunes:summary> Entre otros títulos es Doctor en Ciencia Política de la Universidad Nacional de Córdoba (Argentina). Fue becario del Centro de Ética de la Universidad de Harvard y trabajó en cooperación técnica para el Programa de Naciones Unidas para el Desarrollo (PNUD) y el Banco Interamericano de Desarrollo (BID), entre otros organismos internacionales. Actualmente es Investigador y profesor de la Universidad Sun Yat–sen en la República Popular China, coordina el Proyecto ChiLat21.</itunes:summary>
             
-            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-mariano-mosquera-s02e02.mp3" length="16838354" type="audio/mpeg"/>
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e02-mariano-mosquera.mp3" length="16838354" type="audio/mpeg"/>
 
             <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e02-mariano-mosquera.jpg" />
 
@@ -1039,7 +1039,7 @@
             </description>
             <itunes:summary>Oleguer es Cofundador y científico de datos en DRIBIA. Es también Coordinador técnico de la comision Europea  DECODE Project. Oleguer también fue hasta hace muy poco jugador profesional de Hockey en el FCBarcelona. Oleguer es Físico con una maestría en Física computacional, Data Mining y Matemáticas Aplicadas y un doctorado en la Uni de Barcelona con estancia en el MIT en Movilidad Humana.</itunes:summary>
             
-            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-oleguer-sagarra-s02e03.mp3" length="26189318" type="audio/mpeg"/>
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e03-oleguer-sagarra.mp3" length="26189318" type="audio/mpeg"/>
 
             <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e03-oleguer-sagarra.png" />
 
@@ -1080,7 +1080,7 @@
             </description>
             <itunes:summary>Martín es el Responsable de Oficina del W3C en España, Ingeniero en Informática con experiencia técnica en el desarrollo de aplicaciones Web basadas en estándares y utilizando tecnologías semánticas. Trabaja como consultor sobre Administración Electrónica y en temas de Reutilización de Información del Sector Público utilizando mecanismos de la Web Semántica.</itunes:summary>
             
-            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-martin-alvarez-espinar-s02e04.mp3" length="34704866" type="audio/mpeg"/>
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e04-martin-alvarez-espinar.mp3" length="34704866" type="audio/mpeg"/>
 
             <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e04-martin-alvarez-espinar.png" />
 
@@ -1096,7 +1096,7 @@
             </description>
             <itunes:summary>Juan Pablo es Mgter. en Administración Pública y Lic. en Economía por la Universidad Nacional de Córdoba. Estudia la economía urbana y el desarrollo local. Es Consultor Experto en el Programa de Naciones Unidas para el Desarrollo, en el marco del Proyecto de Mejora de la capacidad de gestión del Ministerio de Finanzas de la Provincia de Córdoba en Argentina. Juan Pablo es también docente universitario e investigador.</itunes:summary>
             
-            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-a-juan-pablo-carranza-s02e05.mp3" length="18733700" type="audio/mpeg"/>
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e05-Entrevista-a-Juan-Pablo-Carranza.mp3" length="18733700" type="audio/mpeg"/>
 
             <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e05-Entrevista-a-Juan-Pablo-Carranza.png" />
 
@@ -1112,7 +1112,7 @@
             </description>
             <itunes:summary>Verónica es consultora e investigadora sobre Big Data y Datos Abiertos en el CIECTI. Docente e investigadora de la Universidad Nacional Tres de Febrero (Argentina). Socia activa de SOLAR desde hace más de 15 años. Doctora en Cs Sociales, Magister en Ciencias políticas y Licenciada en Ciencias Antropológicas de la UBA.</itunes:summary>
             
-            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-a-veronica-xhardez-s02e06.mp3" length="6386468" type="audio/mpeg"/>
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e06-xhardez.mp3" length="6386468" type="audio/mpeg"/>
 
             <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e06-xhardez.png" />
 
@@ -1128,7 +1128,7 @@
             </description>
             <itunes:summary>Facundo es Director General de Gobierno Abierto, Acceso a la Información Pública y Estadísticas y Censos en la Ciudad de Córdoba. Antes trabajó como economista en el Ministerio de Finanzas de la Provincia de Córdoba. Es Licenciado en Economía por la UNC</itunes:summary>
             
-            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-a-facundo-barrionuevo-s02e07.mp3" length="8078828" type="audio/mpeg"/>
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e07-facundo-barrionuevo.mp3" length="8078828" type="audio/mpeg"/>
 
             <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e07-facundo-barrionuevo.png" />
 
@@ -1144,7 +1144,7 @@
             </description>
             <itunes:summary>Florencia Serale, Argentina en Washington, trabaja como consultora en temas de datos abiertos y gobierno digital. Es Licenciada en Economía por la Universidad Nacional de La Plata (UNLP) y tiene una Maestría en Administración y Políticas Públicas de la Universidad de San Andrés (UDESA). Coautora de la publicación: Los datos abiertos en América Latina y el Caribe (junto a Arturo Muente-Kunigami). Autora de la Nota Datos abiertos para emprendedores: Una inversión que rinde en el blog 'Gobernarte' del BID.</itunes:summary>
             
-            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-a-florecia-serale-32.5dcf320c.mp3" length="4926956" type="audio/mpeg"/>
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e08-serale.mp3" length="4926956" type="audio/mpeg"/>
 
             <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e08-serale.jpg" />
 
@@ -1160,7 +1160,7 @@
             </description>
             <itunes:summary>Beatriz es Data scientist en el Olympic Channel. Es co-organizadora de R-Ladies Madrid y tienen un grado en matemática por la Universidad Complutense de Madrid.</itunes:summary>
             
-            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/entrevista-a-beatriz-hernandez.5debf16f.mp3" length="11170418" type="audio/mpeg"/>
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e09-bea-hernandez.mp3" length="11170418" type="audio/mpeg"/>
 
             <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e09-bea-hernandez.jpg" />
 
@@ -1176,7 +1176,7 @@
             </description>
             <itunes:summary>En este contexto de crisis y preocupación por la pandemia donde todos queremos saber que paso ahora, que tan grave es y que va a pasar en las próximas semanas me surgen algunas dudas acerca de las políticas de apertura y uso de los datos relacionados a este tema. @SilvanavF: Silvana Fumega de ILDA, la iniciativa latinoamericana por los datos abiertos. @usagarra: Oleguer Sagarra: Científico de datos y confundador de la empresa Dribia. @Diego_Koz: Diego Kozlowski, Economista y científico de datos. @MeseguerYebra: Joaquin Meseguer, Director General de Transparencia y Buen Gobierno de Castilla y Leon. @tuqmano: Juan Pablo Ruiz Nicolini, cinetífico de datos y politólogo. @pdelboca: Patricio del Boca. Desarrollador de software y analista de datos. Miembro de OpenDataCordoba. @rquiroga777: Rodrigo Quiroga: Bioinformático e investigador asistente de CONICET</itunes:summary>
             
-            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/pandemia-de-datos.5e7fc84e.mp3" length="37987357" type="audio/mpeg"/>
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e34-pandemia-de-datos.mp3" length="37987357" type="audio/mpeg"/>
 
             <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e34-pandemia-de-datos.png" />
 
@@ -1198,7 +1198,7 @@
             </description>
             <itunes:summary>Conversamos con Dante Paz y Juan Cabral que formaron parte del equipo que desarrolló un Sistema de soporte para el análisis de datos de la pandemia de COVID-19 en la provincia de Córdoba.</itunes:summary>
             
-            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/pandemia-de-datos-ii-35.5e8677d3.mp3" length="21768941" type="audio/mpeg"/>
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e35-pandemia-de-datos-ii.mp3" length="21768941" type="audio/mpeg"/>
 
             <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e35-pandemia-de-datos-ii.png" />
 
@@ -1220,7 +1220,7 @@
             </description>
             <itunes:summary>Pablo De Grande es Doctor en Ciencias Sociales y Humanidades y Licenciado en Sociología. Actualmente es profesor e Investigador de CONICET, del Consejo Nacional de Investigaciones Científicas y Técnicas de la Argentina y en el Instituto de Investigación en Ciencias Sociales. Conversamos sobre varios de sus proyectos</itunes:summary>
             
-            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/pablo-de-grande-36.mp3" length="73868340" type="audio/mpeg"/>
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e36-pablo-de-grande.mp3" length="73868340" type="audio/mpeg"/>
 
             <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e36-pablo-de-grande.png" />
 
@@ -1244,7 +1244,7 @@
             </description>
             <itunes:summary>Yanina es Licenciada en Sistemas de Información y Magíster en Explotación de Datos y Gestión del Conocimiento. Investigadora en INTA (Instituto Nacional de Tecnología Agropecuaria de Argentina). Cofundadora y organizadora en múltiples espacios colaborativos como Metadocencia, RLadies y Latinr entre otros.</itunes:summary>
             
-            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/yanina-bellini-saibene-37.mp3" length="54187726" type="audio/mpeg"/>
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e37-yanina-bellini.mp3" length="54187726" type="audio/mpeg"/>
 
             <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e37-yanina-bellini.jpg" />
 
@@ -1266,7 +1266,7 @@
             </description>
             <itunes:summary>Adrià es Licenciado en Biología y Máster en Sistemas de Información Geográfica. Tiene más de una década de experiencia trabajando en los campos de Datos Abiertos y Tecnología Cívica. Es miembro del equipo técnico de CKAN y trabaja en diferentes proyectos en Open Knowledge International, ayudando a desbloquear el valor de los datos abiertos.</itunes:summary>
             
-            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/adria-mercader-38.mp3" length="46628609" type="audio/mpeg"/>
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e38-adria-mercader.mp3" length="46628609" type="audio/mpeg"/>
 
             <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e38-adria-mercader.jpg" />
 
@@ -1287,7 +1287,7 @@
             </description>
             <itunes:summary>Laura Alonso Alemany es profesora en el área de Ciencias de la Computación en la FaMAF de la UNC. Licenciada en Lingüística General con una Maestría y un Doctorado en Lingüística Computacional. Conversamos sobre Procesamiento de Lenguaje Naturtal (NLP), la <a href='https://diplodatos.famaf.unc.edu.ar/'>Diplomatura de Ciencia de datos del FAMAF-UNC</a> y sobre su vida laboral.</itunes:summary>
             
-            <enclosure url="https://parlarispa.com/podcasts/cadena-de-datos/laura-alonso-alemany-39.60a446fb.mp3" length="20297415" type="audio/mpeg"/>
+            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e39-laura-alonso-alemany.mp3" length="20297415" type="audio/mpeg"/>
 
             <itunes:image href="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s02e39-laura-alonso-alemany.png" />
 
