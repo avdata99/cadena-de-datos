@@ -5,7 +5,7 @@
     "dia_publicacion": 12,
     "hora_publicacion": 16,
     "minuto_publicacion": 0,
-    "usar_audio_externo": "https://parlarispa.com/podcasts/cadena-de-datos/entrevista-con-andres-snitcofsky-s01e01.mp3",
+    "nuevo_audio": "https://github.com/avdata99/cadena-de-datos/raw/refs/heads/master/audios-y-rss/audios/ruso.mp3",
     "descripcion": "La cumbre (Córdoba, AR), 12 de enero. El Ruso me recibe en sus vacaciones para grabar la entrevista. Hablamos de los inicios de los datos abiertos en Argentina, el estado actual de las políticas públicas de transparencia y los proyectos Cargografías y Economía Feminista.",
     "ideas": [
         "Se inició en 2011 con la idea que luego se convirtió en el proyecto Cargografías",
