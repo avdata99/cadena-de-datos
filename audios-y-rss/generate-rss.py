@@ -1,6 +1,6 @@
 #!/usr/bin/env python
-""" 
-Crear y publicar un archivo XML con el RSS para podcast que sea compatible con las plataformas más usadas 
+"""
+Crear y publicar un archivo XML con el RSS para podcast que sea compatible con las plataformas más usadas
 Usa como parámetro único el directorio con los audios en MP3
 """
 
@@ -17,7 +17,7 @@ import os
 from termcolor import colored
 import json
 from jinja2 import Template
-from datetime import date, datetime
+from datetime import datetime
 import urllib
 
 
@@ -57,7 +57,7 @@ for filename in sorted(os.listdir(directorio)):
 # info del episodio: JSON
 
 # guardar todo en un diccionario más elaborado
-canal_info['episodios'] = [] # cada episodio se contruye revisando sus datos en diccionarios individuales
+canal_info['episodios'] = []  # cada episodio se contruye revisando sus datos en diccionarios individuales
 
 for mp3 in mp3s:
 
@@ -83,7 +83,7 @@ for mp3 in mp3s:
         imagen = '{}/{}.{}'.format(directorio, base_name, ext)
         if os.path.isfile(imagen):
             imagen_encontrada = imagen
-    
+
     if imagen_encontrada is None:
         print(colored('No se encontro la imagen de {}'.format(base_name), 'red'))
         sys.exit(1)
@@ -121,9 +121,9 @@ for mp3 in mp3s:
     print('-------------------------------------')
     nice_json = json.dumps(episodio, indent=4)
     print('EPISODIO LISTO {}'.format(nice_json))
-    print('-------------------------------------')    
+    print('-------------------------------------')
 
-    episodio['link'] = '{}/{}.html'.format(base_url, base_name) # se crea despues
+    episodio['link'] = '{}/{}.html'.format(base_url, base_name)  # se crea despues
     episodio['guid'] = episodio['link']
     canal_info['episodios'].append(episodio)
     canal_info['ultimo_episodio'] = episodio
@@ -148,7 +148,8 @@ for filename in os.listdir('templates-rss'):
         file_resultado.close()
 
         url_rss = '{}/{}/podcast_{}'.format(base_url, directorio, base_template)
-        print(colored('Se genero RSS para {}. Una vez subido el feed a compartir estará en el link {}'.format(base_template, url_rss), 'green'))
+        txt = f'Se genero RSS para {base_template}. Una vez subido el feed a compartir estará en el link {url_rss}'.format
+        print(colored(txt, 'green'))
 
         single_name = base_template.replace('.xml', '')
         canal_info['RSSs'].append({'nombre': single_name, 'url': url_rss})
