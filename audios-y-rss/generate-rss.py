@@ -16,7 +16,7 @@ import sys
 import os
 from termcolor import colored
 import json
-from jinja2 import Template
+from jinja2 import Template, Environment, FileSystemLoader
 from datetime import datetime
 import urllib
 
@@ -35,6 +35,9 @@ dentro del "directorio" se espera que estén:
  - Un archivo JSON con datos del episodio
  - Un archivo de información llamado info.json con datos del PODCAST en general
 """
+
+MESES = ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 'julio',
+         'agosto', 'septiembre', 'octubre', 'noviembre', 'diciembre']
 
 # leer los datos del podcast
 canal_info_file = '{}/info.json'.format(directorio)
@@ -115,6 +118,7 @@ for mp3 in mp3s:
                  episodio["minuto_publicacion"])
 
     episodio['fecha_publicacion'] = d.strftime("%a, %d %b %Y %H:%M:%S +0300")
+    episodio['fecha_legible'] = '{} de {} de {}'.format(d.day, MESES[d.month - 1], d.year)
 
     episodio['titulo_encoded'] = urllib.parse.quote(episodio['titulo'])
 
@@ -157,11 +161,12 @@ for filename in os.listdir('templates-rss'):
 
 # aplicarla a todos los templates disponibles en la carpeta templates-html
 
+# los templates HTML comparten un layout (_base.html) via {% extends %}
+env = Environment(loader=FileSystemLoader('templates-html'))
+
 # crear la home del sitio
-tpl = open('templates-html/home.html')
-template = Template(tpl.read())
-tpl.close()
-index = template.render(canal_info)
+template = env.get_template('home.html')
+index = template.render(canal_info, canal=canal_info)
 file_resultado = open('../index.html', 'w')
 file_resultado.write(index)
 file_resultado.close()
@@ -169,12 +174,10 @@ file_resultado.close()
 # generar todos los HTMLs individuales
 episodios = canal_info['episodios']
 dic = {'canal': canal_info, 'episodios': episodios}
+template = env.get_template('episode.html')
 
 for episodio in episodios:
     # crear html del episodio
-    tpl = open('templates-html/episode.html')
-    template = Template(tpl.read())
-    tpl.close()
     dic['episodio'] = episodio
     epihtml = template.render(dic)
     file_resultado = open('../{}.html'.format(episodio['base_name']), 'w')

@@ -1,311 +1,88 @@
-<!DOCTYPE html>
-<html lang="es">
-  <head>
-    <title>{{ titulo }}</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+{% extends "_base.html" %}
 
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,700,900"> 
-    <link rel="stylesheet" href="fonts/icomoon/style.css">
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/magnific-popup.css">
-    <link rel="stylesheet" href="css/jquery-ui.css">
-    <link rel="stylesheet" href="css/owl.carousel.min.css">
-    <link rel="stylesheet" href="css/owl.theme.default.min.css">
-    <link rel="stylesheet" href="css/mediaelementplayer.min.css">
-    <link rel="stylesheet" href="css/aos.css">
-    <link rel="stylesheet" href="css/audio.css">
-    <link rel="stylesheet" href="css/style.css">
-    
-    <script async src="https://www.googletagmanager.com/gtag/js?id={{ GA_TRACKING_ID }}"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
+{% block meta %}
+    <meta property="og:title" content="{{ canal.titulo }}">
+    <meta property="og:description" content="{{ canal.descripcion|e }}">
+    <meta property="og:image" content="{{ canal.imagen_url }}">
+    <meta property="og:type" content="website">
+{% endblock %}
 
-      gtag('config', '{{ GA_TRACKING_ID }}');
-    </script>
+{% block content %}
+{% set ultimo = ultimo_episodio %}
 
-  </head>
-  <body>
-  
-  <div class="site-wrap">
-
-    <div class="site-mobile-menu">
-      <div class="site-mobile-menu-header">
-        <div class="site-mobile-menu-close mt-3">
-          <span class="icon-close2 js-menu-toggle"></span>
+<section class="cd-hero">
+  <div class="container">
+    <div class="row align-items-center g-5">
+      <div class="col-lg-6">
+        <p class="cd-kicker">Podcast en español sobre datos abiertos</p>
+        <h1 class="cd-hero-title">{{ canal.titulo }}</h1>
+        <p class="cd-hero-lead">{{ canal.descripcion }}</p>
+        <div class="d-flex flex-wrap gap-2 mt-4">
+          {% if canal.spotify %}<a class="cd-chip cd-chip-solid" href="{{ canal.spotify }}" onclick="tag_analytics('click', 'rss', 'spotify')"><i class="bi bi-spotify"></i> Spotify</a>{% endif %}
+          {% if canal.apple_podcasts %}<a class="cd-chip cd-chip-solid" href="{{ canal.apple_podcasts }}" onclick="tag_analytics('click', 'rss', 'apple_podcasts')"><i class="bi bi-apple"></i> Apple Podcasts</a>{% endif %}
+          {% if canal.youtube %}<a class="cd-chip cd-chip-solid" href="{{ canal.youtube }}" onclick="tag_analytics('click', 'rss', 'youtube')"><i class="bi bi-youtube"></i> YouTube</a>{% endif %}
+          <a class="cd-chip cd-chip-solid" href="#suscribirse"><i class="bi bi-rss-fill"></i> RSS</a>
         </div>
       </div>
-      <div class="site-mobile-menu-body"></div>
+
+      <div class="col-lg-6">
+        <article class="cd-featured">
+          <span class="cd-badge">Último episodio</span>
+          <div class="d-flex gap-3 align-items-start">
+            <img class="cd-featured-cover" src="{{ ultimo.url_imagen }}" alt="" loading="lazy">
+            <div>
+              <h2 class="cd-featured-title"><a href="{{ ultimo.base_name }}.html">{{ ultimo.titulo }}</a></h2>
+              <p class="cd-date mb-0">{{ ultimo.fecha_legible }}</p>
+            </div>
+          </div>
+          <p class="cd-featured-desc">{{ ultimo.descripcion }}</p>
+          <button class="cd-play-btn cd-play-lg js-play" type="button"
+                  data-src="{{ ultimo.url_audio|e }}" data-title="{{ ultimo.titulo|e }}"
+                  data-img="{{ ultimo.url_imagen|e }}" data-url="{{ ultimo.base_name }}.html"
+                  aria-label="Reproducir {{ ultimo.titulo|e }}">
+            <i class="bi bi-play-fill"></i>
+          </button>
+          <span class="cd-muted ms-2">Escuchar ahora</span>
+        </article>
+      </div>
     </div>
-
-
-    <header class="site-navbar py-4 absolute transparent" role="banner">
-
-      <div class="container">
-        <div class="row align-items-center">
-          
-
-          <div class="col-3" data-aos="fade-down">
-            <h1><a href="#" class="text-white h2">{{ titulo }}</a></h1>
-          </div>
-          <div class="col-9" data-aos="fade-down">
-            <nav class="site-navigation position-relative text-right text-md-right" role="navigation">    
-
-                <div class="d-inline-block ml-md-0 mr-auto py-3">
-                  <a href="#" class="site-menu-toggle js-menu-toggle text-white"><span class="icon-menu h3"></span></a>
-                </div>
-
-                <ul class="site-menu js-clone-nav d-none">
-                  <li class="has-children active">
-                    <a href="#">RSS</a>
-                    <ul class="dropdown arrow-top">
-                        {% for rss in RSSs %}
-                          <li><a href="{{ rss.url }}" class="analyticable" data-evento="click" data-categoria="rss" data-etiqueta="{{ rss.nombre }}">{{ rss.nombre }}</a></li>
-                        {% endfor %}
-                        </ul>
-                      </li>
-                    </ul>
-                  </li>
-                  <!-- <li><a href="about.html">About</a></li>
-                  <li><a href="contact.html">Contact</a></li> -->
-                </ul>
-            </nav>
-          </div>
-
-        </div>
-      </div>
-      
-    </header>
-
-    <div class="site-blocks-cover overlay" style="background-image: url(fondo.png);" data-aos="fade" data-stellar-background-ratio="0.5">
-      <div class="container">
-        <div class="row align-items-center justify-content-center text-center">
-
-          <div class="col-md-8" data-aos="fade-up" data-aos-delay="400">
-            <h2 class="text-white font-weight-light mb-2 display-4">{{ titulo }}</h2>
-            <div class="text-white mb-4"><span class="text-white-opacity-05"><small>por <a href='{{ autor_url }}'>{{ autor }}</a> | {{ ultima_compilacion }}</small></span></div>
-            
-            <!-- <p><a href="single-post.html" class="btn btn-primary btn-sm py-3 px-4 small">Read The Transcript</a></p> -->
-
-            <p>
-                {% for rss in RSSs %}
-                  {% if rss.nombre == "atom" %}
-                  <a href="{{ rss.url }}" class="pl-3 pr-3">
-                    <span class="icon-rss analyticable" style="font-size: 64px" data-evento="click" data-categoria="rss" data-etiqueta="{{ rss.nombre }}"></span></a>
-                  {% endif %}
-                {% endfor %}
-  
-                {% if spotify %}
-                  <a href="{{ spotify }}" class="pl-3 pr-3">
-                    <span class="icon-spotify analyticable" style="font-size: 64px" data-evento="click" data-categoria="rss" data-etiqueta="spotify"></span></a>
-                {% endif %}
-
-                {% if apple_podcasts %}
-                  <a href="{{ apple_podcasts }}" class="pl-3 pr-3">
-                    <span class="icon-apple analyticable" style="font-size: 64px" data-evento="click" data-categoria="rss" data-etiqueta="apple_podcasts"></span></a>
-                {% endif %}
-                
-
-                {% if itunes %}
-                  <a href="{{ itunes }}" class="pl-3 pr-3">
-                    <span class="icon-itunes analyticable" style="font-size: 64px" data-evento="click" data-categoria="rss" data-etiqueta="itunes"></span></a>
-                {% endif %}
-
-                
-                {% if youtube %}
-                <a href="{{ youtube }}" class="pl-0 pr-3">
-                  <span class="icon-youtube analyticable" style="font-size: 64px" data-evento="click" data-categoria="rss" data-etiqueta="youtube"></span></a>
-                {% endif %}
-  
-                {% if twitter %}
-                <a href="{{ twitter }}" class="pl-3 pr-3">
-                  <span class="icon-twitter analyticable" style="font-size: 64px" data-evento="click" data-categoria="redes" data-etiqueta="twitter"></span></a>
-                {% endif %}
-                {% if instagram %}
-                <a href="{{ instagram }}" class="pl-3 pr-3">
-                  <span class="icon-instagram analyticable" style="font-size: 64px"data-evento="click" data-categoria="redes" data-etiqueta="instagram"></span></a>
-                {% endif %}
-                {% if linkedin %}
-                <a href="{{ linkedin }}" class="pl-3 pr-3">
-                  <span class="icon-linkedin analyticable" style="font-size: 64px" data-evento="click" data-categoria="redes" data-etiqueta="linkedin"></span></a>
-                {% endif %}
-            </p>
-
-          </div>
-        </div>
-
-        
-      </div>
-    </div>  
-    
-
-
-    <div class="site-section bg-light">
-      <div class="container">
-
-          <div class="row mb-5" data-aos="fade-up">
-              <div class="col-md-12 text-center">
-                <h2 class="font-weight-bold text-black">Sobre este podcast</h2>
-              </div>
-          </div>
-          <div class="row">
-            <div class="col-md-12">
-                <p>{{ descripcion }}</p>
-              </div>
-          </div>
-
-          <div class="row">
-              <div class="col-md-12">
-                  Si te gustó, compartilo
-
-                  <ul class="share-buttons">
-                      <li><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Favdata99.github.io%2Fcadena-de-datos%2F&quote=Cadena%20de%20datos" title="Share on Facebook" target="_blank"><img alt="Share on Facebook" src="img/flat_web_icon_set/black/Facebook.png" /></a></li>
-                      <li><a href="https://twitter.com/intent/tweet?source=https%3A%2F%2Favdata99.github.io%2Fcadena-de-datos%2F&text=Cadena%20de%20datos:%20https%3A%2F%2Favdata99.github.io%2Fcadena-de-datos%2F&via=avdata99" target="_blank" title="Tweet"><img alt="Tweet" src="img/flat_web_icon_set/black/Twitter.png" /></a></li>
-                      <li><a href="https://getpocket.com/save?url=https%3A%2F%2Favdata99.github.io%2Fcadena-de-datos%2F&title=Cadena%20de%20datos" target="_blank" title="Add to Pocket"><img alt="Add to Pocket" src="img/flat_web_icon_set/black/Pocket.png" /></a></li>
-                      <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Favdata99.github.io%2Fcadena-de-datos%2F&title=Cadena%20de%20datos&summary=Podcast%20sobre%20datos%20abiertos&source=https%3A%2F%2Favdata99.github.io%2Fcadena-de-datos%2F" target="_blank" title="Share on LinkedIn"><img alt="Share on LinkedIn" src="img/flat_web_icon_set/black/LinkedIn.png" /></a></li>
-                      <li><a href="mailto:?subject=Cadena%20de%20datos&body=Podcast%20sobre%20datos%20abiertos:%20https%3A%2F%2Favdata99.github.io%2Fcadena-de-datos%2F" target="_blank" title="Send email"><img alt="Send email" src="img/flat_web_icon_set/black/Email.png" /></a></li>
-                    </ul>
-
-                </div>
-            </div>
-
-          
-    
-            
-
-        <div class="row mb-5" data-aos="fade-up">
-          <div class="col-md-12 text-center">
-            <h2 class="font-weight-bold text-black">Últimos episodios</h2>
-          </div>
-        </div>
-        
-        {% for item in episodios|reverse %}
-        <div class="d-block d-md-flex podcast-entry bg-white mb-5" data-aos="fade-up">
-          <div class="image" style="background-image: url('{{ item.url_imagen }}');"></div>
-          <div class="text">
-
-            <h3 class="font-weight-light"><a href="{{ item.base_name }}.html">{{ item.titulo }}</a></h3>
-            <div class="text-white mb-3"><span class="text-black-opacity-05"><small>por <a href='{{ autor_url }}'>{{ autor }}</a> <span class="sep">/</span> {{ item.fecha_publicacion }}</small></span></div>
-            <p class="mb-4">{{ item.descripcion }}</p>
-            {% if item.musica_intro %} <small>[INTRO: {{ item.musica_intro }}]</small> {% endif %}
-            
-            
-            <div class="player">
-              <audio id="player2" preload="none" 
-                      controls="controls"
-                      onplay="tag_analytics('audio_start', 'engagement', 'escucha episodio {{ item.titulo }}');">
-                <source src="{{ item.url_audio }}" type="audio/mp3">
-              </audio>
-            </div>
-
-            <p class="mb-4" style="font-size: 0.8em;"><b>Mandame tu opinion, crítica, sugerencias sobre este episodio
-                a <a href='mailto:cadena-de-datos@data99.com.ar'>cadena-de-datos@data99.com.ar</a></b></p>
-              
-            <ul class="share-buttons">
-              <li><a href="https://www.facebook.com/sharer/sharer.php?u={{ item.full_url_encoded }}&quote={{ item.titulo_encoded }}" title="Share on Facebook" target="_blank"><img alt="Share on Facebook" src="img/flat_web_icon_set/black/Facebook.png" /></a></li>
-              <li><a href="https://twitter.com/intent/tweet?source={{ item.full_url_encoded }}&text={{ item.titulo_encoded }}:%20{{ item.full_url_encoded }}&via=avdata99" target="_blank" title="Tweet"><img alt="Tweet" src="img/flat_web_icon_set/black/Twitter.png" /></a></li>
-              <li><a href="https://getpocket.com/save?url={{ item.full_url_encoded }}&title={{ item.titulo_encoded }}" target="_blank" title="Add to Pocket"><img alt="Add to Pocket" src="img/flat_web_icon_set/black/Pocket.png" /></a></li>
-              <li><a href="http://www.linkedin.com/shareArticle?mini=true&url={{ item.full_url_encoded }}&title={{ item.titulo_encoded }}&summary=Podcast%20sobre%20datos%20abiertos&source={{ item.full_url_encoded }}" target="_blank" title="Share on LinkedIn"><img alt="Share on LinkedIn" src="img/flat_web_icon_set/black/LinkedIn.png" /></a></li>
-              <li><a href="mailto:?subject=Cadena%20de%20datos%20{{ item.titulo_encoded }}&body=Podcast%20sobre%20datos%20abiertos:%20{{ item.full_url_encoded }}" target="_blank" title="Send email"><img alt="Send email" src="img/flat_web_icon_set/black/Email.png" /></a></li>
-            </ul>
-
-          </div>
-        </div>
-
-        {% endfor %}
-
-
-      </div>
-      
-      
-    </div>
-    
-    <footer class="site-footer">
-      <div class="container">
-            <div class="row">
-
-                <div class="col-md-4">
-                    <h3 class="footer-heading mb-4">Suscribirse</h3>
-                    <div>
-                      {% for rss in RSSs %}
-                        {% if rss.nombre == "atom" %}
-                        <a href="{{ rss.url }}" class="pl-3 pr-3">
-                          <span class="icon-rss analyticable" data-evento="click" data-categoria="rss" data-etiqueta="{{ rss.nombre }}"></span></a>
-                        {% endif %}
-                      {% endfor %}
-
-                      {% if spotify %}
-                        <a href="{{ spotify }}" class="pl-3 pr-3">
-                          <span class="icon-spotify analyticable" data-evento="click" data-categoria="rss" data-etiqueta="spotify"></span></a>
-                      {% endif %}
-
-                      {% if apple_podcasts %}
-                        <a href="{{ apple_podcasts }}" class="pl-3 pr-3">
-                          <span class="icon-apple analyticable" data-evento="click" data-categoria="rss" data-etiqueta="apple_podcasts"></span></a>
-                      {% endif %}
-
-                      {% if itunes %}
-                        <a href="{{ itunes }}" class="pl-3 pr-3">
-                          <span class="icon-itunes analyticable" data-evento="click" data-categoria="rss" data-etiqueta="itunes"></span></a>
-                      {% endif %}
-                    </div>
-                </div>
-                  
-              <div class="col-md-4">
-                <h3 class="footer-heading mb-4">Redes</h3>
-                <div>
-                  {% if youtube %}
-                  <a href="{{ youtube }}" class="pl-0 pr-3">
-                    <span class="icon-youtube analyticable" data-evento="click" data-categoria="rss" data-etiqueta="youtube"></span></a>
-                  {% endif %}
-
-                  {% if twitter %}
-                  <a href="{{ twitter }}" class="pl-3 pr-3">
-                    <span class="icon-twitter analyticable" data-evento="click" data-categoria="redes" data-etiqueta="twitter"></span></a>
-                  {% endif %}
-                  {% if instagram %}
-                  <a href="{{ instagram }}" class="pl-3 pr-3">
-                    <span class="icon-instagram analyticable" data-evento="click" data-categoria="redes" data-etiqueta="instagram"></span></a>
-                  {% endif %}
-                  {% if linkedin %}
-                  <a href="{{ linkedin }}" class="pl-3 pr-3">
-                    <span class="icon-linkedin analyticable" data-evento="click" data-categoria="redes" data-etiqueta="linkedin"></span></a>
-                  {% endif %}
-                </div>
-              </div>
-            </div>
-
-          
-        </div>
-      </div>
-    </footer>
   </div>
+</section>
 
-  <script src="js/jquery-3.3.1.min.js"></script>
-  <script src="js/jquery-migrate-3.0.1.min.js"></script>
-  <script src="js/jquery-ui.js"></script>
-  <script src="js/popper.min.js"></script>
-  <script src="js/bootstrap.min.js"></script>
-  <script src="js/owl.carousel.min.js"></script>
-  <script src="js/jquery.stellar.min.js"></script>
-  <script src="js/jquery.countdown.min.js"></script>
-  <script src="js/jquery.magnific-popup.min.js"></script>
-  <script src="js/aos.js"></script>
+<section class="cd-section" id="episodios">
+  <div class="container">
+    <div class="d-flex flex-wrap justify-content-between align-items-end gap-3 mb-4">
+      <div>
+        <h2 class="cd-section-title mb-1">Episodios</h2>
+        <p class="cd-muted mb-0">{{ episodios|length }} conversaciones</p>
+      </div>
+      <input type="search" class="form-control cd-search" id="buscar" placeholder="Buscar por nombre o tema..." aria-label="Buscar episodios">
+    </div>
 
-
-  <script src="js/main.js"></script>
-
-  <script>
-      function tag_analytics(evento, categoria, etiqueta) {
-        gtag('event', evento, {
-              'event_category' : categoria,
-              'event_label' : etiqueta
-                }
-              );
-      }
-    </script>
-    
-  </body>
-</html>
+    <div class="row g-4" id="lista-episodios">
+      {% for item in episodios|reverse %}
+      <div class="col-md-6 col-lg-4 js-episodio" data-texto="{{ (item.titulo ~ ' ' ~ item.descripcion)|striptags|lower|e }}">
+        <article class="cd-card h-100">
+          <a href="{{ item.base_name }}.html" class="cd-card-cover" style="background-image: url('{{ item.url_imagen }}');" aria-hidden="true" tabindex="-1"></a>
+          <div class="cd-card-body">
+            <p class="cd-date">{{ item.fecha_legible }}</p>
+            <h3 class="cd-card-title"><a href="{{ item.base_name }}.html">{{ item.titulo }}</a></h3>
+            <p class="cd-card-desc">{{ item.descripcion|striptags }}</p>
+            <div class="d-flex align-items-center gap-2 mt-auto">
+              <button class="cd-play-btn js-play" type="button"
+                      data-src="{{ item.url_audio|e }}" data-title="{{ item.titulo|e }}"
+                      data-img="{{ item.url_imagen|e }}" data-url="{{ item.base_name }}.html"
+                      aria-label="Reproducir {{ item.titulo|e }}">
+                <i class="bi bi-play-fill"></i>
+              </button>
+              <a class="cd-link-more" href="{{ item.base_name }}.html">Ver episodio <i class="bi bi-arrow-right"></i></a>
+            </div>
+          </div>
+        </article>
+      </div>
+      {% endfor %}
+    </div>
+    <p class="cd-muted mt-4" id="sin-resultados" hidden>No hay episodios que coincidan con la búsqueda.</p>
+  </div>
+</section>
+{% endblock %}

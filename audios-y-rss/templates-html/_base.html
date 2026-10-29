@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% block title %}{{ canal.titulo }}{% endblock %}</title>
+    <meta name="description" content="{% block description %}{{ canal.descripcion|e }}{% endblock %}">
+    <meta name="theme-color" content="#4a1a1d">
+    <meta property="og:site_name" content="{{ canal.titulo }}">
+    {% block meta %}{% endblock %}
+    <link rel="alternate" type="application/rss+xml" title="{{ canal.titulo }}" href="audios-y-rss/audios/podcast_itunes.xml">
+    <link rel="icon" href="img-cadena-de-datos.png">
+
+    <script>
+      // tema claro/oscuro segun el sistema, antes de pintar
+      (function () {
+        var mq = window.matchMedia('(prefers-color-scheme: dark)');
+        var set = function () { document.documentElement.setAttribute('data-bs-theme', mq.matches ? 'dark' : 'light'); };
+        set();
+        mq.addEventListener('change', set);
+      })();
+    </script>
+
+    <link rel="stylesheet" href="vendor/bootstrap/bootstrap.min.css">
+    <link rel="stylesheet" href="vendor/bootstrap-icons/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="css/cadena.css">
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ canal.GA_TRACKING_ID }}"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', '{{ canal.GA_TRACKING_ID }}');
+      function tag_analytics(evento, categoria, etiqueta) {
+        gtag('event', evento, {'event_category': categoria, 'event_label': etiqueta});
+      }
+    </script>
+  </head>
+  <body>
+
+    <a class="visually-hidden-focusable" href="#contenido">Ir al contenido</a>
+
+    <nav class="navbar cd-nav sticky-top">
+      <div class="container">
+        <a class="navbar-brand cd-brand" href="index.html">
+          <span class="cd-logo" aria-hidden="true"><i class="bi bi-mic-fill"></i></span>
+          {{ canal.titulo }}
+        </a>
+        <div class="d-flex gap-3 align-items-center">
+          <a class="cd-nav-link d-none d-sm-inline" href="index.html#episodios">Episodios</a>
+          <a class="cd-nav-link" href="#suscribirse"><i class="bi bi-rss-fill"></i> <span class="d-none d-sm-inline">Suscribirse</span></a>
+        </div>
+      </div>
+    </nav>
+
+    <main id="contenido">
+      {% block content %}{% endblock %}
+    </main>
+
+    <footer class="cd-footer" id="suscribirse">
+      <div class="container">
+        <div class="row g-4">
+          <div class="col-md-5">
+            <div class="cd-brand mb-2">{{ canal.titulo }}</div>
+            <p class="cd-muted mb-0">{{ canal.descripcion }}</p>
+            <p class="cd-muted small mt-2">Por <a href="{{ canal.autor_url }}">{{ canal.autor }}</a>.
+              Opiniones, críticas y sugerencias a <a href="mailto:cadena-de-datos@data99.com.ar">cadena-de-datos@data99.com.ar</a></p>
+          </div>
+          <div class="col-md-4">
+            <h2 class="cd-footer-heading">Escuchalo en</h2>
+            {% set c = canal %}
+            <div class="d-flex flex-wrap gap-2">
+              {% if c.spotify %}<a class="cd-chip" href="{{ c.spotify }}" onclick="tag_analytics('click', 'rss', 'spotify')"><i class="bi bi-spotify"></i> Spotify</a>{% endif %}
+              {% if c.apple_podcasts %}<a class="cd-chip" href="{{ c.apple_podcasts }}" onclick="tag_analytics('click', 'rss', 'apple_podcasts')"><i class="bi bi-apple"></i> Apple Podcasts</a>{% endif %}
+              {% if c.youtube %}<a class="cd-chip" href="{{ c.youtube }}" onclick="tag_analytics('click', 'rss', 'youtube')"><i class="bi bi-youtube"></i> YouTube</a>{% endif %}
+              {% for rss in c.RSSs %}
+                <a class="cd-chip" href="{{ rss.url }}" onclick="tag_analytics('click', 'rss', '{{ rss.nombre }}')"><i class="bi bi-rss-fill"></i> RSS {{ rss.nombre }}</a>
+              {% endfor %}
+            </div>
+          </div>
+          <div class="col-md-3">
+            <h2 class="cd-footer-heading">Redes</h2>
+            <div class="d-flex gap-3 fs-4">
+              {% if c.twitter %}<a href="{{ c.twitter }}" aria-label="X / Twitter" onclick="tag_analytics('click', 'redes', 'twitter')"><i class="bi bi-twitter-x"></i></a>{% endif %}
+              {% if c.instagram %}<a href="{{ c.instagram }}" aria-label="Instagram" onclick="tag_analytics('click', 'redes', 'instagram')"><i class="bi bi-instagram"></i></a>{% endif %}
+              {% if c.linkedin %}<a href="{{ c.linkedin }}" aria-label="LinkedIn" onclick="tag_analytics('click', 'redes', 'linkedin')"><i class="bi bi-linkedin"></i></a>{% endif %}
+              {% if c.youtube %}<a href="{{ c.youtube }}" aria-label="YouTube" onclick="tag_analytics('click', 'redes', 'youtube')"><i class="bi bi-youtube"></i></a>{% endif %}
+            </div>
+          </div>
+        </div>
+        <p class="cd-muted small mt-4 mb-0">Sitio generado el {{ canal.ultima_compilacion }} con software libre:
+          <a href="https://github.com/avdata99/cadena-de-datos">código fuente</a>.</p>
+      </div>
+    </footer>
+
+    <!-- reproductor fijo: se muestra al reproducir cualquier episodio -->
+    <div class="cd-player" id="player" hidden aria-label="Reproductor">
+      <div class="container cd-player-inner">
+        <img class="cd-player-cover" id="player-cover" src="" alt="">
+        <div class="cd-player-info">
+          <a class="cd-player-title" id="player-title" href="#"></a>
+          <div class="cd-player-progress">
+            <span class="cd-time" id="player-current">0:00</span>
+            <input type="range" id="player-seek" min="0" max="0" step="1" value="0" aria-label="Posición">
+            <span class="cd-time" id="player-duration">0:00</span>
+          </div>
+        </div>
+        <div class="cd-player-controls">
+          <button class="cd-icon-btn" id="player-back" type="button" aria-label="Retroceder 15 segundos" title="-15s"><i class="bi bi-arrow-counterclockwise"></i><span>15</span></button>
+          <button class="cd-play-btn" id="player-toggle" type="button" aria-label="Reproducir"><i class="bi bi-play-fill"></i></button>
+          <button class="cd-icon-btn" id="player-fwd" type="button" aria-label="Adelantar 30 segundos" title="+30s"><i class="bi bi-arrow-clockwise"></i><span>30</span></button>
+          <button class="cd-speed-btn" id="player-speed" type="button" aria-label="Velocidad">1x</button>
+        </div>
+      </div>
+      <audio id="player-audio" preload="none"></audio>
+    </div>
+
+    <script src="js/cadena.js"></script>
+  </body>
+</html>
