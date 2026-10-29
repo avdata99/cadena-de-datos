@@ -1,350 +1,120 @@
-<!DOCTYPE html>
-<html lang="es">
-  <head>
-    <title>{{ episodio.titulo }} | {{ canal.titulo }}</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+{% extends "_base.html" %}
 
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,700,900"> 
-    <link rel="stylesheet" href="fonts/icomoon/style.css">
+{% block title %}{{ episodio.titulo }} | {{ canal.titulo }}{% endblock %}
+{% block description %}{{ episodio.descripcion|striptags|e }}{% endblock %}
 
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/magnific-popup.css">
-    <link rel="stylesheet" href="css/jquery-ui.css">
-    <link rel="stylesheet" href="css/owl.carousel.min.css">
-    <link rel="stylesheet" href="css/owl.theme.default.min.css">
-    <link rel="stylesheet" href="css/mediaelementplayer.min.css">
-    <link rel="stylesheet" href="css/aos.css">
-    <link rel="stylesheet" href="css/audio.css">
-    <link rel="stylesheet" href="css/style.css">
+{% block meta %}
+    <meta property="og:title" content="{{ episodio.titulo|e }}">
+    <meta property="og:description" content="{{ episodio.descripcion|striptags|e }}">
+    <meta property="og:image" content="{{ episodio.url_imagen }}">
+    <meta property="og:url" content="{{ episodio.full_url }}">
+    <meta property="og:type" content="music.song">
+    <meta property="og:audio" content="{{ episodio.url_audio }}">
+{% endblock %}
 
-    <script async src="https://www.googletagmanager.com/gtag/js?id={{ canal.GA_TRACKING_ID }}"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', '{{ canal.GA_TRACKING_ID }}');
-    </script>
-    
-  </head>
-  <body>
-  
-  <div class="site-wrap">
-
-    <div class="site-mobile-menu">
-      <div class="site-mobile-menu-header">
-        <div class="site-mobile-menu-close mt-3">
-          <span class="icon-close2 js-menu-toggle"></span>
-        </div>
+{% block content %}
+<section class="cd-hero cd-hero-episode">
+  <div class="container">
+    <div class="row align-items-center g-4">
+      <div class="col-md-4 col-lg-3">
+        <img class="cd-episode-cover" src="{{ episodio.url_imagen }}" alt="">
       </div>
-      <div class="site-mobile-menu-body"></div>
-    </div>
-
-
-    <header class="site-navbar py-4 absolute transparent" role="banner">
-
-      <div class="container">
-        <div class="row align-items-center">
-          
-
-          <div class="col-3" data-aos="fade-down">
-            <h1><a href="index.html" class="text-white h2">{{ canal.titulo }}</a></h1>
-          </div>
-          <div class="col-9" data-aos="fade-down">
-            <nav class="site-navigation position-relative text-right text-md-right" role="navigation">
-
-                
-
-                <div class="d-inline-block ml-md-0 mr-auto py-3">
-                  <a href="#" class="site-menu-toggle js-menu-toggle text-white"><span class="icon-menu h3"></span></a>
-                </div>
-
-                <ul class="site-menu js-clone-nav d-none">
-                  <li class="active"><a href="index.html">Inicio</a></li>
-                </ul>
-            </nav>
-
-
-          </div>
-
-        </div>
-      </div>
-      
-    </header>
-
-    <div class="site-blocks-cover overlay inner-page-cover" style="background-image: url({{ episodio.url_imagen }});" data-aos="fade" data-stellar-background-ratio="0.5">
-      <div class="container">
-        <div class="row align-items-center justify-content-center text-center">
-          <div class="col-md-8" data-aos="fade-up" data-aos-delay="400">
-            <h2 class="text-white font-weight-light mb-2 display-4">{{ episodio.titulo }}</h2>
-            <div class="text-white mb-3">
-              <span class="text-white-opacity-05">
-                <small>por <a href='{{ canal.autor_url }}'>{{ canal.autor }}</a> 
-                  <span class="sep">/</span> {{ episodio.fecha_publicacion }} 
-                </small>
-              </span>
-                {% if episodio.musica_intro %} 
-                
-                  <br/><span class="text-white-opacity-05">
-                    <small>INTRO: {{ episodio.musica_intro }}</small>
-                  </span>
-                
-                {% endif %}
-              
-              <div>
-                <audio id="player2" 
-                    preload="auto" 
-                    controls="controls"
-                    onplay="tag_analytics('audio_start', 'engagement', 'escucha episodio {{ episodio.titulo }}');">
-                  <source src="{{ episodio.url_audio }}" type="audio/mp3">
-                </audio>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>  
-    
-    <div class="site-section bg-light">
-      <div class="container">
-
-          <div class="row">
-              <div class="col-md-12">{{ episodio.descripcion }}</p></div>
-          </div>
-          
-          <div class="row mb-5">
-              <div class="col-md-12 text-center">
-                  <p class="mb-4"><b>Mandame tu opinion, crítica, sugerencias sobre este episodio
-                      a <a href='mailto:cadena-de-datos@data99.com.ar'>cadena-de-datos@data99.com.ar</a></b></p>
-                  
-                      Si te gustó, compartilo
-                      
-                      <ul class="share-buttons">
-                        <li><a href="https://www.facebook.com/sharer/sharer.php?u={{ episodio.full_url_encoded }}&quote={{ episodio.titulo_encoded }}" title="Share on Facebook" target="_blank"><img alt="Share on Facebook" src="img/flat_web_icon_set/black/Facebook.png" /></a></li>
-                        <li><a href="https://twitter.com/intent/tweet?source={{ episodio.full_url_encoded }}&text={{ episodio.titulo_encoded }}:%20{{ episodio.full_url_encoded }}&via=avdata99" target="_blank" title="Tweet"><img alt="Tweet" src="img/flat_web_icon_set/black/Twitter.png" /></a></li>
-                        <li><a href="https://getpocket.com/save?url={{ episodio.full_url_encoded }}&title={{ episodio.titulo_encoded }}" target="_blank" title="Add to Pocket"><img alt="Add to Pocket" src="img/flat_web_icon_set/black/Pocket.png" /></a></li>
-                        <li><a href="http://www.linkedin.com/shareArticle?mini=true&url={{ episodio.full_url_encoded }}&title={{ episodio.titulo_encoded }}&summary=Podcast%20sobre%20datos%20abiertos&source={{ episodio.full_url_encoded }}" target="_blank" title="Share on LinkedIn"><img alt="Share on LinkedIn" src="img/flat_web_icon_set/black/LinkedIn.png" /></a></li>
-                        <li><a href="mailto:?subject=Cadena%20de%20datos%20{{ episodio.titulo_encoded }}&body=Podcast%20sobre%20datos%20abiertos:%20{{ episodio.full_url_encoded }}" target="_blank" title="Send email"><img alt="Send email" src="img/flat_web_icon_set/black/Email.png" /></a></li>
-                      </ul>
-
-                {% if episodio.ideas %}
-                <h2 class="font-weight-bold text-black">Ideas de la charla</h2>
-                {% endif %}
-              </div>
-            </div>
-            
-            {% if episodio.ideas %}
-            <div class="row">
-                <div class="col-md-12">
-                  <ul>
-                      {% for idea in episodio.ideas %}
-                        <li>{{ idea|safe }}</li>
-                      {% endfor %}
-                    </ul>
-                </div>
-              
-            </div>
-            {% endif %}
-
-            <div class="row mb-5">
-                <div class="col-md-12 text-center">
-                  <h2 class="font-weight-bold text-black">Insertá la entrevista en tu sitio</h2>
-                </div>
-              </div>
-      
-              <div class="row mb-5">
-                <div class="col-md-6">
-                    <h3 class="font-weight-bold text-black">Audio</h3>
-                  <textarea style="width:100%; font-size: 0.8em; height: 120px;">
-<audio id="player2" preload="auto" controls="controls"
-    <source src="{{ episodio.url_audio }}" type="audio/mp3">
-</audio></textarea>
-                </div>
-      
-                {% if episodio.youtube_id %}
-                <div class="col-md-6">
-                  <h3 class="font-weight-bold text-black">Youtube</h3>
-                  <textarea style="width:100%; font-size: 0.8em; height: 120px;">
-<iframe width="560" height="315"
-    src="https://www.youtube.com/embed/{{ episodio.youtube_id }}" frameborder="0" 
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe></textarea>
-                </div>
-                {% endif %}
-      
-              </div>
-
-
-
-            <div class="row mb-5">
-                <div class="col-md-12">
-                    <p>
-                        {% for rss in RSSs %}
-                          {% if rss.nombre == "atom" %}
-                          <a href="{{ rss.url }}" class="pl-3 pr-3">
-                            <span class="icon-rss analyticable" style="font-size: 64px" data-evento="click" data-categoria="rss" data-etiqueta="{{ rss.nombre }}"></span></a>
-                          {% endif %}
-                        {% endfor %}
-          
-                        {% if spotify %}
-                          <a href="{{ spotify }}" class="pl-3 pr-3">
-                            <span class="icon-spotify analyticable" style="font-size: 64px" data-evento="click" data-categoria="rss" data-etiqueta="spotify"></span></a>
-                        {% endif %}
-
-                        {% if apple_podcast %}
-                          <a href="{{ apple_podcast }}" class="pl-3 pr-3">
-                            <span class="icon-apple analyticable" style="font-size: 64px" data-evento="click" data-categoria="rss" data-etiqueta="apple_podcast"></span></a>
-                        {% endif %}
-        
-                        {% if itunes %}
-                          <a href="{{ itunes }}" class="pl-3 pr-3">
-                            <span class="icon-itunes analyticable" style="font-size: 64px" data-evento="click" data-categoria="rss" data-etiqueta="itunes"></span></a>
-                        {% endif %}
-        
-                        
-                        {% if youtube %}
-                        <a href="{{ youtube }}" class="pl-0 pr-3">
-                          <span class="icon-youtube analyticable" style="font-size: 64px" data-evento="click" data-categoria="rss" data-etiqueta="youtube"></span></a>
-                        {% endif %}
-          
-                        {% if twitter %}
-                        <a href="{{ twitter }}" class="pl-3 pr-3">
-                          <span class="icon-twitter analyticable" style="font-size: 64px" data-evento="click" data-categoria="redes" data-etiqueta="twitter"></span></a>
-                        {% endif %}
-                        {% if instagram %}
-                        <a href="{{ instagram }}" class="pl-3 pr-3">
-                          <span class="icon-instagram analyticable" style="font-size: 64px" data-evento="click" data-categoria="redes" data-etiqueta="instagram"></span></a>
-                        {% endif %}
-                        {% if linkedin %}
-                        <a href="{{ linkedin }}" class="pl-3 pr-3">
-                          <span class="icon-linkedin analyticable" style="font-size: 64px" data-evento="click" data-categoria="redes" data-etiqueta="linkedin"></span></a>
-                        {% endif %}
-                    </p>
-
-
-              </div>
-            </div>
-
-        <div class="row mb-5">
-          <div class="col-md-12 text-center">
-            <h2 class="font-weight-bold text-black">otros episodios</h2>
-          </div>
-        </div>
-        <div class="row">
-          {% for epi in episodios %}
-          
-          {% if episodio.base_name != epi.base_name %}
-
-          <div class="col-md-6">
-            <div class="d-block podcast-entry bg-white mb-5" data-aos="fade-up">
-              <div class="image w-100" style="height: 300px; background-image: url('{{ epi.url_imagen }}');"></div>
-              <div class="text w-100">
-
-                <h3 class="font-weight-light"><a href="{{ epi.base_name }}.html">{{ epi.titulo}}</a></h3>
-                <div class="text-white mb-3"><span class="text-black-opacity-05"><small>por <a href='{{ canal.autor_url }}'>{{ canal.autor }}</a>
-                  <span class="sep">/</span> {{ epi.fecha_publicacion }}</small></span></div>
-                <p class="mb-4">
-                  {{ epi.descripcion }}
-                </p>
-                
-
-              </div>
-            </div>
-          </div>
-
-          {% endif %}
-
-          {% endfor %}
-          
+      <div class="col-md-8 col-lg-9">
+        <p class="cd-kicker"><a href="index.html#episodios"><i class="bi bi-arrow-left"></i> Todos los episodios</a></p>
+        <h1 class="cd-hero-title cd-hero-title-sm">{{ episodio.titulo }}</h1>
+        <p class="cd-hero-meta">{{ episodio.fecha_legible }} &middot; por <a href="{{ canal.autor_url }}">{{ canal.autor }}</a></p>
+        {% if episodio.musica_intro %}<p class="cd-hero-meta small">Música de intro: {{ episodio.musica_intro }}</p>{% endif %}
+        <div class="d-flex align-items-center gap-3 mt-3">
+          <button class="cd-play-btn cd-play-lg js-play" type="button"
+                  data-src="{{ episodio.url_audio|e }}" data-title="{{ episodio.titulo|e }}"
+                  data-img="{{ episodio.url_imagen|e }}" data-url="{{ episodio.base_name }}.html"
+                  aria-label="Reproducir {{ episodio.titulo|e }}">
+            <i class="bi bi-play-fill"></i>
+          </button>
+          <span>Escuchar episodio</span>
         </div>
       </div>
     </div>
-    
-    <footer class="site-footer">
-        <div class="container">
-              <div class="row">
-
-                  <div class="col-md-4">
-                      <h3 class="footer-heading mb-4">Suscribirse</h3>
-                      <div>
-                        {% for rss in RSSs %}
-                          {% if rss.nombre == "atom" %}
-                          <a href="{{ rss.url }}" class="pl-3 pr-3">
-                            <span class="icon-rss analyticable" data-evento="click" data-categoria="rss" data-etiqueta="{{ rss.nombre }}"></span></a>
-                          {% endif %}
-                        {% endfor %}
-  
-                        {% if spotify %}
-                          <a href="{{ spotify }}" class="pl-3 pr-3">
-                            <span class="icon-spotify analyticable" data-evento="click" data-categoria="rss" data-etiqueta="spotify"></span></a>
-                        {% endif %}
-
-                        {% if apple_podcast %}
-                          <a href="{{ apple_podcast }}" class="pl-3 pr-3">
-                            <span class="icon-apple analyticable" data-evento="click" data-categoria="rss" data-etiqueta="apple_podcast"></span></a>
-                        {% endif %}
-  
-                        {% if itunes %}
-                          <a href="{{ itunes }}" class="pl-3 pr-3">
-                            <span class="icon-itunes analyticable" data-evento="click" data-categoria="rss" data-etiqueta="itunes"></span></a>
-                        {% endif %}
-                      </div>
-                  </div>
-                    
-                <div class="col-md-4">
-                  <h3 class="footer-heading mb-4">Redes</h3>
-                  <div>
-                    {% if youtube %}
-                    <a href="{{ youtube }}" class="pl-0 pr-3">
-                      <span class="icon-youtube analyticable" data-evento="click" data-categoria="rss" data-etiqueta="youtube"></span></a>
-                    {% endif %}
-  
-                    {% if twitter %}
-                    <a href="{{ twitter }}" class="pl-3 pr-3">
-                      <span class="icon-twitter analyticable" data-evento="click" data-categoria="redes" data-etiqueta="twitter"></span></a>
-                    {% endif %}
-                    {% if instagram %}
-                    <a href="{{ instagram }}" class="pl-3 pr-3">
-                      <span class="icon-instagram analyticable" data-evento="click" data-categoria="redes" data-etiqueta="instagram"></span></a>
-                    {% endif %}
-                    {% if linkedin %}
-                    <a href="{{ linkedin }}" class="pl-3 pr-3">
-                      <span class="icon-linkedin analyticable" data-evento="click" data-categoria="redes" data-etiqueta="linkedin"></span></a>
-                    {% endif %}
-                  </div>
-                </div>
-              </div>
-  
-            
-          </div>
-        </div>
-      </footer>
-    
   </div>
+</section>
 
-  <script src="js/jquery-3.3.1.min.js"></script>
-  <script src="js/jquery-migrate-3.0.1.min.js"></script>
-  <script src="js/jquery-ui.js"></script>
-  <script src="js/popper.min.js"></script>
-  <script src="js/bootstrap.min.js"></script>
-  <script src="js/owl.carousel.min.js"></script>
-  <script src="js/jquery.stellar.min.js"></script>
-  <script src="js/jquery.countdown.min.js"></script>
-  <script src="js/jquery.magnific-popup.min.js"></script>
-  <script src="js/aos.js"></script>
+<section class="cd-section">
+  <div class="container">
+    <div class="row g-5">
+      <div class="col-lg-8">
+        <div class="cd-prose">
+          <p>{{ episodio.descripcion }}</p>
+        </div>
 
-  <script src="js/main.js"></script>
+        {% if episodio.ideas %}
+        <h2 class="cd-section-title cd-section-title-sm mt-5">Ideas y enlaces de la charla</h2>
+        <ul class="cd-ideas js-linkify">
+          {% for idea in episodio.ideas %}
+          <li>{{ idea|safe }}</li>
+          {% endfor %}
+        </ul>
+        {% endif %}
 
-  <script>
-    function tag_analytics(evento, categoria, etiqueta) {
-      gtag('event', evento, {
-            'event_category' : categoria,
-            'event_label' : etiqueta
-              }
-            );
-    }
-  </script>
-    
-  </body>
-</html>
+        {% if episodio.youtube_id %}
+        <h2 class="cd-section-title cd-section-title-sm mt-5">En video</h2>
+        <div class="ratio ratio-16x9 cd-video">
+          <iframe src="https://www.youtube-nocookie.com/embed/{{ episodio.youtube_id }}" title="{{ episodio.titulo|e }}" loading="lazy"
+                  allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        {% endif %}
+      </div>
+
+      <aside class="col-lg-4">
+        <div class="cd-box">
+          <h2 class="cd-box-title">Compartir</h2>
+          <div class="d-flex flex-wrap gap-2">
+            <button class="cd-chip js-share" type="button" data-title="{{ episodio.titulo|e }}" data-url="{{ episodio.full_url }}"><i class="bi bi-share"></i> Compartir</button>
+            <a class="cd-chip" target="_blank" rel="noopener" href="https://wa.me/?text={{ episodio.titulo_encoded }}%20{{ episodio.full_url_encoded }}"><i class="bi bi-whatsapp"></i></a>
+            <a class="cd-chip" target="_blank" rel="noopener" href="https://twitter.com/intent/tweet?text={{ episodio.titulo_encoded }}&url={{ episodio.full_url_encoded }}&via=avdata99"><i class="bi bi-twitter-x"></i></a>
+            <a class="cd-chip" target="_blank" rel="noopener" href="https://www.linkedin.com/sharing/share-offsite/?url={{ episodio.full_url_encoded }}"><i class="bi bi-linkedin"></i></a>
+            <a class="cd-chip" target="_blank" rel="noopener" href="https://www.facebook.com/sharer/sharer.php?u={{ episodio.full_url_encoded }}"><i class="bi bi-facebook"></i></a>
+            <a class="cd-chip" href="mailto:?subject={{ episodio.titulo_encoded }}&body={{ episodio.full_url_encoded }}"><i class="bi bi-envelope"></i></a>
+          </div>
+        </div>
+
+        <div class="cd-box">
+          <h2 class="cd-box-title">Insertá la entrevista en tu sitio</h2>
+          <label class="cd-muted small" for="embed-audio">Audio</label>
+          <textarea class="form-control cd-code" id="embed-audio" rows="3" readonly>&lt;audio controls preload="none" src="{{ episodio.url_audio }}"&gt;&lt;/audio&gt;</textarea>
+          <button class="btn btn-sm cd-btn-ghost js-copy mt-2" type="button" data-target="embed-audio"><i class="bi bi-clipboard"></i> Copiar</button>
+          {% if episodio.youtube_id %}
+          <label class="cd-muted small mt-3 d-block" for="embed-yt">YouTube</label>
+          <textarea class="form-control cd-code" id="embed-yt" rows="3" readonly>&lt;iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/{{ episodio.youtube_id }}" allowfullscreen&gt;&lt;/iframe&gt;</textarea>
+          <button class="btn btn-sm cd-btn-ghost js-copy mt-2" type="button" data-target="embed-yt"><i class="bi bi-clipboard"></i> Copiar</button>
+          {% endif %}
+        </div>
+
+        <div class="cd-box">
+          <h2 class="cd-box-title">Tu opinión</h2>
+          <p class="small mb-0">Mandame críticas y sugerencias sobre este episodio a
+            <a href="mailto:cadena-de-datos@data99.com.ar">cadena-de-datos@data99.com.ar</a></p>
+        </div>
+      </aside>
+    </div>
+  </div>
+</section>
+
+<section class="cd-section cd-section-alt">
+  <div class="container">
+    <h2 class="cd-section-title mb-4">Otros episodios</h2>
+    <div class="row g-4">
+      {% for epi in episodios|reverse %}
+      {% if episodio.base_name != epi.base_name %}
+      <div class="col-sm-6 col-lg-3">
+        <a class="cd-mini" href="{{ epi.base_name }}.html">
+          <span class="cd-mini-cover" style="background-image: url('{{ epi.url_imagen }}');"></span>
+          <span class="cd-date">{{ epi.fecha_legible }}</span>
+          <span class="cd-mini-title">{{ epi.titulo }}</span>
+        </a>
+      </div>
+      {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endblock %}
