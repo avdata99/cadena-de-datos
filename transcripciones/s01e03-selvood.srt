@@ -1,0 +1,1432 @@
+1
+00:00:00,000 --> 00:00:24,880
+Bienvenidos al tercer episodio del podcast que hemos dado en llamar Cadena de datos. Hoy nos acompaña Inés Selbud. Actualmente es la jefa de la oficina de gobierno abierto del Consejo de la Magistratura y además es asesora principal en la Agencia de Acceso a la Información Pública del Poder Ejecutivo Argentino. Hasta ahí voy bien, Inés. ¿Esos son tus trabajos actuales?
+
+2
+00:00:26,880 --> 00:00:31,180
+Bueno, estoy como de licencia en el Consejo de la Magistratura,
+
+3
+00:00:31,180 --> 00:00:39,820
+en realidad, y así que se creó, bueno, porque es un ente nuevo
+
+4
+00:00:39,820 --> 00:00:41,680
+y la verdad teníamos que ponerle muchas filas,
+
+5
+00:00:41,780 --> 00:00:44,140
+así que estoy ahí ahora a 100% de mi tiempo.
+
+6
+00:00:45,160 --> 00:00:45,640
+Perfecto.
+
+7
+00:00:45,800 --> 00:00:50,080
+Sos licenciada en Comunicación Social y acá viene una parte interesante.
+
+8
+00:00:50,660 --> 00:00:54,040
+Trabajaste en Transparencia Internacional, en Amnistía Internacional,
+
+9
+00:00:54,040 --> 00:00:57,600
+fuiste directora de Acceso a la Información Pública de la Universidad de Buenos Aires
+
+10
+00:00:57,600 --> 00:01:02,560
+y fuiste directora de Gobierno Abierto de un municipio de la provincia de Buenos Aires.
+
+11
+00:01:02,880 --> 00:01:04,340
+¿Tuviste todos esos trabajos, Inés?
+
+12
+00:01:05,540 --> 00:01:06,840
+Sí, así es.
+
+13
+00:01:06,900 --> 00:01:12,020
+Bueno, yo confieso que tenía entrevistas más o menos pensadas para las personas
+
+14
+00:01:12,020 --> 00:01:14,960
+que están en la función pública, para las personas que están en organizaciones
+
+15
+00:01:14,960 --> 00:01:20,740
+y en tu caso me alegro y espero poder ordenarme, pero fuiste parte de organizaciones
+
+16
+00:01:20,740 --> 00:01:22,720
+de la sociedad civil, sos parte
+
+17
+00:01:22,720 --> 00:01:24,320
+de gobiernos y además
+
+18
+00:01:24,320 --> 00:01:26,600
+no solamente de gobiernos, sino que tuviste
+
+19
+00:01:26,600 --> 00:01:28,940
+poder ejecutivo y poder judicial
+
+20
+00:01:28,940 --> 00:01:30,620
+y además
+
+21
+00:01:30,620 --> 00:01:32,600
+en el mundo universitario
+
+22
+00:01:32,600 --> 00:01:34,360
+y de los municipios, así que espero
+
+23
+00:01:34,360 --> 00:01:36,580
+sacarle el jugo
+
+24
+00:01:36,580 --> 00:01:38,360
+a esta entrevista. Primero te pregunto
+
+25
+00:01:38,360 --> 00:01:40,380
+¿todos esos cargos
+
+26
+00:01:40,380 --> 00:01:42,580
+es porque te aburrí
+
+27
+00:01:42,580 --> 00:01:43,940
+fácil y te gusta cambiar?
+
+28
+00:01:44,440 --> 00:01:44,780
+¿Por qué
+
+29
+00:01:44,780 --> 00:01:47,360
+querés conocer todos los lugares?
+
+30
+00:01:48,060 --> 00:01:50,060
+¿Por qué anduviste por todos esos mundos
+
+31
+00:01:50,060 --> 00:01:52,160
+están, si bien en la misma temática están
+
+32
+00:01:52,160 --> 00:01:52,980
+tan diferentes
+
+33
+00:01:52,980 --> 00:02:02,140
+a trabajar por suerte
+
+34
+00:02:02,140 --> 00:02:03,280
+antes de recibirme
+
+35
+00:02:03,280 --> 00:02:06,580
+en el 2000 ya trabajaba
+
+36
+00:02:06,580 --> 00:02:08,080
+en Poder Ciudadano, así que ahí
+
+37
+00:02:08,080 --> 00:02:10,400
+cada 3 años
+
+38
+00:02:10,400 --> 00:02:11,580
+más o menos, 4
+
+39
+00:02:11,580 --> 00:02:16,340
+pero me aparecen
+
+40
+00:02:16,340 --> 00:02:18,380
+desafíos nuevos y los
+
+41
+00:02:18,380 --> 00:02:25,940
+tomo. En Alemania me volví porque me moría de frío y no tenía más ganas de vivir allá y bueno,
+
+42
+00:02:25,940 --> 00:02:32,360
+acá empecé con... y después, bueno, tuve la posibilidad, me aprecieron la posibilidad de
+
+43
+00:02:32,360 --> 00:02:39,800
+hacer esta oficina en la universidad y después me mudé, me mudé al conurbano y entonces dije,
+
+44
+00:02:39,800 --> 00:02:46,560
+Bueno, voy a poder hacer una experiencia en el municipio donde viví,
+
+45
+00:02:46,640 --> 00:02:52,020
+he trabajado con él en las ONG, en CIPEC, donde trabajé un poquito, hice una licencia ahí.
+
+46
+00:02:52,580 --> 00:02:57,040
+Y bueno, fue una experiencia interesante, pero esa sí duró poco.
+
+47
+00:02:57,040 --> 00:03:01,660
+Fue la única que duró un año. Más, estuve tres o cuatro años.
+
+48
+00:03:01,660 --> 00:03:18,680
+Perfecto Inés, me interesa saber concretamente cuál fue tu primer acercamiento al mundo de la transparencia y de los datos abiertos, cómo comenzaste, de quiénes te inspiraste, qué proyectos habías cuando vos empezaste con esto
+
+49
+00:03:19,760 --> 00:03:31,120
+Bueno, sí, yo empecé más o menos cerca del 2000 y en ese momento empezaba a trabajar en Poder Ciudadano en el área de comunicación, dirigía una agencia de noticias
+
+50
+00:03:31,120 --> 00:03:54,400
+que lo que hacíamos era darle voz a las organizaciones civiles y sociales que no podían acercarse a los grandes medios, éramos como si fuera una agencia de noticias, pero para ONGs que enviaban información a los grandes medios, y bueno, en ese momento enviábamos la información, subíamos una nota por día de alguna ONG a un sitio web, que era tipo blog,
+
+51
+00:03:54,400 --> 00:04:10,800
+Y de ahí lo que hacíamos era enviar o fax o correos electrónicos con el link de la nota o incluso con la nota pegada a los grandes medios o a los medios chicos, cualquiera, digamos, a todos los que tuviéramos en nuestra base de datos.
+
+52
+00:04:12,280 --> 00:04:17,640
+Porque, bueno, era la única forma que en ese momento teníamos de comunicar, nada que ver con hoy.
+
+53
+00:04:17,640 --> 00:04:33,760
+Y, bueno, empezamos a trabajar en esto que se llamó periodismo asistido por computadora, que básicamente era usar las herramientas de Windows, las herramientas que tenías en tu computadora de oficina para mejorar el trabajo periodístico, ¿no?
+
+54
+00:04:33,760 --> 00:05:00,880
+Por ejemplo, me acuerdo que en 2003 pedimos al gobierno las planillas de publicidad oficial, de cuánto se gastaba en publicidad oficial y nos entregaron un montón de hojas impresas en esta impresora de punto que tenía los carreteles alrededor y las hojas estaban troqueladas y era imposible procesar esa información para ver bien qué, cuánto, durante qué tiempo y demás.
+
+55
+00:05:00,880 --> 00:05:09,820
+Entonces, lo que hacíamos era lo pasábamos a un Excel utilizando filtros, definiendo meses, no sé, empresas de medios, empresas.
+
+56
+00:05:10,240 --> 00:05:11,560
+Súper artesanal todo.
+
+57
+00:05:12,200 --> 00:05:18,860
+Súper artesanal. Así era la forma que se trabajaba. En general usábamos esto que era el Excel, la planilla de cálculo.
+
+58
+00:05:19,020 --> 00:05:25,840
+Bueno, no teníamos ni Google Drive. Y con esa planilla de cálculo tratábamos de ver qué historia había dentro de todos esos números.
+
+59
+00:05:25,840 --> 00:05:39,220
+Imagínate que no había repositorios de datos de los estados, no había periodismo de datos todavía como se conoce hoy, sino que era, bueno, pasar eso a la computadora y ver de qué manera eso se puede procesar mejor.
+
+60
+00:05:39,220 --> 00:05:56,240
+Y también, ¿había en otros lugares del mundo, sí, mejores formas? Vos que estuviste con organizaciones internacionales, ¿eso era algo que nos pasaba a nosotros porque estábamos mal o esa era la norma general de todo el mundo?
+
+61
+00:05:56,240 --> 00:06:22,980
+No, esa era la norma general, era como que todavía las herramientas no estaban disponibles, yo me acuerdo que nos venían a capacitar, en ese momento también en 2004 se funda Fopea, que se hizo ahí en Poder Ciudadano y nos vino a capacitar gente del Knight Center, que es un instituto muy bueno en temas de periodismo académico, que enseña a periodistas y nos venían a capacitar en Excel, si yo lo pienso hoy era Excel,
+
+62
+00:06:22,980 --> 00:06:39,720
+Lo que pasa es que en ese momento ni los periodistas estábamos muy duchos con el Excel, pero bueno, nos enseñaban fórmulas, filtros, líneas de tiempo, bueno, después graficar lo que salía, etcétera, que la verdad eso era llamativo para la época.
+
+63
+00:06:39,720 --> 00:06:43,660
+Pensá que teníamos el fax, digitalizábamos cosas con un
+
+64
+00:06:43,660 --> 00:06:46,160
+escáner, era muy rudimentario.
+
+65
+00:06:46,760 --> 00:06:48,160
+Después, la verdad, fue cambiando un montón.
+
+66
+00:06:48,520 --> 00:06:50,880
+De hecho, hoy que tengamos un portal de datos,
+
+67
+00:06:51,440 --> 00:06:53,260
+que el Estado tenga un portal de datos,
+
+68
+00:06:53,360 --> 00:06:56,080
+que los estados municipales o provinciales tengan portales
+
+69
+00:06:56,080 --> 00:06:58,820
+de datos en donde por ahí uno no encuentra todo lo que quiere,
+
+70
+00:06:58,940 --> 00:07:01,120
+pero ya hay un montón de información y ya la puede
+
+71
+00:07:01,120 --> 00:07:04,560
+filtrar, bajar, etcétera, trabajar, es un lujo,
+
+72
+00:07:04,620 --> 00:07:05,900
+es un lujo, te diría.
+
+73
+00:07:06,800 --> 00:07:09,500
+Bueno, bueno, te traigo un poquito más acá en el tiempo,
+
+74
+00:07:09,500 --> 00:07:11,280
+formaste parte y trabajaste
+
+75
+00:07:11,280 --> 00:07:13,560
+del lanzamiento del portal
+
+76
+00:07:13,560 --> 00:07:14,700
+justices
+
+77
+00:07:14,700 --> 00:07:17,700
+justbydesabierto.gov.ar
+
+78
+00:07:17,700 --> 00:07:21,120
+contame cómo participaste
+
+79
+00:07:21,120 --> 00:07:23,700
+qué desempeño, qué trabajo hiciste
+
+80
+00:07:23,700 --> 00:07:26,000
+en eso y me parece que es una novedad
+
+81
+00:07:26,000 --> 00:07:27,200
+porque los poderes
+
+82
+00:07:27,200 --> 00:07:29,100
+contame en qué momento fue, en qué año
+
+83
+00:07:29,100 --> 00:07:31,480
+y si había otros poderes judiciales
+
+84
+00:07:31,480 --> 00:07:33,900
+transparentando, teniendo portales
+
+85
+00:07:33,900 --> 00:07:35,780
+Sí, no, la verdad
+
+86
+00:07:35,780 --> 00:07:37,580
+que fue, eso me parece que fue
+
+87
+00:07:37,580 --> 00:07:39,000
+un hito a nivel
+
+88
+00:07:39,000 --> 00:07:44,460
+no quiero decir del país, pero sí fue muy importante, por lo menos en la ciudad de Buenos Aires,
+
+89
+00:07:44,640 --> 00:07:49,340
+porque no había, el poder judicial siempre fue el más oscuro de los poderes
+
+90
+00:07:49,340 --> 00:07:54,840
+y el que más tarde llegó a esta oleada, si se quiere, de gobierno abierto o Estado abierto, ¿no?
+
+91
+00:07:54,840 --> 00:07:58,800
+Cuando se empezó a hablar de gobierno abierto primero, el poder judicial no existía
+
+92
+00:07:58,800 --> 00:08:03,540
+y después con Estado abierto se trató de meter algunas iniciativas del judicial,
+
+93
+00:08:03,540 --> 00:08:11,120
+aunque con poco éxito, y bueno, yo estaba justo trabajando en la Universidad de Buenos Aires en el 2015,
+
+94
+00:08:12,120 --> 00:08:19,740
+y ahí me convocan a la justicia de la ciudad para ver cómo se podía desarrollar algo parecido ahí,
+
+95
+00:08:19,820 --> 00:08:23,980
+que la verdad fue muy, fue pionero y fue en ese momento muy disruptivo,
+
+96
+00:08:24,140 --> 00:08:29,700
+porque la justicia no está acostumbrada a mostrar, más allá de las sentencias y bueno,
+
+97
+00:08:29,700 --> 00:08:33,420
+de lo que hacen los juzgados, sino la parte más administrativa, ¿no?
+
+98
+00:08:33,480 --> 00:08:37,800
+El Poder Judicial se divide en la parte de los juzgados, que es donde, bueno, se imparte justicia,
+
+99
+00:08:38,440 --> 00:08:44,160
+y la parte de la administración de esa justicia, así como cuánto dinero se paga a los empleados,
+
+100
+00:08:44,400 --> 00:08:50,680
+cómo se hacen los concursos para jueces, qué tipo de resoluciones se toma a nivel más administrativo.
+
+101
+00:08:50,680 --> 00:08:57,060
+Y bueno, la Ciudad de Buenos Aires empezó a hacer eso, había mucha información que estaba como mezclada
+
+102
+00:08:57,060 --> 00:09:01,080
+y que estaba en términos demasiado específicos para abogados
+
+103
+00:09:01,080 --> 00:09:05,360
+y que la ciudadanía en general, que también era la que aportaba con sus impuestos a esto,
+
+104
+00:09:05,480 --> 00:09:07,520
+no podía entender.
+
+105
+00:09:08,080 --> 00:09:13,080
+Entonces lo que hicimos fue como una barrida primero de la información que ya existía
+
+106
+00:09:13,080 --> 00:09:16,620
+y tratar de traducirla, entre comillas estoy diciendo,
+
+107
+00:09:16,740 --> 00:09:19,820
+a un idioma que entienda a la mayoría de las personas.
+
+108
+00:09:21,340 --> 00:09:26,280
+Sí, te quería preguntar, me da mucha curiosidad saber de quién fue iniciativa
+
+109
+00:09:26,280 --> 00:09:39,560
+Porque había otros poderes judiciales, o sea, los que tuvieron esta iniciativa, ¿miraron algún otro poder judicial? Porque creo que hasta hoy mismo no es común que haya poderes judiciales publicando datos.
+
+110
+00:09:39,560 --> 00:09:57,640
+No, nos cuesta muchísimo encontrar iniciativas parecidas. Sí vimos, cuando empezamos, esto fue iniciativa de, el Consejo de la Magistratura se compone de consejeros que son electos, son nueve consejeros electos por distintos claustros, para hacerlo una analogía con la universidad.
+
+111
+00:09:57,640 --> 00:10:18,800
+Por la legislatura elige tres, los académicos eligen tres y los abogados eligen tres. Entonces, uno de los consejeros por los abogados, Carlos Mas Vélez, dijo, bueno, hagamos lo que se estaba viendo en la movida a nivel nacional de gobierno abierto, veamos cómo lo podemos empezar a hacer acá en el Poder Judicial.
+
+112
+00:10:18,800 --> 00:10:48,460
+Y tomamos algunos, o sea, lo que hicimos fue agarrar la iniciativa de gobierno abierto del Open Government Partnership y tratar de traducirlo al Poder Judicial, como hacer una analogía, bueno, si los diputados o los ministros son los consejeros, entonces, bueno, que publiquen la foto, cosas tontas, entre comillas, como eso, por ejemplo, no, se sabía quién era la lista de los consejeros que son los que gobiernan, entre comillas,
+
+113
+00:10:48,460 --> 00:10:56,720
+El Poder Judicial, la parte administrativa, pero no se les conocía ni la cara, ni el currículum, ni había un dato de contacto.
+
+114
+00:10:56,820 --> 00:11:03,120
+Entonces, empezar a hacer eso, decir, bueno, quién es quién de estas 9 personas que están representando, bueno, pusimos eso.
+
+115
+00:11:03,240 --> 00:11:12,200
+Después hicimos toda una infografía en relación a cómo se eligen esos consejeros, cada cuántos años, cuáles son los requisitos.
+
+116
+00:11:13,160 --> 00:11:17,100
+A ver, los abogados lo saben, pero más allá de los abogados no se sabe.
+
+117
+00:11:17,100 --> 00:11:39,680
+Entonces, nos fijamos en Costa Rica, Costa Rica tiene un muy buen sistema de justicia abierta, pero recién estaba empezando todo eso. Después sí, empezaron más iniciativas de justicia abierta, también a nivel nacional, el Ministerio de 2016, más o menos, el Ministerio de Justicia empezó con la iniciativa de justicia abierta, y bueno, se empezaron a ver.
+
+118
+00:11:39,680 --> 00:11:55,700
+Y después lo que también fue novedoso fue trasladar esto que habíamos podido empezar a hacer en la parte administrativa del Poder Judicial, es decir, poner las declaraciones juradas, poner la cantidad de empleados, hacer infografías sobre cómo se eligen a los jueces.
+
+119
+00:11:55,700 --> 00:12:11,340
+Bueno, pasarlo a los juzgados, que los juzgados pudieran también, no solamente como el dicho que dice los jueces se muestran por sus sentencias, bueno, no solamente la sentencia, bueno, ¿cuántas sentencias hiciste en este año o en este mes?
+
+120
+00:12:11,340 --> 00:12:23,120
+o de cuántos temas, bueno, y hubo 2 de los 24 juzgados que existen, hubo 2 que se sumaron a esta iniciativa que tienen Twitter
+
+121
+00:12:23,120 --> 00:12:30,620
+y empezaron a tener un repositorio de datos y a relevar cosas que hacían ellos cotidianamente, ¿no?
+
+122
+00:12:30,620 --> 00:12:36,940
+Porque también la justicia estaba como muy vapuleada, diciendo, bueno, que no hacen nada, las causas tardan un montón,
+
+123
+00:12:36,940 --> 00:12:42,920
+Entonces ellos empezaron a medir, a ver realmente cuánto tarda una causa en el fuero de la Ciudad de Buenos Aires.
+
+124
+00:12:43,520 --> 00:12:49,060
+Qué interesante Inés, me imagino también que habrá habido muchos jueces y abogados que no les gustó ni un poco esto.
+
+125
+00:12:50,280 --> 00:12:58,220
+¿Te acordás, no sé si de algún caso, pero qué manifestaban en contra los que estaban en contra?
+
+126
+00:12:58,300 --> 00:13:03,940
+Porque me imagino que habrá habido alguna parte de rechazo más allá de las personas que avanzaron bien.
+
+127
+00:13:04,320 --> 00:13:05,580
+¿Tuvieron mucho rechazo?
+
+128
+00:13:05,580 --> 00:13:12,920
+Y bueno, dos de 24. Ya con eso los fuimos a ver a todos, ¿eh? Y dos de 24.
+
+129
+00:13:13,460 --> 00:13:20,240
+¿Tenían alguna excusa? ¿Ellos manifestaban que les parecía mal? ¿Algún argumento para decir que no?
+
+130
+00:13:20,800 --> 00:13:26,580
+Yo creo que es otra generación de jueces que están muy acostumbrados a esto de el juez habla por su sentencia.
+
+131
+00:13:27,820 --> 00:13:31,840
+Me parece que hoy por hoy el juez habla por su sentencia y también la tiene que explicar.
+
+132
+00:13:31,840 --> 00:13:49,920
+No solamente a la persona que le imparte la justicia, sino también explicarle a la sociedad por qué falla de esa manera, cuántos recursos invierte en ese fallo, cuánto tiempo tarda en, por qué un juez tiene 3 años la causa en su escritorio, si es que la tuviera, ¿no?
+
+133
+00:13:49,920 --> 00:13:58,960
+Bueno, ¿por qué? Bueno, porque tengo que mandar a hacer pruebas, porque la persona quizás está en probation y hasta que no termina la probation no vuelve, el expediente no se cierra.
+
+134
+00:13:59,320 --> 00:14:05,340
+Como empezar a medir desde gestión hasta lenguaje claro, que fue otra de las iniciativas que hizo el consejo.
+
+135
+00:14:06,140 --> 00:14:10,960
+Yo en esa no participé, pero bueno, yo sé que los juzgados y desde el consejo se está trabajando en lenguaje claro.
+
+136
+00:14:10,960 --> 00:14:17,860
+En decir, bueno, ¿por qué hay que decir insacular? ¿Qué significa insacular? Es un verbo que usan todo el tiempo.
+
+137
+00:14:17,860 --> 00:14:20,380
+que es bueno, desinsacular
+
+138
+00:14:20,380 --> 00:14:22,520
+insacular o desinsacular, es una locura
+
+139
+00:14:22,520 --> 00:14:23,760
+hablemos castellano
+
+140
+00:14:23,760 --> 00:14:26,780
+y en vez de foja, que se ahoja
+
+141
+00:14:26,780 --> 00:14:28,200
+porque la persona en general
+
+142
+00:14:28,200 --> 00:14:30,700
+a la persona que se le imparte justicia
+
+143
+00:14:30,700 --> 00:14:32,940
+no está, primero tiene miedo
+
+144
+00:14:32,940 --> 00:14:33,980
+y no entiende
+
+145
+00:14:33,980 --> 00:14:36,680
+entonces la oralidad también ayuda
+
+146
+00:14:36,680 --> 00:14:38,480
+mucho, en los juegos de la ciudad se hacen
+
+147
+00:14:38,480 --> 00:14:39,980
+audiencias orales
+
+148
+00:14:39,980 --> 00:14:42,580
+entonces estos dos jueces
+
+149
+00:14:42,580 --> 00:14:44,720
+una jueza y un juez que trabajan
+
+150
+00:14:44,720 --> 00:14:46,280
+bastante el tema de gobierno abierto
+
+151
+00:14:46,280 --> 00:14:52,380
+va de justicia abierta, se preocupa mucho por explicarle un lenguaje muy llano
+
+152
+00:14:52,380 --> 00:14:54,660
+a la persona que está impartiendo la justicia.
+
+153
+00:14:54,820 --> 00:14:56,660
+Entonces, eso está bueno.
+
+154
+00:14:57,160 --> 00:15:00,720
+Y los invito a seguir las cuentas de Twitter porque está muy buena.
+
+155
+00:15:00,720 --> 00:15:01,240
+Súper interesante.
+
+156
+00:15:01,580 --> 00:15:05,500
+Y invitamos a los poderes judiciales de todo el país a que miren el caso
+
+157
+00:15:05,500 --> 00:15:06,700
+porque sería muy interesante.
+
+158
+00:15:07,660 --> 00:15:12,820
+Estuviste en este mundo que habitualmente no le da mucha bola a la transparencia,
+
+159
+00:15:12,820 --> 00:15:16,040
+pero estuviste en otro mundo donde al día de hoy yo creo que también
+
+160
+00:15:16,040 --> 00:15:17,880
+le falta bastante, que es, estuviste
+
+161
+00:15:17,880 --> 00:15:20,220
+en, fuiste directora
+
+162
+00:15:20,220 --> 00:15:22,120
+de Acceso a la Información Pública de la Universidad
+
+163
+00:15:22,120 --> 00:15:23,440
+de Buenos Aires, hoy
+
+164
+00:15:23,440 --> 00:15:26,180
+no sé si la Universidad de Buenos Aires
+
+165
+00:15:26,180 --> 00:15:27,540
+sigue con esa política
+
+166
+00:15:27,540 --> 00:15:30,080
+hoy la única que conozco es la Universidad
+
+167
+00:15:30,080 --> 00:15:32,000
+de Cuyo, que tiene alguna política que
+
+168
+00:15:32,000 --> 00:15:33,300
+entiendo que sigue trabajando
+
+169
+00:15:33,300 --> 00:15:36,400
+¿cómo fue abrir datos en la universidad
+
+170
+00:15:36,400 --> 00:15:37,900
+que es un lugar
+
+171
+00:15:37,900 --> 00:15:40,040
+que al día de hoy yo no conozco
+
+172
+00:15:40,040 --> 00:15:42,360
+muchas iniciativas de transparencia
+
+173
+00:15:42,360 --> 00:15:43,260
+¿cómo fue ese proceso?
+
+174
+00:15:44,620 --> 00:15:45,840
+¿cómo llegaste ahí?
+
+175
+00:15:46,040 --> 00:16:07,800
+También, también fue por iniciativa de un secretario general que estaba en el 2011, si no me equivoco, que ahí fue cuando empecé a trabajar, y queriendo más, en ese momento se llamaba, era la Oficina de Acceso a la Información Pública,
+
+176
+00:16:07,800 --> 00:16:23,120
+Era como más, no estaba todavía la movida de gobierno abierto, entonces la oficina lo que quería era promover, o la universidad en ese momento lo que quería era promover más el derecho ciudadano de acceder a la información pública.
+
+177
+00:16:23,120 --> 00:16:44,640
+Como la universidad es un poder autárquico, o sea, es un ente autárquico que vela mucho por las universidades públicas en general, por su derecho constitucional, de que no se meten los otros poderes en su normativa ni en su forma de administrarse, y la universidad le interesa mucho mantener eso.
+
+178
+00:16:44,640 --> 00:16:59,540
+Bueno, decía, en ese momento solamente había un decreto del Poder Ejecutivo que le daba al ciudadano el derecho de acceder a la información pública, no había una ley, pero se estaba tratando de sancionar una ley nacional que recién se pudo sancionar ahora en 2016.
+
+179
+00:17:00,920 --> 00:17:07,920
+No había un portal de datos, había una oficina, había un lugar donde ir a preguntar por los datos, pero no había un portal.
+
+180
+00:17:07,920 --> 00:17:22,380
+No, no había un portal como nosotros conocemos hoy los portales de datos o un repositorio de datos. Cuando yo llegué había una oficina que estaban tratando de armar una oficina y lo que hicimos fue como un reglamento de acceder a la información.
+
+181
+00:17:22,380 --> 00:17:37,240
+Porque lo que pasaba antes era que alguien iba, pedía información. Imagínate la Universidad de Buenos Aires es un monstruo, o sea, gigante. Es como un país. Yo cuando hicimos la normativa, que la trabajé con otra colega, lo que hicimos fue decir, bueno, imaginémonos qué es el país.
+
+182
+00:17:37,240 --> 00:17:50,540
+Entonces, las facultades son las provincias, la universidad, el rectorado es el poder ejecutivo, los decanos son como los gobernadores, ¿se entiende?
+
+183
+00:17:51,000 --> 00:17:55,720
+Después el poder, el consejo superior son como los ministros, bueno, y así.
+
+184
+00:17:55,960 --> 00:17:59,040
+Entonces, dijimos, bueno, cuando alguien, ¿cómo es el trámite?
+
+185
+00:17:59,120 --> 00:18:03,860
+Si yo voy a la facultad de arquitectura y pido información, me tienen que contestar en tantos días,
+
+186
+00:18:03,860 --> 00:18:06,600
+si no me contestan en tantos días puedo hacer un recurso
+
+187
+00:18:06,600 --> 00:18:08,380
+etcétera, como para que el ciudadano tenga
+
+188
+00:18:08,380 --> 00:18:10,060
+esta vía para poder
+
+189
+00:18:10,060 --> 00:18:12,660
+o reclamar en caso de que no le conteste
+
+190
+00:18:12,660 --> 00:18:14,880
+no saber a dónde dirigirse, porque llegar a la oficina
+
+191
+00:18:14,880 --> 00:18:16,660
+de alumnos con un pedido de información
+
+192
+00:18:16,660 --> 00:18:18,640
+es como bueno, morirás ahí
+
+193
+00:18:18,640 --> 00:18:20,920
+¿Vos fuiste la primera
+
+194
+00:18:20,920 --> 00:18:22,580
+directora, o sea, se estaba creando
+
+195
+00:18:22,580 --> 00:18:24,260
+en ese momento en el 2011 el cargo?
+
+196
+00:18:24,860 --> 00:18:26,120
+Sí, sí, sí
+
+197
+00:18:26,120 --> 00:18:28,700
+¿Y sabés si actualmente esa política
+
+198
+00:18:28,700 --> 00:18:30,640
+se sigue? Hoy si quiero hacer un pedido
+
+199
+00:18:30,640 --> 00:18:32,580
+de acceso a la información a la Universidad de Buenos Aires
+
+200
+00:18:32,580 --> 00:18:40,600
+tengo un canal mejorado online y demás, ¿se siguió o la UBA no sigue con ese proceso?
+
+201
+00:18:40,600 --> 00:18:45,860
+Sí, cuando yo me fui vino otra persona, Karina Banfi, que hoy es diputada,
+
+202
+00:18:45,960 --> 00:18:49,340
+que fue una de las promotoras de la ley de acceso, después vino Eugenia Brainski,
+
+203
+00:18:49,460 --> 00:18:55,260
+que ahora trabaja conmigo en la Agencia de Acceso a la Información del Poder Ejecutivo,
+
+204
+00:18:55,260 --> 00:19:24,160
+Y ahora está Andrea Escarate, que también es otra comunicadora que está tratando de, no me parece que el tema de pedidos online todavía no está. Lo que sí se hizo mucho fue, por ejemplo, poner a disposición los censos o empezar a dar más, hasta que yo me fui se trabajó mucho en disponibilizar información que era la típica pedida por la gente. No sé, los listados de personal, el presupuesto.
+
+205
+00:19:24,160 --> 00:19:27,140
+¿A dónde lo subieron? ¿A la página web o hicieron un portal?
+
+206
+00:19:27,500 --> 00:19:33,460
+No, no, ese ya es, creo que es www.uva.ar barra infopública.
+
+207
+00:19:33,820 --> 00:19:35,240
+Y ahí tiene que estar todo.
+
+208
+00:19:35,380 --> 00:19:37,560
+La verdad que hace bastante que no entro, pero, por ejemplo,
+
+209
+00:19:37,660 --> 00:19:43,220
+nosotros en la agencia de acceso del Ejecutivo recibimos pedidos para la UBA
+
+210
+00:19:43,220 --> 00:19:47,160
+que obviamente nosotros no tenemos sobre ellos, no le podemos decir qué hacer
+
+211
+00:19:47,160 --> 00:19:51,480
+y se los reenviamos y Andrea lo tramita, lo responde, etcétera.
+
+212
+00:19:51,480 --> 00:19:59,240
+O sea, existe un canal, no es que, no, lo que no me acuerdo ahora es si es digital, si ya pueden pasar pedidos de manera digital.
+
+213
+00:19:59,420 --> 00:20:06,200
+Pero entiendo que el reglamento está vigente y que se pueden hacer las solicitudes como dice la normativa.
+
+214
+00:20:07,760 --> 00:20:19,540
+Perfecto. Te llevo a una especie de dilema o mundos enfrentados que son la gente que trabaja en la sociedad civil y la gente que trabaja en gobierno.
+
+215
+00:20:19,540 --> 00:20:30,200
+En tu caso, creo que sos un ejemplo de alguien que jugó de los dos lados de ida y vuelta muchas veces. ¿Qué cosas lindas y feas ves de cada lado? ¿Qué te gusta más?
+
+216
+00:20:30,200 --> 00:21:00,180
+Creo que me gustan más, me gustan más las ONGs, porque también me parece que ahora que estoy del otro lado, bueno, hace un tiempo que estoy del otro lado, uno cuando está en la ONG dice, bueno, vamos, pillamos, reclamemos, digamos, escrachemos, etcétera, y realmente del otro lado, y es como más libre, entre comillas, ¿no?
+
+217
+00:21:00,200 --> 00:21:02,380
+De este lado, cuando uno está en la función pública,
+
+218
+00:21:02,380 --> 00:21:08,720
+se da cuenta que mover ese aparato es como un elefante dormido,
+
+219
+00:21:08,860 --> 00:21:12,360
+es imposible y es muy difícil y no depende de uno
+
+220
+00:21:12,360 --> 00:21:17,140
+y uno le da bronca que no dependa de uno porque la respuesta al ciudadano es
+
+221
+00:21:17,140 --> 00:21:20,300
+le tengo que pedir a Modernización que le haga algo,
+
+222
+00:21:20,400 --> 00:21:23,680
+que le pida sistemas, que tablas me lo homologue
+
+223
+00:21:23,680 --> 00:21:26,740
+y que pase a testing y de testing a producción
+
+224
+00:21:26,740 --> 00:21:29,840
+y ¿sabés qué? El ciudadano dice yo quiero algo ahora,
+
+225
+00:21:29,840 --> 00:21:41,940
+necesito un link para llegar a tal lado y me estás dando vueltas y tienes razón. Es muy difícil hacer una pavada, como yo te digo, en los trámites a distancia de nuestro trámite,
+
+226
+00:21:42,020 --> 00:21:51,540
+del acceso a la información y del reclamo del acceso a la información, solamente queremos que la gente pueda optar por todos los organismos públicos, ministerios y organismos descentralizados.
+
+227
+00:21:51,540 --> 00:22:15,280
+Bueno, no lo logramos. En un año no logramos que listen, además de los ministerios que ya están, los organismos descentralizados. ¿Por qué? Porque son 99 organismos descentralizados, porque cada uno tiene buzón electrónico diferente, porque no todos migraron a el expediente electrónico y te puedo dar un montón de otras excusas que son reales y que yo los entiendo a mis compañeros de modernización.
+
+228
+00:22:15,280 --> 00:22:34,060
+Sin embargo, al ciudadano, le digo esto y es horrible. Sinceramente, no está bueno. Porque el Estado es uno y uno tiene que responder. Sin embargo, las dificultades existen. No es que los chicos de modernización me están mintiendo. Ellos tienen que hacer todo ese proceso para esto.
+
+229
+00:22:34,060 --> 00:22:48,700
+en el medio te cambia la estructura, tuvimos este año eso, teníamos 22 ministerios, ahora hay 12, todo eso fue, tuvo que cambiar todo el BAC, claro, y es un chino, sinceramente, pero el ciudadano pobre no tiene la culpa, el ciudadano tiene que existir.
+
+230
+00:22:48,700 --> 00:23:18,400
+Por supuesto. Ahora Inés está en la oficina de acceso a la información pública, bien contaste que desde 2017 tenemos una ley que regula el acceso a la información pública y esa ley no está hecha solamente para que los poderes ejecutivos transparenten, sino que es mucho más amplia, incluye, vos corregime si me equivoco, universidades, sindicatos, partidos políticos, hasta en algunos casos empresas privadas
+
+231
+00:23:18,400 --> 00:23:20,340
+y demás. A mí
+
+232
+00:23:20,340 --> 00:23:22,440
+la sensación que me da es que los poderes
+
+233
+00:23:22,440 --> 00:23:24,700
+ejecutivos, con muchísimas
+
+234
+00:23:24,700 --> 00:23:26,260
+dificultades, como vos comentaste,
+
+235
+00:23:26,480 --> 00:23:28,760
+están teniendo portales, están transparentando
+
+236
+00:23:28,760 --> 00:23:30,040
+y se hacen cargo
+
+237
+00:23:30,040 --> 00:23:32,560
+de que tienen que hacer,
+
+238
+00:23:32,660 --> 00:23:34,120
+lo más allá de que a veces lo hagan mal.
+
+239
+00:23:34,540 --> 00:23:36,460
+¿A vos te parece que las universidades,
+
+240
+00:23:36,560 --> 00:23:38,340
+los sindicatos, los partidos políticos
+
+241
+00:23:38,340 --> 00:23:40,160
+se hacen cargo de que existe la ley
+
+242
+00:23:40,160 --> 00:23:42,380
+y tienen espacios o es algo que todavía
+
+243
+00:23:42,380 --> 00:23:44,300
+estamos lejísimos de que
+
+244
+00:23:44,300 --> 00:23:46,440
+se corrija fuera de los poderes ejecutivos?
+
+245
+00:23:46,440 --> 00:24:01,660
+Y estamos lejos, no sé si lejísimos, pero estamos lejos. Como vos decís, esta ley es muy ambiciosa, se aprobó en 2016, entró en vigencia recién en octubre del 2017, o sea que tenemos un año y un poquito de meses,
+
+246
+00:24:01,660 --> 00:24:08,240
+y abarcó a muchísimos sujetos, lo que nosotros llamamos sujetos obligados, que es el artículo 7.
+
+247
+00:24:08,900 --> 00:24:17,620
+Empezamos con el inciso A del artículo 7, que es el poder ejecutivo, sus ministerios y sus organismos descentralizados.
+
+248
+00:24:17,620 --> 00:24:23,400
+Eso en sí, como ya te contaba recién, es un mundo, porque ya te digo, entre que los ministerios cambian
+
+249
+00:24:23,400 --> 00:24:30,900
+y los organismos descentralizados son un montón, y algunos son muy descentralizados, como ANSES o AFIP,
+
+250
+00:24:30,900 --> 00:24:33,060
+Que son como organismos súper grandes
+
+251
+00:24:33,060 --> 00:24:33,680
+O INDEC
+
+252
+00:24:33,680 --> 00:24:35,720
+Repúblicas independientes son
+
+253
+00:24:35,720 --> 00:24:38,320
+Totalmente, totalmente independientes, exactamente
+
+254
+00:24:38,320 --> 00:24:39,980
+Y después chiquitísimos como
+
+255
+00:24:39,980 --> 00:24:42,420
+El ente que regula las obras sociales
+
+256
+00:24:42,420 --> 00:24:44,460
+De los militares
+
+257
+00:24:44,460 --> 00:24:46,840
+Por ejemplo, ¿no? Hay que atender a todos
+
+258
+00:24:46,840 --> 00:24:48,020
+Bueno, eso ya es un mundo
+
+259
+00:24:48,020 --> 00:24:50,800
+Y después tenés los demás incisos que como vos bien decías
+
+260
+00:24:50,800 --> 00:24:52,640
+Son sindicatos, partidos políticos
+
+261
+00:24:52,640 --> 00:24:53,800
+Universidades
+
+262
+00:24:53,800 --> 00:24:56,080
+Organizaciones de derecho privado
+
+263
+00:24:56,080 --> 00:24:58,520
+Organizaciones sociales que reciban fondos públicos
+
+264
+00:24:58,520 --> 00:25:00,760
+Todos ellos que reciben fondos públicos
+
+265
+00:25:00,760 --> 00:25:24,020
+Más allá de los otros poderes, ¿no? Que los otros poderes tienen sus propias agencias. Pero todo esto que reciba fondo público es un universo enorme y es un universo que es imposible de determinar porque, por ahí, Poder Ciudadano recibe fondo público en 2010 y no recibió nunca más, pero tiene que ser, tiene que responder pedidos de información por la información, por lo que produjo en 2010.
+
+266
+00:25:24,020 --> 00:25:37,420
+Claro, entonces es muy difícil de decir, ¿es sujeto obligado o no es sujeto obligado? ¿Le aplican todas las de la ley o solamente en esa parte? Los sindicatos es otro gran, las empresas del Estado es otro gran punto.
+
+267
+00:25:37,420 --> 00:25:51,800
+Nosotros, como te digo, empezamos ministerios, organismos descentralizados y empresas públicas porque consideramos que como empresas que tienen el 100% o la mayoría estatal necesitan tener rendición de cuentas como si fuera un ministerio, entre comillas, ¿no?
+
+268
+00:25:51,800 --> 00:26:00,720
+O sea, eso es como que no hay mucha duda, pero después, bueno, sindicatos, obras sociales, es un universo enorme y partidos políticos.
+
+269
+00:26:00,920 --> 00:26:06,300
+Todavía no se hicieron cargo de que a ellos les toca, es el estado en el que estamos entonces.
+
+270
+00:26:06,980 --> 00:26:10,400
+Sí, todavía no se hicieron mucho cargo, la verdad.
+
+271
+00:26:10,960 --> 00:26:19,100
+Te consulto lo siguiente, por charlas anteriores salió el tema de la agencia GESIC en Uruguay y del Consejo para la Transparencia en Chile.
+
+272
+00:26:19,100 --> 00:26:35,180
+En el caso de Chile, escuché un caso de que el Consejo para la Transparencia le llegó a poner una multa al jefe del ejército con todo el peso que tiene el ejército en Chile, porque no habían brindado información pública sobre los pilotos que manejaban los avioles en el bombardeo de la Casa de la Moneda en el 73.
+
+273
+00:26:35,180 --> 00:27:02,400
+Y a mí me sorprendió muchísimo, fue una multa, le sacaron una parte del sueldo, no fue nada gigante, no fue preso ni nada, pero me hace pensar a mí y otro entrevistado anterior me decía que no hay sanciones fuertes, reales, para los que no respondan. Yo te pregunto a vos, ¿cuáles son las sanciones y si en el caso de que sean pocas está previsto de que sean más grandes para que los organismos que tienen que contestar, contesten?
+
+274
+00:27:02,400 --> 00:27:23,280
+Mira, la ley no prevé sanciones, como la de Chile que prevé esto que vos decís en su momento, en algún proyecto que estuvo dando vueltas en el Congreso se trató, porque algunas leyes internacionales, a nivel internacional digo, sí tienen sanciones pecuniarias, nosotros no, se optó por no poner sanciones,
+
+275
+00:27:23,280 --> 00:27:47,020
+Lo que sí tenemos es la agencia. La agencia sería como un ente de control que yo creo que a medida que cobre más visibilidad y más fuerza, como te digo, es un organismo muy, muy nuevo, pero a medida que empiésemos a tener como más visibilidad, sobre todo, va a tener algún tipo de, si querés, sanción más social, ¿no?
+
+276
+00:27:47,020 --> 00:27:50,280
+Nosotros creamos un registro de incumplidores, ¿no?
+
+277
+00:27:50,280 --> 00:27:53,940
+Vos me decís, bueno, pero es una página web dentro de la página de la agencia,
+
+278
+00:27:54,040 --> 00:27:58,860
+un link que dice registro de incumplidores y subimos ahí todos los organismos
+
+279
+00:27:58,860 --> 00:28:03,200
+que no cumplen con las intimaciones de la agencia, porque es así,
+
+280
+00:28:03,280 --> 00:28:07,740
+el ciudadano hace un pedido de información, el organismo no le contesta,
+
+281
+00:28:08,240 --> 00:28:11,440
+el ciudadano puede venir a la agencia e iniciar un reclamo.
+
+282
+00:28:11,500 --> 00:28:13,960
+Y nosotros analizamos, ¿está bien que no le conteste?
+
+283
+00:28:13,960 --> 00:28:22,700
+Muchas veces está bien que no le conteste por cuestiones de excepción al acceso a la información, como seguridad nacional, datos personales, etc.
+
+284
+00:28:22,980 --> 00:28:27,760
+Pero mucho, otra cantidad de veces, está mal lo que no le contesten.
+
+285
+00:28:27,840 --> 00:28:31,980
+Entonces, nosotros intimamos a ese organismo a que entregue la información.
+
+286
+00:28:32,320 --> 00:28:41,200
+Si el organismo no la entrega, finalmente la resolución de la agencia no se cumple, va a un registro de incumplidores que está subido a la página web.
+
+287
+00:28:41,200 --> 00:28:58,980
+Y al principio, bueno, estaban ahí, pero a medida que empezamos, qué sé yo, tenemos ahora un Twitter y una cuenta de Twitter y empezamos a ir a más lugares, a eventos y demás, a decir, está este registro incumplidor y los periodistas lo están empezando a usar, a mirar, bueno, ya no tienen ganas de estar en el registro incumplidores.
+
+288
+00:28:58,980 --> 00:29:23,260
+Entonces, tratan de, y después hicimos otra resolución hace poco, donde le dijimos a la máxima autoridad del organismo que inicie acciones legales. Nosotros no podemos iniciar acciones legales, pero sí podemos instar a que el organismo inicie sumarios, etcétera, para investigar qué pasó, por qué esa información no fue dada, además de brindarle información, como las dos cosas.
+
+289
+00:29:23,260 --> 00:29:33,120
+O sea, que empezamos de a poco a tratar de, con la letra de la ley, con los que nos permite la ley, darle un poquito más de diente, si se quiere, a la ley para esto.
+
+290
+00:29:33,620 --> 00:29:48,600
+Yo te digo que, por más de que no haya sanciones a nivel de que le saquen parte del sueldo, las máximas autoridades están viendo si les llega una intimación de la agencia y no quieren, por lo menos ministerios, no quieren estar ahí subidos.
+
+291
+00:29:48,600 --> 00:30:10,740
+Y nosotros intimamos a todos, ya pueden verla en la sección normativa, pero intimamos a los ministros, a los secretarios generales de la presidencia, no tenemos problema, no es que hay alguna cosa que no intimamos, no se cumple y nosotros consideramos que tiene que cumplirse, que tiene que entregarse la información, sale intimación.
+
+292
+00:30:10,740 --> 00:30:31,960
+Perfecto. Te traigo, Inés, un poco al mundo del uso de datos. Quería saber si vos o tu equipo para la gestión de lo que llevan adelante en la Oficina de Acceso a la Información Pública, usan datos, usan estadísticas, si es parte de lo que miran para tomar decisiones o corregir cosas que hacen.
+
+293
+00:30:31,960 --> 00:31:00,960
+Sí, nosotros usamos, tenemos, bueno, expediente electrónico que se llama GDE, el sistema, y a partir de ahí tenemos una trata especial que es acceso a la información de todos los organismos que tienen este sistema GDE. Eso nos tira reportes y nosotros tenemos un tablero de control que está online, lo pueden ver en, se llama solicitudes de acceso a la información en número, donde sistematizamos y compartimos información sobre toda la tramitación de solicitudes de acceso.
+
+294
+00:31:01,960 --> 00:31:22,580
+Ahí se puede ver cantidad de solicitudes que entran por sujeto obligado, o sea, por ministerio, buscar un expediente específico, cantidad de expedientes que hay en trámite, el promedio de respuesta de los organismos, nosotros la ley dice que hay que contestar en 15 días hábiles y si no pedir una prórroga, que te da otros 15 más.
+
+295
+00:31:22,580 --> 00:31:43,340
+Bueno, estamos viendo hoy, estoy entrando en este momento y veo que el promedio de días de respuesta es 35, es decir, que ahí estamos mal, deberían contestar antes de los 30. Entonces, ahí sí usamos esto en las reuniones, vemos los ministerios que tardan más en responder, entonces hacemos algún ajuste por ahí, los llamamos, hablamos, charlamos.
+
+296
+00:31:43,340 --> 00:32:02,180
+Cuando, por ejemplo, todos piden prórroga. A veces es, tienen prórroga y después te entregan un link. La verdad que para entregarme un link me pedís 15 días de prórroga, no, no da. Entonces, vamos analizando eso para el día a día de nuestro trabajo, para el trabajo con los ministerios y con los organismos descentralizados.
+
+297
+00:32:02,180 --> 00:32:23,520
+¿Y te parece que en general el Estado ha tomado la aposta de darse cuenta de que tiene que usar datos para mejorar su gestión? ¿O algo que le pasa a ustedes y vos ves que es algo que pasa en todos lados? ¿O nos falta mucho? ¿Cuánto nos falta para que usemos intensivamente datos para que nos asista, que nos ayuden a tomar decisiones?
+
+298
+00:32:23,520 --> 00:32:43,820
+Yo creo que de a poco, de a poco se está usando. Yo sé que, bueno, por lo menos en este gobierno, en las áreas de control se utiliza porque a nosotros nos piden reportes todo el tiempo desde la mesa de integridad y demás para ir a hablar con los organismos que no y necesitamos ir con datos.
+
+299
+00:32:43,820 --> 00:33:04,160
+Tenemos la sección de transparencia activa, que es una obligación también de la ley, de que todos los ministerios tienen que publicar determinada información que está estipulada en la ley, las declaraciones juradas, el presupuesto, la cantidad de empleados, etcétera. Y eso nosotros hacemos un índice y decimos si está cumplido o no está cumplido y en qué medida. Y bueno, eso la verdad que se utiliza mucho.
+
+300
+00:33:04,160 --> 00:33:28,960
+Lo que pasa es que, como todo, el Estado es enorme. Entonces, en una oficina hay uno que se copa con utilizar esto y hay siete que no. Entonces, yo creo que va cuando, a medida que cambien las generaciones y que la gente se dé cuenta que, ya te digo, tener el expediente electrónico, es decir, que todo pase por ahí y uno pueda pedir reportes de su trabajo, eso ya es genial.
+
+301
+00:33:28,960 --> 00:33:43,400
+Porque no es que tengo que andar contando la cantidad de expedientes que tengo en mi escritorio, sino que lo veo en el tablero. Pero poca gente le da utilidad a eso, ¿no? La mayoría lo ve como que me están controlando y, bueno, hay pocos que le dan utilidad.
+
+302
+00:33:43,400 --> 00:33:50,120
+pero yo creo que a medida que pasa el tiempo va a ser algo como que no van a poder escaparle, ¿no?
+
+303
+00:33:50,120 --> 00:34:00,540
+Que ya está, está ahí instalado, pero siento que nos falta, estos 7 a 1 que te digo, de 7 a 1, bueno, es un poquito así, nos falta todo eso todavía.
+
+304
+00:34:01,140 --> 00:34:07,780
+Vamos avanzando, entonces vemos que los datos pueden generar impacto para dentro del propio trabajo de los funcionarios,
+
+305
+00:34:07,780 --> 00:34:26,200
+Y ahora me quiero extender un poco más. ¿Cómo hacemos para que el valor, la potencia, el poder que tienen los datos generen impacto en la ciudadanía vista como algo más amplio, de nuestras tías, Doña Rosa, no sé cómo llamarlo, los vecinos de a pie?
+
+306
+00:34:26,200 --> 00:34:44,680
+¿Cómo podemos hacer para que los datos se transformen en herramientas, visualizaciones, historias, lo que fuera? ¿Cuál es el camino para que el poder de los datos derrame hacia la sociedad? ¿Qué sugerencias le podés dar vos a los gobiernos para que desarrollen cosas que generen impacto en más gente?
+
+307
+00:34:44,680 --> 00:35:03,700
+Y yo creo que ese es el kit de la cuestión. Ese es exactamente el diamante que hay que encontrar porque vemos muchos gobiernos que publican, no sé, la cantidad de jacarandá que hay en la ciudad de Buenos Aires y la verdad que más, qué sé yo, para ir a ver un jacarandá más que para eso no sirve.
+
+308
+00:35:03,700 --> 00:35:18,800
+Pero, sin embargo, hay otras aplicaciones que son interesantes que creo que faltan explotar o faltan difundir o falta que los equipos de datos miren un poquito más qué es lo que quiere la gente y no al revés.
+
+309
+00:35:18,800 --> 00:35:31,320
+No que el equipo de datos, lo que ha pasado fue trabajar en un equipo de datos en un municipio y lo que pasaba era que teníamos ideas buenísimas, recancheras y que éramos la NASA en un municipio que estaba lleno de baches.
+
+310
+00:35:31,320 --> 00:35:58,000
+Entonces, la verdad que está buenísimo que te puedas bajar la aplicación de los puntos de corte de denor en no sé qué y ver la tensión y sí, pero eso a la gente no importa. Decime si se me va a cortar la luz que desenchufo la heladera o decime dónde está el bache para no ir por esa calle o dame un lugar para, no sé, para denunciar un bache o algo de seguridad, etcétera.
+
+311
+00:35:58,000 --> 00:36:13,740
+Me parece que lo que hay que hacer es al revés, en vez de decir aplicaciones cancheras que me hacen quedar bien a mí como cientista de datos, mejor veamos qué es lo que la gente usa o qué es lo que la gente necesita y no tiene y desarrollemos eso.
+
+312
+00:36:13,980 --> 00:36:19,480
+Pero eso me parece que cuesta un montón, cuesta un montón porque también la gente no es toda igual, digamos.
+
+313
+00:36:19,480 --> 00:36:45,100
+No, por supuesto. Ahí me diste pie para la pregunta que sigue. La transparencia, el gobierno abierto, ¿es algo que está de moda, un poco de manera superficial, que de acá a 10 años no va a existir más, o es algo que llegó para quedarse, es importante y los gobiernos van a seguir avanzando? ¿Cómo ves la actualidad y cómo ves el futuro de todo este mundo?
+
+314
+00:36:45,100 --> 00:37:12,860
+Yo creo que es algo que no van a poder escapar, de lo que no van a poder escapar seguramente, pero que todavía falta, ¿no? Ayer justo publicaban en Infobae, me parece una nota de los intendentes de la provincia de Buenos Aires, creo que de los 33 intendentes, solo 12 publicaron sus declaraciones juradas, si no me equivoco era así, pero había 14, una cosa así que no habían querido dar sus datos.
+
+315
+00:37:12,860 --> 00:37:30,480
+Estamos hablando de las declaraciones juradas de los intendentes de la provincia de Buenos Aires, que claramente es increíble. Hace años que son funcionarios públicos, o sea, ganan dinero del erario público hace muchísimo tiempo todos.
+
+316
+00:37:30,480 --> 00:37:43,040
+Entonces, que hoy por hoy no quieran, y la verdad que la nota, lo que más te llamaba la atención eran estos 14 que no querían hacerlo, que claramente entiendo que llegaron a la oficina, vieron eso y dijeron mañana publicame la declaración jurada.
+
+317
+00:37:43,040 --> 00:38:01,440
+Entonces, por ese lado, me parece que esto los va como cercando, no digo que una postura naif, que no va a haber otras formas de hacer cosas que estén mal, seguramente, pero van a tener que ser más ingeniosos si quieren hacer el mal.
+
+318
+00:38:01,440 --> 00:38:14,880
+No van a ser tan fácil salirse de publicar una declaración jurada cuando hoy por hoy es algo que internacionalmente y nacionalmente se sabe que hay que publicar una declaración jurada porque usted cobra del erario público. Punto.
+
+319
+00:38:14,880 --> 00:38:38,640
+Exacto. La última pregunta, Inés, y apelo a tu parte periodística en todos los roles que has tenido. Los medios de comunicación están a la altura de todas las tecnologías que tienen disponibles para trabajar con datos. ¿Qué les sugerirías a los medios de comunicación de la actualidad, si es que se les puede sugerir algo, para que aprovechen toda esta movida de datos abiertos?
+
+320
+00:38:38,640 --> 00:39:03,440
+Yo creo que la Nación Data es un ejemplo y es como el faro que deberían seguir todos los medios hoy por hoy. Tienen un equipo, tienen gente específica que busca en la redacción, o sea, no es la redacción, lo que pasa en los medios hoy es que el mismo periodista saca la foto, hace el gráfico, la infografía, cuenta la historia y bueno, después por poco reparte el diario.
+
+321
+00:39:03,440 --> 00:39:12,900
+Entonces, tiene que ver con recursos, pero la nación decidió invertir en esto y le está yendo bárbaro, son pioneros, hacen cosas que...
+
+322
+00:39:12,900 --> 00:39:14,340
+Tienen premios de todos lados.
+
+323
+00:39:14,340 --> 00:39:34,540
+Claro, y eso exactamente, reeditúa, no es que pierde plata la nación por esto, ¿no? Se gana un montón en marca, en prestigio y demás, y bueno, ellos tienen un equipo que es bastante nutrido de gente que va a la redacción y le dicen, ¿qué estás trabajando? No sé, estoy trabajando en el asfalto en tal lugar.
+
+324
+00:39:34,540 --> 00:39:45,260
+Bueno, a ver, dame, te hago una tabla, comparemos con el año pasado, comparemos con una serie de esas, o sea, y le empieza a dar datos o ideas para que esa información sea más rica.
+
+325
+00:39:45,740 --> 00:39:54,460
+Entonces, le sugerimos a los medios de Argentina que miren lo que hace la Nación Data, que lo sigan y que tomen ideas de ahí.
+
+326
+00:39:55,040 --> 00:40:00,120
+Sí, yo les diría eso, sí, sí, son que se ofendan, ¿no? Pero son muy buenos.
+
+327
+00:40:00,120 --> 00:40:02,400
+Inés, te agradezco muchísimo
+
+328
+00:40:02,400 --> 00:40:04,700
+y la última pregunta para todos los invitados
+
+329
+00:40:04,700 --> 00:40:06,760
+el último pedido
+
+330
+00:40:06,760 --> 00:40:08,300
+para todos los invitados es que
+
+331
+00:40:08,300 --> 00:40:11,140
+como el podcast se llama Cadena de Datos
+
+332
+00:40:11,140 --> 00:40:12,600
+la idea es continuar la cadena
+
+333
+00:40:12,600 --> 00:40:14,100
+y que vos me sugieras
+
+334
+00:40:14,100 --> 00:40:16,400
+dos o tres, no más, personas
+
+335
+00:40:16,400 --> 00:40:18,000
+a las que tengo que entrevistar para
+
+336
+00:40:18,000 --> 00:40:20,560
+conversar sobre la agenda de Transparencia
+
+337
+00:40:20,560 --> 00:40:22,400
+de Argentina. ¿A quiénes te gustaría
+
+338
+00:40:22,400 --> 00:40:23,880
+a quiénes te parecería importante
+
+339
+00:40:23,880 --> 00:40:26,160
+que convoquemos a conversar?
+
+340
+00:40:26,880 --> 00:40:28,540
+Yo creo que tenés
+
+341
+00:40:28,540 --> 00:40:30,340
+que hablar con los dos jueces que están
+
+342
+00:40:30,340 --> 00:40:32,440
+teniendo sus cuentas en Twitter, que
+
+343
+00:40:32,440 --> 00:40:34,480
+son como pioneros. Esos son
+
+344
+00:40:34,480 --> 00:40:36,480
+los que la vieron y los que
+
+345
+00:40:36,480 --> 00:40:38,460
+van a hacer camino
+
+346
+00:40:38,460 --> 00:40:40,360
+seguramente en la justicia, que es
+
+347
+00:40:40,360 --> 00:40:42,460
+un ámbito en donde es muy difícil llegar.
+
+348
+00:40:42,660 --> 00:40:44,280
+Son los dos jueces de la ciudad, la
+
+349
+00:40:44,280 --> 00:40:46,460
+jueza Lorena
+
+350
+00:40:46,460 --> 00:40:48,680
+Tula del Moral y el juez Pablo Casas.
+
+351
+00:40:49,360 --> 00:40:49,840
+Perfecto.
+
+352
+00:40:50,620 --> 00:40:51,780
+Te recomiendo ellos.
+
+353
+00:40:52,240 --> 00:40:54,740
+Bueno, bueno. Te agradezco muchísimo
+
+354
+00:40:54,740 --> 00:40:56,180
+Inés por todo este tiempo.
+
+355
+00:40:56,480 --> 00:40:57,720
+No, por favor.
+
+356
+00:40:57,720 --> 00:40:58,660
+chau
+
+357
+00:40:58,660 --> 00:40:59,400
+un gusto Andrés
+
+358
+00:40:59,400 --> 00:40:59,860
+chau chau
+

@@ -122,6 +122,11 @@ for mp3 in mp3s:
 
     episodio['titulo_encoded'] = urllib.parse.quote(episodio['titulo'])
 
+    # transcripcion automatica (Whisper), si ya se genero para este episodio
+    for ext in ['txt', 'srt']:
+        if os.path.isfile('../transcripciones/{}.{}'.format(base_name, ext)):
+            episodio['transcripcion_{}'.format(ext)] = 'transcripciones/{}.{}'.format(base_name, ext)
+
     print('-------------------------------------')
     nice_json = json.dumps(episodio, indent=4)
     print('EPISODIO LISTO {}'.format(nice_json))

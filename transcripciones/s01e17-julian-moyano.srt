@@ -1,0 +1,1340 @@
+1
+00:00:27,020 --> 00:00:48,260
+Cadena de datos, episodio número 17. En el día de hoy nos acompaña Julián Moyano Collado. Julián trabaja en la actualidad en el gobierno de Aragón, en el portal de datos abiertos Aragón Open Data. Desde 2005 ha colaborado con diferentes proyectos en materia de administración electrónica y archivos en organizaciones públicas y privadas.
+
+2
+00:00:48,260 --> 00:01:05,240
+Julián también es docente universitario y está graduado en información y documentación y tiene un máster en gestión de unidades y servicios de información y documentación. Muy buenas tardes, Julián. Muchas gracias por recibirnos. Sé que es tarde a esta hora en España, así que duplico el agradecimiento. ¿Cómo estás?
+
+3
+00:01:05,240 --> 00:01:08,360
+Hola, buenas tardes, noches aquí Andrés
+
+4
+00:01:08,360 --> 00:01:11,460
+y pues lo primero, agradecerte esta invitación
+
+5
+00:01:11,460 --> 00:01:15,540
+que en cuanto vi tu contenido, también vi tu perfil profesional
+
+6
+00:01:15,540 --> 00:01:19,240
+tu dedicación, pues sí que me pareció muy interesante participar
+
+7
+00:01:19,240 --> 00:01:23,540
+y bueno, aunque la entrevistas a mí, pues te voy a lanzar la pregunta
+
+8
+00:01:23,540 --> 00:01:28,440
+¿Cómo últimamente estás entrevistando a distintos profesionales de Aragón?
+
+9
+00:01:28,440 --> 00:01:32,440
+He visto a Jorge, he visto al director general de participación
+
+10
+00:01:33,200 --> 00:01:34,300
+también del gobierno de Aragón
+
+11
+00:01:34,300 --> 00:01:43,700
+O sea que, bueno, has hecho un hueco a todos tus entrevistados desde Aragón.
+
+12
+00:01:44,180 --> 00:01:56,920
+Exacto. Sí, reconozco que no fue intencional, pero se ve que en Aragón me respondieron más rápido o por lo menos son más activos en Twitter y tienen además una propuesta interesante.
+
+13
+00:01:56,920 --> 00:02:05,260
+Así que el hecho de que hayamos ingresado por Aragón fue un poco una casualidad y por la actividad en redes y por lo que comparten.
+
+14
+00:02:05,400 --> 00:02:10,240
+Así que espero que les saquemos el jugo y yo tengo muchas ganas de aprender de todo lo que hicieron.
+
+15
+00:02:10,380 --> 00:02:12,860
+Tengo anotadas muchas preguntas, así que si te parece, arrancamos.
+
+16
+00:02:13,440 --> 00:02:14,660
+Adelante, claro que sí.
+
+17
+00:02:14,940 --> 00:02:15,660
+Gracias, Julián.
+
+18
+00:02:15,920 --> 00:02:22,440
+La primera pregunta en general, y en este caso tu perfil me interesa doblemente porque tenés una actividad muy fuerte en datos abiertos,
+
+19
+00:02:22,440 --> 00:02:24,860
+pero sabes mucho de archivos.
+
+20
+00:02:24,860 --> 00:02:42,940
+Ya tuvimos una invitada que desde acá nos corrigió muchas cosas que desde el mundo de datos abiertos hacemos mal, pero te pregunto, ¿en qué momento llegaste al mundo de los datos abiertos? Porque no sos originalmente, o no sé, o sí, corregime, ¿cómo llegas al mundo de los datos abiertos viniendo, entiendo, de los archivos?
+
+21
+00:02:42,940 --> 00:02:59,980
+Bueno, yo creo que es algo muy estrechamente relacionado. Mi primera actividad profesional, que creo que fue en el 2005, pues bueno, me enfrenté a un archivo, un archivo de una institución privada y lo que había que ponerla era un poco de orden.
+
+22
+00:02:59,980 --> 00:03:20,220
+¿Cómo? Pues a base de trabajar sus distintas descripciones con herramientas que te permitieran describirlo, es decir, generar datos para poderlo ofrecer, ofrecerlo en internet, que era una de las posibilidades y así fue como empecé a trabajar con los datos.
+
+23
+00:03:20,220 --> 00:03:30,960
+Quizá en el 2005 todavía se empezaba a hablar de datos abiertos, open data, pero bueno, en la propia naturaleza de los archivos están los datos.
+
+24
+00:03:31,460 --> 00:03:47,600
+Exacto, exacto. Sí, te digo que por lo menos muchos de los casos que yo conozco, los gobiernos publicamos datos y no le preguntamos a los archiveros si esos datos formaban parte de una gestión documental o no, sino que más bien me da la sensación de que por América Latina publicamos.
+
+25
+00:03:47,600 --> 00:03:49,900
+esto que hiciste vos en ese primer proyecto
+
+26
+00:03:49,900 --> 00:03:50,900
+es común en España
+
+27
+00:03:50,900 --> 00:03:53,560
+en España hay una gestión documental fuerte
+
+28
+00:03:53,560 --> 00:03:55,500
+y de ahí surgen los datos
+
+29
+00:03:55,500 --> 00:03:57,020
+o sea, los datos son archivos
+
+30
+00:03:57,020 --> 00:03:59,580
+y de ahí sale eso, es la norma
+
+31
+00:03:59,580 --> 00:04:01,240
+bueno, de alguna forma
+
+32
+00:04:01,240 --> 00:04:03,800
+los documentos están representados en datos
+
+33
+00:04:03,800 --> 00:04:05,480
+y los datos pues te permiten
+
+34
+00:04:05,480 --> 00:04:07,460
+acceder a los documentos
+
+35
+00:04:07,460 --> 00:04:09,420
+es algo muy
+
+36
+00:04:09,420 --> 00:04:10,700
+muy relacionado
+
+37
+00:04:10,700 --> 00:04:13,500
+muy estrechamente vinculado
+
+38
+00:04:13,500 --> 00:04:15,440
+que no se puede
+
+39
+00:04:15,440 --> 00:04:16,980
+concebir una cosa sin
+
+40
+00:04:16,980 --> 00:04:19,360
+otra. Luego aparte
+
+41
+00:04:19,360 --> 00:04:20,860
+las diferentes herramientas
+
+42
+00:04:20,860 --> 00:04:22,960
+para distintos sistemas, pues
+
+43
+00:04:22,960 --> 00:04:25,380
+si es documentación histórica, si es documentación
+
+44
+00:04:25,380 --> 00:04:27,160
+administrativa, documento electrónico
+
+45
+00:04:27,160 --> 00:04:29,040
+pues son
+
+46
+00:04:29,040 --> 00:04:30,700
+diferentes tipos de manera
+
+47
+00:04:30,700 --> 00:04:32,740
+de gestionar los datos
+
+48
+00:04:32,740 --> 00:04:33,700
+pero en definitiva
+
+49
+00:04:33,700 --> 00:04:36,240
+es gestionar datos
+
+50
+00:04:36,240 --> 00:04:38,740
+y metadatos
+
+51
+00:04:38,740 --> 00:04:40,660
+Y en ese 2005
+
+52
+00:04:40,660 --> 00:04:42,900
+¿tenías ejemplos para copiar
+
+53
+00:04:42,900 --> 00:04:44,360
+o mirar de portales
+
+54
+00:04:44,360 --> 00:04:46,560
+o de datos abiertos o de portales y demás?
+
+55
+00:04:46,560 --> 00:04:50,140
+¿Habías referentes en tu trabajo? ¿A quién mirabas?
+
+56
+00:04:50,840 --> 00:04:58,860
+Pues, sobre todo, tenía muy presente el trabajo, la verdad, del archivero de Arganda del Rey, que es Julio Cerda.
+
+57
+00:04:59,380 --> 00:05:08,380
+Es uno de los profesionales porque siempre avanzó muy deprisa y vio muy rápido la posibilidad de abrirse los archivos,
+
+58
+00:05:08,500 --> 00:05:14,340
+de abrir la gestión documental a la ciudadanía. Y una de las posibilidades era a través de liberar datos.
+
+59
+00:05:14,340 --> 00:05:30,820
+¿Cómo liberaba datos? Pues con un protocolo que es bastante viejo, que es OI y PMH, pero que se sigue utilizando. Se sigue utilizando para liberar grandes cantidades de datos, compartirlos e intercambiarlos entre distintas instituciones.
+
+60
+00:05:31,560 --> 00:05:38,780
+Bien. ¿Y ustedes tienen leyes que los obligan a tener una gestión documental antes de los datos abiertos?
+
+61
+00:05:38,780 --> 00:05:45,340
+¿O eso es parte de la cultura, de la forma en la que ustedes trabajan? ¿No tienen una ley o alguna norma que los obliga a seguir un camino?
+
+62
+00:05:45,840 --> 00:05:54,780
+Pues también hay, a nivel español, autonómico, Aragón y a nivel europeo, pues hay una normativa bastante amplia,
+
+63
+00:05:54,780 --> 00:06:02,380
+amplia, desde leyes de transparencia, leyes de reutilización de la información, la ley 37-2007,
+
+64
+00:06:02,460 --> 00:06:10,180
+que luego también se actualizó, es una manera de normalizar y regular que toda la información que
+
+65
+00:06:10,180 --> 00:06:15,540
+generan las administraciones públicas se tenga que ofrecer en formatos abiertos para generar valor
+
+66
+00:06:15,540 --> 00:06:21,360
+y generar riqueza a terceros. Toda la información y todos los datos, pues por supuesto que cumpliendo
+
+67
+00:06:21,360 --> 00:06:26,400
+la normativa de protección de datos, cumpliendo la normativa de propiedad intelectual, pero por
+
+68
+00:06:26,400 --> 00:06:31,840
+defecto debería de ser, debería de ser abierta, abierta en formatos abiertos y disponibles.
+
+69
+00:06:32,300 --> 00:06:37,700
+Eso, eso, eso que tú dices de manera tan natural, Julián, de que los datos son antes archivos y hay
+
+70
+00:06:37,700 --> 00:06:43,140
+una gestión documental que los organice y demás, que para vos suena natural, por lo menos para mí
+
+71
+00:06:43,140 --> 00:06:48,860
+Latinoamérica no lo es tanto y yo tengo la sensación de acá, de que aquí los archivos van
+
+72
+00:06:48,860 --> 00:06:52,800
+por un lado y no necesariamente están conectados con los datos.
+
+73
+00:06:52,900 --> 00:06:55,880
+Así que tomo como nota eso y le mando la sugerencia a mis
+
+74
+00:06:55,880 --> 00:06:58,540
+amigos que están trabajando en Latinoamérica de que nos
+
+75
+00:06:58,540 --> 00:07:01,540
+juntemos con los archiveros de nuestra oficina.
+
+76
+00:07:02,100 --> 00:07:05,700
+Quiero entrar a algunos proyectos que nos van a mostrar un poco
+
+77
+00:07:05,700 --> 00:07:07,600
+más de todas las cosas que están haciendo.
+
+78
+00:07:08,080 --> 00:07:13,400
+Vi que tienen algo que se llama Aragopedia y que me parece
+
+79
+00:07:13,400 --> 00:07:16,100
+potente interesante porque entiendo que desde la comunidad
+
+80
+00:07:16,100 --> 00:07:21,200
+Autonómica de Aragón ofrecen esto a todos los municipios que están ahí en la comunidad.
+
+81
+00:07:22,300 --> 00:07:25,560
+Quería preguntarte cómo empezó esto y qué es Aragopedia.
+
+82
+00:07:26,320 --> 00:07:32,620
+Bueno, Aragopedia fue y es un proyecto que intenta aglutinar los datos estadísticos a
+
+83
+00:07:32,620 --> 00:07:39,680
+nivel de municipio, a nivel de pueblo de Aragón. Cada municipio tiene datos estadísticos que
+
+84
+00:07:39,680 --> 00:07:46,360
+refleja su actividad, su representación, una serie de elementos que pues que de
+
+85
+00:07:46,360 --> 00:07:50,160
+alguna manera lo describen. A nivel de datos estadísticos pues lo que lo que
+
+86
+00:07:50,160 --> 00:07:54,120
+hace la aragopedia es ofrecerlos de una manera
+
+87
+00:07:54,120 --> 00:08:01,300
+una manera concentrada para permitir establecer un sacar valor y sacar
+
+88
+00:08:01,300 --> 00:08:08,960
+partido a esos a esos datos. También creo que si nosotros tenemos aquí la
+
+89
+00:08:08,960 --> 00:08:14,600
+Agopedia, pero tú también tienes un proyecto bastante parecido allí en Córdoba, que intentas
+
+90
+00:08:14,600 --> 00:08:22,200
+ofrecer datos de los distintos núcleos y municipios para poder representar esa información
+
+91
+00:08:22,200 --> 00:08:27,560
+y facilitarla a una persona que a lo mejor no está familiarizado con la consulta y con
+
+92
+00:08:27,560 --> 00:08:31,760
+la explotación de grandes cantidades de datos o de datos abiertos, una manera de representar
+
+93
+00:08:31,760 --> 00:08:32,280
+la información.
+
+94
+00:08:33,080 --> 00:08:35,420
+Exacto. Tú te refieres a Municipedia, me parece.
+
+95
+00:08:35,420 --> 00:08:38,200
+Sí, sí, sí que me pareció
+
+96
+00:08:38,200 --> 00:08:41,880
+Hace tiempo cuando una vez que contactamos por Twitter
+
+97
+00:08:41,880 --> 00:08:43,540
+Pues sí que te seguí un poco tu trabajo
+
+98
+00:08:43,540 --> 00:08:47,080
+Y vi cierta relación con nuestra Aragopedia
+
+99
+00:08:47,080 --> 00:08:49,240
+Por eso me parece interesante
+
+100
+00:08:49,240 --> 00:08:52,760
+Sí, nuestra Aragopedia de alguna manera
+
+101
+00:08:52,760 --> 00:08:56,620
+Lo que sí que se centra es en datos estadísticos
+
+102
+00:08:56,620 --> 00:08:58,820
+¿Y es obligatorio para los municipios
+
+103
+00:08:58,820 --> 00:09:01,480
+Poner todos sus datos en Aragopedia o es algo...
+
+104
+00:09:01,480 --> 00:09:03,680
+No, no, ni mucho menos
+
+105
+00:09:03,680 --> 00:09:07,960
+provienen del Instituto Aragonés de Estadística y lo que damos nosotros es un valor añadido.
+
+106
+00:09:08,240 --> 00:09:14,620
+Se ofrecen los datos en formatos abiertos y permite consultarlos a través de una serie de filtros por año, localidad
+
+107
+00:09:14,620 --> 00:09:23,400
+y también por categoría, a nivel de población, a nivel demográfico, a nivel de paro, a nivel de rentas,
+
+108
+00:09:23,400 --> 00:09:30,120
+pues una serie de factores, de elementos estadísticos que reflejan y representan al municipio.
+
+109
+00:09:30,120 --> 00:09:42,440
+¿Y cómo hacen con la interoperabilidad de los datos de todos los municipios? ¿Todos usan el mismo software que le proveen ustedes o cada municipio tiene diferentes formatos, diferentes herramientas y ustedes tienen que reordenar ese mundo?
+
+110
+00:09:43,000 --> 00:09:48,060
+Bueno, desde Aragón Open Data lo que hacemos es acudir al Instituto Aragonés de Estadística,
+
+111
+00:09:48,160 --> 00:09:54,480
+que es el que centraliza los datos, a través de distintos proveedores que ellos simplemente los aglutinan.
+
+112
+00:09:54,480 --> 00:09:59,080
+El Instituto Nacional de Estadística de España es un instituto muy potente que tiene muchos medios
+
+113
+00:09:59,080 --> 00:10:07,660
+para establecer datos y obtener datos a nivel estadístico que a su vez los comparte y los reparte también
+
+114
+00:10:07,660 --> 00:10:13,320
+con institutos a nivel autonómico, como es el caso del Instituto Aragonés de Estadística.
+
+115
+00:10:13,440 --> 00:10:19,780
+Pues nosotros lo que hacemos es, acudiendo a su base de datos, que tiene toda esta información centralizada,
+
+116
+00:10:20,160 --> 00:10:23,780
+lo que hacemos nosotros es abrirlo, abrirlo e integrarlo en la Aragopedia.
+
+117
+00:10:24,240 --> 00:10:31,760
+Eso es un poco el camino. No acudimos a todos los más de 800, cerca de 800 municipios de Aragón,
+
+118
+00:10:31,840 --> 00:10:36,240
+sino que acudimos directamente al Instituto Aragonés de Estadística, que es quien tiene este tipo de datos.
+
+119
+00:10:36,240 --> 00:10:50,600
+Y cómo, no sé si te tocó, entiendo que vos conversas con ese instituto de estadística y no tanto con los municipios, ¿cómo percibís que lo ven los municipios en el caso que vos tengas contacto? ¿Hay rechazo? ¿Les gusta abrir datos? ¿Prefiere no abrirlo? ¿Cómo es eso?
+
+120
+00:10:50,600 --> 00:11:09,080
+Bueno, es una manera de ofrecer la información que representa al municipio con todo lo bueno y con, pues bueno, si un municipio crece en población, pues es un factor de alegría y si decrece en población, pues a lo mejor es un dato un poco más triste, si me permites la expresión.
+
+121
+00:11:09,080 --> 00:11:24,320
+Muestran la realidad. Además, pues que se permite conocer mucho mejor el municipio y son datos puramente neutros, que no invaden la intimidad de nadie, sino simplemente son los datos que son.
+
+122
+00:11:24,320 --> 00:11:32,660
+No hay ningún tipo de problema y aquí en Aragón y en España es cierta naturalidad de ofrecer este tipo de datos.
+
+123
+00:11:33,660 --> 00:11:38,160
+Entiendo que Aragopedia usa algo que es súper moderno y que se usa muy poco,
+
+124
+00:11:38,320 --> 00:11:42,240
+que es la web semántica, datos enlazados y demás.
+
+125
+00:11:42,400 --> 00:11:43,560
+¿Vos participaste de esa parte?
+
+126
+00:11:43,620 --> 00:11:47,740
+Porque es súper técnica, súper interesante y no la veo en casi ningún portal.
+
+127
+00:11:48,120 --> 00:11:52,000
+¿Me podés contar un poco qué, en caso de que hayas participado,
+
+128
+00:11:52,220 --> 00:11:55,960
+cómo ves y qué es la web semántica para contarle a los demás si tiene beneficios,
+
+129
+00:11:56,020 --> 00:11:56,800
+si hay que usarla, si no?
+
+130
+00:11:57,400 --> 00:12:02,600
+Bueno, yo de alguna manera he sido afortunado porque me encontré este gran proyecto hecho.
+
+131
+00:12:02,660 --> 00:12:12,900
+Lo desarrolló el anterior coordinador de Aragon Open Data, José Subero, con una visión muy clara de estandarizar los datos estadísticos.
+
+132
+00:12:12,900 --> 00:12:34,100
+¿Cómo se podían estandarizar con un vocabulario que es el DataCube? Que está un vocabulario, una ontología que está de alguna manera estandarizado cumpliendo los estándares de la web semántica, que lo que hace es representar los datos de una manera normalizada, estandarizada, para poderlos compartir y explotar en conjunto.
+
+133
+00:12:34,100 --> 00:12:47,500
+Aquí, por tanto, el camino tiene que ser obtener los datos de la fuente, en este caso del Instituto Aragones de Estadística, normalizarlos bajo este estándar y darlo significado, que es con este vocabulario.
+
+134
+00:12:48,300 --> 00:12:51,300
+Aragón utiliza este vocabulario y esta tecnología.
+
+135
+00:12:52,020 --> 00:12:56,920
+También en Reino Unido, el Instituto de Estadística, que no sé si se llama instituto,
+
+136
+00:12:56,920 --> 00:13:00,060
+pero es el que se encarga de realizar y centralizar las estadísticas,
+
+137
+00:13:00,480 --> 00:13:08,060
+también tiene este vocabulario para poder ofrecer datos y para poderlos explotar.
+
+138
+00:13:08,480 --> 00:13:15,620
+Por tanto, es un camino a la hora de permitir explotar, utilizar datos estadísticos en conjunto.
+
+139
+00:13:15,620 --> 00:13:29,840
+O sea, los datos pueden venir en muchos formatos distintos, pero al final ustedes los pasan por unos diccionarios que estandarizan cada dato y los diccionarios los tuvieron que crear ustedes, copiaron los que me decís de...
+
+140
+00:13:29,840 --> 00:13:53,320
+Es un vocabulario, sí. Es lo que se conoce como DataCube, que te dice cómo tiene que representarse esa información, atendiendo a un lugar, atendiendo una temática, atendiendo a un periodo, a un año, pues lo que hace es categorizar, clasificar los datos para poderlos interpretar en conjunto y que cualquier persona que conozca, que entienda este vocabulario, sepa interpretarlos.
+
+141
+00:13:53,320 --> 00:13:56,040
+Bien, vi que también tienen
+
+142
+00:13:56,040 --> 00:13:58,080
+muy fuerte y con algunas visualizaciones
+
+143
+00:13:58,080 --> 00:14:00,100
+interesantes el presupuesto de Aragón
+
+144
+00:14:00,100 --> 00:14:02,360
+este digamos que es el dato máximo
+
+145
+00:14:02,360 --> 00:14:03,900
+no sé si más difícil pero
+
+146
+00:14:03,900 --> 00:14:05,540
+el que tiene más implicancia
+
+147
+00:14:05,540 --> 00:14:07,420
+política porque es cómo
+
+148
+00:14:07,420 --> 00:14:10,020
+recibe, en cómo recaude y cómo
+
+149
+00:14:10,020 --> 00:14:12,220
+gasta la plata el presupuesto de Aragón
+
+150
+00:14:12,220 --> 00:14:13,940
+vi que eso existe desde
+
+151
+00:14:13,940 --> 00:14:15,820
+2006, es interesante
+
+152
+00:14:15,820 --> 00:14:17,700
+es algo que publica naturalmente
+
+153
+00:14:17,700 --> 00:14:19,900
+que tiene alguna oposición de alguien
+
+154
+00:14:19,900 --> 00:14:21,940
+es conflictivo de alguna forma o es muy
+
+155
+00:14:21,940 --> 00:14:27,820
+fácil para ustedes publicar el presupuesto completo? Pues, por suerte también, una vez
+
+156
+00:14:27,820 --> 00:14:34,120
+que se publica en el boletín oficial de Aragón el presupuesto, en el mismo día se publica
+
+157
+00:14:34,120 --> 00:14:40,820
+el presupuesto también en esta aplicación, que es presupuesto.aragón.es. El código
+
+158
+00:14:40,820 --> 00:14:45,540
+está liberado, lo que quiere decir que, además del Gobierno de Aragón, también lo utilizan
+
+159
+00:14:45,540 --> 00:14:51,220
+otro tipo de administraciones. Estamos hablando de Ayuntamiento de Madrid, Barcelona...
+
+160
+00:14:51,220 --> 00:14:53,100
+Usan el mismo software ustedes que ellos.
+
+161
+00:14:53,660 --> 00:14:58,780
+Sí, sí, sí. Lo generamos nosotros, lo hicimos nosotros y lo liberamos. Es libre.
+
+162
+00:14:59,000 --> 00:15:07,780
+Incluso un periódico de Argentina también lo utilizó para un proyecto de ofrecer las cuentas de...
+
+163
+00:15:08,420 --> 00:15:11,780
+No sé si era del conjunto de Argentina, era el periódico...
+
+164
+00:15:11,780 --> 00:15:14,160
+Debe haber sido La Nación posiblemente.
+
+165
+00:15:14,160 --> 00:15:18,680
+La Nación, sí, exacto. Así es. Lo estaba intentando recordar.
+
+166
+00:15:18,680 --> 00:15:44,340
+Lo que quiere decir que este desarrollo de programa, de plataforma, pues se ha liberado y está sirviendo a otras instituciones para ofrecer sus cuentas y publicarlas. Es una manera muy fácil de interpretar estos datos y estos macrodatos económicos que en la mayoría del mundo de los vivos se nos escapa. Un poco la interpretación cuando lo vemos en un boletín.
+
+167
+00:15:44,340 --> 00:16:03,240
+Es un software libre y otros equipos de otros gobiernos interactúan. Para mí eso es algo que yo trato de promover en mi oficina, pero entiendo que es dificilísimo. O sea, los técnicos de Aragón interactúan con los técnicos de otros municipios en la mejora de este producto de software que todos usan en común. ¿Es así?
+
+168
+00:16:03,240 --> 00:16:19,520
+Bueno, no del todo así. Lo que hizo Aragón Open Data fue desarrollar la herramienta y liberar el código. Y una vez que lo libera, pues cada administración es libre de cogerlo, mejorarlo, reutilizarlo o aplicarlo a su realidad.
+
+169
+00:16:19,720 --> 00:16:32,520
+Si es un ayuntamiento, si es otra administración autonómica, si es una empresa, algún equipo de fútbol también lo ha utilizado. Lo que quiere decir que nosotros simplemente lo hemos liberado. Lo hemos liberado para que esté al servicio de cualquier interesado.
+
+170
+00:16:33,240 --> 00:16:43,700
+Excelente ejemplo, entonces, para otros gobiernos que cuando desarrollen tecnología que pueda ser reutilizable y entendiendo que todos los gobiernos tenemos más o menos desafíos parecidos.
+
+171
+00:16:44,340 --> 00:16:44,980
+Pues así es.
+
+172
+00:16:44,980 --> 00:17:01,320
+Me gusta mucho. Te quiero llevar un tema más del portal de datos y te introduzco la pregunta contándote un ejemplo. Los portales de datos en general no tienen tantas visitas. Es lo habitual. No todo el mundo puede procesar datos y demás, pero a nosotros nos pasó.
+
+173
+00:17:01,320 --> 00:17:17,000
+Yo hace dos años y medio que estoy en un municipio, que cuando publicamos un dato, explotó. O sea, pasamos de 2.000 visitas diarias a 100.000 visitas en un día y fue cuando publicamos la nómina de empleados de planta permanente de la municipalidad.
+
+174
+00:17:17,000 --> 00:17:30,580
+Te quería preguntar, primero, si ustedes publican esa nómina y segundo, ¿cuál fue el dataset? Si es que hay alguno que les hizo a ustedes, si es que les pasó, cambiar sensiblemente la cantidad de visitas.
+
+175
+00:17:31,320 --> 00:17:50,360
+Pues bueno, tenemos unos dataset destacados del conjunto, pero no tenemos ninguno en particular que nos haya hecho una explosión de un número de visitas que nos diga, oye, este tipo de información realmente interesa y lo está utilizando muchas personas.
+
+176
+00:17:50,360 --> 00:18:02,100
+Sí que he visto que, bueno, tu nombre sí que viene, el perfil que señalas desde tu correo, pues viene tu salario y viene lo que has percibido en diciembre, incluido en Alguinaldo.
+
+177
+00:18:02,580 --> 00:18:09,480
+Aquí en España a ese nivel, o al menos en Aragón, está un poco más diluido y no a nivel de personas.
+
+178
+00:18:09,480 --> 00:18:29,500
+Sí que bien los altos cargos, es decir, el ejecutivo, el gobierno, los cargos políticos, pues sí que tienen recogido su salario, no lo tenemos en datos abiertos y también se ofrece una descripción de las nóminas, pero no ese detalle.
+
+179
+00:18:29,840 --> 00:18:30,040
+Bien.
+
+180
+00:18:30,040 --> 00:18:31,460
+Lo que sí que se... ¿Sí?
+
+181
+00:18:31,980 --> 00:18:33,420
+No, no, dime, dime, me interesa mucho.
+
+182
+00:18:33,420 --> 00:18:59,100
+Lo que sí que de los dataset más utilizados, pues tenemos información relacionada con los municipios, es decir, la ubicación e información geográfica sobre los municipios, los contratos que realiza el gobierno de Aragón, también es de los recursos que más se utilizan, más se consultan, el importe de los contratos, la empresa adjudicataria, pues es información que sí que se utiliza mucho.
+
+183
+00:18:59,100 --> 00:19:21,900
+Y también, como curiosidad, los festivos, el calendario de festivos, de ferias, de fiestas locales, pues también es otro de los recursos más descargados y más utilizados, pues porque es información que realmente interesa e interesa tenerlas en formato abierto, pues para poderla aprovechar para servicios, para aplicaciones o cualquier otra utilidad.
+
+184
+00:19:21,900 --> 00:19:38,440
+Bien, es eso que los datos empiezan a servir para aplicaciones cuando escalan un nivel y son datos, por decirlo de una forma, en tiempo real. O sea, cuando hay datos que están conectados a alguna réplica o alguna base de datos con algún sistema que está vivo y funcionando.
+
+185
+00:19:38,440 --> 00:19:52,880
+¿Ustedes tienen algún ejemplo de algún dataset que, porque me imagino que una forma para lo que trabajamos en portales de datos es una vez por mes o un periodo de tiempo nos dan un archivo CSV o Excel y lo subimos al portal y lo actualizamos frecuentemente.
+
+186
+00:19:52,980 --> 00:19:58,920
+Otra forma es automatizar ese proceso y que día a día, hora a hora o en todo momento estén conectados.
+
+187
+00:19:59,000 --> 00:20:07,340
+¿Ustedes tienen datos en tiempo real para generar APIs, web service, algo que un emprendedor tecnológico puede usar en una aplicación o en una página web?
+
+188
+00:20:07,340 --> 00:20:32,020
+Pues así es. En la actualidad tenemos más de 260 vistas y cada vista implica una base de datos en tiempo real de una temática, desde dominios, desde tipos de documentos, desde también mucha información geográfica, desde rutas de transporte, desde paradas, desde archivos.
+
+189
+00:20:32,020 --> 00:20:34,120
+Pues es información en tiempo real
+
+190
+00:20:34,120 --> 00:20:36,460
+Es decir, que si se acude a una de estas vistas
+
+191
+00:20:36,460 --> 00:20:38,220
+Lo que se está invocando es
+
+192
+00:20:38,220 --> 00:20:40,300
+Al dato en bruto que dispone
+
+193
+00:20:40,300 --> 00:20:42,280
+En la base de datos del personal
+
+194
+00:20:42,280 --> 00:20:43,160
+Que la está trabajando
+
+195
+00:20:43,160 --> 00:20:45,880
+No ha habido un proceso de carga
+
+196
+00:20:45,880 --> 00:20:48,380
+No ha habido un proceso de migración
+
+197
+00:20:48,380 --> 00:20:50,240
+No ha habido generar
+
+198
+00:20:50,240 --> 00:20:52,300
+Un tipo de fichero previo para que esté disponible
+
+199
+00:20:52,300 --> 00:20:54,140
+No, lo que se acude es
+
+200
+00:20:54,140 --> 00:20:55,760
+Directamente a los datos invocando
+
+201
+00:20:55,760 --> 00:20:57,720
+A la propia fuente de datos
+
+202
+00:20:57,720 --> 00:21:00,280
+Eso es, esto es lo que
+
+203
+00:21:00,280 --> 00:21:02,320
+lo que hemos denominado el
+
+204
+00:21:02,320 --> 00:21:04,320
+GAO de Core, Gobierno Aragón
+
+205
+00:21:04,320 --> 00:21:06,220
+Open Data Core. Pues, bueno, Core
+
+206
+00:21:06,220 --> 00:21:08,460
+como núcleo, puesto que invoca
+
+207
+00:21:08,460 --> 00:21:10,240
+realmente a los datos
+
+208
+00:21:10,240 --> 00:21:12,460
+reales, a los datos
+
+209
+00:21:12,460 --> 00:21:14,340
+en bruto. Y me
+
+210
+00:21:14,340 --> 00:21:16,400
+imagino que eso es, nombraste los datos
+
+211
+00:21:16,400 --> 00:21:17,980
+de transporte y me imagino que
+
+212
+00:21:17,980 --> 00:21:20,220
+por ejemplo, podrían existir
+
+213
+00:21:20,220 --> 00:21:22,360
+emprendedores haciendo aplicaciones que te digan
+
+214
+00:21:22,360 --> 00:21:24,200
+por dónde viene, cuál es el mejor recorrido
+
+215
+00:21:24,200 --> 00:21:26,360
+y cuándo llega el colectivo. ¿Tienen
+
+216
+00:21:26,360 --> 00:21:28,400
+casos de éxito de emprendedores
+
+217
+00:21:28,400 --> 00:21:30,340
+privados o organizaciones sociales
+
+218
+00:21:30,340 --> 00:21:32,000
+que hayan hecho alguna aplicación
+
+219
+00:21:32,000 --> 00:21:33,620
+que llegue masivamente a la gente
+
+220
+00:21:33,620 --> 00:21:35,340
+porque con todas esas APIs
+
+221
+00:21:35,340 --> 00:21:38,040
+si tienen ecosistema despierto posiblemente
+
+222
+00:21:38,040 --> 00:21:40,300
+haya pasado, ¿tienen algún ejemplo lindo
+
+223
+00:21:40,300 --> 00:21:42,200
+de aplicación de terceros
+
+224
+00:21:42,200 --> 00:21:44,340
+consumiendo esos datos y con éxito?
+
+225
+00:21:44,780 --> 00:21:46,560
+Pues hemos tenido recientemente
+
+226
+00:21:46,560 --> 00:21:47,880
+que nos han pedido la información
+
+227
+00:21:47,880 --> 00:21:50,200
+del transporte
+
+228
+00:21:50,200 --> 00:21:52,420
+tenemos el transporte de toda la comunidad
+
+229
+00:21:52,420 --> 00:21:54,420
+autónoma de Aragón y esperemos que más pronto
+
+230
+00:21:54,420 --> 00:21:56,360
+que tarde ver un caso
+
+231
+00:21:56,360 --> 00:22:08,860
+un desarrollo que se ha hecho con estos datos. Y también, como caso más contante y sonante, es una API, una aplicación para el móvil, tanto Android como IOS,
+
+232
+00:22:09,020 --> 00:22:19,480
+donde se puede conocer el precio de las fianzas del alquiler de vivienda para establecer unas conclusiones en cuanto a los cambios de los precios,
+
+233
+00:22:19,480 --> 00:22:25,180
+si han aumentado o han descendido con respecto a los precios del alquiler.
+
+234
+00:22:25,580 --> 00:22:30,280
+Es una información obtenida directamente de los datos que gestiona el gobierno de Aragón.
+
+235
+00:22:30,280 --> 00:22:36,640
+Por tanto, es una fuente muy certera y muy fidedigna para poder establecer conclusiones
+
+236
+00:22:36,640 --> 00:22:44,400
+sobre si existe un aumento de los precios, si existe una posible burbuja de los precios de alquiler o no,
+
+237
+00:22:44,400 --> 00:22:58,080
+si el mercado está estable. Pues es uno de los casos que más y mejor se ha podido ofrecer el servicio de este tipo de datos.
+
+238
+00:22:58,080 --> 00:23:03,500
+Y te quería preguntar, Julián, ¿cómo es tu relación, en el caso que vos tengas contacto,
+
+239
+00:23:03,560 --> 00:23:10,540
+cómo es la relación del portal de datos abiertos de Aragón con las organizaciones sociales o los hackers cívicos o los activistas?
+
+240
+00:23:10,540 --> 00:23:16,660
+tienen una buena relación, reciben muchas críticas y pocos apoyos.
+
+241
+00:23:16,660 --> 00:23:20,800
+¿Cómo es esa relación en el caso de que la tengas fluida con ellos?
+
+242
+00:23:21,340 --> 00:23:26,600
+Pues intentamos acercarnos todo lo posible a los que verdaderamente lo utilizan
+
+243
+00:23:26,600 --> 00:23:29,460
+y lo pueden sacar más partido a nivel más técnico.
+
+244
+00:23:29,960 --> 00:23:35,620
+Se ha hecho algún evento tipo hackathon, que dio como resultados
+
+245
+00:23:35,620 --> 00:23:37,680
+distintas aplicaciones, distintos servicios.
+
+246
+00:23:37,680 --> 00:24:03,940
+Algunos de ellos todavía siguen operativos, siguen funcionando, se pueden consultar en la web. En diciembre del año pasado, el 2018, pues también tuvimos un encuentro con estudiantes de informática donde les ofrecimos los datos para ver qué posibilidades, qué podían hacer con los datos y también tuvimos casos bastante interesantes de esas posibilidades que pueden desarrollar con los datos que tenemos.
+
+247
+00:24:03,940 --> 00:24:26,880
+Por tanto, la relación es y tiene que ser fluida. Este año tenemos también un proyecto en marcha donde los datos van a salir a la calle, vamos a ir a conocer la verdadera demanda de los usuarios para saber qué servicios podrían generar con los datos que tenemos que a lo mejor no conocen o no tienen por qué conocer.
+
+248
+00:24:26,880 --> 00:24:44,540
+Bien. Y ustedes mismos usan esas APIs, además de la aplicación del presupuesto que es Ojo Libre. ¿Las aplicaciones oficiales de Aragón consumen esos datos? ¿Han conseguido impacto a través de alguna aplicación propia que use esos datos?
+
+249
+00:24:44,540 --> 00:24:55,980
+Con el desarrollo de nuevas webs, nuevos servicios, pues en vez de tener que volver a crear los datos de nuevo, pues lo que se utiliza es Aragón Open Data como fuente.
+
+250
+00:24:55,980 --> 00:25:03,020
+Así que la propia administración es uno de los servicios que más está utilizando los datos que tiene.
+
+251
+00:25:03,020 --> 00:25:25,560
+Pues a nivel el organigrama, por ejemplo, los tipos documentales, las categorías, pues en vez de tener que volver a crear vocabularios, en vez de tener que volver a crear listados de municipios, de contenido, pues teniendo la fuente como ya está abierta y disponible en Aragón Open Data, es mucho más fácil invocar, acudir a ella, pues para poder reutilizar esta información que ya está, que ya existe.
+
+252
+00:25:25,560 --> 00:25:37,260
+Y si a su vez se libera, se comparte, pues es mucho más fácil y mejor y también pues mucho más sostenible compartir los propios datos entre la propia administración.
+
+253
+00:25:37,760 --> 00:25:50,240
+Y en el portal de ustedes estuve viendo que no solamente publican datos de la comunidad de Aragón y de los municipios, sino que vi un caso que me pareció súper interesante y es que la Universidad de Zaragoza tiene una sección en su portal de datos.
+
+254
+00:25:50,240 --> 00:26:07,360
+Y yo no encuentro ejemplos de universidades abiertas en el mundo, por lo menos en el mundo de habla hispana, me parece que, me da la sanción por lo menos que Latinoamérica es una deuda pendiente de las universidades. ¿La universidad está obligada por alguna normativa? ¿Hay buena predisposición? ¿Cómo funciona? ¿Cómo se hizo?
+
+255
+00:26:07,360 --> 00:26:22,980
+Ya he comentado antes que en España, en Europa y en Aragón tenemos una normativa muy amplia sobre cómo se tiene que generar y cómo se tienen que ofrecer los datos y la Universidad de Zaragoza, pues sí, está en ese camino de cumplir lo que la normativa dice.
+
+256
+00:26:22,980 --> 00:26:38,040
+Y va un poco también en esa línea de teníamos Aragón Open Data, nos entendimos muy bien con los responsables de la Universidad de Zaragoza, nos pusimos en común a ver cuál era la manera más fácil para todos de poder liberar sus datos.
+
+257
+00:26:38,040 --> 00:27:01,360
+Y bueno, antes, al inicio de la conversación, he mencionado un protocolo que es bastante antiguo, que es OIPMH. Se está utilizando ese protocolo que ya parece obsoleto para poder recolectar sus datos, sus colecciones de datos y abrirlas desde el propio Aragon Open Data. Por tanto, la tecnología está disponible, es cuestión de voluntad y de querer liberar los datos.
+
+258
+00:27:01,360 --> 00:27:07,680
+¿Hay voluntad en la universidad? ¿No tuvieron algún rechazo o tuvieron que tener muchas charlas?
+
+259
+00:27:08,400 --> 00:27:31,340
+No, no, todo lo contrario. Hubo una interlocutora muy buena en la Universidad de Zaragoza, una gran profesional que además cree de verdad en este tipo de recursos y servicios y por tanto fueron todo facilidades y ya tenía muy claro que si Aragón Open Data funcionaba, era un referente, pues iba a hacer lo posible por integrarse también en la universidad.
+
+260
+00:27:31,360 --> 00:27:45,020
+En el servicio y en Aragón Open Data. Y así es, pues tiene su apartado, su cierta independencia para ofrecer lo que ellos quieran, desean, pues nosotros estamos dando esa posibilidad.
+
+261
+00:27:45,020 --> 00:28:12,160
+Julián, ¿tienen ustedes una gestión documental de los archivos para llegar al portal? ¿Tienen APIs con datos en tiempo real? ¿Tienen una comunidad usando los datos? ¿Tienen datos de ustedes de los municipios, de las universidades y de otras instituciones de Aragón? Te quería preguntar, ¿qué desafíos, qué cosa grande les queda por hacer? O sea, ¿en qué pensás que pueden mejorar como portal? ¿En qué estás trabajando ahora?
+
+262
+00:28:12,160 --> 00:28:29,960
+Pues ahora mismo, aunque parezca un poco complejo, estamos en la vía de intentar controlar y estandarizar los datos conforme a una estructura, lo que estamos denominando estructura de información interoperable de Aragón,
+
+263
+00:28:29,960 --> 00:28:45,000
+que no es más que, no es más entre comillas que identificar los datos para que independientemente de la fuente, independientemente de los objetivos, independientemente de las características, pues todas tengan una serie de condiciones para que puedan ser interpretables.
+
+264
+00:28:45,000 --> 00:28:52,300
+interpretables por el usuario e interpretables también para poder favorecer esa explotación y esa difusión.
+
+265
+00:28:52,300 --> 00:29:07,120
+Pues bueno, el gobierno de Aragón es una administración pues mediana que tiene distintas, todo tipo de fuentes, muchas diferentes competencias que a su vez cada una genera diferentes tipos de datos.
+
+266
+00:29:07,120 --> 00:29:21,400
+Pues lo que intentamos hacer con este esquema es que las fuentes y los recursos de información pues tengan un reflejo en esta estructura para poder ser interpretable. Y es un poco lo que estamos haciendo.
+
+267
+00:29:22,300 --> 00:29:38,700
+El año pasado también presentamos el proyecto de Aragon Open Data Pool, que está también disponible, y lo que hace es, esas vistas que he mencionado antes, que teníamos más de 250, pues 140 de ellas, pues lo que hemos hecho ha sido normalizarlas conforme a este esquema.
+
+268
+00:29:38,700 --> 00:29:48,760
+Por lo que quiere decir que todos los datos se centralizan con esta estructura y están disponibles también con los estándares de la web semántica.
+
+269
+00:29:48,760 --> 00:29:55,760
+Son consultables entre ellos al estar relacionados y al haber creado un grafo de conocimiento de esta información.
+
+270
+00:29:56,480 --> 00:29:58,580
+Bien, increíble. Muy bueno.
+
+271
+00:29:59,020 --> 00:30:04,980
+Te quería preguntar si todo este cúmulo de datos ha desarrollado en el periodismo lo que aquí llamamos periodismo de datos.
+
+272
+00:30:04,980 --> 00:30:12,720
+O sea, ¿los medios de comunicación cambiaron para generar capacidades de consumir esos datos y contar historias y hacer visualizaciones basadas en datos?
+
+273
+00:30:12,780 --> 00:30:14,380
+¿Eso pasó o eso es algo que le falta?
+
+274
+00:30:14,380 --> 00:30:38,060
+No, bueno, también es otra de las patas y otra de las vías. Tenemos una pequeña herramienta que consiste y permite crear gráficos con los datos que tenemos en Aragón Open Data y lo que hace es poder invocar a un recurso, un dataset y generar un gráfico para poderlo insertar en una noticia, en un recurso, en un blog o en un post.
+
+275
+00:30:38,060 --> 00:31:05,000
+El periodismo está en continua transformación, ahora tiene esa parte de periodismo de datos. Desde Aragon Open Data intentamos estar lo más cerca de los periodistas para ofrecerlo y que conozcan lo que tenemos. En algún recurso, en algún proyecto nos han citado como fuente, así que es uno de los mayores éxitos que nuestros datos sirvan y se utilicen.
+
+276
+00:31:05,000 --> 00:31:14,160
+Bien. Aquí en Latinoamérica, Julián, nos pasa que vemos gobiernos que tienen una voluntad más fuerte de ser transparentes
+
+277
+00:31:14,160 --> 00:31:21,700
+y otros que usan a las oficinas de gobierno abierto como una oficina de marketing, de contar cosas bonitas, mapas bonitos y demás.
+
+278
+00:31:22,260 --> 00:31:30,620
+¿En España te pasa que ves colegas tuyos en otros lugares de gobiernos que usan a los datos abiertos como marketing
+
+279
+00:31:30,620 --> 00:31:34,180
+o es algo que no sucede tanto, que no es común.
+
+280
+00:31:34,360 --> 00:31:37,600
+Hay algunos lugares, no quiero que me lo nombre,
+
+281
+00:31:37,660 --> 00:31:39,400
+no te quiero confirmar, pero ¿pasa eso?
+
+282
+00:31:39,520 --> 00:31:42,640
+¿En algunos lugares es una especie de moda que surgió ahora
+
+283
+00:31:42,640 --> 00:31:43,780
+y que va a desaparecer?
+
+284
+00:31:44,200 --> 00:31:45,340
+No, yo creo que no.
+
+285
+00:31:45,620 --> 00:31:50,400
+La sensación personal y profesional es que esto va para adelante
+
+286
+00:31:50,400 --> 00:31:55,640
+y los que están o los que estamos al frente de este tipo de portales
+
+287
+00:31:55,640 --> 00:31:58,340
+queremos y vamos a abarcarlo todo.
+
+288
+00:31:58,340 --> 00:32:19,800
+Y no suele haber ningún tipo de directriz de arriba ni de presión para ofrecer determinados datos sí y determinados datos no. Es más, yo creo que es todo lo contrario. Lo que queremos es ofrecer todos los datos posibles sin ningún tipo de limitación y mucho menos impedimento.
+
+289
+00:32:19,800 --> 00:32:30,140
+Es el valor de estos portales, pues bueno, para ofrecer lo bonito, pues no sería necesario ofrecer la información de esta manera.
+
+290
+00:32:30,140 --> 00:32:31,600
+Bien, Julián
+
+291
+00:32:31,600 --> 00:32:34,580
+Llegamos al tiempo, te quiero agradecer
+
+292
+00:32:34,580 --> 00:32:36,820
+De nuevo por todo lo que nos contaste
+
+293
+00:32:36,820 --> 00:32:38,380
+Y a todos los invitados
+
+294
+00:32:38,380 --> 00:32:40,140
+Los despido, además de agradeciéndole
+
+295
+00:32:40,140 --> 00:32:42,500
+Pidiéndole que me ayuden a conocer un poco más
+
+296
+00:32:42,500 --> 00:32:44,420
+Del mundo de los datos abiertos
+
+297
+00:32:44,420 --> 00:32:46,560
+Y que me indiquen a quienes me sugieren
+
+298
+00:32:46,560 --> 00:32:48,480
+Que entreviste
+
+299
+00:32:48,480 --> 00:32:50,520
+¿A quienes me podrías sugerir vos
+
+300
+00:32:50,520 --> 00:32:52,140
+Para que converses de estos temas?
+
+301
+00:32:52,700 --> 00:32:53,040
+Bueno
+
+302
+00:32:53,040 --> 00:32:55,340
+Lo he mencionado antes
+
+303
+00:32:55,340 --> 00:32:56,480
+A
+
+304
+00:32:56,480 --> 00:32:59,540
+ay que ahora pues bueno
+
+305
+00:32:59,540 --> 00:33:02,160
+al archivero de Arganda del Rey
+
+306
+00:33:02,160 --> 00:33:02,960
+a Julio
+
+307
+00:33:02,960 --> 00:33:06,700
+se me ha ido el nombre
+
+308
+00:33:06,700 --> 00:33:07,580
+me va a matar
+
+309
+00:33:07,580 --> 00:33:10,000
+lo busco en la grabación porque lo nombraste
+
+310
+00:33:10,000 --> 00:33:10,960
+yo tampoco me acuerdo
+
+311
+00:33:10,960 --> 00:33:14,800
+perdón
+
+312
+00:33:14,800 --> 00:33:17,140
+no hay problema, decime los otros
+
+313
+00:33:17,140 --> 00:33:20,060
+y después lo busco yo
+
+314
+00:33:20,060 --> 00:33:21,500
+en la grabación cuando la
+
+315
+00:33:21,500 --> 00:33:24,300
+pase al post
+
+316
+00:33:24,300 --> 00:33:25,360
+a Julio Díaz, perdón
+
+317
+00:33:25,360 --> 00:33:26,800
+a Julio Díaz, perfecto
+
+318
+00:33:26,800 --> 00:33:35,680
+Sí, sí. Y el otro, pues sí que a Javier Sancho ahora mismo es aquí, trabaja también en el gobierno de Aragón
+
+319
+00:33:35,680 --> 00:33:40,680
+y tiene una visión muy amplia de lo que se está moviendo en datos abiertos en el sector agroalimentario.
+
+320
+00:33:40,800 --> 00:33:48,820
+Creo que también es de las personas que más sabe, ya no solamente a nivel más regional, más local,
+
+321
+00:33:48,820 --> 00:33:56,500
+sino que tiene una visión muy amplia a nivel europeo de qué pasos se están dando en los datos abiertos en el sector agroalimentario.
+
+322
+00:33:56,800 --> 00:34:00,060
+Perfecto, Julián, muchísimas gracias
+
+323
+00:34:00,060 --> 00:34:01,780
+Entonces seguimos en contacto
+
+324
+00:34:01,780 --> 00:34:04,160
+Pues muchas gracias por, de verdad
+
+325
+00:34:04,160 --> 00:34:09,680
+Por la oportunidad de permitirme explicar
+
+326
+00:34:09,680 --> 00:34:11,380
+Y contar nuestra experiencia desde Aragón
+
+327
+00:34:11,380 --> 00:34:13,940
+Y desde el portal Aragón Open Data
+
+328
+00:34:13,940 --> 00:34:16,100
+Y una cosa, una cuestión Andrés
+
+329
+00:34:16,100 --> 00:34:18,100
+Y me vas a pedir un...
+
+330
+00:34:18,920 --> 00:34:19,900
+Y te pido disculpas
+
+331
+00:34:19,900 --> 00:34:23,240
+Es Julio Cerda, es el archivero de Arganda del Rey
+
+332
+00:34:23,240 --> 00:34:24,600
+Perfecto
+
+333
+00:34:24,600 --> 00:34:26,500
+Lo siento y bueno
+
+334
+00:34:26,500 --> 00:34:27,820
+Muchísimas gracias
+
+335
+00:34:27,820 --> 00:34:29,520
+Hasta luego
+

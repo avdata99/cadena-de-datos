@@ -1,0 +1,2192 @@
+1
+00:00:00,000 --> 00:00:24,640
+Cadena de datos, episodio número 21. De este lado, Andrés Vázquez desde Córdoba, Argentina. Desde el otro lado, hoy me acompaña Denis Tobar desde Chile. Denis es ingeniero en informática y trabaja con grandes volúmenes de datos. Es gestor y desarrollador de aplicaciones en el ámbito académico y usando MediaWiki para proyectos de índole colaborativa.
+
+2
+00:00:24,640 --> 00:00:30,220
+y aquí lo que más me interesa es integrante del directorio de Wikimedia Chile.
+
+3
+00:00:30,440 --> 00:00:32,100
+Buenas tardes, Denis, ¿cómo estás?
+
+4
+00:00:33,040 --> 00:00:36,020
+Hola Andrés, un gusto, estoy muy bien. ¿Y tú cómo vas?
+
+5
+00:00:36,440 --> 00:00:37,720
+Muy bien, todo muy bien por acá.
+
+6
+00:00:38,880 --> 00:00:45,440
+Voy directamente, para cerrar un poco tu perfil, eres ingeniero en informática,
+
+7
+00:00:45,900 --> 00:00:48,300
+miembro del directorio de Wikimedia Chile, por lo tanto,
+
+8
+00:00:48,300 --> 00:00:50,340
+trabajas en la parte
+
+9
+00:00:50,340 --> 00:00:52,880
+de atrás, en la parte técnica
+
+10
+00:00:52,880 --> 00:00:55,040
+de lo que los demás usuarios
+
+11
+00:00:55,040 --> 00:00:56,460
+vemos de Wikipedia
+
+12
+00:00:56,460 --> 00:00:59,320
+y todos los productos accesorios
+
+13
+00:00:59,320 --> 00:01:00,860
+te quería preguntar
+
+14
+00:01:00,860 --> 00:01:03,100
+¿cómo es tu trabajo? ¿qué es Wikidata?
+
+15
+00:01:03,320 --> 00:01:05,140
+¿qué haces?
+
+16
+00:01:06,520 --> 00:01:08,420
+vaya, esas son muchas preguntas
+
+17
+00:01:08,420 --> 00:01:10,380
+en una sola frase
+
+18
+00:01:10,380 --> 00:01:12,260
+bueno, para resumir
+
+19
+00:01:12,260 --> 00:01:14,260
+llevo ya vinculado al movimiento Wikimedia
+
+20
+00:01:14,260 --> 00:01:15,940
+más de 10 años
+
+21
+00:01:15,940 --> 00:01:18,440
+ya el junio próximo cumplo 14 años
+
+22
+00:01:18,440 --> 00:01:19,500
+vinculado con el movimiento
+
+23
+00:01:19,500 --> 00:01:21,780
+partí como la mayoría de los usuarios
+
+24
+00:01:21,780 --> 00:01:24,120
+como un editor más, involucrándome
+
+25
+00:01:24,120 --> 00:01:26,080
+de a poco, empecé cuando estaba
+
+26
+00:01:26,080 --> 00:01:27,900
+en la universidad y actualmente ya
+
+27
+00:01:27,900 --> 00:01:29,820
+me titulé incluso siendo wikipedista
+
+28
+00:01:29,820 --> 00:01:32,120
+lo pongo en el currículum y toda la gente me pregunta
+
+29
+00:01:32,120 --> 00:01:34,260
+oh, ¿qué es Wikipedia? y le tengo que explicar
+
+30
+00:01:34,260 --> 00:01:35,260
+prácticamente que
+
+31
+00:01:35,260 --> 00:01:38,220
+Wikipedia es conocimiento colaborativo
+
+32
+00:01:38,220 --> 00:01:39,840
+que eso es el fondo de esto
+
+33
+00:01:39,840 --> 00:01:40,980
+que es conocimiento colaborativo
+
+34
+00:01:40,980 --> 00:01:43,920
+y claro, yo principalmente estoy
+
+35
+00:01:43,920 --> 00:01:45,500
+como también en la parte técnica
+
+36
+00:01:45,500 --> 00:01:52,460
+como tú también explicabas, ayuda a desarrollar herramienta o información de calidad para las personas de Iberoamérica
+
+37
+00:01:52,460 --> 00:01:58,960
+que deseen saber un poco más de qué es Wikipedia o cómo se componen los datos que están dentro de la misma Wikipedia
+
+38
+00:01:58,960 --> 00:02:04,560
+y para esto nace Wikidata, que Wikidata es el proyecto que tenemos de datos abiertos
+
+39
+00:02:04,560 --> 00:02:08,080
+para que las máquinas también sean capaces de identificar ese conocimiento
+
+40
+00:02:08,080 --> 00:02:10,940
+y nosotros puedan obtener información a partir de ese conocimiento.
+
+41
+00:02:11,500 --> 00:02:15,260
+Wikipedia se ha construido a lo largo del tiempo con buena voluntad de la gente
+
+42
+00:02:15,260 --> 00:02:27,680
+pero a las máquinas les costaba mucho entender qué era Wikipedia, o qué datos pertenecían a qué personas, cuándo nació una persona, o cuáles son los compuestos químicos de algunos elementos.
+
+43
+00:02:28,280 --> 00:02:35,580
+Entonces, Wikidata viene a condensar todo ese conocimiento para que nosotros podamos poder entender, o las máquinas puedan entender,
+
+44
+00:02:35,580 --> 00:02:39,160
+y nosotros poder hacer grandes agrupaciones de datos
+
+45
+00:02:39,160 --> 00:02:43,980
+con el fin de que las mismas personas podamos sacar información nueva
+
+46
+00:02:43,980 --> 00:02:46,760
+a partir del gran volumen de datos que se está generando en Wikipedia.
+
+47
+00:02:48,880 --> 00:02:54,020
+¿Podríamos decir que Wikidata contiene a la base de datos abiertos
+
+48
+00:02:54,020 --> 00:02:56,200
+más grande o más usada del planeta?
+
+49
+00:02:57,800 --> 00:02:59,080
+¿Usted lo ve en ese nivel?
+
+50
+00:03:00,820 --> 00:03:02,860
+No, no creo que la más grande,
+
+51
+00:03:02,860 --> 00:03:04,560
+pero sí la que tiene más potencial
+
+52
+00:03:04,560 --> 00:03:06,340
+de poder crecer a lo largo del tiempo
+
+53
+00:03:06,340 --> 00:03:08,780
+todo el tiempo Wikidata es como un ente vivo
+
+54
+00:03:08,780 --> 00:03:10,160
+al igual que Wikipedia
+
+55
+00:03:10,160 --> 00:03:13,040
+se va modificando, se va perfeccionando
+
+56
+00:03:13,040 --> 00:03:14,560
+a medida que la gente se va involucrando
+
+57
+00:03:14,560 --> 00:03:16,920
+y aquí es muy esencial que las personas
+
+58
+00:03:16,920 --> 00:03:18,660
+se involucren, tanto las personas
+
+59
+00:03:18,660 --> 00:03:20,820
+que quieren corregir datos como las personas
+
+60
+00:03:20,820 --> 00:03:22,260
+que son almacenes de datos
+
+61
+00:03:22,260 --> 00:03:23,980
+porque actualmente
+
+62
+00:03:23,980 --> 00:03:26,560
+Wikidata se manifiesta
+
+63
+00:03:26,560 --> 00:03:28,440
+en que la gente
+
+64
+00:03:28,440 --> 00:03:30,860
+se acerque a ella
+
+65
+00:03:30,860 --> 00:03:32,680
+y además lo mismo gobierno
+
+66
+00:03:32,680 --> 00:03:35,200
+o las mismas instituciones, también vayan liberando sus datos,
+
+67
+00:03:35,340 --> 00:03:36,520
+que eso también es lo importante.
+
+68
+00:03:36,960 --> 00:03:41,160
+Porque actualmente las instituciones generan muchos datos,
+
+69
+00:03:41,400 --> 00:03:42,680
+pero no los dejan disponibles al mundo.
+
+70
+00:03:42,780 --> 00:03:45,320
+Y eso nos cuesta bastante poder aprovecharlo.
+
+71
+00:03:46,400 --> 00:03:46,800
+Bien.
+
+72
+00:03:47,940 --> 00:03:50,700
+Antes de meterme de cabeza en Wikidata, que tengo un montón de preguntas ahí,
+
+73
+00:03:50,720 --> 00:03:55,140
+te quería preguntar si vos te autopercibís como un activista de los datos abiertos.
+
+74
+00:03:55,140 --> 00:03:59,600
+Porque hay como un mundo de los datos abiertos de organizaciones sociales,
+
+75
+00:03:59,820 --> 00:04:01,460
+de gobiernos que hablen portales y demás.
+
+76
+00:04:01,460 --> 00:04:03,220
+ustedes se ven parte de ese mundo
+
+77
+00:04:03,220 --> 00:04:09,330
+Sí
+
+78
+00:04:09,330 --> 00:04:11,250
+por lo menos nosotros
+
+79
+00:04:11,250 --> 00:04:13,610
+como movimiento
+
+80
+00:04:13,610 --> 00:04:15,890
+enfatizamos en que el conocimiento debe ser libre
+
+81
+00:04:15,890 --> 00:04:18,230
+y yo sinceramente soy un fanático
+
+82
+00:04:18,230 --> 00:04:20,010
+de los datos abiertos porque eso permite
+
+83
+00:04:20,010 --> 00:04:22,050
+que cualquier persona que tenga una idea
+
+84
+00:04:22,050 --> 00:04:24,070
+de cómo explotar el dato pueda acceder
+
+85
+00:04:24,070 --> 00:04:26,090
+libremente y no es necesario tener que
+
+86
+00:04:26,090 --> 00:04:27,950
+andar pidiendo y además que sea
+
+87
+00:04:27,950 --> 00:04:29,930
+en formatos libres, liberar un PDF
+
+88
+00:04:29,930 --> 00:04:32,010
+no es el mejor formato para
+
+89
+00:04:32,010 --> 00:04:34,010
+liberar información porque
+
+90
+00:04:34,010 --> 00:04:35,510
+cuesta que la máquina lo entienda
+
+91
+00:04:35,510 --> 00:04:38,470
+y si queremos que las personas accedan a la información
+
+92
+00:04:38,470 --> 00:04:40,990
+hay que hacerlo de la forma más simple posible
+
+93
+00:04:40,990 --> 00:04:44,610
+y no a través de que subí un PDF y listo, está libre.
+
+94
+00:04:44,950 --> 00:04:46,450
+No, sino que se trata de que las personas
+
+95
+00:04:46,450 --> 00:04:50,690
+y a través de medios automatizados puedan acceder a esa información.
+
+96
+00:04:51,830 --> 00:04:55,990
+¿Y Wikidata es tu primer proyecto en cuanto a datos abiertos?
+
+97
+00:04:56,230 --> 00:04:59,710
+¿Empezaste con esto o venís del mundo del activismo
+
+98
+00:04:59,710 --> 00:05:03,870
+desde antes de participar en Wikidata?
+
+99
+00:05:03,870 --> 00:05:07,190
+Yo diría que Wikidata es como
+
+100
+00:05:07,190 --> 00:05:09,250
+ya lo último que hice
+
+101
+00:05:09,250 --> 00:05:11,270
+o lo más reciente, pero antes
+
+102
+00:05:11,270 --> 00:05:13,010
+también tenía alguna inquietud acerca
+
+103
+00:05:13,010 --> 00:05:15,050
+de todo abierto, gracias a que
+
+104
+00:05:15,050 --> 00:05:17,490
+acá en Chile está Transparencia
+
+105
+00:05:17,490 --> 00:05:19,550
+que hace un par de años
+
+106
+00:05:19,550 --> 00:05:21,570
+ya Transparencia está bastante activo
+
+107
+00:05:21,570 --> 00:05:23,090
+que es similar a Transparencia
+
+108
+00:05:23,090 --> 00:05:24,670
+a la nación que están implementando en Argentina
+
+109
+00:05:24,670 --> 00:05:26,890
+o datos.gob.ar
+
+110
+00:05:26,890 --> 00:05:29,250
+yo estaba usando los datos chilenos, pero claro
+
+111
+00:05:29,250 --> 00:05:31,090
+me daba cuenta de que los datos que
+
+112
+00:05:31,090 --> 00:05:33,270
+puede ver en Chile son algunos
+
+113
+00:05:33,270 --> 00:05:35,230
+de muy mala calidad y simplemente
+
+114
+00:05:35,230 --> 00:05:37,490
+subo un CSV con el nombre
+
+115
+00:05:37,490 --> 00:05:39,130
+y apellido de la persona de quienes son
+
+116
+00:05:39,130 --> 00:05:40,930
+concejales, por ejemplo, en vez de subir, no sé,
+
+117
+00:05:41,010 --> 00:05:42,210
+una declaración patrimonial.
+
+118
+00:05:42,670 --> 00:05:44,010
+Es mucho más útil.
+
+119
+00:05:45,810 --> 00:05:46,970
+Bien, y
+
+120
+00:05:46,970 --> 00:05:49,310
+¿en qué te inspiraste o qué referente
+
+121
+00:05:49,310 --> 00:05:51,470
+por qué llegaste al mundo de los datos abiertos?
+
+122
+00:05:51,810 --> 00:05:53,030
+¿Qué viste a tu alrededor
+
+123
+00:05:53,030 --> 00:05:56,170
+o a quién copiaste
+
+124
+00:05:56,170 --> 00:05:57,350
+o qué proyectos
+
+125
+00:05:57,350 --> 00:05:59,390
+inspiraron para meterte en este mundo?
+
+126
+00:06:00,290 --> 00:06:01,170
+Yo creo que
+
+127
+00:06:01,170 --> 00:06:02,470
+una de las inspiraciones es
+
+128
+00:06:02,470 --> 00:06:04,890
+cómo la gente consume información
+
+129
+00:06:04,890 --> 00:06:07,470
+ya, es muy hermoso
+
+130
+00:06:07,470 --> 00:06:08,530
+ver la infografía
+
+131
+00:06:08,530 --> 00:06:11,250
+es muy hermoso saber que hay gente que se dedica
+
+132
+00:06:11,250 --> 00:06:13,070
+a esto, pero a la larga
+
+133
+00:06:13,070 --> 00:06:15,270
+el dedicarse a los datos abiertos
+
+134
+00:06:15,270 --> 00:06:15,890
+es
+
+135
+00:06:15,890 --> 00:06:19,330
+desde que nace el dato, desde que se recolecta
+
+136
+00:06:19,330 --> 00:06:20,970
+en bruto, hasta cómo la gente
+
+137
+00:06:20,970 --> 00:06:23,470
+interpreta ese dato y cómo lo lleva a una realidad social
+
+138
+00:06:23,470 --> 00:06:25,410
+es bastante
+
+139
+00:06:25,410 --> 00:06:26,810
+curioso de cómo se genera todo esto
+
+140
+00:06:26,810 --> 00:06:29,110
+de los datos abiertos porque uno cree que subiendo
+
+141
+00:06:29,110 --> 00:06:30,890
+un dataset está listo
+
+142
+00:06:30,890 --> 00:06:41,610
+Pero no, en realidad tiene mucho trabajo humano por detrás de entender de qué se está hablando, cuál es el modelo que está por detrás, cómo representarlo y cómo a la gente en definitiva le es útil para el día a día.
+
+143
+00:06:41,710 --> 00:06:50,090
+Porque no es lo mismo decir, subo un CSV con un millón de registros, un millón de filas, a que voy a subir una infografía con esta información.
+
+144
+00:06:50,090 --> 00:07:06,310
+Sí, son cosas muy distintas y desde la comunidad de datos abiertos, todo esto que decís es muy importante que los refresque porque todavía tenemos gente liberando o publicando cosas que no son datos reutilizables ni en formatos abiertos.
+
+145
+00:07:06,410 --> 00:07:18,690
+Quiero meterme un poquito más en Wikidata. Cada vez que nosotros editamos para colaborar en algo de Wikipedia o cada vez que leemos estamos leyendo 100% la base de Wikidata. Todo lo que está en Wikipedia está en Wikidata. ¿Es así?
+
+146
+00:07:20,090 --> 00:07:22,850
+actualmente, principalmente
+
+147
+00:07:22,850 --> 00:07:24,950
+estamos trabajando con las fichas biográficas
+
+148
+00:07:24,950 --> 00:07:26,790
+y las entidades nacionales o las
+
+149
+00:07:26,790 --> 00:07:28,890
+entidades poblacionales que son
+
+150
+00:07:28,890 --> 00:07:31,110
+información que ya viene de Wikidata
+
+151
+00:07:31,110 --> 00:07:32,630
+esa información ya
+
+152
+00:07:32,630 --> 00:07:34,790
+las fichas que están al costado de la mayoría
+
+153
+00:07:34,790 --> 00:07:36,850
+del artículo de Wikipedia salen directamente
+
+154
+00:07:36,850 --> 00:07:39,130
+de Wikidata, ya se construyó
+
+155
+00:07:39,130 --> 00:07:40,930
+el modelo, la ontología de personas
+
+156
+00:07:40,930 --> 00:07:42,570
+y a través de las propiedades
+
+157
+00:07:42,570 --> 00:07:44,630
+y los valores de las propiedades se ha construido
+
+158
+00:07:44,630 --> 00:07:46,350
+la mayoría de las fichas en forma automática
+
+159
+00:07:46,350 --> 00:07:48,690
+antiguamente había gente que mantenía
+
+160
+00:07:48,690 --> 00:07:50,490
+esa información, pero esa
+
+161
+00:07:50,490 --> 00:07:52,510
+información o esos datos la empezaron a mover
+
+162
+00:07:52,510 --> 00:07:54,590
+a migrar a través de Wikidata, o a enviar
+
+163
+00:07:54,590 --> 00:07:56,490
+a Wikidata, y ahora se permite que
+
+164
+00:07:56,490 --> 00:07:58,350
+uno coloque un simple tag
+
+165
+00:07:58,350 --> 00:08:00,310
+y automáticamente se genera la lista
+
+166
+00:08:00,310 --> 00:08:01,970
+de toda la información de Wikidata
+
+167
+00:08:01,970 --> 00:08:04,850
+Bien, eso me imagino que simplifica
+
+168
+00:08:04,850 --> 00:08:06,090
+traducción y demás
+
+169
+00:08:06,090 --> 00:08:08,050
+los datos duros, digamos, de Wikipedia
+
+170
+00:08:08,050 --> 00:08:09,730
+están en Wikidata
+
+171
+00:08:09,730 --> 00:08:12,410
+y si mi gobierno
+
+172
+00:08:12,410 --> 00:08:14,350
+yo, por ejemplo, estoy haciendo un trabajo
+
+173
+00:08:14,350 --> 00:08:16,330
+específico de poblaciones de todas
+
+174
+00:08:16,330 --> 00:08:18,190
+las ciudades de mi provincia
+
+175
+00:08:18,190 --> 00:08:21,050
+en base a todos los padrones
+
+176
+00:08:21,050 --> 00:08:23,030
+electorales en las elecciones
+
+177
+00:08:23,030 --> 00:08:24,750
+que son cada dos años en Argentina
+
+178
+00:08:24,750 --> 00:08:26,790
+¿yo podría subir esos datos
+
+179
+00:08:26,790 --> 00:08:28,250
+a Wikidata?
+
+180
+00:08:29,910 --> 00:08:30,870
+¿Cuál es el camino
+
+181
+00:08:30,870 --> 00:08:32,650
+que alguien desde la comunidad tiene
+
+182
+00:08:32,650 --> 00:08:34,770
+datos o públicos, en mi caso
+
+183
+00:08:34,770 --> 00:08:36,310
+trabajo en un gobierno o de una ONG
+
+184
+00:08:36,310 --> 00:08:38,930
+¿puede simplemente subirlo o hay algún proceso
+
+185
+00:08:38,930 --> 00:08:39,370
+al medio?
+
+186
+00:08:41,190 --> 00:08:42,710
+Como esto se trata de no poner
+
+187
+00:08:42,710 --> 00:08:44,790
+barreras al mundo, cualquier persona
+
+188
+00:08:44,790 --> 00:08:46,530
+podría subir eventualmente
+
+189
+00:08:46,530 --> 00:08:48,990
+su dataset, hay herramientas específicas para poder
+
+190
+00:08:48,990 --> 00:08:52,090
+subirlos correctamente, que por detrás las personas que
+
+191
+00:08:52,090 --> 00:08:55,970
+crearon esto realmente son unos genios, son unos monstruos,
+
+192
+00:08:56,030 --> 00:08:57,170
+porque no es llegar y meter un dato.
+
+193
+00:08:57,330 --> 00:09:00,490
+O sea, la interfaz es bastante simple y esa interfaz uno le
+
+194
+00:09:00,490 --> 00:09:03,910
+puede llegar hasta poner referencias de dónde obtuvo el
+
+195
+00:09:03,910 --> 00:09:07,530
+dato atómico para volver a la información original.
+
+196
+00:09:08,390 --> 00:09:08,470
+¿Ya?
+
+197
+00:09:09,370 --> 00:09:11,770
+Hay herramientas especiales que uno podría subir,
+
+198
+00:09:11,890 --> 00:09:14,950
+pero eventualmente uno puede subir la información que crea
+
+199
+00:09:14,950 --> 00:09:17,130
+relevante para el elemento o para los elementos
+
+200
+00:09:17,130 --> 00:09:18,070
+que intenta describir
+
+201
+00:09:18,070 --> 00:09:20,990
+Bien, a mí me
+
+202
+00:09:20,990 --> 00:09:23,230
+pasa que cuando veo información de ciudades
+
+203
+00:09:23,230 --> 00:09:25,150
+argentinas, casi siempre
+
+204
+00:09:25,150 --> 00:09:27,170
+me aparece el dato de sismografía
+
+205
+00:09:27,170 --> 00:09:28,990
+como desconectado, y a mí me da la
+
+206
+00:09:28,990 --> 00:09:30,350
+sensación, y te lo pregunto a vos
+
+207
+00:09:30,350 --> 00:09:32,830
+si es posible que alguien haya subido
+
+208
+00:09:32,830 --> 00:09:34,850
+la información de sismos de
+
+209
+00:09:34,850 --> 00:09:36,410
+todo el siglo de Argentina
+
+210
+00:09:36,410 --> 00:09:38,670
+y eso automáticamente se publique
+
+211
+00:09:38,670 --> 00:09:41,150
+en las fichas de las ciudades, quería preguntarle si es así
+
+212
+00:09:41,150 --> 00:09:42,970
+y cómo hacen para enlazar, cómo hacen
+
+213
+00:09:42,970 --> 00:09:44,890
+con los identificadores únicos de las ciudades
+
+214
+00:09:44,890 --> 00:09:47,490
+si es que es algo de lo que vos conozcas
+
+215
+00:09:47,490 --> 00:09:51,550
+Mira, por lo menos con el tema de los sismos
+
+216
+00:09:51,550 --> 00:09:55,950
+no estoy muy familiarizado con el tema de cómo lo tienen representado en Wikidata
+
+217
+00:09:55,950 --> 00:09:57,250
+probablemente lo deben tener
+
+218
+00:09:57,250 --> 00:09:59,970
+o los sismos más importantes por localidad
+
+219
+00:09:59,970 --> 00:10:05,250
+pero en sí hay herramientas que permiten hacer el match entre los elementos
+
+220
+00:10:05,250 --> 00:10:08,490
+porque obviamente tú a un elemento le puedes decir A
+
+221
+00:10:08,490 --> 00:10:10,230
+pero nosotros en Wikidata lo tenemos como Z
+
+222
+00:10:10,230 --> 00:10:14,610
+y hay herramientas que intentan vincular las etiquetas de los elementos
+
+223
+00:10:14,610 --> 00:10:18,690
+para decir, ah, es la misma persona, o es el mismo elemento.
+
+224
+00:10:19,430 --> 00:10:23,590
+Por ejemplo, un trabajo muy lindo que hizo Wikimedia Uruguay
+
+225
+00:10:23,590 --> 00:10:26,830
+con la base de datos de autores, de autores.ui,
+
+226
+00:10:27,590 --> 00:10:29,850
+fue efectivamente pescar esta herramienta,
+
+227
+00:10:29,950 --> 00:10:33,390
+subir un dataset a Wikidata y decir, ya,
+
+228
+00:10:33,570 --> 00:10:35,470
+estos son los nombres que tenemos similares,
+
+229
+00:10:35,830 --> 00:10:39,150
+y a través de una herramienta que desarrolla la misma comunidad,
+
+230
+00:10:39,650 --> 00:10:42,090
+dice, ya, estas dos etiquetas son iguales, ya,
+
+231
+00:10:42,290 --> 00:10:44,370
+deben tratarse la misma persona probablemente,
+
+232
+00:10:44,370 --> 00:10:45,290
+y las fusiona.
+
+233
+00:10:47,030 --> 00:10:47,910
+Buenísimo. Entonces,
+
+234
+00:10:48,470 --> 00:10:50,390
+todos los gobiernos que abrimos portales
+
+235
+00:10:50,390 --> 00:10:52,770
+de datos abiertos, deberíamos
+
+236
+00:10:52,770 --> 00:10:54,610
+preparar nuestros
+
+237
+00:10:54,610 --> 00:10:56,450
+datos para que se conecten a
+
+238
+00:10:56,450 --> 00:10:58,350
+Wikipedia. ¿Eso es algo deseable
+
+239
+00:10:58,350 --> 00:11:00,330
+para ustedes? ¿Sería interesante? Porque
+
+240
+00:11:00,330 --> 00:11:02,190
+no conozco casos, quizás los hay.
+
+241
+00:11:02,310 --> 00:11:03,370
+¿Es algo que ustedes buscan?
+
+242
+00:11:04,930 --> 00:11:06,050
+No necesariamente
+
+243
+00:11:06,050 --> 00:11:07,330
+conectarse con los datos
+
+244
+00:11:07,330 --> 00:11:10,410
+de los gobiernos, sino que
+
+245
+00:11:10,410 --> 00:11:11,730
+los mismos gobiernos
+
+246
+00:11:11,730 --> 00:11:14,210
+pueden tender
+
+247
+00:11:14,210 --> 00:11:16,330
+puentes para cómo consultar esa información
+
+248
+00:11:16,330 --> 00:11:18,150
+después. Por ejemplo, Wikidata
+
+249
+00:11:18,150 --> 00:11:20,470
+lo que colecciona bastante son los identificadores
+
+250
+00:11:20,470 --> 00:11:21,870
+a otras bases de datos abiertas.
+
+251
+00:11:22,550 --> 00:11:23,830
+Por ejemplo, IMDB,
+
+252
+00:11:24,470 --> 00:11:26,370
+que es la base de datos de películas
+
+253
+00:11:26,370 --> 00:11:28,350
+de internet, nosotros lo que
+
+254
+00:11:28,350 --> 00:11:30,290
+consumimos no es la información de ellos,
+
+255
+00:11:30,390 --> 00:11:32,390
+sino que simplemente la vinculamos a través del
+
+256
+00:11:32,390 --> 00:11:34,370
+identificador. Entonces, nosotros
+
+257
+00:11:34,370 --> 00:11:36,130
+lo que buscamos es que estos datos abiertos,
+
+258
+00:11:36,310 --> 00:11:38,470
+claramente, si nos la
+
+259
+00:11:38,470 --> 00:11:40,650
+pueden subir, sí tener un vínculo
+
+260
+00:11:40,650 --> 00:11:42,390
+en una página de destino
+
+261
+00:11:42,390 --> 00:11:44,130
+que sea único para poder consumirlo,
+
+262
+00:11:44,130 --> 00:11:47,110
+Que eso es como parte de la web semántica.
+
+263
+00:11:47,230 --> 00:11:51,890
+Es decir, que tengamos una URI única para que nosotros podamos volver a volcarnos esa información allá
+
+264
+00:11:51,890 --> 00:11:53,910
+y decir que estos dos elementos son iguales.
+
+265
+00:11:54,310 --> 00:11:58,970
+Bien. Y del lado del gobierno hace falta que nosotros subamos documentos RDF
+
+266
+00:11:58,970 --> 00:12:03,710
+o con un API en formato JSON alcanza.
+
+267
+00:12:05,410 --> 00:12:09,430
+Por lo general, lo que se acostumbra es que sea una URI única.
+
+268
+00:12:09,430 --> 00:12:22,630
+O sea, si estamos hablando de elementos que sean identificadores únicos más que en un determinado formato, obviamente liberarlo en RDF es lo mejor que se puede hacer porque eso ya abre nuevos caminos para poder hacer, por ejemplo, consultas federadas.
+
+269
+00:12:22,630 --> 00:12:25,030
+Perfecto
+
+270
+00:12:25,030 --> 00:12:27,630
+O sea, si nosotros, los gobiernos
+
+271
+00:12:27,630 --> 00:12:29,190
+O las organizaciones que tienen
+
+272
+00:12:29,190 --> 00:12:31,010
+Datos abiertos
+
+273
+00:12:31,010 --> 00:12:33,710
+Mejoran un poquito el nivel de sus datos
+
+274
+00:12:33,710 --> 00:12:36,110
+Y se adecuna a la estándar, Wikipedia lo consumiría
+
+275
+00:12:36,110 --> 00:12:38,930
+No sé si decirlo en tiempo real
+
+276
+00:12:38,930 --> 00:12:39,590
+Pero ustedes
+
+277
+00:12:39,590 --> 00:12:41,810
+En vez de subírselo a ustedes los datos
+
+278
+00:12:41,810 --> 00:12:43,530
+Les pasamos los links
+
+279
+00:12:43,530 --> 00:12:45,670
+Y ustedes podrían consumir los datos
+
+280
+00:12:45,670 --> 00:12:48,630
+Y a medida que esos datos cambien, Wikipedia cambiaría dinámicamente
+
+281
+00:12:48,630 --> 00:12:49,950
+¿Así funcionaría?
+
+282
+00:12:50,710 --> 00:12:51,950
+Exacto, y más que pensar
+
+283
+00:12:51,950 --> 00:12:53,990
+solo en Wikipedia es cualquier persona que quiera
+
+284
+00:12:53,990 --> 00:12:56,030
+ser open data
+
+285
+00:12:56,030 --> 00:12:57,650
+en el mundo, porque en realidad
+
+286
+00:12:57,650 --> 00:12:59,950
+otro caso que nosotros tenemos en Chile
+
+287
+00:12:59,950 --> 00:13:01,650
+que fue muy exitoso y que yo participé
+
+288
+00:13:01,650 --> 00:13:03,950
+un poco de él, fue el tema de los
+
+289
+00:13:03,950 --> 00:13:05,770
+datos parlamentarios de la Biblioteca del Congreso
+
+290
+00:13:05,770 --> 00:13:07,930
+Nacional de Chile, que la persona
+
+291
+00:13:07,930 --> 00:13:09,850
+que lideró ese proyecto empezó
+
+292
+00:13:09,850 --> 00:13:11,790
+diciendo, esto tiene que ser open data
+
+293
+00:13:11,790 --> 00:13:14,130
+o sea, la primera
+
+294
+00:13:14,130 --> 00:13:15,790
+decisión fue, esto es open data
+
+295
+00:13:15,790 --> 00:13:17,710
+y se desarrolló
+
+296
+00:13:17,710 --> 00:13:19,970
+en seis meses una ontología bastante
+
+297
+00:13:19,970 --> 00:13:22,030
+completo para describir a todos los parlamentarios
+
+298
+00:13:22,030 --> 00:13:24,070
+y eso actualmente se puede hacer
+
+299
+00:13:24,070 --> 00:13:25,930
+lo puede consultar cualquier persona
+
+300
+00:13:25,930 --> 00:13:27,910
+y a través de vinculaciones de consultas
+
+301
+00:13:27,910 --> 00:13:29,910
+federadas puede unir dos
+
+302
+00:13:29,910 --> 00:13:31,690
+bases de datos, no es necesario
+
+303
+00:13:31,690 --> 00:13:33,850
+tener que bajar la información de una y cruzarla
+
+304
+00:13:33,850 --> 00:13:36,050
+con la otra, sino que con una consulta
+
+305
+00:13:36,050 --> 00:13:37,950
+Sparkle puede unir las dos bases de datos
+
+306
+00:13:37,950 --> 00:13:39,170
+Exacto, eso para
+
+307
+00:13:39,170 --> 00:13:41,650
+la gente que nos escucha
+
+308
+00:13:41,650 --> 00:13:43,850
+y nos estamos poniendo un poco técnico, creo que
+
+309
+00:13:43,850 --> 00:13:45,070
+la Biblioteca Nacional de Chile fue
+
+310
+00:13:45,070 --> 00:13:47,410
+por lo menos el primer caso que yo vi
+
+311
+00:13:47,410 --> 00:13:49,310
+de una entidad pública
+
+312
+00:13:49,310 --> 00:13:51,570
+que publicaba
+
+313
+00:13:51,570 --> 00:13:53,490
+documentos RDF
+
+314
+00:13:53,490 --> 00:13:55,770
+y creo que ellos, como decías vos, construyeron
+
+315
+00:13:55,770 --> 00:13:57,710
+su propia ontología, que para los que no
+
+316
+00:13:57,710 --> 00:14:00,030
+lo hicieron es una especie de diccionario
+
+317
+00:14:00,030 --> 00:14:01,770
+que describe
+
+318
+00:14:01,770 --> 00:14:03,250
+los objetos que va
+
+319
+00:14:03,250 --> 00:14:05,670
+a documentar
+
+320
+00:14:05,670 --> 00:14:07,950
+en datos. Además de la Biblioteca de Chile
+
+321
+00:14:07,950 --> 00:14:09,590
+¿hay algún caso más? Porque yo estoy pensando
+
+322
+00:14:09,590 --> 00:14:11,810
+a mí que trabajo en la ciudad de Córdoba
+
+323
+00:14:11,810 --> 00:14:13,770
+me gustaría muchísimo hacer esto
+
+324
+00:14:13,770 --> 00:14:16,130
+y además de compartir
+
+325
+00:14:16,130 --> 00:14:17,830
+algunos datos que sean interesantes
+
+326
+00:14:17,830 --> 00:14:19,430
+para Wikipedia, me gustaría
+
+327
+00:14:19,430 --> 00:14:21,610
+por ejemplo decir que soy el primer municipio
+
+328
+00:14:21,610 --> 00:14:23,570
+¿sería así o es algo que ya
+
+329
+00:14:23,570 --> 00:14:25,770
+muchos gobiernos y muchos municipios hacen?
+
+330
+00:14:25,910 --> 00:14:27,630
+¿o es algo muy poco frecuente?
+
+331
+00:14:28,730 --> 00:14:29,650
+Yo creo que
+
+332
+00:14:29,650 --> 00:14:31,650
+el primer paso lo están dando
+
+333
+00:14:31,650 --> 00:14:32,910
+muchos gobiernos
+
+334
+00:14:32,910 --> 00:14:35,470
+el gobierno de Chile lo está dando a través de
+
+335
+00:14:35,470 --> 00:14:37,590
+datos.gob.cl que son los datos
+
+336
+00:14:37,590 --> 00:14:39,110
+gubernamentales de todo el gobierno
+
+337
+00:14:39,110 --> 00:14:41,350
+además de impulsar transparencia
+
+338
+00:14:41,350 --> 00:14:43,270
+pero claro, el primer paso es tener el volumen
+
+339
+00:14:43,270 --> 00:14:45,310
+de información, pero el siguiente
+
+340
+00:14:45,310 --> 00:14:46,950
+paso es describir la información
+
+341
+00:14:46,950 --> 00:14:58,410
+Es de escribir, o sea, como decía hace un rato atrás, no basta con solamente subir un CSV, sino que tienes que tú indicarle a la persona y a las máquinas cómo se describe esa información.
+
+342
+00:14:59,290 --> 00:15:12,310
+Entonces, claro, tú puedes tener toda una página llena de CSV o PDF o Excel o algún documento de formato abierto, pero mientras tú no le digas a las personas, esto, por ejemplo, este número es un salario bruto de una persona,
+
+343
+00:15:12,530 --> 00:15:16,710
+la máquina va a seguir entendiendo que son un millón de pesos, por ejemplo.
+
+344
+00:15:16,950 --> 00:15:29,370
+Perfecto, perfecto. O sea, hay que aprender un poquito de ontologías y usar diccionarios que ya existan, porque seguramente existen muchos, de escribir los datos y subirlo.
+
+345
+00:15:29,370 --> 00:15:41,290
+Yo me comprometo por mi parte a hacer alguna experiencia porque había leído un poco de Wikidata para conversar contigo, pero por lo que me contás parece súper potente y súper interesante.
+
+346
+00:15:41,290 --> 00:15:44,470
+Quería preguntarle con respecto a los clientes de Wikidata
+
+347
+00:15:44,470 --> 00:15:48,370
+¿Wikipedia es el único cliente de Wikidata o hay todo un mundo de gente usando Wikidata?
+
+348
+00:15:49,490 --> 00:15:56,810
+Por lo menos en la lista de discusión interna y en otro mundo un poco más
+
+349
+00:15:56,810 --> 00:16:01,050
+De un nivel un poco más superior que a lo que me dedico yo que es la informática
+
+350
+00:16:01,050 --> 00:16:04,450
+Por lo menos he visto que la consumen otras bases de datos
+
+351
+00:16:04,450 --> 00:16:08,850
+Y además hay personas que la pueden consumir en forma particular con Open Refine
+
+352
+00:16:08,850 --> 00:16:11,290
+cuando hacen reconciliación de elementos
+
+353
+00:16:11,290 --> 00:16:13,290
+que eso me pareció bastante bueno
+
+354
+00:16:13,290 --> 00:16:15,050
+que la incluí hace ya un par de años
+
+355
+00:16:15,050 --> 00:16:17,610
+que uno puede ya reconciliar automáticamente
+
+356
+00:16:17,610 --> 00:16:19,450
+los elementos
+
+357
+00:16:19,450 --> 00:16:21,090
+y después inyectarlo de vuelta
+
+358
+00:16:21,090 --> 00:16:23,530
+a Wikidata, que eso también me parece
+
+359
+00:16:23,530 --> 00:16:25,570
+súper bueno. Muy potente
+
+360
+00:16:25,570 --> 00:16:27,670
+¿Buscadores como Wolfram Alpha
+
+361
+00:16:27,670 --> 00:16:28,890
+usan algo de ustedes
+
+362
+00:16:28,890 --> 00:16:31,350
+o ese tipo de emprendimientos
+
+363
+00:16:31,350 --> 00:16:33,810
+no están conectados oficialmente
+
+364
+00:16:33,810 --> 00:16:35,710
+con ustedes? Creo que no estamos
+
+365
+00:16:35,710 --> 00:16:37,650
+conectados oficialmente porque
+
+366
+00:16:37,650 --> 00:16:59,850
+porque Wolfram ya tiene bastante base de conocimiento y en sí se apoya en otro tipo de información y no en la información que genera Wikipedia por un tema más académico, desde mi punto de vista, que ellos publican información que estén revisando y que sea un aprendizaje autónomo de la misma compañía, más que un aprendizaje que hace la gente, que alimenta Wikidata.
+
+367
+00:16:59,850 --> 00:17:20,010
+Bien. Te quería preguntar, Denis, si vos en lo personal para tu trabajo diario usás datos para asistirte. Me imagino que con toda esta base de datos gigantes uno podría imaginarse un montón de gobiernos, empresas, consultores y demás mirando los datos para tomar decisiones orientadas por evidencia o mejores.
+
+368
+00:17:20,010 --> 00:17:30,050
+Te quería preguntar, ¿cómo, si en tu trabajo personal usas datos y si te parece que toda esta riqueza que da Wikidata se usa afuera, la usan los gobiernos para tomar decisiones?
+
+369
+00:17:31,050 --> 00:17:46,250
+O sea, en mi trabajo, por lo que me pagan en el día a día, usamos obviamente datos, datos, como decía hace un rato, el significado de los datos, o sea, los datos en sí hay que darle un significado,
+
+370
+00:17:46,250 --> 00:17:48,370
+hay que representarlos correctamente
+
+371
+00:17:48,370 --> 00:17:50,370
+no basta con poner un gráfico
+
+372
+00:17:50,370 --> 00:17:52,730
+y hacer un eje X, Y para decir cosas
+
+373
+00:17:52,730 --> 00:17:54,010
+sino que uno tiene que también
+
+374
+00:17:54,010 --> 00:17:55,990
+darle esa interpretación a los datos
+
+375
+00:17:55,990 --> 00:17:58,530
+tiene que intentar sacar aprendizajes
+
+376
+00:17:58,530 --> 00:18:00,410
+que las mismas personas o mismos clientes
+
+377
+00:18:00,410 --> 00:18:02,650
+tienen que aprender, los gobiernos en sí
+
+378
+00:18:02,650 --> 00:18:04,590
+también el tema de datos abiertos es muy útil
+
+379
+00:18:04,590 --> 00:18:06,430
+es demasiado útil porque
+
+380
+00:18:06,430 --> 00:18:08,630
+si uno libera datos, permite
+
+381
+00:18:08,630 --> 00:18:10,430
+que gente, no tan solo el gobierno, sino que
+
+382
+00:18:10,430 --> 00:18:12,650
+personas, investigadores, puedan desarrollar
+
+383
+00:18:12,650 --> 00:18:14,830
+sus propios modelos, tomar sus medidas
+
+384
+00:18:14,830 --> 00:18:18,010
+y sacar conclusiones que quizá el mismo gobierno debería estar observando.
+
+385
+00:18:18,910 --> 00:18:22,610
+Un caso de éxito que tenemos en Chile, no sé si es tan abierto el dato,
+
+386
+00:18:23,210 --> 00:18:29,590
+pero un socio adherente de Wikimedia Chile es investigador en la Universidad del Desarrollo,
+
+387
+00:18:29,590 --> 00:18:39,710
+si es que no mal recuerdo, y tiene todo un tema de aprendizaje, o sea, de Big Data para el transporte.
+
+388
+00:18:39,710 --> 00:19:02,550
+Y generalmente sus estudiantes sacan visualizaciones, pero muy, muy buenas, acerca de cómo en Santiago de Chile se mueve la gente, dónde están los polos de conectividad, dónde están los mayores tascos, en relación solamente a los viajes que hace la gente a través de la tarjeta VIP o el Transantiago, que la tarjeta VIP es lo mismo o algo muy similar a la SUB en Buenos Aires.
+
+389
+00:19:02,550 --> 00:19:30,510
+Bien, y ahí me contaste un ejemplo de que vos en tu trabajo usás datos, les da sentido, me contás el caso de este investigador y de sus estudiantes, no sé si tenés relación o conoces ese mundo, pero ¿conoces casos en el que los gobiernos sean los que tomen la iniciativa de mirar esos datos, darles sentido y tomar decisiones con ellos? ¿Es algo que te pasa, te hablan mucho de los gobiernos por los datos o es algo que no pasa?
+
+390
+00:19:30,510 --> 00:19:38,210
+En realidad, desde mi percepción, los gobiernos son un poco más reacios al tema de analizar datos del pasado
+
+391
+00:19:38,210 --> 00:19:42,310
+Es cierto que la evidencia de datos es bastante potente
+
+392
+00:19:42,310 --> 00:19:46,430
+Pero en sí no es como un factor determinante a la hora de tomar una decisión
+
+393
+00:19:46,430 --> 00:19:50,010
+El tema de ver el pasado o cómo evolucionaron los datos a lo largo del tiempo
+
+394
+00:19:50,010 --> 00:19:54,310
+Sino que en parte se ve un poco...
+
+395
+00:19:54,310 --> 00:19:59,670
+La discusión se ve transversalmente también por un tema político
+
+396
+00:19:59,670 --> 00:20:06,170
+Es decir, que uno puede poner la evidencia de los datos, pero también tiene que ver con una decisión política que no tan solo se basa en el dato.
+
+397
+00:20:06,450 --> 00:20:15,850
+Entonces, claro, hay gobiernos que utilizan datos, hay gobiernos que le dan sentido a los datos, hay gobiernos que le entregan la información a la gente para que la gente vaya tomando sus decisiones.
+
+398
+00:20:16,310 --> 00:20:29,110
+Pero los mismos gobiernos a veces son reacios, por lo menos en la parte que yo participé en el gobierno de Chile, son un poco más reacios a tomar decisiones que realmente impacten positivamente a la gente en pos del beneficio político.
+
+399
+00:20:30,920 --> 00:20:44,780
+Bien. Hablabas de impacto recién. Me imagino que Wikipedia como instrumento basado en datos y con impacto es altísimo.
+
+400
+00:20:44,780 --> 00:20:49,560
+Te quería preguntar si hay otras formas de llegar masivamente a mucha gente.
+
+401
+00:20:49,840 --> 00:20:59,440
+Yo te lo digo porque yo y muchos de los que escuchan trabajamos abriendo datos y muchas veces nos falta la forma de llegar a más gente,
+
+402
+00:20:59,440 --> 00:21:01,300
+de que los datos generen más impacto
+
+403
+00:21:01,300 --> 00:21:02,180
+¿qué ideas
+
+404
+00:21:02,180 --> 00:21:05,680
+vos como administrador de datos
+
+405
+00:21:05,680 --> 00:21:06,600
+o productor de datos
+
+406
+00:21:06,600 --> 00:21:09,380
+¿se te ocurren ideas o conoces casos en los que
+
+407
+00:21:09,380 --> 00:21:11,460
+un dato pueda llegar a impactar
+
+408
+00:21:11,460 --> 00:21:13,240
+en mucha gente? ¿alguna
+
+409
+00:21:13,240 --> 00:21:15,400
+recomendación, alguna sugerencia para los
+
+410
+00:21:15,400 --> 00:21:17,220
+que abrimos datos y queremos llegar a más gente?
+
+411
+00:21:20,300 --> 00:21:21,220
+Yo creo que
+
+412
+00:21:21,220 --> 00:21:23,280
+más que centrarse en qué datos
+
+413
+00:21:23,280 --> 00:21:25,200
+genera impacto, el primer paso
+
+414
+00:21:25,200 --> 00:21:26,320
+natural es ver
+
+415
+00:21:26,320 --> 00:21:29,420
+cómo yo puedo mejorar la vida de las personas
+
+416
+00:21:29,420 --> 00:21:30,480
+¿ya?
+
+417
+00:21:30,480 --> 00:21:32,720
+porque el dato que genera impacto quizás
+
+418
+00:21:32,720 --> 00:21:34,220
+lo tenemos un poco ciego
+
+419
+00:21:34,220 --> 00:21:36,700
+generalmente uno dice el dato que genera impacto
+
+420
+00:21:36,700 --> 00:21:39,180
+puede ser quizás, no sé, la tasa de estudiantes
+
+421
+00:21:39,180 --> 00:21:40,740
+contra, por ejemplo
+
+422
+00:21:40,740 --> 00:21:42,780
+embarazos antes de terminar
+
+423
+00:21:42,780 --> 00:21:44,720
+los estudios, pero ese dato ya es un
+
+424
+00:21:44,720 --> 00:21:46,820
+dato procesado, en cambio si pensamos
+
+425
+00:21:46,820 --> 00:21:48,600
+en cuáles son mis datos y
+
+426
+00:21:48,600 --> 00:21:50,340
+qué es lo que yo le quiero transmitir a la gente
+
+427
+00:21:50,340 --> 00:21:51,940
+es un paso que deberíamos
+
+428
+00:21:51,940 --> 00:21:54,380
+darnos para la reflexión de decir
+
+429
+00:21:54,380 --> 00:21:56,200
+ya, este dato lo voy a liberar
+
+430
+00:21:56,200 --> 00:21:57,960
+no con el sentido de que la gente
+
+431
+00:21:57,960 --> 00:22:00,500
+tome una decisión así fuerte
+
+432
+00:22:00,500 --> 00:22:02,320
+sino que simplemente los voy a liberar
+
+433
+00:22:02,320 --> 00:22:03,660
+para que la sociedad
+
+434
+00:22:03,660 --> 00:22:06,300
+tenga una nueva y fuerte información
+
+435
+00:22:06,300 --> 00:22:08,040
+donde poder contrastar, no sé
+
+436
+00:22:08,040 --> 00:22:10,360
+información que aparece en las noticias, con las famosas
+
+437
+00:22:10,360 --> 00:22:12,420
+fake news, con efectivamente
+
+438
+00:22:12,420 --> 00:22:14,520
+la información que me está dando la persona
+
+439
+00:22:14,520 --> 00:22:16,500
+que realmente genera el dato, la persona
+
+440
+00:22:16,500 --> 00:22:18,160
+que realmente agrupa en el dato
+
+441
+00:22:18,160 --> 00:22:20,220
+no sé si más o menos
+
+442
+00:22:20,220 --> 00:22:22,020
+puedes comprender la diferencia que quiero
+
+443
+00:22:22,020 --> 00:22:23,460
+dar en el momento
+
+444
+00:22:23,460 --> 00:22:25,960
+está clarísima, porque claro
+
+445
+00:22:25,960 --> 00:22:29,020
+los porcentajes siempre mienten
+
+446
+00:22:29,020 --> 00:22:30,460
+los promedios siempre mienten
+
+447
+00:22:30,460 --> 00:22:32,400
+porque los porcentajes no describen realidad
+
+448
+00:22:32,400 --> 00:22:34,100
+simplemente dicen que sobre
+
+449
+00:22:34,100 --> 00:22:36,560
+A partido A más B
+
+450
+00:22:36,560 --> 00:22:38,120
+se generó tal cosa
+
+451
+00:22:38,120 --> 00:22:40,540
+pero en realidad te puedo decir 50% y la muestra es
+
+452
+00:22:40,540 --> 00:22:41,320
+dos personas
+
+453
+00:22:41,320 --> 00:22:44,460
+basta con que una me diga sí y ya se varió totalmente
+
+454
+00:22:44,460 --> 00:22:46,100
+la muestra, entonces, claro
+
+455
+00:22:46,100 --> 00:22:48,480
+la idea de esto
+
+456
+00:22:48,480 --> 00:22:50,020
+es no ver cuál es el dato
+
+457
+00:22:50,020 --> 00:22:51,820
+sino que empezar a liberar
+
+458
+00:22:51,820 --> 00:22:53,460
+y a través de ir
+
+459
+00:22:53,460 --> 00:22:56,040
+haciéndole preguntas a la gente que me va consumiendo
+
+460
+00:22:56,040 --> 00:22:58,120
+los datos, ir viendo qué otros datos necesita
+
+461
+00:22:58,120 --> 00:22:59,700
+la gente para poder describir la realidad.
+
+462
+00:23:01,640 --> 00:23:02,120
+Perfecto,
+
+463
+00:23:02,200 --> 00:23:03,680
+clarísimo. Denis,
+
+464
+00:23:04,100 --> 00:23:05,840
+si te llamara
+
+465
+00:23:05,840 --> 00:23:07,960
+Piñera mañana y te dijera, Denis,
+
+466
+00:23:08,300 --> 00:23:10,040
+me gustaría que vengas al gobierno
+
+467
+00:23:10,040 --> 00:23:11,600
+a trabajar en
+
+468
+00:23:11,600 --> 00:23:13,880
+la semantización, por decirlo de una forma,
+
+469
+00:23:14,340 --> 00:23:15,840
+de todo el portal de datos para
+
+470
+00:23:15,840 --> 00:23:17,800
+conectarnos a Google Data. Si te ofreciera
+
+471
+00:23:17,800 --> 00:23:19,760
+un cargo político, director nacional
+
+472
+00:23:19,760 --> 00:23:21,720
+de datos abiertos o algo así,
+
+473
+00:23:21,720 --> 00:23:24,240
+¿aceptarías algo que te gustaría hacer?
+
+474
+00:23:27,040 --> 00:23:28,380
+Por mis colores políticos
+
+475
+00:23:28,380 --> 00:23:28,960
+no tanto
+
+476
+00:23:28,960 --> 00:23:32,120
+debo ser franco, por mis colores políticos
+
+477
+00:23:32,120 --> 00:23:34,040
+no tanto, pero en sí los desafíos
+
+478
+00:23:34,040 --> 00:23:35,900
+de los gobiernos abiertos
+
+479
+00:23:35,900 --> 00:23:38,060
+es una cosa que realmente necesitamos
+
+480
+00:23:38,060 --> 00:23:38,820
+en Latinoamérica
+
+481
+00:23:38,820 --> 00:23:42,380
+basta con ver los números de corrupción
+
+482
+00:23:42,380 --> 00:23:43,940
+o basta con ver los números
+
+483
+00:23:43,940 --> 00:23:46,040
+de la desinformación que hay
+
+484
+00:23:46,040 --> 00:23:48,260
+en la misma población acerca de lo que hace el gobierno
+
+485
+00:23:48,260 --> 00:23:50,140
+y cómo maneja las platas
+
+486
+00:23:50,140 --> 00:23:51,900
+es impresionante
+
+487
+00:23:51,900 --> 00:23:54,760
+si una persona fuera del mundo
+
+488
+00:23:54,760 --> 00:23:56,100
+de los datos, tú le preguntas, no sé
+
+489
+00:23:56,100 --> 00:23:58,400
+¿cuánto crees tú que tiene de presupuesto
+
+490
+00:23:58,400 --> 00:24:00,960
+el Ministerio de Salud o el Ministerio del Interior?
+
+491
+00:24:02,100 --> 00:24:02,820
+la gente
+
+492
+00:24:02,820 --> 00:24:04,020
+realmente te dice no sé
+
+493
+00:24:04,020 --> 00:24:06,660
+y en cambio si tú le pasas una infografía
+
+494
+00:24:06,660 --> 00:24:08,380
+que te resuma eso, inmediatamente
+
+495
+00:24:08,380 --> 00:24:10,580
+queda claro que por ejemplo en salud se gasta
+
+496
+00:24:10,580 --> 00:24:12,920
+no sé, el 10% del presupuesto
+
+497
+00:24:12,920 --> 00:24:14,660
+de la Nación, por ejemplo
+
+498
+00:24:14,660 --> 00:24:17,620
+Perfecto
+
+499
+00:24:17,620 --> 00:24:19,220
+Denis
+
+500
+00:24:19,220 --> 00:24:39,980
+Te quería consultar, ya para ir cerrando porque estamos un poquito pasados con el tiempo, te quería preguntar a quién es, este podcast se llama Cadena de Datos porque la idea es ir encadenando entrevistados y me gustaría seguir conversando y ampliando esta charla. ¿A quiénes me recomendarías vos para seguir conversando?
+
+501
+00:24:39,980 --> 00:24:42,840
+Yo te recomendaría a este investigador
+
+502
+00:24:42,840 --> 00:24:44,620
+Que te dije hace un rato
+
+503
+00:24:44,620 --> 00:24:46,520
+Que pescó, que tomó los datos
+
+504
+00:24:46,520 --> 00:24:48,260
+Del Transantiago y las tarjetas PIP
+
+505
+00:24:48,260 --> 00:24:50,640
+Y enfatizan
+
+506
+00:24:50,640 --> 00:24:52,540
+Que la gente, cómo utiliza los datos
+
+507
+00:24:52,540 --> 00:24:54,420
+Yo creo que el desafío de la gente
+
+508
+00:24:54,420 --> 00:24:56,120
+Que toma datos abiertos es
+
+509
+00:24:56,120 --> 00:24:58,520
+El siguiente paso, cómo le damos un sentido
+
+510
+00:24:58,520 --> 00:25:00,120
+A los datos, entonces esta persona
+
+511
+00:25:00,120 --> 00:25:02,080
+Trabaja en eso, en darle sentido a los datos
+
+512
+00:25:02,080 --> 00:25:04,440
+¿Cómo es el nombre
+
+513
+00:25:04,440 --> 00:25:05,240
+De este investigador?
+
+514
+00:25:06,160 --> 00:25:07,220
+Eduardo Graels
+
+515
+00:25:07,220 --> 00:25:10,120
+bien, perfecto, ¿quieres recomendar
+
+516
+00:25:10,120 --> 00:25:10,880
+a alguien más, Denis?
+
+517
+00:25:12,380 --> 00:25:14,100
+en realidad no recuerdo
+
+518
+00:25:14,100 --> 00:25:16,020
+a nadie más, a Buena y Primera
+
+519
+00:25:16,020 --> 00:25:16,900
+porque
+
+520
+00:25:16,900 --> 00:25:20,000
+Wikidata, por lo menos en Latinoamérica, estando
+
+521
+00:25:20,000 --> 00:25:22,080
+pasos de bebé todavía, somos una
+
+522
+00:25:22,080 --> 00:25:23,460
+comunidad re chiquitita que estamos
+
+523
+00:25:23,460 --> 00:25:26,000
+interesados, recién sumamos
+
+524
+00:25:26,000 --> 00:25:28,200
+50 personas a través de
+
+525
+00:25:28,200 --> 00:25:29,220
+casi todo el Cono Sur
+
+526
+00:25:29,220 --> 00:25:32,200
+pero de a poco vamos creciendo como comunidad
+
+527
+00:25:32,200 --> 00:25:34,360
+y vamos descubriendo nuevos potenciales
+
+528
+00:25:34,360 --> 00:25:36,240
+de esto, así que por ahora no se me ocurre a nadie más
+
+529
+00:25:36,240 --> 00:25:38,820
+Perfecto, entonces invitamos ya que está
+
+530
+00:25:38,820 --> 00:25:40,580
+Aprovechamos el espacio para invitar a toda la gente
+
+531
+00:25:40,580 --> 00:25:43,460
+A que se sume a estas comunidades
+
+532
+00:25:43,460 --> 00:25:45,020
+Y colabore y aporte
+
+533
+00:25:45,020 --> 00:25:47,160
+Muchísimas gracias Denis por este ratito
+
+534
+00:25:47,160 --> 00:25:48,700
+Muchas gracias a ti
+
+535
+00:25:48,700 --> 00:25:50,300
+Éxito a tu escucha
+
+536
+00:25:50,300 --> 00:25:52,480
+Y ojalá, ojalá, ojalá
+
+537
+00:25:52,480 --> 00:25:55,180
+Verlos en Wikidata, verlos entusiasmados
+
+538
+00:25:55,180 --> 00:25:57,000
+Cualquier cosa
+
+539
+00:25:57,000 --> 00:25:58,300
+Como le digo a todo el mundo
+
+540
+00:25:58,300 --> 00:26:00,320
+Siempre estamos a un correo electrónico
+
+541
+00:26:00,320 --> 00:26:02,280
+Un mensaje a lo que sea, de distancia
+
+542
+00:26:02,280 --> 00:26:04,760
+No es necesario contactarme
+
+543
+00:26:04,760 --> 00:26:06,780
+vía NASA ni vía Wikimedia Chile, sino que
+
+544
+00:26:06,780 --> 00:26:08,620
+simplemente Twitter, Whatsapp
+
+545
+00:26:08,620 --> 00:26:10,800
+o lo que sea. Bien, bien, yo por
+
+546
+00:26:10,800 --> 00:26:12,820
+mi parte lo voy a hacer, así
+
+547
+00:26:12,820 --> 00:26:14,740
+que invitamos a todo el mundo. Un abrazo, Denis, chau.
+
+548
+00:26:15,200 --> 00:26:15,860
+Chau, un gusto.
+

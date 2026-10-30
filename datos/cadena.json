@@ -1,0 +1,1379 @@
+{
+ "descripcion": "Recomendaciones de la pregunta final de cada episodio de Cadena de datos: a quién más habría que entrevistar. Extraído de transcripciones automáticas (Whisper) y revisado; los nombres con dudoso=true no se pudieron confirmar.",
+ "generado": "2026-10-29",
+ "nodos": [
+  {
+   "id": "andres-snitcofsky",
+   "nombre": "Andrés Snitcofsky",
+   "tipo": "entrevistado",
+   "episodio": "ruso",
+   "numero": 1,
+   "fecha": "2019-01-12",
+   "imagen": "audios-y-rss/audios/ruso.png",
+   "pagina": "ruso.html",
+   "dudoso": false
+  },
+  {
+   "id": "martin-alalu",
+   "nombre": "Martín Alalu",
+   "tipo": "entrevistado",
+   "episodio": "s01e02-alalu",
+   "numero": 2,
+   "fecha": "2019-01-14",
+   "imagen": "audios-y-rss/audios/s01e02-alalu.png",
+   "pagina": "s01e02-alalu.html",
+   "dudoso": false
+  },
+  {
+   "id": "ines-selvood",
+   "nombre": "Inés Selvood",
+   "tipo": "entrevistado",
+   "episodio": "s01e03-selvood",
+   "numero": 3,
+   "fecha": "2019-01-14",
+   "imagen": "audios-y-rss/audios/s01e03-selvood.jpg",
+   "pagina": "s01e03-selvood.html",
+   "dudoso": false
+  },
+  {
+   "id": "antonio-milanese",
+   "nombre": "Antonio Milanese",
+   "tipo": "entrevistado",
+   "episodio": "s01e04-tony",
+   "numero": 4,
+   "fecha": "2019-01-15",
+   "imagen": "audios-y-rss/audios/s01e04-tony.png",
+   "pagina": "s01e04-tony.html",
+   "dudoso": false
+  },
+  {
+   "id": "pablo-secchi",
+   "nombre": "Pablo Secchi",
+   "tipo": "entrevistado",
+   "episodio": "s01e05-secchi",
+   "numero": 5,
+   "fecha": "2019-01-16",
+   "imagen": "audios-y-rss/audios/s01e05-secchi.jpg",
+   "pagina": "s01e05-secchi.html",
+   "dudoso": false
+  },
+  {
+   "id": "esteban-mirofsky",
+   "nombre": "Esteban Mirofsky",
+   "tipo": "entrevistado",
+   "episodio": "s01e06-mirofsky",
+   "numero": 6,
+   "fecha": "2019-01-17",
+   "imagen": "audios-y-rss/audios/s01e06-mirofsky.png",
+   "pagina": "s01e06-mirofsky.html",
+   "dudoso": false
+  },
+  {
+   "id": "juan-ignacio-belbis",
+   "nombre": "Juan Ignacio Belbis",
+   "tipo": "entrevistado",
+   "episodio": "s01e07-juanibelbis",
+   "numero": 7,
+   "fecha": "2019-01-18",
+   "imagen": "audios-y-rss/audios/s01e07-juanibelbis.jpg",
+   "pagina": "s01e07-juanibelbis.html",
+   "dudoso": false
+  },
+  {
+   "id": "manuel-aristaran",
+   "nombre": "Manuel Aristarán",
+   "tipo": "entrevistado",
+   "episodio": "s01e08-manu",
+   "numero": 8,
+   "fecha": "2019-01-19",
+   "imagen": "audios-y-rss/audios/s01e08-manu.jpg",
+   "pagina": "s01e08-manu.html",
+   "dudoso": false
+  },
+  {
+   "id": "javier-arteaga",
+   "nombre": "Javier Arteaga",
+   "tipo": "entrevistado",
+   "episodio": "s01e09-arteaga",
+   "numero": 9,
+   "fecha": "2019-01-20",
+   "imagen": "audios-y-rss/audios/s01e09-arteaga.jpg",
+   "pagina": "s01e09-arteaga.html",
+   "dudoso": false
+  },
+  {
+   "id": "silvana-fumega",
+   "nombre": "Silvana Fumega",
+   "tipo": "entrevistado",
+   "episodio": "s01e10-fumega",
+   "numero": 10,
+   "fecha": "2019-01-21",
+   "imagen": "audios-y-rss/audios/s01e10-fumega.png",
+   "pagina": "s01e10-fumega.html",
+   "dudoso": false
+  },
+  {
+   "id": "maximiliano-chisnerman",
+   "nombre": "Maximiliano Chisnerman",
+   "tipo": "entrevistado",
+   "episodio": "s01e11-chisnerman",
+   "numero": 11,
+   "fecha": "2019-01-22",
+   "imagen": "audios-y-rss/audios/s01e11-chisnerman.jpg",
+   "pagina": "s01e11-chisnerman.html",
+   "dudoso": false
+  },
+  {
+   "id": "jorge-aznar",
+   "nombre": "Jorge Aznar",
+   "tipo": "entrevistado",
+   "episodio": "s01e12-aznar",
+   "numero": 12,
+   "fecha": "2019-01-23",
+   "imagen": "audios-y-rss/audios/s01e12-aznar.jpg",
+   "pagina": "s01e12-aznar.html",
+   "dudoso": false
+  },
+  {
+   "id": "maria-jose-vanni",
+   "nombre": "María José Vanni",
+   "tipo": "entrevistado",
+   "episodio": "s01e13-vanni",
+   "numero": 13,
+   "fecha": "2019-01-23",
+   "imagen": "audios-y-rss/audios/s01e13-vanni.jpg",
+   "pagina": "s01e13-vanni.html",
+   "dudoso": false
+  },
+  {
+   "id": "raul-olivan",
+   "nombre": "Raúl Oliván",
+   "tipo": "entrevistado",
+   "episodio": "s01e14-olivan",
+   "numero": 14,
+   "fecha": "2019-01-24",
+   "imagen": "audios-y-rss/audios/s01e14-olivan.jpg",
+   "pagina": "s01e14-olivan.html",
+   "dudoso": false
+  },
+  {
+   "id": "pablo-paladino",
+   "nombre": "Pablo H. Paladino",
+   "tipo": "entrevistado",
+   "episodio": "s01e15-pala",
+   "numero": 15,
+   "fecha": "2019-01-24",
+   "imagen": "audios-y-rss/audios/s01e15-pala.jpg",
+   "pagina": "s01e15-pala.html",
+   "dudoso": false
+  },
+  {
+   "id": "martin-sarsale",
+   "nombre": "Martín Sarsale",
+   "tipo": "entrevistado",
+   "episodio": "s01e16-runixo",
+   "numero": 16,
+   "fecha": "2019-01-30",
+   "imagen": "audios-y-rss/audios/s01e16-runixo.jpg",
+   "pagina": "s01e16-runixo.html",
+   "dudoso": false
+  },
+  {
+   "id": "julian-moyano",
+   "nombre": "Julián Moyano Collado",
+   "tipo": "entrevistado",
+   "episodio": "s01e17-julian-moyano",
+   "numero": 17,
+   "fecha": "2019-01-31",
+   "imagen": "audios-y-rss/audios/s01e17-julian-moyano.jpg",
+   "pagina": "s01e17-julian-moyano.html",
+   "dudoso": false
+  },
+  {
+   "id": "natalia-carfi",
+   "nombre": "Natalia Carfi",
+   "tipo": "entrevistado",
+   "episodio": "s01e18-carfi",
+   "numero": 18,
+   "fecha": "2019-02-04",
+   "imagen": "audios-y-rss/audios/s01e18-carfi.jpg",
+   "pagina": "s01e18-carfi.html",
+   "dudoso": false
+  },
+  {
+   "id": "fabrizio-scrollini",
+   "nombre": "Fabrizio Scrollini",
+   "tipo": "entrevistado",
+   "episodio": "s01e19-scrollini",
+   "numero": 19,
+   "fecha": "2019-02-18",
+   "imagen": "audios-y-rss/audios/s01e19-scrollini.png",
+   "pagina": "s01e19-scrollini.html",
+   "dudoso": false
+  },
+  {
+   "id": "alvaro-encina",
+   "nombre": "Álvaro Encina",
+   "tipo": "entrevistado",
+   "episodio": "s01e20-encina",
+   "numero": 20,
+   "fecha": "2019-02-28",
+   "imagen": "audios-y-rss/audios/s01e20-encina.jpg",
+   "pagina": "s01e20-encina.html",
+   "dudoso": false
+  },
+  {
+   "id": "dennis-tobar",
+   "nombre": "Dennis Tobar",
+   "tipo": "entrevistado",
+   "episodio": "s01e21-tobar",
+   "numero": 21,
+   "fecha": "2019-03-22",
+   "imagen": "audios-y-rss/audios/s01e21-tobar.jpg",
+   "pagina": "s01e21-tobar.html",
+   "dudoso": false
+  },
+  {
+   "id": "suarez-dominguez-font",
+   "nombre": "Helena Suárez y Paula Domínguez Font",
+   "tipo": "entrevistado",
+   "episodio": "s01e22-suarez-font",
+   "numero": 22,
+   "fecha": "2019-03-26",
+   "imagen": "audios-y-rss/audios/s01e22-suarez-font.png",
+   "pagina": "s01e22-suarez-font.html",
+   "dudoso": false
+  },
+  {
+   "id": "cecilia-lucca",
+   "nombre": "Cecilia Lucca",
+   "tipo": "entrevistado",
+   "episodio": "s01e23-lucca",
+   "numero": 23,
+   "fecha": "2019-04-01",
+   "imagen": "audios-y-rss/audios/s01e23-lucca.jpg",
+   "pagina": "s01e23-lucca.html",
+   "dudoso": false
+  },
+  {
+   "id": "merce-figols",
+   "nombre": "Mercè Fígols Puigbò",
+   "tipo": "entrevistado",
+   "episodio": "s02e01-merce-figols-puigbo",
+   "numero": 24,
+   "fecha": "2019-06-17",
+   "imagen": "audios-y-rss/audios/s02e01-merce-figols-puigbo.png",
+   "pagina": "s02e01-merce-figols-puigbo.html",
+   "dudoso": false
+  },
+  {
+   "id": "mariano-mosquera",
+   "nombre": "Mariano Mosquera",
+   "tipo": "entrevistado",
+   "episodio": "s02e02-mariano-mosquera",
+   "numero": 25,
+   "fecha": "2019-07-08",
+   "imagen": "audios-y-rss/audios/s02e02-mariano-mosquera.jpg",
+   "pagina": "s02e02-mariano-mosquera.html",
+   "dudoso": false
+  },
+  {
+   "id": "oleguer-sagarra",
+   "nombre": "Oleguer Sagarra",
+   "tipo": "entrevistado",
+   "episodio": "s02e03-oleguer-sagarra",
+   "numero": 26,
+   "fecha": "2019-07-11",
+   "imagen": "audios-y-rss/audios/s02e03-oleguer-sagarra.png",
+   "pagina": "s02e03-oleguer-sagarra.html",
+   "dudoso": false
+  },
+  {
+   "id": "martin-alvarez-espinar",
+   "nombre": "Martín Álvarez-Espinar",
+   "tipo": "entrevistado",
+   "episodio": "s02e04-martin-alvarez-espinar",
+   "numero": 27,
+   "fecha": "2019-07-19",
+   "imagen": "audios-y-rss/audios/s02e04-martin-alvarez-espinar.png",
+   "pagina": "s02e04-martin-alvarez-espinar.html",
+   "dudoso": false
+  },
+  {
+   "id": "juan-pablo-carranza",
+   "nombre": "Juan Pablo Carranza",
+   "tipo": "entrevistado",
+   "episodio": "s02e05-Entrevista-a-Juan-Pablo-Carranza",
+   "numero": 28,
+   "fecha": "2019-10-08",
+   "imagen": "audios-y-rss/audios/s02e05-Entrevista-a-Juan-Pablo-Carranza.png",
+   "pagina": "s02e05-Entrevista-a-Juan-Pablo-Carranza.html",
+   "dudoso": false
+  },
+  {
+   "id": "veronica-xhardez",
+   "nombre": "Verónica Xhardez",
+   "tipo": "entrevistado",
+   "episodio": "s02e06-xhardez",
+   "numero": 29,
+   "fecha": "2019-11-01",
+   "imagen": "audios-y-rss/audios/s02e06-xhardez.png",
+   "pagina": "s02e06-xhardez.html",
+   "dudoso": false
+  },
+  {
+   "id": "facundo-barrionuevo",
+   "nombre": "Facundo Barrionuevo",
+   "tipo": "entrevistado",
+   "episodio": "s02e07-facundo-barrionuevo",
+   "numero": 30,
+   "fecha": "2019-11-07",
+   "imagen": "audios-y-rss/audios/s02e07-facundo-barrionuevo.png",
+   "pagina": "s02e07-facundo-barrionuevo.html",
+   "dudoso": false
+  },
+  {
+   "id": "florencia-serale",
+   "nombre": "Florencia Serale",
+   "tipo": "entrevistado",
+   "episodio": "s02e08-serale",
+   "numero": 31,
+   "fecha": "2019-11-15",
+   "imagen": "audios-y-rss/audios/s02e08-serale.jpg",
+   "pagina": "s02e08-serale.html",
+   "dudoso": false
+  },
+  {
+   "id": "bea-hernandez",
+   "nombre": "Beatriz Hernández",
+   "tipo": "entrevistado",
+   "episodio": "s02e09-bea-hernandez",
+   "numero": 32,
+   "fecha": "2019-12-02",
+   "imagen": "audios-y-rss/audios/s02e09-bea-hernandez.jpg",
+   "pagina": "s02e09-bea-hernandez.html",
+   "dudoso": false
+  },
+  {
+   "id": "pandemia-1",
+   "nombre": "Pandemia de datos (varios invitados)",
+   "tipo": "entrevistado",
+   "episodio": "s02e34-pandemia-de-datos",
+   "numero": 33,
+   "fecha": "2020-03-28",
+   "imagen": "audios-y-rss/audios/s02e34-pandemia-de-datos.png",
+   "pagina": "s02e34-pandemia-de-datos.html",
+   "dudoso": false
+  },
+  {
+   "id": "pandemia-2",
+   "nombre": "Pandemia de datos II (varios invitados)",
+   "tipo": "entrevistado",
+   "episodio": "s02e35-pandemia-de-datos-ii",
+   "numero": 34,
+   "fecha": "2020-04-02",
+   "imagen": "audios-y-rss/audios/s02e35-pandemia-de-datos-ii.png",
+   "pagina": "s02e35-pandemia-de-datos-ii.html",
+   "dudoso": false
+  },
+  {
+   "id": "pablo-de-grande",
+   "nombre": "Pablo De Grande",
+   "tipo": "entrevistado",
+   "episodio": "s02e36-pablo-de-grande",
+   "numero": 35,
+   "fecha": "2020-12-23",
+   "imagen": "audios-y-rss/audios/s02e36-pablo-de-grande.png",
+   "pagina": "s02e36-pablo-de-grande.html",
+   "dudoso": false
+  },
+  {
+   "id": "yanina-bellini",
+   "nombre": "Yanina Bellini Saibene",
+   "tipo": "entrevistado",
+   "episodio": "s02e37-yanina-bellini",
+   "numero": 36,
+   "fecha": "2021-02-03",
+   "imagen": "audios-y-rss/audios/s02e37-yanina-bellini.jpg",
+   "pagina": "s02e37-yanina-bellini.html",
+   "dudoso": false
+  },
+  {
+   "id": "adria-mercader",
+   "nombre": "Adrià Mercader",
+   "tipo": "entrevistado",
+   "episodio": "s02e38-adria-mercader",
+   "numero": 37,
+   "fecha": "2021-02-10",
+   "imagen": "audios-y-rss/audios/s02e38-adria-mercader.jpg",
+   "pagina": "s02e38-adria-mercader.html",
+   "dudoso": false
+  },
+  {
+   "id": "laura-alonso-alemany",
+   "nombre": "Laura Alonso Alemany",
+   "tipo": "entrevistado",
+   "episodio": "s02e39-laura-alonso-alemany",
+   "numero": 38,
+   "fecha": "2021-05-18",
+   "imagen": "audios-y-rss/audios/s02e39-laura-alonso-alemany.png",
+   "pagina": "s02e39-laura-alonso-alemany.html",
+   "dudoso": false
+  },
+  {
+   "id": "dardo-ceballos",
+   "nombre": "Dardo Ceballos",
+   "tipo": "recomendado",
+   "nota": "SantaLab, Santa Fe",
+   "dudoso": false
+  },
+  {
+   "id": "mariana-romiti",
+   "nombre": "Mariana Romiti",
+   "tipo": "recomendado",
+   "nota": "SantaLab, Santa Fe",
+   "dudoso": true
+  },
+  {
+   "id": "nacho-castro",
+   "nombre": "Nacho Castro",
+   "tipo": "recomendado",
+   "nota": "Hacks/Hackers Mendoza",
+   "dudoso": true
+  },
+  {
+   "id": "emiliano-penelli",
+   "nombre": "Emiliano Penelli",
+   "tipo": "recomendado",
+   "nota": "Hacks/Hackers Mendoza",
+   "dudoso": true
+  },
+  {
+   "id": "romina-colman",
+   "nombre": "Romina Colman",
+   "tipo": "recomendado",
+   "nota": "Periodista de datos",
+   "dudoso": false
+  },
+  {
+   "id": "redaccion",
+   "nombre": "Redacción",
+   "tipo": "organizacion",
+   "nota": "Medio periodístico",
+   "dudoso": true
+  },
+  {
+   "id": "natalia-san-pietro",
+   "nombre": "Natalia San Pietro",
+   "tipo": "recomendado",
+   "nota": "Equipo de datos de Nación",
+   "dudoso": true
+  },
+  {
+   "id": "lorena-tula-del-moral",
+   "nombre": "Lorena Tula del Moral",
+   "tipo": "recomendado",
+   "nota": "Jueza, Ciudad de Buenos Aires",
+   "dudoso": false
+  },
+  {
+   "id": "pablo-casas",
+   "nombre": "Pablo Casás",
+   "tipo": "recomendado",
+   "nota": "Juez, Ciudad de Buenos Aires",
+   "dudoso": false
+  },
+  {
+   "id": "rudy-borrmann",
+   "nombre": "Rudi Borrmann",
+   "tipo": "recomendado",
+   "nota": "Ex subsecretario de Gobierno Abierto de la Nación",
+   "dudoso": false
+  },
+  {
+   "id": "gonzalo-iglesias",
+   "nombre": "Gonzalo Iglesias",
+   "tipo": "recomendado",
+   "nota": "Ex director nacional de datos",
+   "dudoso": false
+  },
+  {
+   "id": "energia-abierta",
+   "nombre": "Energía Abierta",
+   "tipo": "organizacion",
+   "nota": "Portal de datos de energía, Chile",
+   "dudoso": false
+  },
+  {
+   "id": "delia-ferreira-rubio",
+   "nombre": "Delia Ferreira Rubio",
+   "tipo": "recomendado",
+   "nota": "Presidenta de Transparencia Internacional",
+   "dudoso": false
+  },
+  {
+   "id": "eduardo-bertoni",
+   "nombre": "Eduardo Bertoni",
+   "tipo": "recomendado",
+   "nota": "Ex director de la Agencia de Acceso a la Información Pública",
+   "dudoso": false
+  },
+  {
+   "id": "tedic",
+   "nombre": "TEDIC",
+   "tipo": "organizacion",
+   "nota": "Paraguay",
+   "dudoso": false
+  },
+  {
+   "id": "cesar-hidalgo",
+   "nombre": "César Hidalgo",
+   "tipo": "recomendado",
+   "nota": "Data USA, Observatorio de la Complejidad Económica",
+   "dudoso": false
+  },
+  {
+   "id": "juan-pablo-marin",
+   "nombre": "Juan Pablo Marín",
+   "tipo": "recomendado",
+   "nota": "Datasketch, Colombia",
+   "dudoso": false
+  },
+  {
+   "id": "harold-bonilla",
+   "nombre": "Harold Bonilla",
+   "tipo": "recomendado",
+   "nota": "Gobierno Abierto de Nariño, Colombia",
+   "dudoso": false
+  },
+  {
+   "id": "momi-peralta",
+   "nombre": "Momi Peralta",
+   "tipo": "recomendado",
+   "nota": "La Nación Data",
+   "dudoso": false
+  },
+  {
+   "id": "gabriela-rodriguez",
+   "nombre": "Gabriela Rodríguez",
+   "tipo": "recomendado",
+   "nota": "Uruguay, datos y género",
+   "dudoso": false
+  },
+  {
+   "id": "ernesto-mislej",
+   "nombre": "Ernesto Mislej",
+   "tipo": "recomendado",
+   "nota": "Ciencia de datos",
+   "dudoso": false
+  },
+  {
+   "id": "carlos-selva",
+   "nombre": "Carlos Selva",
+   "tipo": "recomendado",
+   "nota": "Diputado nacional, ex intendente de Mercedes",
+   "dudoso": false
+  },
+  {
+   "id": "gustavo-bevilacqua",
+   "nombre": "Gustavo Bevilacqua",
+   "tipo": "recomendado",
+   "nota": "Diputado nacional, ex intendente de Bahía Blanca",
+   "dudoso": false
+  },
+  {
+   "id": "david-cabo",
+   "nombre": "David Cabo",
+   "tipo": "recomendado",
+   "nota": "Civio, España",
+   "dudoso": false
+  },
+  {
+   "id": "fernando-blat",
+   "nombre": "Fernando Blat",
+   "tipo": "recomendado",
+   "nota": "Populate / Gobierto, España",
+   "dudoso": false
+  },
+  {
+   "id": "alvaro-ortiz",
+   "nombre": "Álvaro Ortiz",
+   "tipo": "recomendado",
+   "nota": "Populate / Gobierto, España",
+   "dudoso": false
+  },
+  {
+   "id": "pablo-ciecode",
+   "nombre": "Pablo (Ciecode)",
+   "tipo": "recomendado",
+   "nota": "Tipi Ciudadano, España",
+   "dudoso": true
+  },
+  {
+   "id": "alberto-labarga",
+   "nombre": "Alberto Labarga",
+   "tipo": "recomendado",
+   "nota": "Ex concejal de participación ciudadana, España",
+   "dudoso": false
+  },
+  {
+   "id": "leo-martinez",
+   "nombre": "Leo Martínez",
+   "tipo": "recomendado",
+   "nota": "Informático y activista del software libre, Santa Fe",
+   "dudoso": false
+  },
+  {
+   "id": "andres-pak-linares",
+   "nombre": "Andrés Pak Linares",
+   "tipo": "recomendado",
+   "nota": "Archivo General de la Nación",
+   "dudoso": false
+  },
+  {
+   "id": "lluis-casellas",
+   "nombre": "Lluís-Esteve Casellas",
+   "tipo": "recomendado",
+   "nota": "Archivero, Girona",
+   "dudoso": false
+  },
+  {
+   "id": "cecilia-guemes",
+   "nombre": "Cecilia Güemes",
+   "tipo": "recomendado",
+   "nota": "Investigadora en gobierno abierto",
+   "dudoso": false
+  },
+  {
+   "id": "ismael-pena",
+   "nombre": "Ismael Peña-López",
+   "tipo": "recomendado",
+   "nota": "Cataluña",
+   "dudoso": false
+  },
+  {
+   "id": "felipe-mancini",
+   "nombre": "Felipe Mancini",
+   "tipo": "recomendado",
+   "nota": "Primer portal de datos de Chile",
+   "dudoso": false
+  },
+  {
+   "id": "manuel-barros",
+   "nombre": "Manuel Barros",
+   "tipo": "recomendado",
+   "nota": "Ciudadanía Inteligente, Chile",
+   "dudoso": false
+  },
+  {
+   "id": "miguel-paz",
+   "nombre": "Miguel Paz",
+   "tipo": "recomendado",
+   "nota": "Poderopedia, Chile",
+   "dudoso": false
+  },
+  {
+   "id": "andy-tow",
+   "nombre": "Andy Tow",
+   "tipo": "recomendado",
+   "nota": "Datos electorales, Argentina",
+   "dudoso": false
+  },
+  {
+   "id": "openstreetmap",
+   "nombre": "OpenStreetMap",
+   "tipo": "organizacion",
+   "nota": "Comunidad",
+   "dudoso": false
+  },
+  {
+   "id": "wikidata",
+   "nombre": "Wikidata",
+   "tipo": "organizacion",
+   "nota": "Comunidad",
+   "dudoso": false
+  },
+  {
+   "id": "julio-cerda",
+   "nombre": "Julio Cerdá",
+   "tipo": "recomendado",
+   "nota": "Archivero de Arganda del Rey",
+   "dudoso": false
+  },
+  {
+   "id": "javier-sancho",
+   "nombre": "Javier Sancho",
+   "tipo": "recomendado",
+   "nota": "Gobierno de Aragón, datos agroalimentarios",
+   "dudoso": false
+  },
+  {
+   "id": "susana-soto",
+   "nombre": "Susana Soto",
+   "tipo": "recomendado",
+   "nota": "Abriendo Datos Costa Rica",
+   "dudoso": false
+  },
+  {
+   "id": "daniel-carranza",
+   "nombre": "Daniel Carranza",
+   "tipo": "recomendado",
+   "nota": "DATA Uruguay",
+   "dudoso": false
+  },
+  {
+   "id": "danilo-espino",
+   "nombre": "Danilo Espino",
+   "tipo": "recomendado",
+   "nota": "DATA Uruguay",
+   "dudoso": true
+  },
+  {
+   "id": "ana-turi",
+   "nombre": "Ana Turi",
+   "tipo": "recomendado",
+   "nota": "DATA Uruguay",
+   "dudoso": true
+  },
+  {
+   "id": "lucia-pardo",
+   "nombre": "Lucía Pardo",
+   "tipo": "recomendado",
+   "nota": "la diaria, Uruguay",
+   "dudoso": false
+  },
+  {
+   "id": "cecilia-rodriguez",
+   "nombre": "Cecilia Rodríguez",
+   "tipo": "recomendado",
+   "nota": "Mujeres en FADU, Uruguay",
+   "dudoso": true
+  },
+  {
+   "id": "dani-villatoro",
+   "nombre": "Dani Villatoro",
+   "tipo": "recomendado",
+   "nota": "Escuela de Datos, Guatemala",
+   "dudoso": false
+  },
+  {
+   "id": "monica-meltis",
+   "nombre": "Mónica Meltis",
+   "tipo": "recomendado",
+   "nota": "Data Cívica, México",
+   "dudoso": false
+  },
+  {
+   "id": "eduardo-graells",
+   "nombre": "Eduardo Graells-Garrido",
+   "tipo": "recomendado",
+   "nota": "Investigador, Chile",
+   "dudoso": false
+  },
+  {
+   "id": "esther-huyer",
+   "nombre": "Esther Huyer",
+   "tipo": "recomendado",
+   "nota": "Portal Europeo de Datos",
+   "dudoso": false
+  },
+  {
+   "id": "montreal",
+   "nombre": "Funcionarios de Montreal",
+   "tipo": "organizacion",
+   "nota": "Ciudad de Montreal, Canadá",
+   "dudoso": true
+  },
+  {
+   "id": "transparencia-minera",
+   "nombre": "Coalición por la transparencia minera",
+   "tipo": "organizacion",
+   "nota": "Perú",
+   "dudoso": true
+  },
+  {
+   "id": "arnau-monterde",
+   "nombre": "Arnau Monterde",
+   "tipo": "recomendado",
+   "nota": "Decidim, Barcelona",
+   "dudoso": false
+  },
+  {
+   "id": "francesca-bria",
+   "nombre": "Francesca Bria",
+   "tipo": "recomendado",
+   "nota": "Ex comisionada de tecnología, Barcelona",
+   "dudoso": false
+  },
+  {
+   "id": "maria-jesus-zaragoza",
+   "nombre": "María Jesús (Zaragoza)",
+   "tipo": "recomendado",
+   "nota": "Ayuntamiento de Zaragoza",
+   "dudoso": true
+  },
+  {
+   "id": "agesic",
+   "nombre": "AGESIC",
+   "tipo": "organizacion",
+   "nota": "Uruguay",
+   "dudoso": false
+  },
+  {
+   "id": "mario-piumetto",
+   "nombre": "Mario Piumetto",
+   "tipo": "recomendado",
+   "nota": "Córdoba",
+   "dudoso": false
+  },
+  {
+   "id": "mariano-cordoba",
+   "nombre": "Mariano Córdoba",
+   "tipo": "recomendado",
+   "nota": "Investigador, mapa digital de suelos",
+   "dudoso": false
+  },
+  {
+   "id": "lina-montoya",
+   "nombre": "Lina Montoya",
+   "tipo": "recomendado",
+   "nota": "",
+   "dudoso": true
+  },
+  {
+   "id": "fernando-lopez",
+   "nombre": "Fernando López",
+   "tipo": "recomendado",
+   "nota": "Ciencia abierta y repositorios",
+   "dudoso": true
+  },
+  {
+   "id": "marcelo-cossar",
+   "nombre": "Marcelo Cossar",
+   "tipo": "recomendado",
+   "nota": "Ex secretario de Modernización, Córdoba",
+   "dudoso": true
+  },
+  {
+   "id": "guadalupe-lopez",
+   "nombre": "Guadalupe López",
+   "tipo": "recomendado",
+   "nota": "Acceso a la información, Provincia de Buenos Aires",
+   "dudoso": false
+  },
+  {
+   "id": "federico-copta",
+   "nombre": "Federico Copta",
+   "tipo": "recomendado",
+   "nota": "Vecino que pedía información pública",
+   "dudoso": true
+  },
+  {
+   "id": "martina-lalluz",
+   "nombre": "Martina (Ciudad de Buenos Aires)",
+   "tipo": "recomendado",
+   "nota": "Gobierno de la Ciudad de Buenos Aires",
+   "dudoso": true
+  },
+  {
+   "id": "colombia-dnp",
+   "nombre": "Funcionaria del DNP de Colombia",
+   "tipo": "recomendado",
+   "nota": "Departamento Nacional de Planeación",
+   "dudoso": true
+  },
+  {
+   "id": "gimena-del-rio",
+   "nombre": "Gimena del Rio",
+   "tipo": "recomendado",
+   "nota": "Humanidades digitales",
+   "dudoso": false
+  },
+  {
+   "id": "laura-acion",
+   "nombre": "Laura Acion",
+   "tipo": "recomendado",
+   "nota": "MetaDocencia",
+   "dudoso": false
+  },
+  {
+   "id": "nicolas-palopoli",
+   "nombre": "Nicolás Palopoli",
+   "tipo": "recomendado",
+   "nota": "MetaDocencia",
+   "dudoso": false
+  },
+  {
+   "id": "elio-campitelli",
+   "nombre": "Elio Campitelli",
+   "tipo": "recomendado",
+   "nota": "MetaDocencia",
+   "dudoso": false
+  },
+  {
+   "id": "paola-corrales",
+   "nombre": "Paola Corrales",
+   "tipo": "recomendado",
+   "nota": "MetaDocencia",
+   "dudoso": false
+  },
+  {
+   "id": "carlos-de-la-fuente",
+   "nombre": "Carlos de la Fuente",
+   "tipo": "recomendado",
+   "nota": "Iniciativa Aporta, España",
+   "dudoso": false
+  },
+  {
+   "id": "jose-maria-subero",
+   "nombre": "José María Subero",
+   "tipo": "recomendado",
+   "nota": "Gobierno de Aragón",
+   "dudoso": false
+  },
+  {
+   "id": "lourdes-munoz",
+   "nombre": "Lourdes Muñoz",
+   "tipo": "recomendado",
+   "nota": "Barcelona Open Data Initiative",
+   "dudoso": false
+  },
+  {
+   "id": "luciana-benotti",
+   "nombre": "Luciana Benotti",
+   "tipo": "recomendado",
+   "nota": "Investigadora, UNC",
+   "dudoso": false
+  }
+ ],
+ "enlaces": [
+  {
+   "de": "andres-snitcofsky",
+   "a": "dardo-ceballos"
+  },
+  {
+   "de": "andres-snitcofsky",
+   "a": "mariana-romiti"
+  },
+  {
+   "de": "andres-snitcofsky",
+   "a": "nacho-castro"
+  },
+  {
+   "de": "andres-snitcofsky",
+   "a": "emiliano-penelli"
+  },
+  {
+   "de": "andres-snitcofsky",
+   "a": "romina-colman"
+  },
+  {
+   "de": "andres-snitcofsky",
+   "a": "redaccion"
+  },
+  {
+   "de": "martin-alalu",
+   "a": "natalia-san-pietro"
+  },
+  {
+   "de": "martin-alalu",
+   "a": "antonio-milanese"
+  },
+  {
+   "de": "ines-selvood",
+   "a": "lorena-tula-del-moral"
+  },
+  {
+   "de": "ines-selvood",
+   "a": "pablo-casas"
+  },
+  {
+   "de": "antonio-milanese",
+   "a": "rudy-borrmann"
+  },
+  {
+   "de": "antonio-milanese",
+   "a": "gonzalo-iglesias"
+  },
+  {
+   "de": "antonio-milanese",
+   "a": "pablo-casas"
+  },
+  {
+   "de": "antonio-milanese",
+   "a": "energia-abierta"
+  },
+  {
+   "de": "pablo-secchi",
+   "a": "delia-ferreira-rubio"
+  },
+  {
+   "de": "pablo-secchi",
+   "a": "andres-snitcofsky"
+  },
+  {
+   "de": "pablo-secchi",
+   "a": "eduardo-bertoni"
+  },
+  {
+   "de": "pablo-secchi",
+   "a": "tedic"
+  },
+  {
+   "de": "esteban-mirofsky",
+   "a": "manuel-aristaran"
+  },
+  {
+   "de": "esteban-mirofsky",
+   "a": "javier-arteaga"
+  },
+  {
+   "de": "juan-ignacio-belbis",
+   "a": "manuel-aristaran"
+  },
+  {
+   "de": "juan-ignacio-belbis",
+   "a": "rudy-borrmann"
+  },
+  {
+   "de": "juan-ignacio-belbis",
+   "a": "gonzalo-iglesias"
+  },
+  {
+   "de": "manuel-aristaran",
+   "a": "cesar-hidalgo"
+  },
+  {
+   "de": "manuel-aristaran",
+   "a": "fabrizio-scrollini"
+  },
+  {
+   "de": "javier-arteaga",
+   "a": "juan-pablo-marin"
+  },
+  {
+   "de": "javier-arteaga",
+   "a": "harold-bonilla"
+  },
+  {
+   "de": "silvana-fumega",
+   "a": "romina-colman"
+  },
+  {
+   "de": "silvana-fumega",
+   "a": "momi-peralta"
+  },
+  {
+   "de": "silvana-fumega",
+   "a": "gabriela-rodriguez"
+  },
+  {
+   "de": "silvana-fumega",
+   "a": "ernesto-mislej"
+  },
+  {
+   "de": "maximiliano-chisnerman",
+   "a": "carlos-selva"
+  },
+  {
+   "de": "maximiliano-chisnerman",
+   "a": "gustavo-bevilacqua"
+  },
+  {
+   "de": "maximiliano-chisnerman",
+   "a": "cecilia-lucca"
+  },
+  {
+   "de": "jorge-aznar",
+   "a": "bea-hernandez"
+  },
+  {
+   "de": "jorge-aznar",
+   "a": "david-cabo"
+  },
+  {
+   "de": "jorge-aznar",
+   "a": "fernando-blat"
+  },
+  {
+   "de": "jorge-aznar",
+   "a": "alvaro-ortiz"
+  },
+  {
+   "de": "jorge-aznar",
+   "a": "pablo-ciecode"
+  },
+  {
+   "de": "jorge-aznar",
+   "a": "alberto-labarga"
+  },
+  {
+   "de": "maria-jose-vanni",
+   "a": "leo-martinez"
+  },
+  {
+   "de": "maria-jose-vanni",
+   "a": "andres-pak-linares"
+  },
+  {
+   "de": "maria-jose-vanni",
+   "a": "lluis-casellas"
+  },
+  {
+   "de": "raul-olivan",
+   "a": "cecilia-guemes"
+  },
+  {
+   "de": "raul-olivan",
+   "a": "dardo-ceballos"
+  },
+  {
+   "de": "raul-olivan",
+   "a": "javier-arteaga"
+  },
+  {
+   "de": "raul-olivan",
+   "a": "ismael-pena"
+  },
+  {
+   "de": "pablo-paladino",
+   "a": "natalia-carfi"
+  },
+  {
+   "de": "pablo-paladino",
+   "a": "felipe-mancini"
+  },
+  {
+   "de": "pablo-paladino",
+   "a": "fabrizio-scrollini"
+  },
+  {
+   "de": "pablo-paladino",
+   "a": "manuel-barros"
+  },
+  {
+   "de": "martin-sarsale",
+   "a": "andy-tow"
+  },
+  {
+   "de": "martin-sarsale",
+   "a": "pablo-paladino"
+  },
+  {
+   "de": "martin-sarsale",
+   "a": "openstreetmap"
+  },
+  {
+   "de": "martin-sarsale",
+   "a": "wikidata"
+  },
+  {
+   "de": "julian-moyano",
+   "a": "julio-cerda"
+  },
+  {
+   "de": "julian-moyano",
+   "a": "javier-sancho"
+  },
+  {
+   "de": "natalia-carfi",
+   "a": "susana-soto"
+  },
+  {
+   "de": "natalia-carfi",
+   "a": "daniel-carranza"
+  },
+  {
+   "de": "natalia-carfi",
+   "a": "pablo-paladino"
+  },
+  {
+   "de": "fabrizio-scrollini",
+   "a": "juan-pablo-marin"
+  },
+  {
+   "de": "fabrizio-scrollini",
+   "a": "dani-villatoro"
+  },
+  {
+   "de": "fabrizio-scrollini",
+   "a": "monica-meltis"
+  },
+  {
+   "de": "alvaro-encina",
+   "a": "felipe-mancini"
+  },
+  {
+   "de": "alvaro-encina",
+   "a": "miguel-paz"
+  },
+  {
+   "de": "dennis-tobar",
+   "a": "eduardo-graells"
+  },
+  {
+   "de": "suarez-dominguez-font",
+   "a": "silvana-fumega"
+  },
+  {
+   "de": "suarez-dominguez-font",
+   "a": "daniel-carranza"
+  },
+  {
+   "de": "suarez-dominguez-font",
+   "a": "danilo-espino"
+  },
+  {
+   "de": "suarez-dominguez-font",
+   "a": "ana-turi"
+  },
+  {
+   "de": "suarez-dominguez-font",
+   "a": "lucia-pardo"
+  },
+  {
+   "de": "suarez-dominguez-font",
+   "a": "cecilia-rodriguez"
+  },
+  {
+   "de": "cecilia-lucca",
+   "a": "rudy-borrmann"
+  },
+  {
+   "de": "cecilia-lucca",
+   "a": "gonzalo-iglesias"
+  },
+  {
+   "de": "cecilia-lucca",
+   "a": "esteban-mirofsky"
+  },
+  {
+   "de": "merce-figols",
+   "a": "martin-alvarez-espinar"
+  },
+  {
+   "de": "merce-figols",
+   "a": "esther-huyer"
+  },
+  {
+   "de": "merce-figols",
+   "a": "oleguer-sagarra"
+  },
+  {
+   "de": "mariano-mosquera",
+   "a": "montreal"
+  },
+  {
+   "de": "mariano-mosquera",
+   "a": "energia-abierta"
+  },
+  {
+   "de": "mariano-mosquera",
+   "a": "transparencia-minera"
+  },
+  {
+   "de": "oleguer-sagarra",
+   "a": "arnau-monterde"
+  },
+  {
+   "de": "oleguer-sagarra",
+   "a": "francesca-bria"
+  },
+  {
+   "de": "martin-alvarez-espinar",
+   "a": "maria-jesus-zaragoza"
+  },
+  {
+   "de": "martin-alvarez-espinar",
+   "a": "agesic"
+  },
+  {
+   "de": "juan-pablo-carranza",
+   "a": "mario-piumetto"
+  },
+  {
+   "de": "juan-pablo-carranza",
+   "a": "mariano-cordoba"
+  },
+  {
+   "de": "veronica-xhardez",
+   "a": "lina-montoya"
+  },
+  {
+   "de": "veronica-xhardez",
+   "a": "fernando-lopez"
+  },
+  {
+   "de": "facundo-barrionuevo",
+   "a": "marcelo-cossar"
+  },
+  {
+   "de": "facundo-barrionuevo",
+   "a": "guadalupe-lopez"
+  },
+  {
+   "de": "facundo-barrionuevo",
+   "a": "federico-copta"
+  },
+  {
+   "de": "florencia-serale",
+   "a": "martina-lalluz"
+  },
+  {
+   "de": "florencia-serale",
+   "a": "colombia-dnp"
+  },
+  {
+   "de": "florencia-serale",
+   "a": "martin-sarsale"
+  },
+  {
+   "de": "bea-hernandez",
+   "a": "david-cabo"
+  },
+  {
+   "de": "bea-hernandez",
+   "a": "fernando-blat"
+  },
+  {
+   "de": "pablo-de-grande",
+   "a": "gimena-del-rio"
+  },
+  {
+   "de": "yanina-bellini",
+   "a": "laura-acion"
+  },
+  {
+   "de": "yanina-bellini",
+   "a": "nicolas-palopoli"
+  },
+  {
+   "de": "yanina-bellini",
+   "a": "elio-campitelli"
+  },
+  {
+   "de": "yanina-bellini",
+   "a": "paola-corrales"
+  },
+  {
+   "de": "adria-mercader",
+   "a": "carlos-de-la-fuente"
+  },
+  {
+   "de": "adria-mercader",
+   "a": "jose-maria-subero"
+  },
+  {
+   "de": "adria-mercader",
+   "a": "lourdes-munoz"
+  },
+  {
+   "de": "laura-alonso-alemany",
+   "a": "laura-acion"
+  },
+  {
+   "de": "laura-alonso-alemany",
+   "a": "luciana-benotti"
+  }
+ ]
+}

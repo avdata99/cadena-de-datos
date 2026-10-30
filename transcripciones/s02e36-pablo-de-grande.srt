@@ -1,0 +1,4276 @@
+1
+00:00:00,000 --> 00:00:24,960
+Cadena de datos, episodio número 36. El invitado de hoy es Pablo de Grande. Pablo es doctor en Ciencias Sociales y Humanidades y licenciado en Sociología. Actualmente es profesor e investigador de CONICET, del Consejo Nacional de Investigaciones Científicas y Técnicas de la Argentina y en el Instituto de Investigación en Ciencias Sociales. Hola Pablo, buenas tardes. Muchas gracias por sumarte hoy.
+
+2
+00:00:25,400 --> 00:00:28,040
+Hola Andrés, ¿cómo estás? Un gusto participar.
+
+3
+00:00:28,540 --> 00:00:35,160
+Bueno, arranco con la primera pregunta y en general arranco queriendo conocer
+
+4
+00:00:35,160 --> 00:00:38,620
+cuál fue tu primer vínculo con el mundo de los datos abiertos.
+
+5
+00:00:38,740 --> 00:00:42,640
+Me refiero a, si te acordás, cuál fue el primer proyecto en el que interactuaste
+
+6
+00:00:42,640 --> 00:00:45,700
+con datos publicados por algún estado o alguna organización.
+
+7
+00:00:46,840 --> 00:00:49,800
+Bueno, en definitiva los primeros datos abiertos que trabajé estrictamente
+
+8
+00:00:49,800 --> 00:00:57,800
+son los datos de EPH, de los que muy tempranamente Indec publicó los microdatos.
+
+9
+00:00:58,040 --> 00:01:03,420
+datos, cosa que después por ahí no pasó con los censos y con otras fuentes de datos,
+
+10
+00:01:04,280 --> 00:01:07,440
+pero creo que la encuesta permanente de hogares...
+
+11
+00:01:07,440 --> 00:01:08,460
+¿Te acordás en qué año?
+
+12
+00:01:09,520 --> 00:01:17,420
+Sí, sí, un poquito antes del 2000, digamos, en el Instituto Germani, en el equipo ahí
+
+13
+00:01:17,420 --> 00:01:22,500
+en el programa de Agustín Salvia, yo todavía estaba participando como estudiante, digamos,
+
+14
+00:01:22,500 --> 00:01:30,500
+y en el grupo de investigación trabajaban con SPSS y con las ondas que las llaman ahí de la encuesta permanente de hogares.
+
+15
+00:01:30,860 --> 00:01:35,800
+¿Y te acordás cómo era la comunidad usuaria de datos abiertos en aquel momento?
+
+16
+00:01:35,800 --> 00:01:46,100
+¿Eran solamente investigadores o te acordás haber visto activistas, organizaciones u otra gente haciendo trabajo con datos abiertos?
+
+17
+00:01:46,100 --> 00:01:49,220
+No, bueno, ahí por ahí
+
+18
+00:01:49,220 --> 00:01:52,340
+cabría pensar esa cuestión
+
+19
+00:01:52,340 --> 00:01:54,260
+digamos, en ese momento
+
+20
+00:01:54,260 --> 00:01:56,860
+la definición que tenemos ahora de datos abiertos
+
+21
+00:01:56,860 --> 00:01:58,940
+convierte esos datos en datos abiertos
+
+22
+00:01:58,940 --> 00:02:00,920
+pero no es que en ese momento
+
+23
+00:02:00,920 --> 00:02:02,720
+los llamáramos datos abiertos
+
+24
+00:02:02,720 --> 00:02:03,080
+ni
+
+25
+00:02:03,080 --> 00:02:06,680
+qué sé yo, eran las bases
+
+26
+00:02:06,680 --> 00:02:07,740
+del SPH, digamos
+
+27
+00:02:07,740 --> 00:02:11,020
+pero todavía no se visualizaba
+
+28
+00:02:11,020 --> 00:02:12,040
+yo no visualizaba
+
+29
+00:02:12,040 --> 00:02:13,340
+por esa época
+
+30
+00:02:13,340 --> 00:02:17,040
+la cuestión del acceso a los datos
+
+31
+00:02:17,040 --> 00:02:18,920
+como un problema que tuviera un nombre
+
+32
+00:02:18,920 --> 00:02:19,980
+y que tuviera una historia
+
+33
+00:02:19,980 --> 00:02:22,080
+en ese sentido tal vez más
+
+34
+00:02:22,080 --> 00:02:24,900
+pensado más como
+
+35
+00:02:24,900 --> 00:02:26,940
+un movimiento digamos
+
+36
+00:02:26,940 --> 00:02:28,560
+preocupado por el acceso
+
+37
+00:02:28,560 --> 00:02:30,500
+mi primer contacto fue
+
+38
+00:02:30,500 --> 00:02:32,360
+en el camino de hacer el portal
+
+39
+00:02:32,360 --> 00:02:34,240
+de acta académica
+
+40
+00:02:34,240 --> 00:02:36,880
+tomar contacto con lo que
+
+41
+00:02:36,880 --> 00:02:38,280
+tiene que ver con acceso abierto
+
+42
+00:02:38,280 --> 00:02:40,560
+que es digamos como un movimiento hermano
+
+43
+00:02:40,560 --> 00:02:41,580
+de datos abiertos
+
+44
+00:02:41,580 --> 00:02:59,540
+Y toda esa preocupación por el acceso a las publicaciones científicas y lo que es en el norte el problema de las revistas pagas y en el sur el problema de que no se acceda, problemas de infraestructura, problemas de persistencia, de publicación.
+
+45
+00:02:59,540 --> 00:03:20,400
+Te adelanto una pregunta que tenía para el final, pero tenemos una ley nosotros de acceso abierto que vos corregime, entiendo que obliga a los científicos a publicar los datos de sus investigaciones y dejarlos disponibles para la comunidad.
+
+46
+00:03:20,400 --> 00:03:26,260
+Te quería preguntar si la ley es así y si efectivamente se cumple cabalmente hoy en Argentina.
+
+47
+00:03:26,260 --> 00:03:47,260
+La ley es así, es decir, da un periodo de embargo, incluso el investigador puede declarar condiciones por las cuales no pueda hacer públicos sus resultados o sus datos,
+
+48
+00:03:47,260 --> 00:03:54,200
+pero en principio impone como una obligación universal a todos los investigadores financiados con fondos del Estado Nacional
+
+49
+00:03:54,200 --> 00:04:03,200
+hacer públicos, o sea, hacer accesibles los textos que publique y hacer públicos sus datos.
+
+50
+00:04:03,820 --> 00:04:10,160
+Incluso si eso está reglamentado, yo no he visto hasta la fecha, y lo que esa ley dice es que los entes financiadores,
+
+51
+00:04:10,160 --> 00:04:28,460
+lo que en gran medida sería acá agencia y las universidades nacionales, agencia quiere decir los proyectos PICT, digamos, esas fuentes grandes de financiamiento, estarían obligadas a que en sus bases, cuando uno pide el financiamiento, uno tenga que especificar de qué manera va a asegurar que los resultados sean públicos en forma abierta.
+
+52
+00:04:28,460 --> 00:04:31,080
+yo este año
+
+53
+00:04:31,080 --> 00:04:33,180
+completé un pedido de un
+
+54
+00:04:33,180 --> 00:04:35,240
+PIP, digamos los proyectos de Conicet
+
+55
+00:04:35,240 --> 00:04:37,220
+y estoy participando de un PICT
+
+56
+00:04:37,220 --> 00:04:39,120
+y en ninguno de los dos
+
+57
+00:04:39,120 --> 00:04:40,920
+formularios yo vi que hubiera una sección donde uno
+
+58
+00:04:40,920 --> 00:04:42,400
+tuviera que prometer eso
+
+59
+00:04:42,400 --> 00:04:45,100
+y menos un control por el cual
+
+60
+00:04:45,100 --> 00:04:46,440
+hubiera que cumplir eso
+
+61
+00:04:46,440 --> 00:04:49,020
+así que pienso que hay que dar una deuda
+
+62
+00:04:49,020 --> 00:04:50,940
+de cumplimiento y de exigencia
+
+63
+00:04:50,940 --> 00:04:52,540
+no hay un lugar
+
+64
+00:04:52,540 --> 00:04:53,940
+que te simplifica
+
+65
+00:04:53,940 --> 00:04:56,940
+vos y la gente
+
+66
+00:04:56,940 --> 00:04:58,700
+que te financia tienen que encargarse
+
+67
+00:04:58,700 --> 00:05:00,440
+de encontrar el lugar para publicarlo
+
+68
+00:05:00,440 --> 00:05:02,020
+pero no está centralizado
+
+69
+00:05:02,020 --> 00:05:04,040
+en un portal único, hoy
+
+70
+00:05:04,040 --> 00:05:08,070
+bueno, claro, ese es, o sea
+
+71
+00:05:08,070 --> 00:05:10,510
+sí, a tu pregunta, digamos
+
+72
+00:05:10,510 --> 00:05:12,010
+es como si
+
+73
+00:05:12,010 --> 00:05:15,770
+respecto a esa ley
+
+74
+00:05:15,770 --> 00:05:18,530
+se han generado repositorios en alguna medida
+
+75
+00:05:18,530 --> 00:05:20,250
+esos repositorios
+
+76
+00:05:20,250 --> 00:05:21,790
+pueden o no tener información
+
+77
+00:05:21,790 --> 00:05:24,230
+hasta donde yo tengo, digamos
+
+78
+00:05:24,230 --> 00:05:25,830
+contacto cotidiano
+
+79
+00:05:25,830 --> 00:05:27,410
+no es algo
+
+80
+00:05:27,410 --> 00:05:30,310
+sobre lo que se haya presionado particularmente
+
+81
+00:05:30,310 --> 00:05:32,030
+en los ámbitos que yo participo
+
+82
+00:05:32,030 --> 00:05:33,790
+por lo menos a los investigadores
+
+83
+00:05:33,790 --> 00:05:35,130
+para que esté esa accesibilidad
+
+84
+00:05:35,130 --> 00:05:37,310
+y como investigador de CONICET
+
+85
+00:05:37,310 --> 00:05:39,130
+te puedo decir que no hay un repositorio de datos
+
+86
+00:05:39,130 --> 00:05:41,690
+donde yo como investigador de CONICET lo pueda subir
+
+87
+00:05:41,690 --> 00:05:43,970
+ni que en los proyectos que participo
+
+88
+00:05:43,970 --> 00:05:46,470
+se me exige que lo suba a algún repositorio
+
+89
+00:05:46,470 --> 00:05:46,710
+entonces
+
+90
+00:05:46,710 --> 00:05:50,170
+si bien no están disponibles los repositorios de datos
+
+91
+00:05:50,170 --> 00:05:51,790
+como tampoco está la exigencia
+
+92
+00:05:51,790 --> 00:05:53,730
+todavía no se ha convertido en un problema
+
+93
+00:05:53,730 --> 00:05:54,270
+me parece
+
+94
+00:05:54,270 --> 00:05:58,070
+a pesar de que la ley existe hace varios años
+
+95
+00:05:58,070 --> 00:05:59,590
+e incluso su reglamentación
+
+96
+00:05:59,590 --> 00:06:01,730
+bien, bien, bien
+
+97
+00:06:01,730 --> 00:06:06,070
+te llevo a uno de los proyectos tuyos
+
+98
+00:06:06,070 --> 00:06:08,110
+sobre los cuales me interesa mucho conversar
+
+99
+00:06:08,110 --> 00:06:11,510
+yo conocí un poco de tu trabajo
+
+100
+00:06:11,510 --> 00:06:12,670
+hace algunos años
+
+101
+00:06:12,670 --> 00:06:16,110
+analizando los datos del censo de Argentina
+
+102
+00:06:16,110 --> 00:06:18,470
+con el software Redatam
+
+103
+00:06:18,470 --> 00:06:20,910
+y antes de preguntarte
+
+104
+00:06:20,910 --> 00:06:22,550
+cómo fue ese trabajo
+
+105
+00:06:22,550 --> 00:06:24,190
+te quería preguntar
+
+106
+00:06:24,190 --> 00:06:25,270
+¿qué es Redatam?
+
+107
+00:06:25,370 --> 00:06:26,810
+para la gente que no lo conoce
+
+108
+00:06:26,810 --> 00:06:28,130
+ok
+
+109
+00:06:28,130 --> 00:06:31,630
+sí, Redatam es un paquete estadístico
+
+110
+00:06:31,630 --> 00:06:33,610
+que armó la CELADE
+
+111
+00:06:33,610 --> 00:06:35,230
+dentro de la CEPAL
+
+112
+00:06:35,230 --> 00:06:37,390
+algo en definitiva de Naciones Unidas
+
+113
+00:06:37,390 --> 00:06:37,790
+hace
+
+114
+00:06:37,790 --> 00:06:40,890
+más de 20 años ya
+
+115
+00:06:40,890 --> 00:06:43,430
+con la intención de que fuera
+
+116
+00:06:43,430 --> 00:06:44,370
+simple
+
+117
+00:06:44,370 --> 00:06:47,350
+distribuir los censos en un formato
+
+118
+00:06:47,350 --> 00:06:48,190
+de CD-ROM
+
+119
+00:06:48,190 --> 00:06:50,010
+en esos formatos
+
+120
+00:06:50,010 --> 00:06:52,070
+de finales
+
+121
+00:06:52,070 --> 00:06:52,810
+del siglo XX
+
+122
+00:06:52,810 --> 00:06:56,250
+y que fuera como autocontenido
+
+123
+00:06:56,250 --> 00:06:57,950
+que uno ahí pudiera pedir unos tabulados
+
+124
+00:06:57,950 --> 00:06:59,970
+unas salidas, decir bueno, cuántas personas
+
+125
+00:06:59,970 --> 00:07:01,030
+viven por provincia
+
+126
+00:07:01,030 --> 00:07:04,390
+y que ese software
+
+127
+00:07:04,390 --> 00:07:06,330
+contuviera, ya resolviera
+
+128
+00:07:06,330 --> 00:07:08,210
+la consulta y mostrara los totales
+
+129
+00:07:08,210 --> 00:07:10,030
+sin tener que distribuir los datos
+
+130
+00:07:10,030 --> 00:07:11,890
+y sin hacer que los usuarios tengan
+
+131
+00:07:11,890 --> 00:07:13,770
+que conocer una herramienta para analizar
+
+132
+00:07:13,770 --> 00:07:16,090
+eso es lo que hace hasta hoy día Redatam
+
+133
+00:07:16,090 --> 00:07:18,370
+y se han publicado
+
+134
+00:07:18,370 --> 00:07:19,890
+censos de muchos países usando
+
+135
+00:07:19,890 --> 00:07:22,190
+ese software desde entonces.
+
+136
+00:07:22,450 --> 00:07:28,650
+O sea, muchos países se benefician usando gratuitamente este software,
+
+137
+00:07:29,510 --> 00:07:31,930
+que no es libre, entiendo, el código no es libre,
+
+138
+00:07:32,090 --> 00:07:34,550
+pero sí es gratuito para los países que lo quieran usar.
+
+139
+00:07:34,550 --> 00:07:40,730
+Y según entiendo, cuando vos analizabas los datos de los censos argentinos
+
+140
+00:07:40,730 --> 00:07:44,990
+usando este paquete estadístico, te encontraste con algunas limitaciones
+
+141
+00:07:44,990 --> 00:07:46,510
+y decidiste resolverlo.
+
+142
+00:07:46,510 --> 00:07:50,290
+Pero quería preguntarte, ¿cuáles son las limitaciones y cómo decidiste resolverlo?
+
+143
+00:07:52,330 --> 00:07:57,190
+Bien, sí, por un lado estaban las, digamos, cuando uno quiere hacer análisis estadístico,
+
+144
+00:07:57,430 --> 00:08:03,270
+que eso no quiero meter en cosas muy técnicas, pero digamos, cosas que son cotidianas para un análisis,
+
+145
+00:08:03,270 --> 00:08:10,090
+hacer clústeres, hacer regresiones logísticas, hacer, bueno, la mayoría, digamos,
+
+146
+00:08:10,290 --> 00:08:15,590
+e incluso decir, bueno, pero quiero combinar esta variable con esta variable con esta variable
+
+147
+00:08:15,590 --> 00:08:20,130
+con esta variable y manejarse rápidamente con los datos, uno se encontraba con la limitación
+
+148
+00:08:20,130 --> 00:08:26,310
+de que publicar el censo con Redatam implica que uno, finalmente, si uno quiere analizar
+
+149
+00:08:26,310 --> 00:08:28,650
+con un paquete estadístico los datos, no los tiene los datos.
+
+150
+00:08:29,290 --> 00:08:33,410
+No es la base de micro datos, digamos, cada persona en una fila lo que uno tiene,
+
+151
+00:08:34,070 --> 00:08:38,590
+sino que es un software propietario donde uno puede hacer algunas salidas relativamente simples
+
+152
+00:08:38,590 --> 00:08:42,390
+y algunas un poco más complicadas con un lenguaje propio que tiene.
+
+153
+00:08:42,390 --> 00:08:54,870
+Pero que no incluye ninguna de todos estos análisis más complejos, que es muy apropiado hacer con datos sensales, porque justamente uno tiene mucho detalle de datos y finalmente no se podían aprovechar esos datos.
+
+154
+00:08:55,090 --> 00:09:06,490
+Vos necesitabas los datos crudos, digamos el CSV o lo que sea, pero fila por fila los 40 millones de habitantes para tener la libertad de hacer todos estos análisis que me decís.
+
+155
+00:09:06,490 --> 00:09:24,830
+Claro, por lo menos si uno quiere decir, bueno, ¿cuál es la probabilidad, algunas publicaciones posteriores que salieron? ¿Cuál es la probabilidad de que un chico o una chica de 15 años deje la secundaria en tercer año? ¿Cómo influye la edad de los adultos de la casa, su ocupación, el tipo de vivienda?
+
+156
+00:09:24,830 --> 00:09:39,990
+Y 8 factores más o 10 factores más de la vivienda, de quienes viven y de la persona misma, bueno, eso era imposible a pesar de que de alguna manera los datos estaban. Entonces, si yo podía obtener, si yo podía leer cada registro, iba a poder hacer eso.
+
+157
+00:09:39,990 --> 00:09:55,530
+Bien, ¿y cómo lo resolviste? Porque entiendo que Redatama anuncia en la información, vos ves que ellos dicen que la información está cifrada para cuidar la privacidad de las personas y para que no se pueda hacer un mal uso de estos datos.
+
+158
+00:09:56,090 --> 00:09:59,570
+¿Qué encontraste vos cuando te metiste dentro?
+
+159
+00:09:59,570 --> 00:10:03,110
+ahí me llevé
+
+160
+00:10:03,110 --> 00:10:04,210
+varias sorpresas porque
+
+161
+00:10:04,210 --> 00:10:06,570
+en principio fue digamos
+
+162
+00:10:06,570 --> 00:10:08,950
+una cuestión exploratoria de decir
+
+163
+00:10:08,950 --> 00:10:11,110
+bueno veamos que tan protegidos están los datos
+
+164
+00:10:11,110 --> 00:10:13,290
+veamos que tan lejos estoy de poder ver algo
+
+165
+00:10:13,290 --> 00:10:17,090
+porque efectivamente
+
+166
+00:10:17,090 --> 00:10:19,270
+lo que se publica en la página y en artículos
+
+167
+00:10:19,270 --> 00:10:20,790
+de revistas revisadas por pares
+
+168
+00:10:20,790 --> 00:10:22,710
+lo que el grupo que hace Redatam dice
+
+169
+00:10:22,710 --> 00:10:24,450
+desde hace 25 o 30 años
+
+170
+00:10:24,450 --> 00:10:26,730
+es que los datos están encriptados
+
+171
+00:10:26,730 --> 00:10:29,090
+que están transformados de diferentes
+
+172
+00:10:29,090 --> 00:10:30,730
+maneras, que están compactados
+
+173
+00:10:30,730 --> 00:10:32,910
+usan varios términos para decir
+
+174
+00:10:32,910 --> 00:10:34,850
+que le garantizan a las oficinas estadísticas
+
+175
+00:10:34,850 --> 00:10:35,770
+que nadie los va a poder leer
+
+176
+00:10:35,770 --> 00:10:38,910
+pero bueno, no sé
+
+177
+00:10:38,910 --> 00:10:41,370
+yo me puse a mirarlos de todas maneras
+
+178
+00:10:41,370 --> 00:10:42,850
+empezó un poco
+
+179
+00:10:42,850 --> 00:10:44,930
+también, bueno uno tiene
+
+180
+00:10:44,930 --> 00:10:47,010
+los datos ahí, digamos la carpeta de red
+
+181
+00:10:47,010 --> 00:10:48,970
+también, empezar a mirar y en algún
+
+182
+00:10:48,970 --> 00:10:50,830
+momento empezar a ver que por cada variable
+
+183
+00:10:50,830 --> 00:10:52,370
+había un archivo y que
+
+184
+00:10:52,370 --> 00:10:54,890
+si una base era más chica, esos archivos
+
+185
+00:10:54,890 --> 00:10:56,850
+que había cierta relación entre
+
+186
+00:10:56,850 --> 00:10:58,870
+los datos que uno conocía y los
+
+187
+00:10:58,870 --> 00:11:00,690
+archivos que uno veía
+
+188
+00:11:00,690 --> 00:11:03,050
+lo que se llama ingeniería inversa
+
+189
+00:11:03,050 --> 00:11:03,590
+de alguna forma
+
+190
+00:11:03,590 --> 00:11:05,290
+y a partir de ahí empecé a tomarme un poco más en serio
+
+191
+00:11:05,290 --> 00:11:07,070
+hacer un análisis exhaustivo
+
+192
+00:11:07,070 --> 00:11:10,230
+de qué tan posible era leer esos datos
+
+193
+00:11:10,230 --> 00:11:12,730
+pensando en los dos productos
+
+194
+00:11:12,730 --> 00:11:14,810
+en poder responderle a las oficinas
+
+195
+00:11:14,810 --> 00:11:16,510
+estadísticas que habían confiado
+
+196
+00:11:16,510 --> 00:11:18,830
+durante 30 años en la celada
+
+197
+00:11:18,830 --> 00:11:20,730
+en la cuestión de que sus microdatos no iban a ser
+
+198
+00:11:20,730 --> 00:11:22,250
+leídos, dado que
+
+199
+00:11:22,250 --> 00:11:24,970
+por lo que busqué ninguna oficina, ni ellos mismos
+
+200
+00:11:24,970 --> 00:11:26,950
+explicaban de manera abierta
+
+201
+00:11:26,950 --> 00:11:28,710
+cuál era la técnica de protección que usaban
+
+202
+00:11:28,710 --> 00:11:32,490
+entonces por un lado estaba ese servicio
+
+203
+00:11:32,490 --> 00:11:33,770
+que de alguna manera yo podía dar
+
+204
+00:11:33,770 --> 00:11:36,010
+decir ok, si son seguros y de tal manera
+
+205
+00:11:36,010 --> 00:11:38,410
+y por otro
+
+206
+00:11:38,410 --> 00:11:39,750
+bueno, si no lo eran
+
+207
+00:11:39,750 --> 00:11:42,370
+se iban a poder leer los datos para hacer análisis estadístico
+
+208
+00:11:42,370 --> 00:11:43,470
+lo cual era muy interesante
+
+209
+00:11:43,470 --> 00:11:47,010
+y entonces
+
+210
+00:11:47,010 --> 00:11:49,310
+¿qué encontraste?
+
+211
+00:11:49,610 --> 00:11:51,310
+encontraste que podías
+
+212
+00:11:51,310 --> 00:11:53,370
+desencriptar
+
+213
+00:11:53,370 --> 00:11:54,490
+si corresponde la palabra
+
+214
+00:11:54,490 --> 00:11:57,290
+o extraer los datos
+
+215
+00:11:57,290 --> 00:11:59,370
+de CCD para usarlo de la forma completa
+
+216
+00:11:59,370 --> 00:12:00,670
+¿Lo pudiste hacer?
+
+217
+00:12:00,970 --> 00:12:02,530
+Claro, sí
+
+218
+00:12:02,530 --> 00:12:04,490
+Lo que encontré era que ellos no
+
+219
+00:12:04,490 --> 00:12:06,650
+Que no estaban comprimidos
+
+220
+00:12:06,650 --> 00:12:07,390
+Que no estaban
+
+221
+00:12:07,390 --> 00:12:09,830
+Encriptados
+
+222
+00:12:09,830 --> 00:12:12,670
+Yo habiendo trabajado con algunas cuestiones
+
+223
+00:12:12,670 --> 00:12:13,310
+De encriptación
+
+224
+00:12:13,310 --> 00:12:16,690
+Había algunos niveles de encriptación que se podían llegar
+
+225
+00:12:16,690 --> 00:12:18,250
+A tratar de desencriptar
+
+226
+00:12:18,250 --> 00:12:20,350
+Si era alguna inscripción relativamente simple
+
+227
+00:12:20,350 --> 00:12:22,490
+Pero resultó ser que no había
+
+228
+00:12:22,490 --> 00:12:23,690
+Ninguna inscripción en los datos
+
+229
+00:12:23,690 --> 00:12:26,650
+Que estaban simplemente guardados
+
+230
+00:12:26,650 --> 00:12:27,770
+En forma binaria
+
+231
+00:12:27,770 --> 00:12:30,130
+digamos, ¿no? Entonces, con binaria
+
+232
+00:12:30,130 --> 00:12:31,610
+quiero decir que no eran archivos de texto
+
+233
+00:12:31,610 --> 00:12:34,210
+binaria, como no sé
+
+234
+00:12:34,210 --> 00:12:35,490
+como el antiguo formato de Word
+
+235
+00:12:35,490 --> 00:12:37,770
+que no era texto
+
+236
+00:12:37,770 --> 00:12:40,290
+pero que en definitiva
+
+237
+00:12:40,290 --> 00:12:41,770
+había un archivo para cada variable
+
+238
+00:12:41,770 --> 00:12:43,950
+y que si la variable tenía
+
+239
+00:12:43,950 --> 00:12:45,670
+los grados de libertad que tenía
+
+240
+00:12:45,670 --> 00:12:47,690
+era que variaba de 0 a 3, bueno, iba a estar
+
+241
+00:12:47,690 --> 00:12:49,990
+iba a ocupar dos bits cada uno
+
+242
+00:12:49,990 --> 00:12:51,550
+y que si uno empezaba a recorrer los datos
+
+243
+00:12:51,550 --> 00:12:53,830
+y a achicarlos un poco, podía ir encontrando
+
+244
+00:12:53,830 --> 00:12:56,110
+para cada tipo de dato
+
+245
+00:12:56,110 --> 00:12:59,110
+cuál era la manera en que estaban serializados
+
+246
+00:12:59,110 --> 00:13:00,590
+y maneras de
+
+247
+00:13:00,590 --> 00:13:03,130
+entonces de poder volverlos a convertir
+
+248
+00:13:03,130 --> 00:13:04,510
+en un formato legible
+
+249
+00:13:04,510 --> 00:13:07,090
+entonces me imagino que fue un trabajo arduo
+
+250
+00:13:07,090 --> 00:13:09,130
+y largo donde fuiste variable por variable
+
+251
+00:13:09,130 --> 00:13:10,230
+archivo por archivo
+
+252
+00:13:10,230 --> 00:13:13,030
+y conseguiste sacar todos los datos
+
+253
+00:13:13,030 --> 00:13:14,710
+que en teoría no se podían sacar
+
+254
+00:13:14,710 --> 00:13:17,010
+exacto
+
+255
+00:13:17,010 --> 00:13:18,310
+y se lo avisaste
+
+256
+00:13:18,310 --> 00:13:20,210
+dale
+
+257
+00:13:20,210 --> 00:13:22,590
+seguí por favor
+
+258
+00:13:22,590 --> 00:13:40,010
+Sí, no, iba a decir que algo que me encontré en el proceso era que ellos fueron cambiando a medida que hacían versiones nuevas, bueno, había habido cambios históricos, digamos, dado que el uso del software se extiende como por 30 años.
+
+259
+00:13:40,710 --> 00:13:45,990
+Entonces, después de tener una versión que leía bien las bases con las que yo contaba
+
+260
+00:13:45,990 --> 00:13:50,970
+y que a mí en principio podía usar como muestras, más las que podía generar,
+
+261
+00:13:51,030 --> 00:13:54,150
+porque ellos tenían el paquete para generar bases nuevas, entonces yo generé bases sencillas
+
+262
+00:13:54,150 --> 00:13:59,490
+y las fui probando, después tomé bases que estaban accesibles en general de censos o de encuestas,
+
+263
+00:14:00,450 --> 00:14:06,930
+y habiendo publicado eso, pasó que hubo personas que querían usarlo para bases que tenían
+
+264
+00:14:06,930 --> 00:14:08,470
+de otros países
+
+265
+00:14:08,470 --> 00:14:10,470
+y se encontraban que tal vez no funcionaba
+
+266
+00:14:10,470 --> 00:14:13,050
+y que entonces se ponían en contacto y mandaban su base
+
+267
+00:14:13,050 --> 00:14:14,230
+decían, mira, con esto no me funciona
+
+268
+00:14:14,230 --> 00:14:14,990
+bueno, lo miramos
+
+269
+00:14:14,990 --> 00:14:17,630
+y entonces ahí hubo un proceso un poco extendido
+
+270
+00:14:17,630 --> 00:14:18,690
+sobre todo en el primer año
+
+271
+00:14:18,690 --> 00:14:21,590
+de ir haciéndola un poco más permeable
+
+272
+00:14:21,590 --> 00:14:24,090
+a estos cambios que históricamente había tenido el formato
+
+273
+00:14:24,090 --> 00:14:26,890
+¿Y se lo comunicaste todo esto al equipo de Redatam?
+
+274
+00:14:27,290 --> 00:14:30,130
+¿Le dijiste, miren, pude desencriptar
+
+275
+00:14:30,130 --> 00:14:32,530
+o extraer los datos que en teoría no se pueden extraer?
+
+276
+00:14:32,530 --> 00:14:36,110
+yo primero había tratado
+
+277
+00:14:36,110 --> 00:14:37,610
+de hacer un contacto que no
+
+278
+00:14:37,610 --> 00:14:39,250
+me había conducido a mucho
+
+279
+00:14:39,250 --> 00:14:41,990
+después como yo
+
+280
+00:14:41,990 --> 00:14:43,590
+me había encontrado que el Redatam web
+
+281
+00:14:43,590 --> 00:14:46,090
+tenía un problemita que hacía que uno pudiera
+
+282
+00:14:46,090 --> 00:14:47,710
+bajar las bases de Redatam
+
+283
+00:14:47,710 --> 00:14:50,230
+desde la página web
+
+284
+00:14:50,230 --> 00:14:52,010
+viste que ellos publicaron
+
+285
+00:14:52,010 --> 00:14:53,150
+una parte web también
+
+286
+00:14:53,150 --> 00:14:55,830
+para que puedas hacer la consulta desde la web
+
+287
+00:14:55,830 --> 00:14:57,610
+desde hace algunos años hay una versión web
+
+288
+00:14:57,610 --> 00:14:58,490
+del sistema
+
+289
+00:14:58,490 --> 00:15:01,790
+claro, como lo tiene el INDEC
+
+290
+00:15:01,790 --> 00:15:08,650
+Bueno, ellos tenían un problemita de seguridad que hacía que uno se podía bajar todos los archivos de la base de RedATAM,
+
+291
+00:15:08,750 --> 00:15:14,690
+no solo las consultas, por cómo tenían implementado los pedidos de los reportes.
+
+292
+00:15:16,230 --> 00:15:21,590
+Y como yo experimentando un poco ahí, poniendo un servidor propio mío y mirando eso, había visto que eso tenía ese problema,
+
+293
+00:15:22,450 --> 00:15:26,690
+en ese momento los contacté comentándoles que había encontrado un problema de seguridad
+
+294
+00:15:26,690 --> 00:15:28,290
+que hacía que todas las bases que ellos
+
+295
+00:15:28,290 --> 00:15:29,790
+en principio en el servidor web
+
+296
+00:15:29,790 --> 00:15:31,850
+estaban como escondidas atrás del servidor
+
+297
+00:15:31,850 --> 00:15:33,210
+se descarguen
+
+298
+00:15:33,210 --> 00:15:35,710
+y ahí me respondieron
+
+299
+00:15:35,710 --> 00:15:37,870
+cuando yo les conté eso
+
+300
+00:15:37,870 --> 00:15:38,830
+me respondieron
+
+301
+00:15:38,830 --> 00:15:41,310
+y tuvimos algunos intercambios
+
+302
+00:15:41,310 --> 00:15:43,330
+y les conté más o menos cuáles eran los pasos
+
+303
+00:15:43,330 --> 00:15:45,270
+para descargar así las bases enteras
+
+304
+00:15:45,270 --> 00:15:47,710
+y para que pudieran hacer un patch o algo
+
+305
+00:15:47,710 --> 00:15:50,830
+entonces ahí
+
+306
+00:15:50,830 --> 00:15:53,170
+me agradecieron
+
+307
+00:15:53,170 --> 00:15:55,370
+se comprometieron a hacer el patch y distribuirlo
+
+308
+00:15:55,370 --> 00:15:57,730
+y después les pregunté si tenía alguna opinión
+
+309
+00:15:57,730 --> 00:15:59,470
+que yo era también la persona que había hecho el conversor
+
+310
+00:15:59,470 --> 00:16:00,830
+si tenía alguna opinión de eso
+
+311
+00:16:00,830 --> 00:16:02,210
+pero ahí no
+
+312
+00:16:02,210 --> 00:16:03,750
+no hubo más respuesta
+
+313
+00:16:03,750 --> 00:16:07,070
+oficialmente no se enahujaron contigo
+
+314
+00:16:07,070 --> 00:16:08,670
+alguien te excusó de hacker porque
+
+315
+00:16:08,670 --> 00:16:10,490
+estamos en momentos en que
+
+316
+00:16:10,490 --> 00:16:12,410
+personas que hacen lo que vos haces
+
+317
+00:16:12,410 --> 00:16:14,430
+que es descubrir problemas
+
+318
+00:16:14,430 --> 00:16:16,810
+o tratar de conocer un poquito más la tecnología
+
+319
+00:16:16,810 --> 00:16:18,690
+hay personas que han sufrido allanamientos
+
+320
+00:16:18,690 --> 00:16:20,270
+y demás, ¿alguien
+
+321
+00:16:20,270 --> 00:16:22,470
+te trató de malo?
+
+322
+00:16:23,470 --> 00:16:25,050
+¿reciiste alguna crítica?
+
+323
+00:16:25,050 --> 00:16:25,490
+o no?
+
+324
+00:16:26,970 --> 00:16:28,390
+No, por suerte no.
+
+325
+00:16:30,070 --> 00:16:31,070
+En particular
+
+326
+00:16:31,070 --> 00:16:32,090
+lo que yo hice,
+
+327
+00:16:33,230 --> 00:16:35,130
+si bien, digamos, tuve algunas charlas
+
+328
+00:16:35,130 --> 00:16:36,930
+y algunas con colegas
+
+329
+00:16:36,930 --> 00:16:38,510
+antes de publicarlo para pensar
+
+330
+00:16:38,510 --> 00:16:40,530
+qué impacto, qué implicancias negativas
+
+331
+00:16:40,530 --> 00:16:41,090
+podía tener,
+
+332
+00:16:42,150 --> 00:16:45,030
+lo que yo hice es un conversor de archivos,
+
+333
+00:16:45,450 --> 00:16:46,990
+digamos. O sea, no es
+
+334
+00:16:46,990 --> 00:16:49,110
+que puse en circulación datos
+
+335
+00:16:49,110 --> 00:16:51,190
+ni que eran privados
+
+336
+00:16:51,190 --> 00:16:52,810
+ni nada de esas características.
+
+337
+00:16:52,810 --> 00:16:55,610
+tampoco el paquete en sí
+
+338
+00:16:55,610 --> 00:16:57,370
+en su publicación
+
+339
+00:16:57,370 --> 00:16:58,710
+dice algo acerca de
+
+340
+00:16:58,710 --> 00:16:59,410
+no sé
+
+341
+00:16:59,410 --> 00:17:03,110
+son archivos que no tienen su disco rígido
+
+342
+00:17:03,110 --> 00:17:05,150
+y que los convierte de un formato
+
+343
+00:17:05,150 --> 00:17:06,010
+al otro
+
+344
+00:17:06,010 --> 00:17:07,770
+no debería ser un problema
+
+345
+00:17:07,770 --> 00:17:12,410
+bueno, después va en cada usuario
+
+346
+00:17:12,410 --> 00:17:14,550
+qué base usa y si esa base tiene condiciones
+
+347
+00:17:14,550 --> 00:17:16,670
+que no permitan convertirla
+
+348
+00:17:16,670 --> 00:17:18,150
+por ejemplo a otro formato
+
+349
+00:17:18,150 --> 00:17:20,290
+pero de alguna manera
+
+350
+00:17:20,290 --> 00:17:22,110
+no estaba previsto me parece esto
+
+351
+00:17:22,110 --> 00:17:24,970
+trajo complicaciones
+
+352
+00:17:24,970 --> 00:17:26,970
+al menos por ahora. Te quería preguntar
+
+353
+00:17:26,970 --> 00:17:29,050
+cuánto tiempo te llevó todo esto
+
+354
+00:17:29,050 --> 00:17:31,290
+y si recibiste alguna financiación
+
+355
+00:17:31,290 --> 00:17:32,970
+o el motor que impulsó esto fue
+
+356
+00:17:32,970 --> 00:17:34,870
+tus ganas de acceder a los datos
+
+357
+00:17:34,870 --> 00:17:36,990
+para hacer los análisis que necesitabas y nada más
+
+358
+00:17:36,990 --> 00:17:44,880
+Más difícil cuantificar, pero digamos que
+
+359
+00:17:44,880 --> 00:17:46,820
+desde que empecé a hacer de manera un poquito
+
+360
+00:17:46,820 --> 00:17:48,940
+más sistemática a descifrar
+
+361
+00:17:48,940 --> 00:17:49,700
+todo el formato
+
+362
+00:17:49,700 --> 00:17:52,740
+hasta que estuvo terminado, tal vez fueron
+
+363
+00:17:52,740 --> 00:18:01,040
+seis meses de ponerme de ratos y avanzar un poquito más, porque no fue solo la especificación
+
+364
+00:18:01,040 --> 00:18:05,820
+del formato, sino una herramienta que automatiza eso y que me ayudó en el proceso, pero que
+
+365
+00:18:05,820 --> 00:18:10,800
+después la terminé de pulir como para que cualquier usuario la use y sea más o menos
+
+366
+00:18:10,800 --> 00:18:16,660
+clara. Pero fue un proceso que yo creo que habrá durado algo de eso, ¿no? Entre idas
+
+367
+00:18:16,660 --> 00:18:21,720
+y vueltas e ir probando y consiguiendo otras bases, esa primera versión habrá llevado
+
+368
+00:18:21,720 --> 00:18:23,780
+unos 6 meses de ponerse
+
+369
+00:18:23,780 --> 00:18:24,840
+todas las semanas un ratito
+
+370
+00:18:24,840 --> 00:18:26,680
+bien, pero
+
+371
+00:18:26,680 --> 00:18:29,620
+lo hiciste porque lo necesitabas y porque
+
+372
+00:18:29,620 --> 00:18:31,540
+te gustaba, no fue parte de un
+
+373
+00:18:31,540 --> 00:18:33,140
+proyecto específico ni
+
+374
+00:18:33,140 --> 00:18:35,160
+con alguna financiación particular
+
+375
+00:18:35,160 --> 00:18:37,560
+no, no
+
+376
+00:18:37,560 --> 00:18:39,420
+pienso que también hubiera sido
+
+377
+00:18:39,420 --> 00:18:41,460
+difícil, por lo menos en las líneas
+
+378
+00:18:41,460 --> 00:18:42,520
+de financiamiento nacional
+
+379
+00:18:42,520 --> 00:18:45,300
+hubiera sido difícil conseguir
+
+380
+00:18:45,300 --> 00:18:47,440
+fondos, por lo menos en las líneas
+
+381
+00:18:47,440 --> 00:18:49,260
+estándares en las cuales se
+
+382
+00:18:49,260 --> 00:18:51,280
+financia en el área mía que es ciencia
+
+383
+00:18:51,280 --> 00:18:52,800
+social, se financia sobre todo
+
+384
+00:18:52,800 --> 00:18:55,340
+investigaciones convencionales
+
+385
+00:18:55,340 --> 00:18:56,220
+en términos de
+
+386
+00:18:56,220 --> 00:18:58,900
+se entiende por eso, investigaciones que uno
+
+387
+00:18:58,900 --> 00:19:01,040
+investiga una cosa y publica
+
+388
+00:19:01,040 --> 00:19:03,200
+artículos respecto de eso
+
+389
+00:19:03,200 --> 00:19:04,900
+pero si uno dice
+
+390
+00:19:04,900 --> 00:19:07,460
+me quiero poner a investigar un formato de datos
+
+391
+00:19:07,460 --> 00:19:09,060
+más difícil
+
+392
+00:19:09,060 --> 00:19:11,340
+bueno, no sé ni a qué comisión
+
+393
+00:19:11,340 --> 00:19:13,160
+a qué comisión
+
+394
+00:19:13,160 --> 00:19:14,900
+porque son por disciplina
+
+395
+00:19:14,900 --> 00:19:16,440
+a qué disciplina hay que mandarlo
+
+396
+00:19:16,440 --> 00:19:18,920
+si uno lo manda a una comisión de sociología
+
+397
+00:19:18,920 --> 00:19:20,960
+eso, yo creo que
+
+398
+00:19:20,960 --> 00:19:22,740
+no reciben una primera lectura
+
+399
+00:19:22,740 --> 00:19:24,800
+bien, entonces actualmente
+
+400
+00:19:24,800 --> 00:19:26,860
+el trabajo está terminado, funciona y está
+
+401
+00:19:26,860 --> 00:19:28,880
+libre todo el código de lo que hiciste
+
+402
+00:19:28,880 --> 00:19:30,760
+en GitHub y cualquier persona
+
+403
+00:19:30,760 --> 00:19:33,360
+se lo puede bajar y reutilizar
+
+404
+00:19:33,360 --> 00:19:35,420
+exacto
+
+405
+00:19:35,420 --> 00:19:35,860
+bueno, yo
+
+406
+00:19:35,860 --> 00:19:39,080
+te quería agradecer en mi nombre
+
+407
+00:19:39,080 --> 00:19:41,280
+pero también en el nombre de mucha gente, a mi me sirvió
+
+408
+00:19:41,280 --> 00:19:42,680
+tu conversor hace muchos años
+
+409
+00:19:42,680 --> 00:19:44,620
+me pude bajar toda la tabla
+
+410
+00:19:44,620 --> 00:19:46,960
+vi un CSV donde aclaremos
+
+411
+00:19:46,960 --> 00:19:49,020
+que el nombre y el apellido de las personas no están
+
+412
+00:19:49,020 --> 00:19:51,120
+incluido en el CD, o sea, no se puede
+
+413
+00:19:51,120 --> 00:19:53,180
+saber, pero sí me tomé
+
+414
+00:19:53,180 --> 00:19:54,860
+el trabajo de buscarme a mí mismo
+
+415
+00:19:54,860 --> 00:19:56,520
+filtrando por
+
+416
+00:19:56,520 --> 00:19:59,280
+mi edad
+
+417
+00:19:59,280 --> 00:20:01,120
+por las variables que ya
+
+418
+00:20:01,120 --> 00:20:02,700
+existen y logré
+
+419
+00:20:02,700 --> 00:20:05,040
+casi encontrarme a mí mismo
+
+420
+00:20:05,040 --> 00:20:07,160
+en ese censo, o sea, el único riesgo
+
+421
+00:20:07,160 --> 00:20:08,400
+que veo acá es que
+
+422
+00:20:08,400 --> 00:20:11,100
+conociendo 6 o 7 cosas sobre alguien
+
+423
+00:20:11,100 --> 00:20:12,800
+quizás puedas encontrar
+
+424
+00:20:12,800 --> 00:20:14,280
+su fila y conocer
+
+425
+00:20:14,280 --> 00:20:16,440
+las otras 10 o 15 cosas que
+
+426
+00:20:16,440 --> 00:20:18,460
+el censo informa de cada persona, pero
+
+427
+00:20:18,460 --> 00:20:21,600
+te quiero agradecer profundamente porque lo que hiciste
+
+428
+00:20:21,600 --> 00:20:23,500
+y además lo de liberar
+
+429
+00:20:23,500 --> 00:20:25,720
+el código para que los demás lo vean, lo mejoren
+
+430
+00:20:25,720 --> 00:20:27,460
+y demás, lamento mucho que
+
+431
+00:20:27,460 --> 00:20:29,080
+Radatán no haya tomado esto
+
+432
+00:20:29,080 --> 00:20:31,540
+para hacer
+
+433
+00:20:31,540 --> 00:20:33,700
+cambios, pero te lo quiero agradecer
+
+434
+00:20:33,700 --> 00:20:34,540
+personalmente
+
+435
+00:20:34,540 --> 00:20:37,400
+Sí, por ahí un último
+
+436
+00:20:37,400 --> 00:20:38,600
+agregado con eso, recuerdo
+
+437
+00:20:38,600 --> 00:20:40,960
+en un viaje quizás de Chile
+
+438
+00:20:40,960 --> 00:20:42,780
+pude, no recuerdo su nombre
+
+439
+00:20:42,780 --> 00:20:45,220
+conversando con una persona que me contactó
+
+440
+00:20:45,220 --> 00:20:46,440
+sabiendo que yo iba a estar allá
+
+441
+00:20:46,440 --> 00:20:52,860
+como buena parte del equipo de la CELA, de la CEPAL.
+
+442
+00:20:52,980 --> 00:20:54,920
+Bueno, había algo de eso que tenía oficinas en Chile.
+
+443
+00:20:55,220 --> 00:20:57,240
+Sí, los programadores están en Chile, sí.
+
+444
+00:21:00,090 --> 00:21:00,490
+¿Cómo, cómo?
+
+445
+00:21:01,950 --> 00:21:04,070
+Por Twitter encontramos en su momento,
+
+446
+00:21:04,310 --> 00:21:07,670
+me acuerdo que Manuel Aristarán arribó a las mismas conclusiones que vos,
+
+447
+00:21:07,710 --> 00:21:08,970
+no sé si al mismo tiempo después,
+
+448
+00:21:09,450 --> 00:21:11,650
+y me acuerdo que por Twitter toda esta discusión pasó
+
+449
+00:21:11,650 --> 00:21:14,810
+y encontramos a uno de los programadores que nos contó
+
+450
+00:21:14,810 --> 00:21:17,150
+que en Chile estaba el equipo de desarrollo de Redatam.
+
+451
+00:21:17,150 --> 00:21:19,490
+Ah, ok, bien
+
+452
+00:21:19,490 --> 00:21:22,030
+esta persona también, alguien creo que
+
+453
+00:21:22,030 --> 00:21:23,270
+sí, conocido de Manuel
+
+454
+00:21:23,270 --> 00:21:25,770
+en lo que
+
+455
+00:21:25,770 --> 00:21:27,950
+habíamos ido juntos incluso
+
+456
+00:21:27,950 --> 00:21:29,330
+a una entrevista con
+
+457
+00:21:29,330 --> 00:21:32,250
+el INE
+
+458
+00:21:32,250 --> 00:21:34,290
+como si fuera el
+
+459
+00:21:34,290 --> 00:21:35,970
+INDEC de allá, INE creo que se llama
+
+460
+00:21:35,970 --> 00:21:38,190
+el Instituto de Estadísticas, para ver si ellos
+
+461
+00:21:38,190 --> 00:21:40,570
+podían hablar con la gente de Redatam
+
+462
+00:21:40,570 --> 00:21:42,310
+y presionar un poquito, digamos, para que
+
+463
+00:21:42,310 --> 00:21:43,450
+se abriera el formato
+
+464
+00:21:43,450 --> 00:21:46,270
+en virtud de que esta persona que me había contactado
+
+465
+00:21:46,270 --> 00:21:47,370
+había hablado con gente
+
+466
+00:21:47,370 --> 00:21:49,370
+del grupo de la Cepal
+
+467
+00:21:49,370 --> 00:21:51,430
+digamos de Redatam
+
+468
+00:21:51,430 --> 00:21:53,270
+y que la primera respuesta que habían tenido
+
+469
+00:21:53,270 --> 00:21:55,310
+respecto a abrir el formato
+
+470
+00:21:55,310 --> 00:21:57,470
+era, bueno, ¿para qué hacerlo si ya está abierto?
+
+471
+00:21:57,750 --> 00:21:59,130
+ya habían visto el conversor
+
+472
+00:21:59,130 --> 00:22:01,370
+ya habían visto que el conversor ya abría el formato
+
+473
+00:22:01,370 --> 00:22:03,690
+y dijeron, bueno, ya está, ya está abierto el formato
+
+474
+00:22:03,690 --> 00:22:05,710
+no lo tomaron
+
+475
+00:22:05,710 --> 00:22:07,590
+como una bandera propia, pero sí como
+
+476
+00:22:07,590 --> 00:22:09,370
+bueno, como algo más bien de facto
+
+477
+00:22:09,370 --> 00:22:11,390
+por ahora. Bueno, el resultado
+
+478
+00:22:11,390 --> 00:22:13,390
+final es que pasó
+
+479
+00:22:13,390 --> 00:22:15,170
+algo interesante, así que reitero
+
+480
+00:22:15,170 --> 00:22:17,030
+mi agradecimiento. Te quiero llevar a otro
+
+481
+00:22:17,030 --> 00:22:18,930
+proyecto que me sorprendió
+
+482
+00:22:18,930 --> 00:22:20,610
+también positivamente y me interesó
+
+483
+00:22:20,610 --> 00:22:23,310
+antes de
+
+484
+00:22:23,310 --> 00:22:25,010
+pasar a este pero vinculado a todos
+
+485
+00:22:25,010 --> 00:22:26,270
+estos proyectos, vos sos
+
+486
+00:22:26,270 --> 00:22:29,050
+lo que yo me te ocurrió es que vos no sos
+
+487
+00:22:29,050 --> 00:22:30,950
+oficialmente desarrollador de software
+
+488
+00:22:30,950 --> 00:22:33,130
+pero me imagino que tu trabajo permanente
+
+489
+00:22:33,130 --> 00:22:34,950
+con los datos te llevó a aprender a programar
+
+490
+00:22:34,950 --> 00:22:37,130
+¿Cómo? ¿Vos te considerás
+
+491
+00:22:37,130 --> 00:22:39,150
+programador? Porque vi el código
+
+492
+00:22:39,150 --> 00:22:40,970
+y lo que hiciste es lo que cualquier
+
+493
+00:22:40,970 --> 00:22:42,090
+programador hubiera hecho, pero
+
+494
+00:22:42,090 --> 00:22:44,910
+¿Vos te considerás programador?
+
+495
+00:22:45,170 --> 00:22:50,680
+la cosa es así, yo aprendí de chico
+
+496
+00:22:50,680 --> 00:22:51,420
+a programar
+
+497
+00:22:51,420 --> 00:22:52,620
+es como una
+
+498
+00:22:52,620 --> 00:22:55,800
+es un oficio familiar, llamémosle
+
+499
+00:22:55,800 --> 00:22:57,960
+bien
+
+500
+00:22:57,960 --> 00:23:00,680
+porque sí, aprendí
+
+501
+00:23:00,680 --> 00:23:02,780
+con mi madre, que me enseñó de chico a programar
+
+502
+00:23:02,780 --> 00:23:04,180
+entonces, bueno
+
+503
+00:23:04,180 --> 00:23:06,740
+mucho antes de ir a la facultad
+
+504
+00:23:06,740 --> 00:23:08,520
+y de, bueno, antes de ir a
+
+505
+00:23:08,520 --> 00:23:10,540
+a la secundaria
+
+506
+00:23:10,540 --> 00:23:12,160
+incluso yo ya estaba programando
+
+507
+00:23:12,160 --> 00:23:14,320
+entonces es algo que me lo llevo
+
+508
+00:23:14,320 --> 00:23:15,960
+bastante natural, digamos
+
+509
+00:23:15,960 --> 00:23:17,880
+Bueno, qué bueno
+
+510
+00:23:17,880 --> 00:23:20,160
+y veo que combina muy bien
+
+511
+00:23:20,160 --> 00:23:22,300
+porque veo cada vez más gente
+
+512
+00:23:22,300 --> 00:23:24,580
+de la ciencia social haciendo cosas increíbles
+
+513
+00:23:24,580 --> 00:23:26,420
+con datos, usando
+
+514
+00:23:26,420 --> 00:23:28,720
+la programación como instrumento
+
+515
+00:23:28,720 --> 00:23:30,880
+y te llevo
+
+516
+00:23:30,880 --> 00:23:32,360
+de ahí al proyecto que sigue
+
+517
+00:23:32,360 --> 00:23:34,260
+que me parece más interesante todavía
+
+518
+00:23:34,260 --> 00:23:35,880
+que el de Redatam, que es un proyecto que se llama
+
+519
+00:23:35,880 --> 00:23:38,120
+Poblaciones, que salió ya
+
+520
+00:23:38,120 --> 00:23:40,540
+supongo un año o un poco más
+
+521
+00:23:40,540 --> 00:23:41,800
+en donde
+
+522
+00:23:41,800 --> 00:23:43,120
+pusiste
+
+523
+00:23:43,120 --> 00:23:45,540
+un montón de datos
+
+524
+00:23:45,540 --> 00:24:04,980
+Vi sensor 91, 2001 y 2010 mapeados, pero también vi el mapa de techo de barrios carenciados, vi un montón de bases de datos, todas puestas en un mapa, todas juntas.
+
+525
+00:24:05,400 --> 00:24:13,440
+Te quería preguntar, ¿cómo empezó este proyecto y qué fuente de datos empezaste usando y cómo fue creciendo eso?
+
+526
+00:24:15,970 --> 00:24:22,170
+Sí, este proyecto empezó después de unos trabajos que hicimos con mapas
+
+527
+00:24:22,170 --> 00:24:27,930
+junto con el Observatorio de la Deuda Social, con Agustín Salvia como coordinador.
+
+528
+00:24:29,670 --> 00:24:34,530
+Bueno, nos quedamos como un poco insatisfechos de no poder poner a circular
+
+529
+00:24:34,530 --> 00:24:37,550
+alguna de las cartografías que habíamos generado.
+
+530
+00:24:38,030 --> 00:24:43,910
+Y a partir de eso estuvimos en todo el 2016 charlando de qué forma podíamos darle
+
+531
+00:24:43,910 --> 00:24:47,530
+ellos probaron cosas con este producto de Google
+
+532
+00:24:47,530 --> 00:24:49,410
+que ya no existe, que se llamaba Fusion Table
+
+533
+00:24:49,410 --> 00:24:53,850
+y al final de 2016 yo les acerqué a ellos
+
+534
+00:24:53,850 --> 00:24:56,430
+esta propuesta de armar una plataforma propia de mapas
+
+535
+00:24:56,430 --> 00:24:58,690
+porque del relevamiento que había hecho
+
+536
+00:24:58,690 --> 00:25:01,950
+no había encontrado ninguna plataforma que permitiera
+
+537
+00:25:01,950 --> 00:25:05,330
+que quien tenga datos los pueda subir, básicamente
+
+538
+00:25:05,330 --> 00:25:08,350
+más allá de
+
+539
+00:25:08,350 --> 00:25:11,070
+algunos datos básicos, digamos
+
+540
+00:25:11,070 --> 00:25:13,190
+de algunas capas de ejemplo que podían ser gratuitas
+
+541
+00:25:13,190 --> 00:25:24,190
+Después se convertían todas en plataformas bastante costosas de mantener, que eran inviables para grupos de investigación o incluso para algunos organismos estatales, nacionales.
+
+542
+00:25:25,350 --> 00:25:40,630
+Y por otro lado, todas las plataformas nacionales que ya publicaban datos espaciales, ninguna permitía a terceros subir datos, muchas estaban muchas veces caídas y los formatos en que permitían descargar eran muy heterogéneos.
+
+543
+00:25:40,630 --> 00:25:46,070
+entonces había un panorama de datos abiertos cada vez más grande
+
+544
+00:25:46,070 --> 00:25:51,050
+pero una posibilidad de usarlos que implicaba desafíos también cada vez más grandes
+
+545
+00:25:51,050 --> 00:25:54,870
+no porque los datos fueran tan complejos sino porque estaban súper dispersos
+
+546
+00:25:54,870 --> 00:26:00,690
+en términos de formatos de servidores, de formato de archivo pero también de códigos
+
+547
+00:26:00,690 --> 00:26:06,290
+entonces parecía que era oportuno tratar de hacer una plataforma que entendiera todo eso
+
+548
+00:26:06,290 --> 00:26:32,950
+Y entendiera también que quien mira los datos tiene una preocupación muchas veces de segmentación político-administrativa y de decir, bueno, para mi municipio, cómo todo esto funciona, cuál es la realidad para mi municipio, todo el país, o para mi región sanitaria, que estamos publicando ahora el recorte por regiones sanitarias, o el barrio, o la localidad, bueno, todos esos cortes.
+
+549
+00:26:32,950 --> 00:26:37,790
+y entonces pensamos en una plataforma propia, colaborativa
+
+550
+00:26:37,790 --> 00:26:40,930
+de datos que estén chequeados, que la fuente sea clara
+
+551
+00:26:40,930 --> 00:26:43,110
+cosa que tampoco pasaba en términos de metadatos
+
+552
+00:26:43,110 --> 00:26:46,630
+y que los datos no haya que subirlos recortados
+
+553
+00:26:46,630 --> 00:26:48,850
+porque ya en esa época estaba la ida del conurbano
+
+554
+00:26:48,850 --> 00:26:51,250
+y de repente eran los datos del censo recortados para el conurbano
+
+555
+00:26:51,250 --> 00:26:54,390
+y así de muchas localidades recortando los datos
+
+556
+00:26:54,390 --> 00:26:58,410
+que nos parecía una picardía, digamos, datos que están públicos a nivel nacional
+
+557
+00:26:58,410 --> 00:27:02,010
+no poder tenerlos ahí para todo el país
+
+558
+00:27:02,010 --> 00:27:05,390
+y que quien quiera ver los recortados, bueno, ahí estuviera el recorte.
+
+559
+00:27:05,650 --> 00:27:08,690
+¿Y qué tecnología usaron? Porque hicieron un motor para mostrar los mapas
+
+560
+00:27:08,690 --> 00:27:12,650
+y después cada mapa es una capa y puedo elegir las capas que quiera ver
+
+561
+00:27:12,650 --> 00:27:15,830
+y puedo mezclar los datos que quiera, pero quería arrancar por el principio.
+
+562
+00:27:16,310 --> 00:27:19,410
+¿Qué tecnología usaron? ¿Vos fuiste parte de ese desarrollo inicial?
+
+563
+00:27:21,210 --> 00:27:26,630
+Sí, un requisito que teníamos era que si cualquier organización académica,
+
+564
+00:27:26,630 --> 00:27:30,650
+digamos institución académica, lo utiliza usar, reutilizar desde cero,
+
+565
+00:27:30,650 --> 00:27:52,930
+En su propia instalación eso fuera posible y para eso queríamos no demandar demasiada exigencia de servidores y eso nos ponía un poco a contrapelo de la mayoría de las soluciones abiertas que existen, como era Carto, por ejemplo, que demandan que uno tenga un servidor donde uno pueda instalar el paquete y las cosas que requiere y ponerlo después corriendo como servidor.
+
+566
+00:27:52,930 --> 00:27:55,250
+nosotros aunque eso parece poco requerimiento
+
+567
+00:27:55,250 --> 00:27:56,970
+para universidades de primer mundo
+
+568
+00:27:56,970 --> 00:27:59,190
+en el caso de todos los lugares
+
+569
+00:27:59,190 --> 00:28:00,730
+que yo conocía, incluido Conicet
+
+570
+00:28:00,730 --> 00:28:03,030
+no proveen servidores virtuales donde uno puede
+
+571
+00:28:03,030 --> 00:28:04,910
+instalar todo, entonces queríamos
+
+572
+00:28:04,910 --> 00:28:07,050
+que pudiera correr en un hosting común y corriente
+
+573
+00:28:07,050 --> 00:28:07,670
+por decir así
+
+574
+00:28:07,670 --> 00:28:10,950
+y eso nos llevó a
+
+575
+00:28:10,950 --> 00:28:12,730
+desarrollar desde cero toda la solución
+
+576
+00:28:12,730 --> 00:28:15,150
+tanto eso como que el modelo
+
+577
+00:28:15,150 --> 00:28:16,870
+de usuario es colaborativo, que cualquiera
+
+578
+00:28:16,870 --> 00:28:18,930
+pueda subir, tampoco era parte de
+
+579
+00:28:18,930 --> 00:28:21,110
+el armar un mapa común, no era parte
+
+580
+00:28:21,110 --> 00:28:22,350
+de estos
+
+581
+00:28:22,350 --> 00:28:24,670
+de geoserver o de
+
+582
+00:28:24,670 --> 00:28:25,250
+carto
+
+583
+00:28:25,250 --> 00:28:28,810
+entonces arrancamos
+
+584
+00:28:28,810 --> 00:28:30,570
+de cero en algo que usa tecnologías
+
+585
+00:28:30,570 --> 00:28:31,830
+super simples por detrás
+
+586
+00:28:31,830 --> 00:28:34,750
+es decir, es MySQL, PHP
+
+587
+00:28:34,750 --> 00:28:36,590
+y bueno, ¿no?
+
+588
+00:28:36,590 --> 00:28:38,350
+Javascript por supuesto al lado cliente
+
+589
+00:28:38,350 --> 00:28:39,810
+en cualquier hosting común
+
+590
+00:28:39,810 --> 00:28:42,450
+eso que acabas de nombrar funciona la primera
+
+591
+00:28:42,450 --> 00:28:45,870
+claro, entonces
+
+592
+00:28:45,870 --> 00:28:48,010
+en hosting compartidos uno puede
+
+593
+00:28:48,010 --> 00:28:49,350
+subir la solución, correrla
+
+594
+00:28:49,350 --> 00:28:51,130
+y para el usuario está dando
+
+595
+00:28:51,130 --> 00:28:58,190
+una experiencia de uso que, sin embargo, es súper moderna y súper compleja,
+
+596
+00:28:58,250 --> 00:29:01,490
+digamos, y que es comparable a la de estas plataformas que te mencionaba,
+
+597
+00:29:02,390 --> 00:29:06,910
+pero por detrás no tenemos levantado un servidor propietario.
+
+598
+00:29:06,910 --> 00:29:10,590
+Bien, y si yo quiero subir un dato, entro a la página,
+
+599
+00:29:10,790 --> 00:29:15,310
+para los que no la conocen, poblaciones.org, muy interesante
+
+600
+00:29:15,310 --> 00:29:18,050
+para los que necesiten datos georreferensivos argentinos.
+
+601
+00:29:18,050 --> 00:29:25,770
+Si yo quiero subir datos, ¿me registro, lo subo, eso tiran un control de parte de ustedes, alguna curaduría, alguna validación?
+
+602
+00:29:28,070 --> 00:29:30,270
+Te cuento, eso se da un poco en dos pasos.
+
+603
+00:29:30,390 --> 00:29:36,030
+Si vos entras, te registras, querés subir tus datos, no hace falta, digamos, que pases por ningún filtro.
+
+604
+00:29:36,130 --> 00:29:43,530
+Nosotros monitoreamos, digamos, más o menos un monitoreo de lo que hay, pero ahí no hay ningún filtro.
+
+605
+00:29:43,530 --> 00:29:47,190
+vos podés generar ahí tu link y compartirlo y difundirlo en tus redes
+
+606
+00:29:47,190 --> 00:29:51,350
+y ahí podés, incluso vos partís tal vez de un listado de códigos de departamentos
+
+607
+00:29:51,350 --> 00:29:55,750
+o de radios o de lo que fuera, subís ese archivo plano y eso se convierte
+
+608
+00:29:55,750 --> 00:29:58,850
+en un mapa visible, incluso no hace falta que tengas las cartografías
+
+609
+00:29:58,850 --> 00:30:03,230
+por ejemplo de departamentos, sino que el sitio ya las tiene simplemente hacer
+
+610
+00:30:03,230 --> 00:30:07,270
+la coincidencia. Lo que nosotros ofrecemos es la posibilidad
+
+611
+00:30:07,270 --> 00:30:11,090
+de que una vez que tengas esos datos andando, pidas revisión de esos datos
+
+612
+00:30:11,090 --> 00:30:12,770
+para ser indexados
+
+613
+00:30:12,770 --> 00:30:15,890
+si los pones en revisión
+
+614
+00:30:15,890 --> 00:30:17,890
+nosotros miramos, podemos hacer sugerencias
+
+615
+00:30:17,890 --> 00:30:19,790
+sobre los datos, podemos invitar
+
+616
+00:30:19,790 --> 00:30:21,870
+a revisores externos, digamos, gente que trabaja
+
+617
+00:30:21,870 --> 00:30:22,650
+en esas temáticas
+
+618
+00:30:22,650 --> 00:30:24,970
+y que haga un feedback sobre
+
+619
+00:30:24,970 --> 00:30:28,050
+cuestiones que mejoren esa información
+
+620
+00:30:28,050 --> 00:30:29,390
+o que la hagan ver más claro
+
+621
+00:30:29,390 --> 00:30:31,410
+que simplemente digan si está perfecto
+
+622
+00:30:31,410 --> 00:30:32,750
+cuando pase ese filtro
+
+623
+00:30:32,750 --> 00:30:36,050
+claro, en ese caso hay son oficiales
+
+624
+00:30:36,050 --> 00:30:37,570
+claro
+
+625
+00:30:37,570 --> 00:30:39,810
+entonces cuando hacemos esa revisión de pares
+
+626
+00:30:39,810 --> 00:30:48,110
+ese trabajo académico de formato y de contenido, en el caso de esos datos pasan a estar indexados.
+
+627
+00:30:48,230 --> 00:30:55,050
+Eso hace que si en nuestro buscador alguien pone, qué sé yo, no sé, situación migratoria,
+
+628
+00:30:55,170 --> 00:31:01,890
+migrantes en el buscador de arriba, o a través de un botoncito que se agregan información al mapa,
+
+629
+00:31:02,050 --> 00:31:06,150
+o incluso hacia Google, que nosotros exponemos las capas de un modo que Google las pueda ver,
+
+630
+00:31:06,150 --> 00:31:18,130
+Entonces, si uno busca NBI en, qué sé yo, Famaixá, bueno, hay una entrada en Google que es NBI en Famaixá, mapa de eso, que permite entrar y ya ver eso recortado.
+
+631
+00:31:18,230 --> 00:31:25,990
+Bueno, si cualquier persona sube sus datos y pasa por este proceso de revisión, nosotros vamos a exponer sus datos hacia Google para maximizar la visibilidad,
+
+632
+00:31:26,990 --> 00:31:33,310
+pero solo en ese caso ponemos este tipo de curaduría a disposición de los usuarios.
+
+633
+00:31:33,310 --> 00:31:35,690
+si no los usuarios también pueden subir su mapeo
+
+634
+00:31:35,690 --> 00:31:36,850
+para el uso que precisen
+
+635
+00:31:36,850 --> 00:31:39,450
+también hay una cuestión de que se pueden subir los datos
+
+636
+00:31:39,450 --> 00:31:41,470
+para verlos cruzados con los demás datos
+
+637
+00:31:41,470 --> 00:31:43,350
+o para usarlo como
+
+638
+00:31:43,350 --> 00:31:45,550
+un grupo de trabajo que son 5 personas
+
+639
+00:31:45,550 --> 00:31:46,670
+con datos espaciales
+
+640
+00:31:46,670 --> 00:31:49,390
+los suben ahí y los pueden tener como privados
+
+641
+00:31:49,390 --> 00:31:51,210
+incluso que nadie los pueda ver salvo ellos
+
+642
+00:31:51,210 --> 00:31:53,250
+y el sitio
+
+643
+00:31:53,250 --> 00:31:55,030
+funciona perfectamente también como eso
+
+644
+00:31:55,030 --> 00:31:56,290
+como un espacio de trabajo
+
+645
+00:31:56,290 --> 00:31:59,450
+me hablaste de formato y creo que es un problema
+
+646
+00:31:59,450 --> 00:32:01,270
+clave hoy en el mundo de los datos
+
+647
+00:32:01,270 --> 00:32:02,770
+georreferenciados
+
+648
+00:32:02,770 --> 00:32:06,830
+Si yo me quiero bajar cualquier dataset, ¿en qué formatos me los puedo bajar?
+
+649
+00:32:08,370 --> 00:32:24,050
+Bien, el sitio ofrece, sin importar cómo se haya subido el archivo, el sitio ofrece bajarlos en formato CSV, ofrece bajarlo en Excel, ofrece bajarlo en formato SPSS y en formato STATA.
+
+650
+00:32:24,850 --> 00:32:28,010
+Ahora es un poco para economistas, pero lo hemos hecho también.
+
+651
+00:32:28,010 --> 00:32:30,610
+Así que cualquiera de esos formatos
+
+652
+00:32:30,610 --> 00:32:32,730
+El caso de los formatos en SPSS y STATA
+
+653
+00:32:32,730 --> 00:32:35,870
+Lo que permite es bajar los archivos con etiquetas
+
+654
+00:32:35,870 --> 00:32:37,830
+Que eso por ahí que no está mucho en el palo de los datos
+
+655
+00:32:37,830 --> 00:32:38,570
+No le cambia
+
+656
+00:32:38,570 --> 00:32:42,310
+Pero uno puede tener tal vez un listado de escuelas
+
+657
+00:32:42,310 --> 00:32:46,530
+Que dice, bueno, cuando el sector es 1
+
+658
+00:32:46,530 --> 00:32:48,570
+Significa estatal, cuando es 2 es privado
+
+659
+00:32:48,570 --> 00:32:50,990
+1 estatal, 2 privado, 1 estatal, 2 privado
+
+660
+00:32:50,990 --> 00:32:53,410
+Y así un montón de columnas que después de bajar 1
+
+661
+00:32:53,410 --> 00:32:55,290
+Un CSV que tiene 1, 2, 1, 2, 1, 2
+
+662
+00:32:55,290 --> 00:32:58,290
+Para trabajarlos necesita, bueno, reponer esos códigos
+
+663
+00:32:58,290 --> 00:33:00,770
+En el caso de que uno baje cualquiera de los padrones
+
+664
+00:33:00,770 --> 00:33:02,430
+O de datos que están en poblaciones
+
+665
+00:33:02,430 --> 00:33:05,050
+Al bajarlo en formatos más ricos
+
+666
+00:33:05,050 --> 00:33:07,170
+Como es el formato de CPCS
+
+667
+00:33:07,170 --> 00:33:09,050
+O de Stata
+
+668
+00:33:09,050 --> 00:33:10,750
+Esas etiquetas ya están, digamos
+
+669
+00:33:10,750 --> 00:33:12,310
+Las columnas ya tienen esos metadatos
+
+670
+00:33:12,310 --> 00:33:14,770
+Y siempre nos pareció que eso era importante
+
+671
+00:33:14,770 --> 00:33:17,010
+Y uno puede elegir que eso baje
+
+672
+00:33:17,010 --> 00:33:19,050
+Incluyendo las columnas con los polígonos
+
+673
+00:33:19,050 --> 00:33:21,210
+O no, ¿no? En caso de que haya polígonos
+
+674
+00:33:21,210 --> 00:33:23,150
+En GeoJSON o en
+
+675
+00:33:23,150 --> 00:33:24,090
+Perfecto
+
+676
+00:33:24,090 --> 00:33:25,870
+O en WKT.
+
+677
+00:33:26,410 --> 00:33:26,690
+Bien.
+
+678
+00:33:27,090 --> 00:33:29,410
+¿Y qué más necesita este proyecto?
+
+679
+00:33:29,790 --> 00:33:31,030
+¿Necesitan financiación?
+
+680
+00:33:31,150 --> 00:33:31,950
+¿Necesitan más datos?
+
+681
+00:33:32,070 --> 00:33:33,590
+¿Está buscando algún dato que no conseguís?
+
+682
+00:33:33,650 --> 00:33:34,610
+¿Cuál es el próximo paso?
+
+683
+00:33:35,230 --> 00:33:36,570
+¿O cuáles son los próximos pasos?
+
+684
+00:33:38,430 --> 00:33:41,110
+Bueno, es una buena pregunta.
+
+685
+00:33:41,110 --> 00:33:45,470
+Como proyecto abierto, uno puede pensar en muchas,
+
+686
+00:33:46,490 --> 00:33:51,110
+yo diría en líneas o en caminos por los que puede crecer.
+
+687
+00:33:51,110 --> 00:33:53,770
+más que necesidades
+
+688
+00:33:53,770 --> 00:33:55,670
+son oportunidades para crecer
+
+689
+00:33:55,670 --> 00:33:56,170
+me parece
+
+690
+00:33:56,170 --> 00:33:58,730
+yo creo que es muy importante
+
+691
+00:33:58,730 --> 00:34:00,810
+ir ampliando la base de usuarios
+
+692
+00:34:00,810 --> 00:34:03,290
+de gente que esté conforme
+
+693
+00:34:03,290 --> 00:34:05,190
+con usarlo y que empiece a poner a disposición
+
+694
+00:34:05,190 --> 00:34:07,410
+sus cartografías, que es en lo que estuvimos trabajando
+
+695
+00:34:07,410 --> 00:34:09,090
+en este último año
+
+696
+00:34:09,090 --> 00:34:11,030
+más allá de que la plataforma fue mejorando
+
+697
+00:34:11,030 --> 00:34:12,710
+y agregando funcionalidad
+
+698
+00:34:12,710 --> 00:34:15,870
+fuimos acelerando
+
+699
+00:34:15,870 --> 00:34:16,870
+esto de que haya más
+
+700
+00:34:16,870 --> 00:34:19,650
+instituciones públicas
+
+701
+00:34:19,650 --> 00:34:22,130
+estamos con convenios con el Ministerio de Desarrollo Social
+
+702
+00:34:22,130 --> 00:34:24,710
+y con organizaciones del tercer sector.
+
+703
+00:34:25,430 --> 00:34:28,110
+Los datos de techo empezaron como datos que subimos nosotros
+
+704
+00:34:28,110 --> 00:34:30,830
+porque eran abiertos y ahora es la misma gente de techo
+
+705
+00:34:30,830 --> 00:34:34,850
+que los administra, que manejan ellos ahí sus datos y los amplían.
+
+706
+00:34:36,890 --> 00:34:41,190
+Pero yo creo que tanto del ámbito académico como de ámbitos estatales
+
+707
+00:34:41,190 --> 00:34:45,270
+como de tercer sector, nos gusta que los productores de datos
+
+708
+00:34:45,270 --> 00:34:49,350
+manejen ellos sus datos, es un poco el ideal
+
+709
+00:34:49,350 --> 00:34:51,050
+de la plataforma y que nos empujen a
+
+710
+00:34:51,050 --> 00:34:53,190
+mejoras, pero la verdad
+
+711
+00:34:53,190 --> 00:34:54,650
+es que hemos, no sé, hemos tenido
+
+712
+00:34:54,650 --> 00:34:57,130
+tantas experiencias buenas
+
+713
+00:34:57,130 --> 00:34:59,090
+también hemos tenido este año una experiencia de
+
+714
+00:34:59,090 --> 00:35:01,110
+alianza de una ANG que tenía
+
+715
+00:35:01,110 --> 00:35:03,350
+un subsidio para desarrollo
+
+716
+00:35:03,350 --> 00:35:05,010
+y que lo dedicó a que los programadores
+
+717
+00:35:05,010 --> 00:35:07,010
+que ellos tenían agreguen
+
+718
+00:35:07,010 --> 00:35:09,050
+funcionalidad al código abierto de poblaciones
+
+719
+00:35:09,050 --> 00:35:09,710
+interesante
+
+720
+00:35:09,710 --> 00:35:12,810
+y también eso fue muy interesante
+
+721
+00:35:12,810 --> 00:35:13,390
+entonces
+
+722
+00:35:13,390 --> 00:35:16,930
+si yo tuviera que elegir, la verdad es que
+
+723
+00:35:16,930 --> 00:35:19,190
+me costaría entre elegir entre alguno de esos caminos
+
+724
+00:35:19,190 --> 00:35:25,230
+porque son un poco esos los carriles, en la medida que se van consiguiendo recursos
+
+725
+00:35:25,230 --> 00:35:29,670
+o gente interesada, se ponen un poco en mejorar la herramienta,
+
+726
+00:35:29,750 --> 00:35:35,450
+un poco en mejorar los datos, también hay datos que están en parte,
+
+727
+00:35:35,450 --> 00:35:42,190
+como esto de las regiones sanitarias, no sé si es un tema que por ahí se ve poco,
+
+728
+00:35:42,350 --> 00:35:45,190
+pero casi todas las provincias tienen definidas regiones sanitarias
+
+729
+00:35:45,190 --> 00:35:49,170
+a través de las cuales administran su salud y sin embargo el Ministerio Nacional de Salud
+
+730
+00:35:49,170 --> 00:35:51,590
+no tiene una cartografía de regiones sanitarias.
+
+731
+00:35:51,690 --> 00:35:54,910
+No solo no la tiene pública, sino que en lo que hemos consultado
+
+732
+00:35:54,910 --> 00:35:56,990
+internamente tampoco la tiene internamente.
+
+733
+00:35:57,870 --> 00:36:01,090
+Entonces, y sin embargo parece razonable tratar de ver indicadores
+
+734
+00:36:01,090 --> 00:36:05,110
+por región sanitaria porque así es como los funcionarios
+
+735
+00:36:05,110 --> 00:36:09,490
+en cada provincia distribuyen sus recursos, digamos.
+
+736
+00:36:09,590 --> 00:36:14,210
+No es solo un precinto estadístico, digamos, como son a veces
+
+737
+00:36:14,210 --> 00:36:15,030
+los departamentos.
+
+738
+00:36:15,030 --> 00:36:18,970
+Las regiones sanitarias tienen cabeceras, los hospitales dependen
+
+739
+00:36:18,970 --> 00:36:19,630
+de esa región
+
+740
+00:36:19,630 --> 00:36:23,310
+y sin embargo, bueno, eso no estaba
+
+741
+00:36:23,310 --> 00:36:24,690
+entonces estuvimos trabajando nosotros
+
+742
+00:36:24,690 --> 00:36:27,210
+en rearmarlo, hay la provincia de Buenos Aires
+
+743
+00:36:27,210 --> 00:36:29,250
+y la ciudad de Buenos Aires, uno entra a sus páginas
+
+744
+00:36:29,250 --> 00:36:31,250
+y tienen visibles cuál es el mapa
+
+745
+00:36:31,250 --> 00:36:35,210
+pero hay otras en que hay que ir a la
+
+746
+00:36:35,210 --> 00:36:36,670
+normativa en que se definió
+
+747
+00:36:36,670 --> 00:36:39,130
+y en base a cómo está escrito en el texto de la normativa
+
+748
+00:36:39,130 --> 00:36:41,070
+dibujarlo, hay otros
+
+749
+00:36:41,070 --> 00:36:42,990
+en que hemos conseguido los mapas que por ahí
+
+750
+00:36:42,990 --> 00:36:44,570
+era un word con un dibujo
+
+751
+00:36:44,570 --> 00:36:47,130
+casi hecho a amar, un croquis
+
+752
+00:36:47,130 --> 00:36:47,890
+de las regiones
+
+753
+00:36:47,890 --> 00:36:49,970
+alguna provincia para
+
+754
+00:36:49,970 --> 00:36:51,970
+difundir información de la pandemia
+
+755
+00:36:51,970 --> 00:36:53,510
+uno lo había hecho por región
+
+756
+00:36:53,510 --> 00:36:55,150
+y tomaban las regiones y lo armamos
+
+757
+00:36:55,150 --> 00:36:57,270
+pero a veces ahí es tiempo
+
+758
+00:36:57,270 --> 00:37:00,310
+a veces no es cuestión de dinero
+
+759
+00:37:00,310 --> 00:37:01,570
+sino de elegir bien
+
+760
+00:37:01,570 --> 00:37:03,890
+cuál es la pieza que está faltando
+
+761
+00:37:03,890 --> 00:37:05,110
+y tratar de armarla
+
+762
+00:37:05,110 --> 00:37:06,390
+exacto
+
+763
+00:37:06,390 --> 00:37:11,710
+esto daría para conversar un poco más
+
+764
+00:37:11,710 --> 00:37:12,910
+pero creo que está muy bueno
+
+765
+00:37:12,910 --> 00:37:15,130
+y creo que gente de la comunidad
+
+766
+00:37:15,130 --> 00:37:16,910
+de software libre, gente de los datos abiertos
+
+767
+00:37:16,910 --> 00:37:23,850
+tiene que tener en su agenda este portal, porque está todo ahí, hay muchísimos datos para bajar, muy interesante.
+
+768
+00:37:24,310 --> 00:37:30,650
+Te llevo al último proyecto que me pareció increíble, por la simpleza y por lo poderoso de lo que hiciste,
+
+769
+00:37:31,230 --> 00:37:36,650
+dejaste durante todo un año, un robotito le diría yo, un programita de computadora,
+
+770
+00:37:36,650 --> 00:37:44,650
+que cada tantos segundos o minutos se fijaba si los portales nacionales, provinciales,
+
+771
+00:37:45,070 --> 00:37:50,410
+páginas web estatales o sistemas web estatales estaban funcionando o no.
+
+772
+00:37:50,910 --> 00:37:53,850
+Me pareció súper interesante.
+
+773
+00:37:54,050 --> 00:37:58,450
+Quiero que me cuentes un poquito cómo fue la idea y qué resultados tuvo
+
+774
+00:37:58,450 --> 00:38:05,410
+después de un año de hacerle un ping cada uno o dos minutos a cientos de páginas web.
+
+775
+00:38:05,410 --> 00:38:06,810
+quería que me cuentes cómo empezó
+
+776
+00:38:06,810 --> 00:38:09,810
+y cómo terminó, qué resultados obtuviste
+
+777
+00:38:09,810 --> 00:38:15,170
+Sí, te cuento
+
+778
+00:38:15,170 --> 00:38:19,150
+bueno, es un poco, viste
+
+779
+00:38:19,150 --> 00:38:19,790
+en
+
+780
+00:38:19,790 --> 00:38:22,410
+ese proyecto
+
+781
+00:38:22,410 --> 00:38:24,970
+la semilla de ese proyecto fue un poco una
+
+782
+00:38:24,970 --> 00:38:25,970
+conversación con
+
+783
+00:38:25,970 --> 00:38:29,170
+una persona en Caicite, en una parte
+
+784
+00:38:29,170 --> 00:38:31,010
+de Conicet que manejan revistas
+
+785
+00:38:31,010 --> 00:38:33,430
+y ellos estaban ofreciendo una plataforma
+
+786
+00:38:33,430 --> 00:38:35,250
+para distintas plataformas
+
+787
+00:38:35,250 --> 00:38:37,130
+de datos, que hicieron grandes avances desde Caicita
+
+788
+00:38:37,130 --> 00:38:38,410
+ofreciendo plataformas de datos
+
+789
+00:38:38,410 --> 00:38:39,930
+y uno de los obstáculos que
+
+790
+00:38:39,930 --> 00:38:43,130
+me contaban, que encontraban, era que al decir
+
+791
+00:38:43,130 --> 00:38:45,090
+bueno, somos el Estado y te ofrecemos
+
+792
+00:38:45,090 --> 00:38:47,130
+una plataforma, generaba
+
+793
+00:38:47,130 --> 00:38:48,930
+como una reacción defensiva, como que había
+
+794
+00:38:48,930 --> 00:38:51,170
+poca credibilidad en que el Estado argentino
+
+795
+00:38:51,170 --> 00:38:52,990
+por lo menos, pudiera sostener una
+
+796
+00:38:52,990 --> 00:38:54,730
+plataforma tan estable como Google
+
+797
+00:38:54,730 --> 00:38:56,090
+o digo, como las que ofrece
+
+798
+00:38:56,090 --> 00:38:58,970
+Google o como las que ofrecen prestadores
+
+799
+00:38:58,970 --> 00:39:01,190
+privados, que en principio están sujetos
+
+800
+00:39:01,190 --> 00:39:03,070
+a los vaivenes del mercado, pero como que
+
+801
+00:39:03,070 --> 00:39:04,750
+el Estado con toda su estabilidad no podía
+
+802
+00:39:04,750 --> 00:39:06,890
+mostrar eso. Y coincidía
+
+803
+00:39:06,890 --> 00:39:08,790
+con la percepción que uno tenía, ¿no? Uno escuchaba eso
+
+804
+00:39:08,790 --> 00:39:10,670
+y decía, y es que es así, ¿no?
+
+805
+00:39:10,790 --> 00:39:12,890
+Se caen, las páginas del Estado
+
+806
+00:39:12,890 --> 00:39:13,550
+se caen. Pero sin embargo
+
+807
+00:39:13,550 --> 00:39:17,110
+encontré que eso no salía de la percepción
+
+808
+00:39:17,110 --> 00:39:18,850
+que, digamos, de ese
+
+809
+00:39:18,850 --> 00:39:20,490
+de esa
+
+810
+00:39:20,490 --> 00:39:22,790
+experiencia subjetiva
+
+811
+00:39:22,790 --> 00:39:24,930
+de un montón de personas, pero que no había
+
+812
+00:39:24,930 --> 00:39:26,810
+un registro con tanta
+
+813
+00:39:26,810 --> 00:39:28,870
+isolante de qué tan mal, por decir
+
+814
+00:39:28,870 --> 00:39:30,890
+así, funcionaba, o si era cierto que funcionaban
+
+815
+00:39:30,890 --> 00:39:32,990
+mal, o las plataformas
+
+816
+00:39:32,990 --> 00:39:34,630
+estatales. Y me pareció que, bueno, la
+
+817
+00:39:34,630 --> 00:39:41,310
+manera de medirlo era la manera en que, por otro lado, cualquier prestador de un servicio
+
+818
+00:39:41,310 --> 00:39:47,890
+online se mide a sí mismo, que es tener una medición regular de disponibilidad de servicio.
+
+819
+00:39:48,730 --> 00:39:53,430
+En un punto era muy simple la propuesta, se hacía un poquito más complejo porque yo
+
+820
+00:39:53,430 --> 00:39:58,390
+quería que, yo me esperaba otra cosa, bueno, igual que con lo de Redatam yo me esperaba
+
+821
+00:39:58,390 --> 00:40:02,810
+otra cosa y eso fue interesante, yo me esperaba que Argentina no pudiera tener buenos servidores
+
+822
+00:40:02,810 --> 00:40:06,070
+porque la luz se corta, que está en el diario de hoy,
+
+823
+00:40:06,590 --> 00:40:08,790
+sin luz eléctrica.
+
+824
+00:40:08,970 --> 00:40:14,970
+Ahí uno dice, bueno, ¿cómo hago para que la infraestructura que yo hago
+
+825
+00:40:14,970 --> 00:40:18,150
+funcione bien si no podemos asegurar la electricidad?
+
+826
+00:40:19,490 --> 00:40:23,570
+Y lo que me encontré era que eso no era un factor casi.
+
+827
+00:40:25,010 --> 00:40:28,750
+Por un lado, para armar mi infraestructura de medición,
+
+828
+00:40:28,750 --> 00:40:31,290
+entonces, aunque me donaran
+
+829
+00:40:31,290 --> 00:40:32,810
+espacio de servidores en Argentina
+
+830
+00:40:32,810 --> 00:40:34,710
+para conseguir recursos, yo no quería
+
+831
+00:40:34,710 --> 00:40:36,590
+que mi herramienta de medición se cayera
+
+832
+00:40:36,590 --> 00:40:38,490
+cuando se cortaba la luz, porque iba a estar diciendo
+
+833
+00:40:38,490 --> 00:40:40,130
+que no funcionaba un servidor en Salta
+
+834
+00:40:40,130 --> 00:40:42,650
+porque se cortó la luz en Capital donde estaban mis servidores
+
+835
+00:40:42,650 --> 00:40:43,490
+o no podía pasar
+
+836
+00:40:43,490 --> 00:40:46,230
+entonces, bueno
+
+837
+00:40:46,230 --> 00:40:48,930
+fue implementar Crohn's y Shops
+
+838
+00:40:48,930 --> 00:40:50,730
+y cuestiones que pudieran correr en servidores
+
+839
+00:40:50,730 --> 00:40:52,810
+externos a precios
+
+840
+00:40:52,810 --> 00:40:54,630
+económicos, en realidad fue gratuito
+
+841
+00:40:54,630 --> 00:40:55,970
+finalmente. Aprovechaste
+
+842
+00:40:55,970 --> 00:40:58,230
+el año gratuito que da Amazon
+
+843
+00:40:58,230 --> 00:41:00,230
+para hacer correr exactamente una industria.
+
+844
+00:41:01,490 --> 00:41:07,070
+Claro, minimizando ahí lo que fuera ancho de banda
+
+845
+00:41:07,070 --> 00:41:08,650
+y otras cuestiones que podían ser un límite.
+
+846
+00:41:10,470 --> 00:41:15,850
+Lo pude sostener desde una cuenta de AW3 de Amazon
+
+847
+00:41:15,850 --> 00:41:21,250
+y los resultados fueron heterogéneos.
+
+848
+00:41:21,250 --> 00:41:25,530
+Los resultados, digamos, el rendimiento de los servidores estatales
+
+849
+00:41:25,530 --> 00:41:27,750
+es muy malo comparado con el resto.
+
+850
+00:41:28,230 --> 00:41:33,130
+Digamos, a modo de control, incorporé los diarios nacionales.
+
+851
+00:41:33,690 --> 00:41:34,430
+Sector privado.
+
+852
+00:41:34,610 --> 00:41:35,650
+Estilo de mercado libre.
+
+853
+00:41:36,270 --> 00:41:40,130
+Digamos, algunas referencias de control que no estábamos comparando con los servidores de Google,
+
+854
+00:41:40,250 --> 00:41:42,570
+sino con servidores nacionales.
+
+855
+00:41:43,250 --> 00:41:50,070
+Pero del sector privado, los servidores de la Ciudad de Buenos Aires respondieron de una manera que estaba bien.
+
+856
+00:41:50,070 --> 00:41:52,650
+Digo, no es solo una cuestión de estatal privado.
+
+857
+00:41:53,130 --> 00:41:57,310
+Hubo servidores estatales que funcionaban bien y como generalidad habría que decir que los de la Ciudad de Buenos Aires
+
+858
+00:41:57,310 --> 00:42:01,430
+se diferenciaron en el rendimiento, pero después uno encontraba
+
+859
+00:42:01,430 --> 00:42:07,070
+mucha heterogeneidad, es decir, que los servidores de universidades
+
+860
+00:42:07,070 --> 00:42:08,870
+se comportaban distinto con los del Ministerio,
+
+861
+00:42:08,970 --> 00:42:12,950
+los del Ministerio de Ciencia resultaban ser los que peor rendimiento tenían,
+
+862
+00:42:14,690 --> 00:42:19,930
+pero también, no sé, la página ANSES, y en márgenes que uno no se esperaba,
+
+863
+00:42:19,930 --> 00:42:22,630
+de repente servidores que estén como los del Ministerio de Ciencia
+
+864
+00:42:22,630 --> 00:42:27,190
+para pedir subsidios, en particular justo ese, para pedir donde uno presenta,
+
+865
+00:42:27,190 --> 00:42:28,310
+digamos antecedentes
+
+866
+00:42:28,310 --> 00:42:31,310
+que estaba el 30% del tiempo caído
+
+867
+00:42:31,310 --> 00:42:32,590
+es muchísimo
+
+868
+00:42:32,590 --> 00:42:35,030
+para la gente que no conoce en general
+
+869
+00:42:35,030 --> 00:42:37,050
+uno espera que esté el 99% del tiempo
+
+870
+00:42:37,050 --> 00:42:37,510
+andando
+
+871
+00:42:37,510 --> 00:42:40,590
+que esté solo el 70%
+
+872
+00:42:40,590 --> 00:42:42,350
+es un montón
+
+873
+00:42:42,350 --> 00:42:44,490
+claro, es impensable
+
+874
+00:42:44,490 --> 00:42:47,450
+y viendo esos avances
+
+875
+00:42:47,450 --> 00:42:48,950
+a mitad de año ya evaluando
+
+876
+00:42:48,950 --> 00:42:51,150
+cómo venía la cosa, uno decía bueno por ahí es que los apagan
+
+877
+00:42:51,150 --> 00:42:52,630
+de tal hora a tal hora están apagados
+
+878
+00:42:52,630 --> 00:42:54,290
+por ahí es algo por política digamos
+
+879
+00:42:54,290 --> 00:42:57,090
+y entonces hicimos controles en paralelo
+
+880
+00:42:57,090 --> 00:43:03,630
+o continuar el proceso sistemático, hicimos controles desde otros puntos
+
+881
+00:43:03,630 --> 00:43:09,390
+para ver si estaban bloqueando nuestras IPs por algo, y no, realmente se caían aleatoriamente
+
+882
+00:43:09,390 --> 00:43:13,890
+en esas tasas, 30% de las veces caídas en forma aleatoria,
+
+883
+00:43:15,770 --> 00:43:19,030
+y cruzado incluso con esto de si cuando había cortes de luz, porque bueno,
+
+884
+00:43:19,070 --> 00:43:22,270
+hay información de cuándo hay cortes de luz y cuáles son los picos de consumo de luz,
+
+885
+00:43:22,850 --> 00:43:25,810
+y no coincidía con los picos de consumo de luz, no coincidía,
+
+886
+00:43:25,810 --> 00:43:27,930
+incluso uno pensaba, bueno, por ahí la gente
+
+887
+00:43:27,930 --> 00:43:29,810
+de tecnología
+
+888
+00:43:29,810 --> 00:43:31,770
+los fines de semana no está y se caen los servidores
+
+889
+00:43:31,770 --> 00:43:34,010
+y al revés, funcionaban peor
+
+890
+00:43:34,010 --> 00:43:36,070
+en horas de semana, como que uno se imaginaba
+
+891
+00:43:36,070 --> 00:43:38,250
+que hay parte que hace tal vez a la falta de procesos
+
+892
+00:43:38,250 --> 00:43:39,770
+de que se pasan
+
+893
+00:43:39,770 --> 00:43:41,930
+incluso por el tipo de error
+
+894
+00:43:41,930 --> 00:43:43,970
+en el artículo que publiqué está el tipo
+
+895
+00:43:43,970 --> 00:43:45,390
+de error y son errores de
+
+896
+00:43:45,390 --> 00:43:48,130
+muchos daban la impresión que era que se pasan
+
+897
+00:43:48,130 --> 00:43:50,490
+versiones que no están bien testeadas, actualizaciones
+
+898
+00:43:50,490 --> 00:43:52,030
+que simplemente se deja
+
+899
+00:43:52,030 --> 00:43:53,930
+caída el servicio
+
+900
+00:43:53,930 --> 00:43:56,050
+hacia el público mientras se hacen actualizaciones
+
+901
+00:43:56,050 --> 00:43:57,310
+que deben ser muy necesarias
+
+902
+00:43:57,310 --> 00:44:00,050
+pero que generan falta de disponibilidad
+
+903
+00:44:00,050 --> 00:44:01,470
+durante horas o días
+
+904
+00:44:01,470 --> 00:44:04,070
+y ese fue un poco el horizonte que me encontré
+
+905
+00:44:04,070 --> 00:44:04,630
+de los
+
+906
+00:44:04,630 --> 00:44:08,010
+digamos de la infraestructura
+
+907
+00:44:08,010 --> 00:44:09,950
+que hay para el gobierno electrónico
+
+908
+00:44:09,950 --> 00:44:11,950
+donde hay mucho
+
+909
+00:44:11,950 --> 00:44:14,010
+para mejorar y daba la impresión que había necesidad
+
+910
+00:44:14,010 --> 00:44:15,830
+de mejorar en todos los niveles
+
+911
+00:44:15,830 --> 00:44:17,910
+de proceso, desde la infraestructura hasta el
+
+912
+00:44:17,910 --> 00:44:19,430
+software, hasta los pasajes
+
+913
+00:44:19,430 --> 00:44:21,550
+de versiones
+
+914
+00:44:21,550 --> 00:44:29,050
+porque realmente estaba muy lejos del estándar que hoy día uno ve en cualquier servidor de aplicaciones.
+
+915
+00:44:29,450 --> 00:44:32,570
+Te hago una pregunta hipotética, si se puede.
+
+916
+00:44:33,070 --> 00:44:42,030
+Suponete que el presidente o algún gobernador te invitan, te convocan a ser secretario o director nacional
+
+917
+00:44:42,030 --> 00:44:47,690
+de algún área vinculado a los temas que manejas o a temas de gobierno electrónico,
+
+918
+00:44:47,690 --> 00:44:50,910
+de datos abiertos o algo más vinculado a ciencias sociales.
+
+919
+00:44:51,550 --> 00:44:59,870
+¿te parece una opción ser funcionario político del gobierno que fuera?
+
+920
+00:44:59,870 --> 00:45:03,130
+¿Es una opción que aceptarías si se diera?
+
+921
+00:45:07,640 --> 00:45:16,720
+Qué pregunta, la verdad es que no sé, no sería algo que me parezca ni bien ni mal
+
+922
+00:45:16,720 --> 00:45:23,640
+me parece que hay mucha falta de políticas de mediano y largo plazo
+
+923
+00:45:23,640 --> 00:45:27,400
+que hay mucha falta, por lo menos en mi área, que es actual,
+
+924
+00:45:27,520 --> 00:45:30,540
+digamos, trabajo en CONICET, entonces en el campo de investigación
+
+925
+00:45:30,540 --> 00:45:37,340
+de ciencias sociales y humanas, por lo menos, hay mucha falta de mirada
+
+926
+00:45:37,340 --> 00:45:40,760
+de la necesidad de infraestructura, de infraestructura digital,
+
+927
+00:45:41,740 --> 00:45:47,180
+y pienso que cualquier mejor en esa línea no es ni solamente una ley,
+
+928
+00:45:47,180 --> 00:45:51,300
+ni solamente un funcionario
+
+929
+00:45:51,300 --> 00:45:54,420
+ni solamente un proyecto
+
+930
+00:45:54,420 --> 00:45:59,520
+me parece que haría falta algo bastante transversal
+
+931
+00:45:59,520 --> 00:46:02,160
+en lo que yo
+
+932
+00:46:02,160 --> 00:46:05,860
+pienso que trato de aportar en esa línea
+
+933
+00:46:05,860 --> 00:46:08,120
+incluso en ausencia
+
+934
+00:46:08,120 --> 00:46:11,720
+de cuestiones así de transversales
+
+935
+00:46:11,720 --> 00:46:14,060
+trato de aportar, si hubiera algo así de transversal
+
+936
+00:46:14,060 --> 00:46:16,420
+también yo trataría de aportar desde el lugar que fuera
+
+937
+00:46:16,420 --> 00:46:20,140
+me parece, pero pienso que
+
+938
+00:46:20,140 --> 00:46:22,920
+bueno, que ahí se necesita mucho
+
+939
+00:46:22,920 --> 00:46:26,480
+ojalá, digo, en cualquiera de estos niveles
+
+940
+00:46:26,480 --> 00:46:28,800
+digamos, a nivel CONICET, a nivel ministerios
+
+941
+00:46:28,800 --> 00:46:31,640
+o a un nivel ejecutivo más amplio
+
+942
+00:46:31,640 --> 00:46:36,340
+se pudiera ver las pequeñas cosas
+
+943
+00:46:36,340 --> 00:46:39,920
+no digo grandes inversiones, sino cosas coordinadas
+
+944
+00:46:39,920 --> 00:46:43,180
+porque hay inversiones y de repente se han visto
+
+945
+00:46:43,180 --> 00:46:45,660
+colgado de ARSAT
+
+946
+00:46:45,660 --> 00:46:47,960
+y de algunas iniciativas así, el armado de ciertos
+
+947
+00:46:47,960 --> 00:46:49,580
+data centers y cosas
+
+948
+00:46:49,580 --> 00:46:51,840
+pero que después sin embargo uno habla
+
+949
+00:46:51,840 --> 00:46:53,960
+con investigadores y están recurriendo
+
+950
+00:46:53,960 --> 00:46:55,800
+a espacios gratuitos en Google Drive
+
+951
+00:46:55,800 --> 00:46:57,940
+y en Mega, esa es la realidad de los investigadores
+
+952
+00:46:57,940 --> 00:46:59,720
+Claro, y tenemos toda la
+
+953
+00:46:59,720 --> 00:47:01,180
+infraestructura de ARSAT
+
+954
+00:47:01,180 --> 00:47:03,680
+por ahí falta coordinación y
+
+955
+00:47:03,680 --> 00:47:05,180
+organización para que eso llegue a todos
+
+956
+00:47:05,180 --> 00:47:07,240
+Claro, y no
+
+957
+00:47:07,240 --> 00:47:09,740
+por lo menos en mi área yo no veo que esté la
+
+958
+00:47:09,740 --> 00:47:11,840
+visión ni siquiera de que hay que conectar
+
+959
+00:47:11,840 --> 00:47:13,000
+un data center con
+
+960
+00:47:13,000 --> 00:47:16,140
+algunos miles de investigadores
+
+961
+00:47:16,140 --> 00:47:17,440
+que se financian mes a mes
+
+962
+00:47:17,440 --> 00:47:20,260
+y no se les ofrece ninguna plataforma transversal
+
+963
+00:47:20,260 --> 00:47:20,860
+de trabajo
+
+964
+00:47:20,860 --> 00:47:24,340
+y bueno, eso hace que los resultados
+
+965
+00:47:24,340 --> 00:47:26,020
+tal vez no tengan el impacto
+
+966
+00:47:26,020 --> 00:47:27,720
+que podrían tener. Exacto, cuento
+
+967
+00:47:27,720 --> 00:47:30,280
+rápidamente un ejemplo
+
+968
+00:47:30,280 --> 00:47:32,100
+yo hace algunos años
+
+969
+00:47:32,100 --> 00:47:34,180
+participé de un gobierno en el
+
+970
+00:47:34,180 --> 00:47:36,100
+área de datos abiertos y cuando necesitaba
+
+971
+00:47:36,100 --> 00:47:38,160
+infraestructura en mi municipio, en el municipio en que yo
+
+972
+00:47:38,160 --> 00:47:40,360
+trabajaba, no tenía más lugar, me dijeron
+
+973
+00:47:40,360 --> 00:47:42,100
+si querés una aplicación más, acá no
+
+974
+00:47:42,100 --> 00:48:07,980
+Busca lugar. Y encontré que Arsat tenía, me contacté con la gente de ese equipo, me dijeron pedirnos lo que quieras, le pedí 14 máquinas virtuales para un montón de proyectos que necesitaban lugar y me dieron las 14. Así que mi solicitud o mi idea desde acá es que pidan y busquen porque lamentablemente no está tan coordinado, pero hay cosas para pedir.
+
+975
+00:48:07,980 --> 00:48:10,320
+Pablo, última pregunta
+
+976
+00:48:10,320 --> 00:48:12,900
+con la que cierro con todos los invitados
+
+977
+00:48:12,900 --> 00:48:14,840
+este podcast se llama
+
+978
+00:48:14,840 --> 00:48:17,000
+Cadena de Datos porque justamente
+
+979
+00:48:17,000 --> 00:48:19,180
+intento conectar
+
+980
+00:48:19,180 --> 00:48:21,100
+invitados, quería preguntarte
+
+981
+00:48:21,100 --> 00:48:22,960
+¿a quién me
+
+982
+00:48:22,960 --> 00:48:24,800
+recomiendas que invite a tener una
+
+983
+00:48:24,800 --> 00:48:26,860
+conversación sobre datos abiertos
+
+984
+00:48:26,860 --> 00:48:28,600
+y estos temas?
+
+985
+00:48:28,600 --> 00:48:30,500
+¿a quién le me recomendarías?
+
+986
+00:48:35,810 --> 00:48:36,330
+Bueno
+
+987
+00:48:36,330 --> 00:48:38,270
+es colaboradora en
+
+988
+00:48:38,270 --> 00:48:40,170
+poblaciones pero pienso que es alguien que te puede
+
+989
+00:48:40,170 --> 00:48:42,150
+hablar, que tiene
+
+990
+00:48:42,150 --> 00:48:44,110
+una trayectoria distinta de
+
+991
+00:48:44,110 --> 00:48:45,190
+otras clases de datos
+
+992
+00:48:45,190 --> 00:48:48,210
+una persona que se llama
+
+993
+00:48:48,210 --> 00:48:49,090
+Jimena del Río
+
+994
+00:48:49,090 --> 00:48:51,510
+que ella trabaja desde
+
+995
+00:48:51,510 --> 00:48:54,050
+humanidades digitales, es el campo de ella
+
+996
+00:48:54,050 --> 00:48:56,430
+no es el de, tal vez el del dato estadístico
+
+997
+00:48:56,430 --> 00:48:58,430
+como vengo yo
+
+998
+00:48:58,430 --> 00:49:02,170
+y bueno, tal vez puedan
+
+999
+00:49:02,170 --> 00:49:03,930
+charlar como son los problemas
+
+1000
+00:49:03,930 --> 00:49:06,450
+de los datos abiertos cuando lo que uno trabaja
+
+1001
+00:49:06,450 --> 00:49:08,210
+son novelas
+
+1002
+00:49:08,210 --> 00:49:11,910
+y mapas históricos
+
+1003
+00:49:11,910 --> 00:49:14,110
+ellos trabajan desde la literatura y desde la historia
+
+1004
+00:49:14,110 --> 00:49:15,910
+bueno, la ponemos en la lista
+
+1005
+00:49:15,910 --> 00:49:17,910
+tienen problemas bien interesantes
+
+1006
+00:49:17,910 --> 00:49:19,290
+de datos y de
+
+1007
+00:49:19,290 --> 00:49:21,170
+colaboración que tal vez
+
+1008
+00:49:21,170 --> 00:49:22,750
+puedan compartir
+
+1009
+00:49:22,750 --> 00:49:23,950
+¿alguien más?
+
+1010
+00:49:30,490 --> 00:49:32,230
+se me va a ocurrir mucha gente cuando
+
+1011
+00:49:32,230 --> 00:49:34,890
+bueno, después me pueden mandar un email
+
+1012
+00:49:34,890 --> 00:49:36,510
+se me van a ocurrir un montón de personas
+
+1013
+00:49:36,510 --> 00:49:38,730
+a mí me parecería interesante
+
+1014
+00:49:38,730 --> 00:49:40,810
+si pudieran, bueno, retomar
+
+1015
+00:49:40,810 --> 00:49:41,990
+la palabra también de
+
+1016
+00:49:41,990 --> 00:50:03,350
+¿Cuál es la visión desde el lado de los funcionarios? Sé que hay mucha gente trabajando con datos abiertos desde el Estado y ahí hay puentes para hacer entre, y también entre usuarios a veces como son los usuarios académicos que somos estatales que no nos reconocemos como tales muchas veces.
+
+1017
+00:50:03,350 --> 00:50:06,250
+hay muchas fuentes para hacer
+
+1018
+00:50:06,250 --> 00:50:08,950
+entre la parte de gestión
+
+1019
+00:50:08,950 --> 00:50:10,010
+y la parte de investigación
+
+1020
+00:50:10,010 --> 00:50:13,250
+no se me ocurre un nombre
+
+1021
+00:50:13,250 --> 00:50:14,930
+pero me daría ganas de escuchar
+
+1022
+00:50:14,930 --> 00:50:16,790
+cuál es la visión de datos del Ministerio de Salud
+
+1023
+00:50:16,790 --> 00:50:19,230
+a mí me pasa
+
+1024
+00:50:19,230 --> 00:50:21,310
+que invito gente y a muchos no los dejan
+
+1025
+00:50:21,310 --> 00:50:22,710
+o está la autocensura
+
+1026
+00:50:22,710 --> 00:50:25,650
+porque los investigadores
+
+1027
+00:50:25,650 --> 00:50:26,910
+tienen más libertad de hablar
+
+1028
+00:50:26,910 --> 00:50:28,330
+pero los funcionarios
+
+1029
+00:50:28,330 --> 00:50:31,210
+muchos han hablado y muchos han participado
+
+1030
+00:50:31,210 --> 00:50:32,090
+y yo los valoro
+
+1031
+00:50:32,090 --> 00:50:33,950
+pero me ha pasado más de una vez y me dicen
+
+1032
+00:50:33,950 --> 00:50:36,330
+no, no se puede en este momento, en este contexto
+
+1033
+00:50:36,330 --> 00:50:38,010
+es más delicado
+
+1034
+00:50:38,010 --> 00:50:40,070
+pero creo que sería muy valioso
+
+1035
+00:50:40,070 --> 00:50:41,630
+que algún funcionario y sobre todo
+
+1036
+00:50:41,630 --> 00:50:43,990
+alguno más técnico, alguien que se meta en el barro
+
+1037
+00:50:43,990 --> 00:50:46,150
+de conversar abiertamente
+
+1038
+00:50:46,150 --> 00:50:47,830
+aceptando lo que falta
+
+1039
+00:50:47,830 --> 00:50:49,690
+y valorando lo que hay
+
+1040
+00:50:49,690 --> 00:50:50,330
+que no es poco
+
+1041
+00:50:50,330 --> 00:50:53,530
+Pablo
+
+1042
+00:50:53,530 --> 00:50:55,250
+te despido
+
+1043
+00:50:55,250 --> 00:50:58,150
+pero quiero agradecerte particularmente
+
+1044
+00:50:58,150 --> 00:51:00,070
+porque veo que tenés un montón
+
+1045
+00:51:00,070 --> 00:51:01,490
+de proyectos siempre
+
+1046
+00:51:01,490 --> 00:51:03,650
+liberas el software de lo que haces
+
+1047
+00:51:03,650 --> 00:51:05,790
+siempre liberas los datos de lo que
+
+1048
+00:51:05,790 --> 00:51:07,350
+haces con una calidad suficiente
+
+1049
+00:51:07,350 --> 00:51:09,810
+para que otras personas lo puedan reutilizar
+
+1050
+00:51:09,810 --> 00:51:10,750
+así que
+
+1051
+00:51:10,750 --> 00:51:13,730
+te lo digo al aire, admiro muchísimo lo que
+
+1052
+00:51:13,730 --> 00:51:15,530
+haces y valoro y te agradezco
+
+1053
+00:51:15,530 --> 00:51:17,450
+muchísimo que hayas participado en este podcast
+
+1054
+00:51:17,450 --> 00:51:21,630
+Bueno, gracias a vos y a ustedes
+
+1055
+00:51:21,630 --> 00:51:23,290
+Andrés también, que bueno
+
+1056
+00:51:23,290 --> 00:51:25,370
+sé que en el caso del conversor Redatán
+
+1057
+00:51:25,370 --> 00:51:27,290
+desde los primeros
+
+1058
+00:51:27,290 --> 00:51:29,670
+esfuerzos que estuve haciendo
+
+1059
+00:51:29,670 --> 00:51:31,030
+para ahí, ustedes estuvieron
+
+1060
+00:51:31,030 --> 00:51:33,990
+atentos y en la difusión y haciéndolo circular
+
+1061
+00:51:33,990 --> 00:51:36,350
+y militando los datos abiertos
+
+1062
+00:51:36,350 --> 00:51:37,790
+de hecho
+
+1063
+00:51:37,790 --> 00:51:39,790
+desde mucho
+
+1064
+00:51:39,790 --> 00:51:41,190
+antes de mis laburos
+
+1065
+00:51:41,190 --> 00:51:43,010
+así que es súper valioso
+
+1066
+00:51:43,010 --> 00:51:45,670
+el laburo que hacen y lo que han ido liberando
+
+1067
+00:51:45,670 --> 00:51:47,530
+y generando ustedes, así que bueno
+
+1068
+00:51:47,530 --> 00:51:49,650
+me alegro un montón poder participar
+
+1069
+00:51:49,650 --> 00:51:51,070
+Gracias Pablo, un abrazo
+

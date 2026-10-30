@@ -1,0 +1,1972 @@
+1
+00:00:00,140 --> 00:00:29,080
+Cadena de datos, episodio número 38. Desde este lado Andrés Vázquez en Córdoba, Argentina. Hoy me acompaña Adria Mercader. Adria es licenciado en Biología y máster en Sistemas de Información Geográfica. Tiene más de una década de experiencia trabajando en el campo de los datos abiertos y la tecnología cívica. Es miembro del equipo técnico de SICAN y trabaja en diferentes proyectos de la Fundación Conocimiento Abierto, ayudando a desbloquear el valor de los datos abiertos.
+
+2
+00:00:29,080 --> 00:00:31,500
+buenos días para mí, buenas tardes para vos
+
+3
+00:00:31,500 --> 00:00:33,580
+Adrián, ¿cómo estás? Muchas gracias
+
+4
+00:00:33,580 --> 00:00:35,160
+por participar. Muy bien, gracias
+
+5
+00:00:35,160 --> 00:00:37,480
+bien, gracias a ti
+
+6
+00:00:37,480 --> 00:00:37,980
+por tenerme
+
+7
+00:00:37,980 --> 00:00:40,580
+en general arranco
+
+8
+00:00:40,580 --> 00:00:43,140
+preguntando por los comienzos
+
+9
+00:00:43,140 --> 00:00:45,000
+y en tu caso veo que desde hace
+
+10
+00:00:45,000 --> 00:00:46,940
+estás cumpliendo 10 años
+
+11
+00:00:46,940 --> 00:00:48,720
+con la fundación Conocimiento Abierto
+
+12
+00:00:48,720 --> 00:00:51,280
+quería preguntarte si tu primer
+
+13
+00:00:51,280 --> 00:00:53,200
+vínculo con el mundo de los datos
+
+14
+00:00:53,200 --> 00:00:55,320
+abiertos, sobre todo pensando en que
+
+15
+00:00:55,320 --> 00:00:56,140
+venís desde
+
+16
+00:00:56,140 --> 00:00:58,820
+me acabo de enterrar para este podcast
+
+17
+00:00:58,820 --> 00:01:00,660
+revisando tu perfil
+
+18
+00:01:00,660 --> 00:01:02,160
+que sos licenciado en biología
+
+19
+00:01:02,160 --> 00:01:02,940
+quería preguntarte
+
+20
+00:01:02,940 --> 00:01:04,280
+¿cuál fue tu primer proyecto
+
+21
+00:01:04,280 --> 00:01:05,740
+vinculado a los datos abiertos?
+
+22
+00:01:07,080 --> 00:01:07,560
+Pues
+
+23
+00:01:07,560 --> 00:01:08,420
+mira
+
+24
+00:01:08,420 --> 00:01:08,980
+antes de
+
+25
+00:01:08,980 --> 00:01:10,380
+de unirme
+
+26
+00:01:10,380 --> 00:01:11,080
+a
+
+27
+00:01:11,080 --> 00:01:12,980
+a la Open Knowledge Foundation
+
+28
+00:01:12,980 --> 00:01:13,840
+trabajé durante
+
+29
+00:01:13,840 --> 00:01:14,800
+unos cuantos años
+
+30
+00:01:14,800 --> 00:01:16,600
+en el campo de los
+
+31
+00:01:16,600 --> 00:01:18,600
+en el campo geoespacial
+
+32
+00:01:18,600 --> 00:01:21,020
+en una empresa de Barcelona
+
+33
+00:01:21,020 --> 00:01:22,260
+que trabajaba con tecnologías
+
+34
+00:01:22,260 --> 00:01:23,460
+de open source
+
+35
+00:01:23,460 --> 00:01:24,240
+en
+
+36
+00:01:24,240 --> 00:01:27,760
+en proyectos espaciales
+
+37
+00:01:27,760 --> 00:01:36,000
+Y allí fue donde empecé a interesarme por el acceso a los datos
+
+38
+00:01:36,000 --> 00:01:43,160
+Porque básicamente el campo geospacial siempre ha sido un pionero en cuanto a la publicación de datos
+
+39
+00:01:43,160 --> 00:01:48,360
+Siempre es uno de los que se incluyen primero en iniciativas de abrir datos
+
+40
+00:01:48,360 --> 00:02:07,100
+Y esto era sobre, te hablo de 2004-2005, donde aún no había empezado, empezaba el boom con fuerza del movimiento Open Data, pero aún no estaba al nivel que estaría como una década después.
+
+41
+00:02:07,100 --> 00:02:29,680
+Se empezaba desde las administraciones, en este caso yo estaba en Barcelona, donde estas administraciones españolas y catalanas empezaba a abrir los datos para descarga, a generar geoservicios a su alrededor y allí fue donde empecé a interesarme en toda esta temática.
+
+42
+00:02:29,680 --> 00:02:38,460
+Pero básicamente en ese momento yo trabajaba desarrollador, mi enfoque siempre era más al open source.
+
+43
+00:02:38,620 --> 00:02:39,360
+Más técnico.
+
+44
+00:02:41,300 --> 00:02:45,200
+Quiero preguntar si en ese momento ya había actores gubernamentales en este mundo.
+
+45
+00:02:45,440 --> 00:02:47,560
+Me hablabas de la administración de Barcelona.
+
+46
+00:02:48,100 --> 00:02:50,380
+¿Ellos ya tenían alguna política de datos abiertos?
+
+47
+00:02:50,480 --> 00:02:52,940
+Me estás hablando de la prehistoria de los datos abiertos.
+
+48
+00:02:53,020 --> 00:02:56,420
+En 2004, 2005 no había portales de datos abiertos.
+
+49
+00:02:56,420 --> 00:02:56,900
+Claro.
+
+50
+00:02:57,360 --> 00:02:59,380
+O por lo menos no como los conocemos hoy.
+
+51
+00:02:59,680 --> 00:03:03,020
+Claro, ya te hablo de hace muchos años
+
+52
+00:03:03,020 --> 00:03:13,180
+Y entonces yo no tenía el vocabulario o el contexto sobre los datos abiertos que tenemos ahora
+
+53
+00:03:13,180 --> 00:03:15,960
+Esto es algo que faltaba entonces también
+
+54
+00:03:15,960 --> 00:03:22,740
+Porque ahora hablamos de Open Data y ya sabemos claramente, identificamos qué tipos de datos son
+
+55
+00:03:22,740 --> 00:03:27,560
+Sabemos de licencias, sabemos de Machine Readable, etc.
+
+56
+00:03:27,560 --> 00:03:34,680
+En ese momento se trataba de simplemente obtener los datos de alguna manera para que pudieras usarlos en tu aplicación.
+
+57
+00:03:36,120 --> 00:03:44,580
+O sea, yo no te podría decir exactamente si en ese momento ya se trataba de una iniciativa que hoy definiríamos como Open Data, con licencias abiertas.
+
+58
+00:03:44,580 --> 00:03:47,340
+yo diría que no, en ese momento
+
+59
+00:03:47,340 --> 00:03:48,200
+aún estaban
+
+60
+00:03:48,200 --> 00:03:50,920
+eran datos que se ofrecían
+
+61
+00:03:50,920 --> 00:03:53,020
+por ejemplo desde el Instituto Geográfico
+
+62
+00:03:53,020 --> 00:03:53,720
+de Cataluña
+
+63
+00:03:53,720 --> 00:03:56,100
+con una licencia
+
+64
+00:03:56,100 --> 00:03:58,280
+que probablemente ahora no sería
+
+65
+00:03:58,280 --> 00:04:00,940
+abierta, que al cabo de unos años
+
+66
+00:04:00,940 --> 00:04:01,540
+sí que lo fue
+
+67
+00:04:01,540 --> 00:04:04,440
+pero ya te digo, fue como
+
+68
+00:04:04,440 --> 00:04:06,860
+un viaje gradual en mi caso
+
+69
+00:04:06,860 --> 00:04:09,100
+de disponer
+
+70
+00:04:09,100 --> 00:04:10,380
+de los datos y de decir, ostras
+
+71
+00:04:10,380 --> 00:04:12,700
+con esto se pueden hacer muchas cosas
+
+72
+00:04:12,700 --> 00:04:14,500
+esto te permite
+
+73
+00:04:14,500 --> 00:04:16,220
+claro, entonces
+
+74
+00:04:16,220 --> 00:04:17,920
+ahí vas sumando
+
+75
+00:04:17,920 --> 00:04:20,660
+y si podemos vincular datos
+
+76
+00:04:20,660 --> 00:04:22,820
+de diferentes catálogos, pues aún tienen más valor
+
+77
+00:04:22,820 --> 00:04:24,460
+y si tienen metadatos
+
+78
+00:04:24,460 --> 00:04:26,320
+decentes, pues aún más
+
+79
+00:04:26,320 --> 00:04:28,320
+fue como
+
+80
+00:04:28,320 --> 00:04:30,320
+un viaje, en mi caso
+
+81
+00:04:30,320 --> 00:04:32,720
+Exacto, y unos años
+
+82
+00:04:32,720 --> 00:04:34,640
+después llegas a la Fundación
+
+83
+00:04:34,640 --> 00:04:35,840
+Conocimiento Abierto, que
+
+84
+00:04:35,840 --> 00:04:38,800
+entiendo, en no sé cómo podés corregir
+
+85
+00:04:38,800 --> 00:04:39,680
+son pioneros
+
+86
+00:04:39,680 --> 00:04:42,380
+en este tema, ¿cómo es tu llegada
+
+87
+00:04:42,380 --> 00:04:53,590
+a la fundación a la open knowledge foundation pues mira esto fue finales del 2010-2011 inicios
+
+88
+00:04:53,590 --> 00:05:00,850
+del 2011 yo me había a ese punto yo me había mudado al reino unido y con esto pues también
+
+89
+00:05:00,850 --> 00:05:10,130
+tuve acceso a otro panorama totalmente diferente en cuanto datos abiertos tecnologías metadatos
+
+90
+00:05:10,130 --> 00:05:16,630
+etcétera que estaban en ese caso en este momento la reunido estaba muy avanzado en ese aspecto y
+
+91
+00:05:16,630 --> 00:05:23,510
+uno de los aspectos en que era pionero era con disponer del primer día hacemos del primer
+
+92
+00:05:23,510 --> 00:05:39,110
+portal open data que que fue como tal que fue el portal del gobierno británico y en ese portal
+
+93
+00:05:40,130 --> 00:05:56,650
+Sí, de hecho, la OKF me contrató como desarrollador para trabajar en el proyecto de data.gov.uk, que fue mi primera experiencia con Seekan, que era el software que le daba soporte.
+
+94
+00:05:56,650 --> 00:05:59,170
+entonces entré con
+
+95
+00:05:59,170 --> 00:06:01,310
+al momento que entré yo
+
+96
+00:06:01,310 --> 00:06:03,030
+el proyecto ya estaba en marcha
+
+97
+00:06:03,030 --> 00:06:04,470
+ya llevaba uno o dos años
+
+98
+00:06:04,470 --> 00:06:07,970
+o sea no era en las fases iniciales
+
+99
+00:06:07,970 --> 00:06:09,890
+y yo de hecho trabajé
+
+100
+00:06:09,890 --> 00:06:11,750
+en el aspecto de
+
+101
+00:06:11,750 --> 00:06:13,250
+de harvesting
+
+102
+00:06:13,250 --> 00:06:14,630
+de importación de metadatos
+
+103
+00:06:14,630 --> 00:06:17,650
+de otros catálogos
+
+104
+00:06:17,650 --> 00:06:19,250
+en el catálogo principal
+
+105
+00:06:19,250 --> 00:06:21,430
+que creo que es algo que tú
+
+106
+00:06:21,430 --> 00:06:23,010
+has tenido la suerte
+
+107
+00:06:23,010 --> 00:06:24,810
+o desgraciado
+
+108
+00:06:24,810 --> 00:06:27,730
+de trabajar
+
+109
+00:06:27,730 --> 00:06:28,430
+recientemente
+
+110
+00:06:28,430 --> 00:06:30,510
+si, si, si
+
+111
+00:06:30,510 --> 00:06:32,930
+acaba de terminarse
+
+112
+00:06:32,930 --> 00:06:34,990
+el proceso de actualización
+
+113
+00:06:34,990 --> 00:06:37,210
+de la versión de SICAM para el gobierno de Estados Unidos
+
+114
+00:06:37,210 --> 00:06:38,910
+que tiene más de mil
+
+115
+00:06:38,910 --> 00:06:40,790
+fuentes externas de datos
+
+116
+00:06:40,790 --> 00:06:42,170
+de las cuales hay que cosechar
+
+117
+00:06:42,170 --> 00:06:44,410
+así que vengo de un año y medio
+
+118
+00:06:44,410 --> 00:06:45,870
+de proceso de harvesting
+
+119
+00:06:45,870 --> 00:06:48,350
+y como decís vos es una suerte y es una desgracia
+
+120
+00:06:48,350 --> 00:06:49,070
+al mismo tiempo
+
+121
+00:06:49,070 --> 00:06:52,350
+así que entiendo por lo que
+
+122
+00:06:52,350 --> 00:06:54,050
+pasaste en aquel momento
+
+123
+00:06:54,050 --> 00:07:22,390
+Cuando uno nombra la Fundación Conocimiento Abierto, la Open Knowledge Foundation, uno piensa inmediatamente en SICAN y lamentablemente todavía hay gente que no conoce SICAN. Yo quería que me cuentes en tus palabras, porque agrego una nota. Google, hay una fundación para el software libre, hizo una medición de cuál es el software libre más importante, porque se dan muchos casos de que hay productos de software libre que sostienen muchas otras tecnologías y que a veces no tienen el apoyo que necesitan.
+
+124
+00:07:22,390 --> 00:07:33,330
+Y en esa lista SICAN aparece bastante bien posicionado por la historia que tiene, por la comunidad gigantesca. Pero quería preguntarte a vos concretamente, ¿cómo describiría SICAN? ¿Cómo le decía a alguien que no conoce qué es SICAN?
+
+125
+00:07:33,330 --> 00:08:01,330
+A nivel esencial, SICAN es un software para dar soporte a portales de datos. Su definición inicialmente fue un catálogo de datos. Simplemente es una aplicación web donde los publicadores pueden registrar catálogos de datos y alojarlos y los usuarios pueden buscarlos y encontrarlos.
+
+126
+00:08:01,330 --> 00:08:29,590
+Esto era la idea inicial, que luego se ha ido expandiendo para hacer frente a necesidades del portal, extendiéndose con más funcionalidades de publicación o de seguimiento de actividad alrededor de los datasets, o integración con otros workflows y con otras herramientas de visualización, etc.
+
+127
+00:08:29,590 --> 00:08:40,910
+Pero para definirlo en un término simple que todo el mundo puede entender, es un software online para la publicación de datos.
+
+128
+00:08:42,090 --> 00:08:56,190
+Perfecto. A principios del 2016 yo empecé a trabajar en un gobierno específicamente para lanzar un portal de datos abierto y ordenar la política pública en cuanto a la apertura de datos.
+
+129
+00:08:56,190 --> 00:09:09,970
+Y en ese momento la primera opción que me surgió es Zikan. Antes de elegir Zikan, cometí, no sé si es el error, de preguntarle a muchos otros usuarios argentinos de Zikan qué opinaban.
+
+130
+00:09:09,970 --> 00:09:19,530
+Y en realidad, la mayoría me dijeron que les costaba muchísimo trabajar con ZICAN, que era muy difícil, que tenía muchos problemas.
+
+131
+00:09:20,090 --> 00:09:27,110
+Y yo, basándome en la opinión de los demás, tomé una decisión de la cual me arrepiento muchísimo, que es la de no usar ZICAN.
+
+132
+00:09:27,830 --> 00:09:32,270
+Y viéndolo a la distancia, creo que fue una mala decisión.
+
+133
+00:09:32,270 --> 00:09:47,770
+Si un gobierno quiere iniciar una política de datos abiertos, ¿recomendás mucho usar SICAN? ¿Por qué un gobierno que empieza con su política de datos abiertos o que ya tiene una desordenada, por qué debería usar SICAN?
+
+134
+00:09:47,770 --> 00:10:10,440
+Bueno, en primer lugar, entiendo a los compañeros a los que preguntaste por SICAN, porque el nivel que tenemos ahora de soporte en cuanto a documentación, facilidad de instalación, no siempre ha sido este, el que tenemos ahora.
+
+135
+00:10:10,440 --> 00:10:28,980
+Y especialmente al principio requería un poco de trabajo de mantenerlo y de instalarlo. Pero bueno, es lo que pasa con proyectos open source que tienen recursos limitados como nosotros, pues las cosas evolucionan poco a poco.
+
+136
+00:10:28,980 --> 00:10:44,840
+Pero bueno, actualmente yo creo que Chican es una opción a considerar por gobiernos o otras organizaciones que quieran implementar su portal de datos abiertos. En primer lugar porque es un proyecto maduro.
+
+137
+00:10:44,840 --> 00:10:50,640
+Si miramos el primer commit en el código fuente
+
+138
+00:10:50,640 --> 00:10:53,320
+Igual empezó hace 12 años
+
+139
+00:10:53,320 --> 00:11:00,840
+Igual yo definiría desde el punto en que se usó en data.gov.uk
+
+140
+00:11:00,840 --> 00:11:05,400
+Y luego especialmente cuando en un par de años después
+
+141
+00:11:05,400 --> 00:11:09,500
+En 2013 cuando se empezó a usar en data.gov
+
+142
+00:11:09,500 --> 00:11:12,080
+En el portal de Estados Unidos
+
+143
+00:11:12,080 --> 00:11:34,340
+En ese momento diría que realmente se convirtió en un proyecto open source en el sentido de que no solo era la Open Knowledge Foundation quien la mantenía, sino que fue una comunidad de usuarios externos también que contribuye a su desarrollo con la creación del equipo técnico, etc.
+
+144
+00:11:34,340 --> 00:11:56,380
+O sea, eso ya les da pues casi nueve, ocho años, diez años de existencia o vida. Es un código robusto en el sentido de que está muy bien testeado, está usado en muchas, muchas aplicaciones alrededor del mundo.
+
+145
+00:11:56,380 --> 00:12:05,500
+creo que hacemos un buen trabajo en cuanto a incorporar contribuciones externas especialmente
+
+146
+00:12:05,500 --> 00:12:15,060
+en cuanto a seguridad o sea que tiene una una es que a veces me salen las palabras en inglés de
+
+147
+00:12:15,060 --> 00:12:23,040
+repetirla si básicamente que publicamos versiones regularmente especialmente las
+
+148
+00:12:23,040 --> 00:12:25,080
+que incluyen patches de seguridad
+
+149
+00:12:25,080 --> 00:12:27,060
+y también
+
+150
+00:12:27,060 --> 00:12:29,160
+lo importante también es que tiene una comunidad alrededor
+
+151
+00:12:29,160 --> 00:12:30,920
+no es
+
+152
+00:12:30,920 --> 00:12:32,840
+una sola organización que lo usa
+
+153
+00:12:32,840 --> 00:12:34,360
+no es un solo gobierno que lo usa
+
+154
+00:12:34,360 --> 00:12:37,180
+ahora mismo
+
+155
+00:12:37,180 --> 00:12:39,000
+la verdad es que no tenemos un número
+
+156
+00:12:39,000 --> 00:12:41,060
+exacto de instalaciones
+
+157
+00:12:41,060 --> 00:12:42,540
+de SIGAN pero estoy seguro que están
+
+158
+00:12:42,540 --> 00:12:43,220
+en los
+
+159
+00:12:43,220 --> 00:12:46,060
+centenares
+
+160
+00:12:46,060 --> 00:12:47,780
+algunas van desde
+
+161
+00:12:47,780 --> 00:12:51,260
+instancias muy grandes como las del gobierno
+
+162
+00:12:51,260 --> 00:12:52,820
+de Estados Unidos o las de Canadá
+
+163
+00:12:52,820 --> 00:12:57,220
+hasta instancias a nivel de gobierno local
+
+164
+00:12:57,220 --> 00:13:02,280
+o de organizaciones como fundaciones sin ánimo de lucro, universidades, etc.
+
+165
+00:13:02,740 --> 00:13:06,160
+O sea que hay un rango de usuarios muy elevado también.
+
+166
+00:13:07,100 --> 00:13:11,760
+Bien, le decimos a los funcionarios técnicos que van a tomar la decisión en el futuro
+
+167
+00:13:11,760 --> 00:13:16,620
+que no se equivoquen como yo y que elijan efectivamente SICAN
+
+168
+00:13:16,620 --> 00:13:20,680
+que ya están en una situación en la que es casi imposible
+
+169
+00:13:20,680 --> 00:13:24,360
+no elegir Zika a la hora de abrir datos.
+
+170
+00:13:24,460 --> 00:13:27,960
+Hablaste de una comunidad, y yo después de la experiencia
+
+171
+00:13:27,960 --> 00:13:31,780
+en que no comencé con Zika en el 2019 empecé a usarlo activamente
+
+172
+00:13:31,780 --> 00:13:36,280
+y a trabajar dentro, y lo que vi es una comunidad muy grande,
+
+173
+00:13:36,440 --> 00:13:39,300
+muy interesante, muy valiosa y muy ordenada también.
+
+174
+00:13:40,120 --> 00:13:43,600
+Te quería preguntarte por esa comunidad, porque todavía hay gente
+
+175
+00:13:43,600 --> 00:13:44,720
+que piensa que el software libre
+
+176
+00:13:44,720 --> 00:13:46,300
+se trata del esfuerzo
+
+177
+00:13:46,300 --> 00:13:47,300
+y la voluntad
+
+178
+00:13:47,300 --> 00:13:48,760
+no paga de mucha gente
+
+179
+00:13:48,760 --> 00:13:50,340
+y por el contrario
+
+180
+00:13:50,340 --> 00:13:51,520
+Zikan parece
+
+181
+00:13:51,520 --> 00:13:54,100
+un producto
+
+182
+00:13:54,100 --> 00:13:55,240
+bien mantenido
+
+183
+00:13:55,240 --> 00:13:56,120
+y bien financiado
+
+184
+00:13:56,120 --> 00:13:57,040
+te quería preguntar
+
+185
+00:13:57,040 --> 00:13:57,580
+para la gente
+
+186
+00:13:57,580 --> 00:13:58,380
+que no conoce mucho
+
+187
+00:13:58,380 --> 00:13:58,960
+el software libre
+
+188
+00:13:58,960 --> 00:14:00,600
+el desarrollo
+
+189
+00:14:00,600 --> 00:14:02,480
+de Zikan
+
+190
+00:14:02,480 --> 00:14:03,800
+está financiado
+
+191
+00:14:03,800 --> 00:14:05,100
+y cómo se financia
+
+192
+00:14:05,100 --> 00:14:05,800
+cómo se organiza
+
+193
+00:14:05,800 --> 00:14:06,480
+a nivel general
+
+194
+00:14:06,480 --> 00:14:08,000
+cómo hacemos
+
+195
+00:14:08,000 --> 00:14:08,560
+para que Zikan
+
+196
+00:14:08,560 --> 00:14:09,740
+continúe el camino
+
+197
+00:14:09,740 --> 00:14:10,340
+que tiene
+
+198
+00:14:10,340 --> 00:14:11,500
+tan ordenado
+
+199
+00:14:11,500 --> 00:14:12,240
+y prolijo ahora
+
+200
+00:14:12,240 --> 00:14:45,650
+En general, es verdad, varía mucho también cada desarrollador que es miembro del equipo técnico y los desarrolladores externos. La casuística depende de cada organización y de cada desarrollador, pero en general es verdad que la mayor parte de tiempo que se implica en el desarrollo de SIGAN está financiado a través de la organización a la que pertenece el equipo.
+
+201
+00:14:45,670 --> 00:14:51,590
+desarrollador. Esto ya puede ser, aquí ya depende de la organización que sea, si es una compañía
+
+202
+00:14:51,590 --> 00:15:01,110
+que ofrece servicios de soporte a SICAN, pues puede estar integrado en el trabajo que hacen
+
+203
+00:15:01,110 --> 00:15:10,930
+para sus clientes o puede ser fondos que la empresa destina al mantenimiento del proyecto
+
+204
+00:15:10,930 --> 00:15:29,770
+Y a veces también hay desarrolladores que invierten su propio tiempo, pero bueno, ya te digo que esto es una minoría. Te lo digo por experiencia que soy el que probablemente ahora mismo está implicado desde los que gasta más tiempo.
+
+205
+00:15:29,770 --> 00:15:31,690
+pues intento minimizarlo este
+
+206
+00:15:31,690 --> 00:15:33,990
+a nivel de
+
+207
+00:15:33,990 --> 00:15:35,110
+hay una
+
+208
+00:15:35,110 --> 00:15:37,130
+no es solo
+
+209
+00:15:37,130 --> 00:15:39,790
+a nivel de la compañía
+
+210
+00:15:39,790 --> 00:15:41,730
+que da soporte al desarrollador individual
+
+211
+00:15:41,730 --> 00:15:43,290
+sino que hay una
+
+212
+00:15:43,290 --> 00:15:46,010
+asociación que es la Seek & Association
+
+213
+00:15:46,010 --> 00:15:47,670
+que es una organización
+
+214
+00:15:47,670 --> 00:15:48,390
+que
+
+215
+00:15:48,390 --> 00:15:51,690
+es la organización que
+
+216
+00:15:51,690 --> 00:15:53,650
+creó la Open Knowledge Foundation para dar
+
+217
+00:15:53,650 --> 00:15:55,070
+sostenibilidad al proyecto
+
+218
+00:15:55,070 --> 00:15:56,190
+que tiene
+
+219
+00:15:56,190 --> 00:15:58,470
+unos
+
+220
+00:15:58,470 --> 00:16:09,670
+los stewards y unos cargos que básicamente buscan maneras de mantener la sostenibilidad del proyecto
+
+221
+00:16:09,670 --> 00:16:15,630
+esto también las mismas empresas las mismas empresas que se benefician comercialmente dando
+
+222
+00:16:15,630 --> 00:16:22,950
+servicios y que aportan o programadores o dinero para que esta organización continúe exactamente
+
+223
+00:16:22,950 --> 00:16:41,890
+Y no quiero dar a entender que es un trabajo fácil, tengo que perseguir a mucha gente para que las contribuciones sigan entrando, pero bueno, esta es la idea de la mayor parte de proyectos open source que siguen nuestro modelo,
+
+224
+00:16:41,890 --> 00:16:46,010
+en el que hay diferentes stakeholders
+
+225
+00:16:46,010 --> 00:16:47,530
+o diferentes partes implicadas
+
+226
+00:16:47,530 --> 00:16:49,930
+me refiero a que hay proyectos open source
+
+227
+00:16:49,930 --> 00:16:52,070
+que básicamente son controlados por una sola
+
+228
+00:16:52,070 --> 00:16:53,010
+compañía
+
+229
+00:16:53,010 --> 00:16:56,150
+que es la que define la dirección del proyecto
+
+230
+00:16:56,150 --> 00:16:58,070
+y es la que funda la mayor parte de su
+
+231
+00:16:58,070 --> 00:16:59,850
+desarrollo, en el caso de Sigan son
+
+232
+00:16:59,850 --> 00:17:01,070
+diversas
+
+233
+00:17:01,070 --> 00:17:05,390
+¿y cómo son las decisiones?
+
+234
+00:17:05,530 --> 00:17:05,990
+me imagino
+
+235
+00:17:05,990 --> 00:17:08,270
+¿cuántas personas
+
+236
+00:17:08,270 --> 00:17:09,950
+forman parte del núcleo
+
+237
+00:17:09,950 --> 00:17:12,150
+técnico que conduce
+
+238
+00:17:12,150 --> 00:17:13,670
+este desarrollo? ¿Cuántas personas son?
+
+239
+00:17:14,070 --> 00:17:15,930
+¿Y cómo se toman las decisiones?
+
+240
+00:17:15,970 --> 00:17:17,770
+Porque me imagino que el conflicto debe surgir
+
+241
+00:17:17,770 --> 00:17:18,470
+en algún momento
+
+242
+00:17:18,470 --> 00:17:22,850
+Creo que oficialmente ahora
+
+243
+00:17:22,850 --> 00:17:25,050
+el equipo técnico tiene
+
+244
+00:17:25,050 --> 00:17:27,290
+siete
+
+245
+00:17:27,290 --> 00:17:28,470
+o ocho miembros
+
+246
+00:17:28,470 --> 00:17:30,890
+de los cuales no todos están
+
+247
+00:17:30,890 --> 00:17:32,850
+activos, depende
+
+248
+00:17:32,850 --> 00:17:34,810
+de si están
+
+249
+00:17:34,810 --> 00:17:37,450
+involucrados en un proyecto de Zika en ese momento
+
+250
+00:17:37,450 --> 00:17:39,250
+ahora mismo diría que
+
+251
+00:17:39,250 --> 00:17:41,050
+somos cuatro miembros
+
+252
+00:17:41,050 --> 00:17:59,870
+activos oficiales. Y luego también hay desarrolladores que atienden las reuniones regularmente, que ayudan regularmente y que eventualmente van a ser designados miembros del equipo técnico.
+
+253
+00:17:59,870 --> 00:18:28,850
+Entonces tenemos unos tres, cuatro desarrolladores, entre los que te incluyo, Andrés. Y a nivel de cómo se toman las decisiones, pues hay mecanismos para que haya votaciones en cuanto a temas que tienen más conflictivos o que pueden tener un conflicto de interés,
+
+254
+00:18:28,850 --> 00:18:53,730
+pero la verdad es que los usamos muy, muy, muy raramente y la mayor parte de decisiones se discuten en las reuniones que tenemos semanales, se presentan propuestas, se discuten y no recuerdo ninguna instancia donde haya habido conflictos grandes que haya que resolver con votaciones.
+
+255
+00:18:53,730 --> 00:19:20,720
+Normalmente siempre se llega a un acuerdo. En general es muy definido por la experiencia que tiene cada uno con el usuario. Hay mucha confianza entre miembros y se asume que todo el mundo trabaja para el beneficio del proyecto.
+
+256
+00:19:20,720 --> 00:19:26,420
+y en las que todo el mundo tiene nadie puede hacer nada que no sea público en todas las
+
+257
+00:19:26,420 --> 00:19:35,220
+discusiones todas las votaciones las reuniones son abiertas y públicas excepto en el caso
+
+258
+00:19:35,220 --> 00:19:41,880
+que se discuta con un algo que implica una una vulnerabilidad pero el resto de discusiones son
+
+259
+00:19:41,880 --> 00:19:43,060
+públicas, o sea que todo
+
+260
+00:19:43,060 --> 00:19:45,320
+todo queda
+
+261
+00:19:45,320 --> 00:19:46,260
+exacto
+
+262
+00:19:46,260 --> 00:19:49,920
+doy fe de eso, trato de asistir
+
+263
+00:19:49,920 --> 00:19:51,740
+regularmente a las reuniones abiertas
+
+264
+00:19:51,740 --> 00:19:53,940
+que mencionas y el clima que se percibe
+
+265
+00:19:53,940 --> 00:19:55,800
+es el de gana
+
+266
+00:19:55,800 --> 00:19:57,960
+de trabajar y el de
+
+267
+00:19:57,960 --> 00:19:59,260
+gana de ser parte de ese equipo
+
+268
+00:19:59,260 --> 00:20:01,700
+te voy a llevar, estoy pensando también
+
+269
+00:20:01,700 --> 00:20:04,000
+que es la primera vez que conversamos en español
+
+270
+00:20:04,000 --> 00:20:05,800
+Adrián, me parece gracioso
+
+271
+00:20:05,800 --> 00:20:09,600
+te llevo un poco
+
+272
+00:20:09,600 --> 00:20:10,260
+a la
+
+273
+00:20:10,260 --> 00:20:13,700
+tu trabajo más en un ámbito
+
+274
+00:20:13,700 --> 00:20:15,120
+privado, me imagino
+
+275
+00:20:15,120 --> 00:20:17,420
+que has tenido ofertas de empresas
+
+276
+00:20:17,420 --> 00:20:19,700
+comerciales no necesariamente vinculadas
+
+277
+00:20:19,700 --> 00:20:21,820
+al software libre y los datos abiertos
+
+278
+00:20:21,820 --> 00:20:23,440
+¿cómo vivís vos
+
+279
+00:20:23,440 --> 00:20:25,860
+a nivel personal? ¿estás
+
+280
+00:20:25,860 --> 00:20:27,500
+convencido
+
+281
+00:20:27,500 --> 00:20:29,040
+por razones políticas
+
+282
+00:20:29,040 --> 00:20:31,420
+digámoslo, de que te gusta el software libre
+
+283
+00:20:31,420 --> 00:20:33,660
+y los datos abiertos? ¿o estás abierto
+
+284
+00:20:33,660 --> 00:20:34,760
+o alguna vez sentiste
+
+285
+00:20:34,760 --> 00:20:37,260
+el deseo o las ganas
+
+286
+00:20:37,260 --> 00:20:39,620
+de probar en el
+
+287
+00:20:39,620 --> 00:20:41,080
+mundo más comercial, digamos
+
+288
+00:20:41,080 --> 00:20:46,620
+A ver, también
+
+289
+00:20:46,620 --> 00:20:49,120
+he tenido una carrera
+
+290
+00:20:49,120 --> 00:20:50,900
+larga en términos de
+
+291
+00:20:50,900 --> 00:20:53,280
+un programador, o sea que ha habido
+
+292
+00:20:53,280 --> 00:20:55,420
+diferentes, mi enfoque a esto
+
+293
+00:20:55,420 --> 00:20:56,960
+ha cambiado a lo largo de los años
+
+294
+00:20:56,960 --> 00:20:59,080
+pero yo creo que en general siempre
+
+295
+00:20:59,080 --> 00:21:00,580
+desde que empecé
+
+296
+00:21:00,580 --> 00:21:03,600
+a trabajar en Barcelona
+
+297
+00:21:03,600 --> 00:21:04,700
+en la empresa que te comenté
+
+298
+00:21:04,700 --> 00:21:07,660
+siempre he creído en
+
+299
+00:21:07,660 --> 00:21:09,140
+el software libre
+
+300
+00:21:09,140 --> 00:21:11,580
+al menos desde una manera
+
+301
+00:21:11,580 --> 00:21:12,600
+pragmática tampoco
+
+302
+00:21:12,600 --> 00:21:16,680
+uso algún
+
+303
+00:21:16,680 --> 00:21:18,600
+sopar propietario sin problemas
+
+304
+00:21:18,600 --> 00:21:21,220
+o sea que esto es un componente
+
+305
+00:21:21,220 --> 00:21:23,220
+importante en cuanto
+
+306
+00:21:23,220 --> 00:21:25,160
+a la decisión de qué trabajar
+
+307
+00:21:25,160 --> 00:21:26,440
+y en dónde trabajar
+
+308
+00:21:26,440 --> 00:21:30,840
+también me he tenido
+
+309
+00:21:30,840 --> 00:21:32,860
+una suerte enorme de poder
+
+310
+00:21:32,860 --> 00:21:33,880
+incorporarme
+
+311
+00:21:33,880 --> 00:21:36,200
+en la fundación
+
+312
+00:21:36,200 --> 00:21:38,020
+en la Open Knowledge Foundation
+
+313
+00:21:38,020 --> 00:21:40,720
+en un momento donde
+
+314
+00:21:40,720 --> 00:21:46,800
+el movimiento con data estaba en efervescencia he tenido la suerte de poder vivir durante mucho
+
+315
+00:21:46,800 --> 00:21:54,400
+tiempo y trabajar con mucha gente que era muy tenía mucho talento no sólo en el a nivel técnico
+
+316
+00:21:54,400 --> 00:22:04,200
+también pero en el ámbito del que es más importante de activismo de comunidad de
+
+317
+00:22:04,200 --> 00:22:08,400
+de advocacy, que se llama en inglés, de explicar a la gente.
+
+318
+00:22:09,620 --> 00:22:12,920
+Y eso ha sido para mí muy interesante y muy estimulante.
+
+319
+00:22:14,880 --> 00:22:19,440
+Y es probablemente el hecho de que haya estado tantos años en la Open Knowledge.
+
+320
+00:22:21,040 --> 00:22:25,860
+A nivel de futuro, la verdad es que no me lo planteo.
+
+321
+00:22:25,860 --> 00:22:29,500
+Sería difícil por mí ahora, después de tantos años,
+
+322
+00:22:29,500 --> 00:22:37,920
+desde hace tantos años trabajar en abierto, de migrar a un escenario en el que todo lo que hago es completamente cerrado
+
+323
+00:22:37,920 --> 00:22:43,160
+y para un solo producto. Pero bueno, la vida da muchas vueltas.
+
+324
+00:22:44,440 --> 00:22:51,580
+Exacto. Bueno, te llevo también a otro posible cambio laboral que podría suceder. No sé si quizás ya te pasó.
+
+325
+00:22:51,920 --> 00:22:57,500
+¿Qué pasa si el presidente, un ministro o algún funcionario político importante te convoca a ejercer,
+
+326
+00:22:57,500 --> 00:22:59,880
+no sé, a ser director nacional de datos abiertos
+
+327
+00:22:59,880 --> 00:23:01,240
+secretario, ministro
+
+328
+00:23:01,240 --> 00:23:03,240
+o lo que fuera
+
+329
+00:23:03,240 --> 00:23:05,980
+¿es algo que considerarías
+
+330
+00:23:05,980 --> 00:23:07,480
+que aceptarías un cargo
+
+331
+00:23:07,480 --> 00:23:09,780
+más político y menos técnico?
+
+332
+00:23:13,920 --> 00:23:16,810
+A mí siempre me ha gustado
+
+333
+00:23:16,810 --> 00:23:18,590
+trabajar desde
+
+334
+00:23:18,590 --> 00:23:21,650
+desde la barrera
+
+335
+00:23:21,650 --> 00:23:22,790
+que dijásemos
+
+336
+00:23:22,790 --> 00:23:25,470
+siempre decimos aquí
+
+337
+00:23:25,470 --> 00:23:27,310
+en la OKF de lo que mi equipo
+
+338
+00:23:27,310 --> 00:23:29,530
+y lo que usamos aquí, somos fontaneros
+
+339
+00:23:29,530 --> 00:23:35,690
+que trabajamos en la infraestructura que nadie ve, pero que todo el mundo usa.
+
+340
+00:23:38,830 --> 00:23:47,510
+Pero, aparte de esto, cuando tu carrera evoluciona y empiezas como desarrollador
+
+341
+00:23:47,510 --> 00:23:54,310
+y estás solamente enfocado a desarrollar, pero cuando tu carrera progresa
+
+342
+00:23:54,310 --> 00:24:02,650
+y vas adquiriendo más responsabilidades de llevar equipos, de planificar estrategias, etc.,
+
+343
+00:24:02,650 --> 00:24:05,330
+pues también he ido tomando un rol de este.
+
+344
+00:24:06,410 --> 00:24:13,970
+Un rol puramente político, dudo que sea la persona indicada, igual sí que lo soy, no lo sé,
+
+345
+00:24:14,590 --> 00:24:18,750
+pero a nivel de trabajar en la administración estaría totalmente abierto,
+
+346
+00:24:18,750 --> 00:24:22,750
+yo creo muy fuertemente en el...
+
+347
+00:24:22,750 --> 00:24:39,090
+Creo en la función pública, no en el gobierno como tal, pero en la capacidad que tiene el gobierno, si separas toda la política de él, de crear una diferencia.
+
+348
+00:24:39,090 --> 00:24:49,350
+Y de hecho las iniciativas en las que he trabajado más en mi carrera profesional, al menos en la primera mitad, ahora ya no tanto, pero eran a nivel de gobierno.
+
+349
+00:24:49,350 --> 00:24:52,330
+no lo descartaría
+
+350
+00:24:52,330 --> 00:24:54,670
+bueno, perfecto
+
+351
+00:24:54,670 --> 00:24:56,890
+te quería preguntar sobre la comunidad
+
+352
+00:24:56,890 --> 00:24:58,910
+de usuarios, me imagino que
+
+353
+00:24:58,910 --> 00:25:01,030
+además de trabajar del lado de los que
+
+354
+00:25:01,030 --> 00:25:03,230
+ayudan a publicar los datos
+
+355
+00:25:03,230 --> 00:25:04,450
+también sos
+
+356
+00:25:04,450 --> 00:25:06,670
+usuario de datos, quería preguntarte si
+
+357
+00:25:06,670 --> 00:25:08,850
+tenés relación con la comunidad
+
+358
+00:25:08,850 --> 00:25:09,610
+estoy pensando
+
+359
+00:25:09,610 --> 00:25:12,930
+pienso en España
+
+360
+00:25:12,930 --> 00:25:14,890
+de donde sos originario y pienso
+
+361
+00:25:14,890 --> 00:25:17,010
+en Sibio por ejemplo, te quería preguntar
+
+362
+00:25:17,010 --> 00:25:19,110
+si esas comunidades de usuarios
+
+363
+00:25:19,110 --> 00:25:25,170
+son parte de las personas con las que te contactas tener relación son parte sos parte de ese mundo
+
+364
+00:25:26,690 --> 00:25:33,230
+la verdad en concilió evidentemente hace muchos años que los sigo y les doy soporte es una de
+
+365
+00:25:33,230 --> 00:25:39,630
+las organizaciones de referencia en españa no tengo contactos directos con ellos y a nivel de
+
+366
+00:25:39,630 --> 00:25:50,070
+de españa si tuviera que decirte a nivel de usuarios la hay una iniciativa tener una funda
+
+367
+00:25:50,070 --> 00:25:55,130
+con una organización sin ánimo del lucro que se llama la iniciativa open data porque están
+
+368
+00:25:55,130 --> 00:26:01,710
+basadas en barcelona donde hacen trabajo también de divulgación formación y también he estado en
+
+369
+00:26:01,710 --> 00:26:07,890
+contacto con ellos a veces por temas de workshops que han hecho aquí en la ciudad donde vivo yo
+
+370
+00:26:07,890 --> 00:26:10,890
+pero no a nivel de
+
+371
+00:26:10,890 --> 00:26:13,310
+de usuarios
+
+372
+00:26:13,310 --> 00:26:14,030
+de portal
+
+373
+00:26:14,030 --> 00:26:15,250
+básicamente
+
+374
+00:26:15,250 --> 00:26:16,810
+de hecho
+
+375
+00:26:16,810 --> 00:26:18,850
+siempre he querido que
+
+376
+00:26:18,850 --> 00:26:21,610
+el hecho de que la gente use Zikan
+
+377
+00:26:21,610 --> 00:26:23,710
+tiene importancia
+
+378
+00:26:23,710 --> 00:26:25,450
+para nosotros, para hacerlo
+
+379
+00:26:25,450 --> 00:26:27,390
+lo más fácil posible, pero bueno, que usen
+
+380
+00:26:27,390 --> 00:26:28,910
+Zikan o lo que sea, la verdad
+
+381
+00:26:28,910 --> 00:26:31,310
+al fin y al cabo, es igual
+
+382
+00:26:31,310 --> 00:26:33,290
+lo que tiene que
+
+383
+00:26:33,290 --> 00:26:35,590
+hacer en última instancia es
+
+384
+00:26:35,590 --> 00:26:37,610
+tener los datos que necesita
+
+385
+00:26:37,610 --> 00:26:46,930
+que le ayuden a realizar la tarea que sea, sea de periodismo, de investigación, de una app, lo que sea.
+
+386
+00:26:48,470 --> 00:26:59,730
+Bien. Me quedan las últimas dos preguntas. Una es, quería preguntarte tu opinión sobre las organizaciones internacionales
+
+387
+00:26:59,730 --> 00:27:06,710
+que trabajan junto con los gobiernos. Estoy pensando en OCDE, que les pide a sus países miembros cierto nivel de apertura.
+
+388
+00:27:06,710 --> 00:27:08,630
+estoy pensando en el Open Data Charter
+
+389
+00:27:08,630 --> 00:27:10,750
+que invita a los gobiernos a suscribir
+
+390
+00:27:10,750 --> 00:27:12,370
+estoy pensando en OGP
+
+391
+00:27:12,370 --> 00:27:15,170
+en la Open Government Partnership
+
+392
+00:27:15,170 --> 00:27:17,050
+te quería preguntar
+
+393
+00:27:17,050 --> 00:27:18,950
+si estás al tanto
+
+394
+00:27:18,950 --> 00:27:19,910
+de lo que ellos hacen
+
+395
+00:27:19,910 --> 00:27:21,490
+si te parece valioso
+
+396
+00:27:21,490 --> 00:27:23,230
+si crees que realmente
+
+397
+00:27:23,230 --> 00:27:26,110
+ayudan a que los gobiernos
+
+398
+00:27:26,110 --> 00:27:26,630
+abran datos
+
+399
+00:27:26,630 --> 00:27:29,670
+¿qué mirada tenés sobre esas mega organizaciones?
+
+400
+00:27:31,530 --> 00:27:32,430
+No tengo
+
+401
+00:27:32,430 --> 00:27:34,370
+relación directa
+
+402
+00:27:34,370 --> 00:27:36,310
+con ninguna de las tres
+
+403
+00:27:36,310 --> 00:27:39,250
+colegas míos
+
+404
+00:27:39,250 --> 00:27:40,710
+en la Open Knowledge Foundation
+
+405
+00:27:40,710 --> 00:27:42,770
+han estado involucradas en todas
+
+406
+00:27:42,770 --> 00:27:44,430
+las tres, o sea, lo conozco por
+
+407
+00:27:44,430 --> 00:27:46,690
+su experiencia y su
+
+408
+00:27:46,690 --> 00:27:49,210
+involucración en cuanto a proyectos puntuales
+
+409
+00:27:49,210 --> 00:27:54,190
+mi opinión
+
+410
+00:27:54,190 --> 00:27:55,730
+personal es muy
+
+411
+00:27:55,730 --> 00:27:58,050
+a distancia
+
+412
+00:27:58,050 --> 00:28:00,150
+y creo que cualquier iniciativa que
+
+413
+00:28:00,150 --> 00:28:02,170
+obligue los
+
+414
+00:28:02,170 --> 00:28:04,090
+gobiernos a estar un poco
+
+415
+00:28:04,090 --> 00:28:06,570
+on their toes
+
+416
+00:28:06,570 --> 00:28:12,410
+que dicen los ingleses, siempre un poco despiertos con el tema este
+
+417
+00:28:12,410 --> 00:28:18,210
+y que haya un poco de rendición de cuentas en cuanto a
+
+418
+00:28:18,210 --> 00:28:20,610
+mira, aquí hay un ranking y hemos bajado
+
+419
+00:28:20,610 --> 00:28:25,610
+o el informe del este año no salimos tan bien parados
+
+420
+00:28:25,610 --> 00:28:30,750
+igual es una excusa para que iniciativas a nivel más local
+
+421
+00:28:30,750 --> 00:28:32,370
+pues se tiren más adelante
+
+422
+00:28:32,370 --> 00:28:35,930
+Sobre el valor concreto que aportan
+
+423
+00:28:35,930 --> 00:28:36,890
+No te podría decir
+
+424
+00:28:36,890 --> 00:28:38,830
+Porque la verdad no estoy familiar
+
+425
+00:28:38,830 --> 00:28:41,010
+Pero bueno, como te he dicho
+
+426
+00:28:41,010 --> 00:28:41,990
+Soy pragmático
+
+427
+00:28:41,990 --> 00:28:44,110
+Como más se hable del tema
+
+428
+00:28:44,110 --> 00:28:46,850
+A nivel de los que
+
+429
+00:28:46,850 --> 00:28:48,270
+Toman decisiones
+
+430
+00:28:48,270 --> 00:28:50,710
+Yo creo que es una buena cosa
+
+431
+00:28:50,710 --> 00:28:53,270
+Bueno, y la última pregunta
+
+432
+00:28:53,270 --> 00:28:54,650
+Es con un para todos los invitados
+
+433
+00:28:54,650 --> 00:28:57,110
+Este podcast se llama Cadena de Datos
+
+434
+00:28:57,110 --> 00:28:59,350
+Porque trato de nutrir los invitados
+
+435
+00:28:59,350 --> 00:29:00,950
+A partir de sugerencias
+
+436
+00:29:00,950 --> 00:29:02,870
+de los propios entrevistados, quería
+
+437
+00:29:02,870 --> 00:29:05,130
+preguntarte si me puedes
+
+438
+00:29:05,130 --> 00:29:06,970
+sugerir uno, dos o tres
+
+439
+00:29:06,970 --> 00:29:07,990
+invitados
+
+440
+00:29:07,990 --> 00:29:11,110
+de habla hispana
+
+441
+00:29:11,110 --> 00:29:13,030
+para este podcast, para próximas
+
+442
+00:29:13,030 --> 00:29:13,610
+entrevistas
+
+443
+00:29:13,610 --> 00:29:18,810
+Pues sí, mira
+
+444
+00:29:18,810 --> 00:29:20,450
+centrándome en el
+
+445
+00:29:20,450 --> 00:29:22,990
+ámbito que conozco más, que es el de aquí
+
+446
+00:29:22,990 --> 00:29:25,150
+de España, igual
+
+447
+00:29:25,150 --> 00:29:26,470
+de un nivel
+
+448
+00:29:26,470 --> 00:29:28,750
+más nacional
+
+449
+00:29:28,750 --> 00:29:30,890
+hacia un nivel más de activista
+
+450
+00:29:30,890 --> 00:29:52,410
+Por ejemplo, a nivel nacional existe la iniciativa Aporta, que es la que mantiene el portal de datos abiertos de España y también el que coordina la integración de metadatos con todos los distintos portales regionales y otras iniciativas alrededor de los datos abiertos.
+
+451
+00:29:52,410 --> 00:29:55,610
+el director de la oficina técnica
+
+452
+00:29:55,610 --> 00:29:56,790
+ahora es Carlos de la Fuente
+
+453
+00:29:56,790 --> 00:29:58,190
+que es un
+
+454
+00:29:58,190 --> 00:30:01,570
+que sí, es una persona
+
+455
+00:30:01,570 --> 00:30:03,710
+que había trabajado en el pasado en otros proyectos
+
+456
+00:30:03,710 --> 00:30:07,290
+con el World Bank y eso
+
+457
+00:30:07,290 --> 00:30:09,690
+y ahora está haciendo un gran trabajo allí
+
+458
+00:30:09,690 --> 00:30:10,350
+así que creo que sería
+
+459
+00:30:10,350 --> 00:30:14,110
+una buena persona para comentarla
+
+460
+00:30:14,110 --> 00:30:16,770
+también a nivel de España
+
+461
+00:30:16,770 --> 00:30:18,730
+hay muchas iniciativas
+
+462
+00:30:18,730 --> 00:30:21,350
+a nivel de los gobiernos autonómicos
+
+463
+00:30:21,350 --> 00:30:31,510
+que es la segunda unidad administrativa, que son los que realmente promueven las iniciativas de datos a nivel de su ámbito.
+
+464
+00:30:32,450 --> 00:30:39,690
+Y hay ya diferentes iniciativas en toda España que ya llevan tiempo, aquí en Cataluña mismo.
+
+465
+00:30:41,390 --> 00:30:44,570
+No creo que te pueda proporcionar ningún contacto, pero bueno, podríamos intentar.
+
+466
+00:30:44,790 --> 00:30:48,070
+La iniciativa del Gobierno de Cataluña es muy potente.
+
+467
+00:30:48,070 --> 00:31:16,130
+En Aragón, que es la comunidad de al lado, tiene un servicio digital como el GDS de Estados Unidos o el GSA en el Reino Unido, que ya llevan mucho tiempo usando SICAN como su portal de datos, tienen un portal de transparencia muy potente y son muy activos en cuanto a hackatones y a promoción de los datos abiertos.
+
+468
+00:31:16,130 --> 00:31:30,130
+Allí el, no sé qué cargo tiene exactamente ahora, pero creo que es el responsable del servicio digital, es José María Subero, también igual puedo conseguirte el contacto allí, sería un buen contacto.
+
+469
+00:31:30,130 --> 00:31:49,690
+Y luego también así para algo más no gubernamental, como te comentaba, la iniciativa Barcelona Open Data sería algo más próximo a la Open Knowledge Foundation, algo más a nivel de comunidad, de divulgación y de formación.
+
+470
+00:31:49,690 --> 00:31:52,210
+allí la responsable es Lourdes Muñoz
+
+471
+00:31:52,210 --> 00:31:53,730
+que también hace
+
+472
+00:31:53,730 --> 00:31:55,530
+un súper trabajo
+
+473
+00:31:55,530 --> 00:31:57,490
+de divulgación
+
+474
+00:31:57,490 --> 00:31:59,590
+de datos, de crear
+
+475
+00:31:59,590 --> 00:32:01,850
+workshops también a nivel, no solo en Barcelona
+
+476
+00:32:01,850 --> 00:32:03,950
+pero en ciudades alrededor
+
+477
+00:32:03,950 --> 00:32:06,050
+y de preparar
+
+478
+00:32:06,050 --> 00:32:07,510
+expediciones de datos, etcétera
+
+479
+00:32:07,510 --> 00:32:07,790
+también
+
+480
+00:32:07,790 --> 00:32:11,470
+una persona interesante
+
+481
+00:32:11,470 --> 00:32:13,710
+La notamos también
+
+482
+00:32:13,710 --> 00:32:15,690
+Adriak, quiero agradecerte
+
+483
+00:32:15,690 --> 00:32:17,770
+no solamente por esta entrevista, sino por
+
+484
+00:32:17,770 --> 00:32:19,390
+el trabajo que haces en la comunidad
+
+485
+00:32:19,390 --> 00:32:21,330
+cuando me tocó acercarme a Sikan
+
+486
+00:32:21,330 --> 00:32:23,530
+es muy importante ser
+
+487
+00:32:23,530 --> 00:32:25,030
+bien recibido
+
+488
+00:32:25,030 --> 00:32:26,890
+y vos has sido siempre amable
+
+489
+00:32:26,890 --> 00:32:29,510
+y me parece que haces un gran trabajo
+
+490
+00:32:29,510 --> 00:32:31,450
+así que más que por esta entrevista
+
+491
+00:32:31,450 --> 00:32:33,310
+te agradezco por lo que haces todos los días
+
+492
+00:32:33,310 --> 00:32:34,510
+muchas gracias
+
+493
+00:32:34,510 --> 00:32:36,190
+muchas gracias Andrés
+

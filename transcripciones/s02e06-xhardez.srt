@@ -1,0 +1,2960 @@
+1
+00:00:02,960 --> 00:00:31,500
+Cadena de datos, segunda temporada. El día de hoy me acompaña Verónica Yardes. Ella es consultora e investigadora sobre Big Data y datos abiertos en el CIECTI. Es docente e investigadora en la Universidad Nacional 3 de febrero de Argentina. Es sociactiva de SOLAR, Software Libre Argentina, desde hace más de 15 años. Es también doctor en ciencias sociales, mágister en ciencias políticas y licenciada en ciencias antropológicas por la Universidad de Buenos Aires.
+
+2
+00:00:31,500 --> 00:00:33,760
+¿Cómo estás, Vero? Buenas tardes.
+
+3
+00:00:34,440 --> 00:00:35,520
+Gracias, Andrés. ¿Cómo andás?
+
+4
+00:00:36,120 --> 00:00:41,500
+Muy bien, muy bien. Leyendo tu presentación, lo primero que veo es que sos licenciada en ciencias antropológicas
+
+5
+00:00:42,080 --> 00:00:45,760
+y actualmente estás estudiando sobre Big Data y datos abiertos.
+
+6
+00:00:45,820 --> 00:00:54,560
+Te quería preguntar, ¿a través de qué proyecto o en qué momento empezás y das ese salto desde lugares que, en principio, parecen lejanos?
+
+7
+00:00:55,240 --> 00:01:00,380
+Es una muy buena pregunta, porque lo que pasa para mí es que no es tanto un salto.
+
+8
+00:01:00,380 --> 00:01:10,080
+Pero es más bien un puente, digamos, que empieza desde el software libre y de todos los movimientos de apertura hasta que llegamos a los datos abiertos.
+
+9
+00:01:10,560 --> 00:01:14,480
+Y después que cualquier, esto ya es desde una perspectiva más metodológica, ¿no?
+
+10
+00:01:14,480 --> 00:01:24,260
+Pero cualquier cosa que se pueda estudiar, aunque sea un objeto que esté muy asociado a las técnicas o a la tecnología, puede ser mirado desde una disciplina que sea social.
+
+11
+00:01:25,440 --> 00:01:25,920
+Exacto.
+
+12
+00:01:25,920 --> 00:01:39,260
+Entonces la mirada que yo tengo, por lo menos en el SIECTI, que es un centro interdisciplinario de estudios, es una mirada que tiene que ver con lo mío y no tanto con el objeto que estudiamos, aunque por supuesto es el protagonista.
+
+13
+00:01:39,260 --> 00:01:41,120
+Exacto, bien
+
+14
+00:01:41,120 --> 00:01:42,920
+Y ahí me lleva
+
+15
+00:01:42,920 --> 00:01:44,920
+No sé si llamarlo así
+
+16
+00:01:44,920 --> 00:01:46,200
+Pero hay una especie de grieta
+
+17
+00:01:46,200 --> 00:01:48,500
+O hay por lo menos diferentes miradas
+
+18
+00:01:48,500 --> 00:01:49,540
+Sobre los datos abiertos
+
+19
+00:01:49,540 --> 00:01:50,660
+Creo que hay una comunidad
+
+20
+00:01:50,660 --> 00:01:53,340
+En la que supongo que soy parte
+
+21
+00:01:53,340 --> 00:01:55,780
+De gente más de las ciencias duras
+
+22
+00:01:55,780 --> 00:01:57,780
+Programadores, analistas de datos
+
+23
+00:01:57,780 --> 00:02:00,780
+Y después está la gente de las ciencias sociales
+
+24
+00:02:00,780 --> 00:02:04,080
+¿Te parece que somos un poco tecnócratas
+
+25
+00:02:04,080 --> 00:02:06,320
+O deformamos un poco los datos
+
+26
+00:02:06,320 --> 00:02:08,020
+Los que no venimos de las ciencias sociales
+
+27
+00:02:08,020 --> 00:02:14,120
+¿Cómo ves la aproximación desde esos dos enfoques tan distintos?
+
+28
+00:02:14,760 --> 00:02:16,940
+¿Lo estamos haciendo mal desde el lado de la técnica?
+
+29
+00:02:17,060 --> 00:02:20,920
+¿Agarramos un dato y sacamos conclusiones sin mirar contexto, sin pensar en nada?
+
+30
+00:02:21,060 --> 00:02:22,100
+¿O estamos más o menos bien?
+
+31
+00:02:22,860 --> 00:02:28,620
+Yo creo que pasan esas cosas con los hijos y pasan mucho cuando se trabaja especialmente con datos masivos.
+
+32
+00:02:29,500 --> 00:02:37,160
+Pero es cierto también que tiene que ver con cómo se usan los datos y no tanto si es el team blandito o el team duro.
+
+33
+00:02:38,020 --> 00:02:57,200
+Pero esa separación de ciencia dura, ciencia blanda y cómo trabajamos con los datos algunos y otros, un poco se salda si tenemos en cuenta que la ciencia de datos es interdisciplinaria y necesita de la mirada de todos. Eso me parece que se va a ir resolviendo de a poco.
+
+34
+00:02:57,200 --> 00:03:09,480
+No creo que las personas lo usen mal. Sí creo que, lo que ya sabemos, digamos, que correlación no es causalidad y cosas por el estilo, pero tienen que ver más con la metodología que con la técnica.
+
+35
+00:03:10,100 --> 00:03:20,180
+Lo que sí sabemos es que saber un montón sobre datos o manejar muy bien los datos sin tener una buena pregunta, entonces, no valoriza en términos de conocimiento.
+
+36
+00:03:20,180 --> 00:03:27,740
+Si pensamos que de los datos se va a la información, de la información al conocimiento y de ahí se puede escalar también a algo mucho más global.
+
+37
+00:03:28,700 --> 00:03:38,540
+Viste que hay como una forma de entender al dato desde una cadena de valor, que es la del dato como algo constructivo, que empieza como dato y que termina como algo mucho mayor.
+
+38
+00:03:38,540 --> 00:03:41,920
+En donde está el proceso de realización de valor, digamos.
+
+39
+00:03:42,720 --> 00:03:46,720
+Y después está la mirada más propia de la producción, vamos a llamarla así,
+
+40
+00:03:46,940 --> 00:03:50,060
+de ese valor, que es, bueno, algunos de ese ecosistema,
+
+41
+00:03:50,140 --> 00:03:51,740
+de ese movimiento que llamás vos,
+
+42
+00:03:51,860 --> 00:03:53,800
+esos son mis perros ladrándonos si se escucha.
+
+43
+00:03:54,280 --> 00:03:55,200
+No hay problema.
+
+44
+00:03:55,900 --> 00:03:56,300
+Perfecto.
+
+45
+00:03:56,620 --> 00:03:57,940
+Es un poco para darle contexto,
+
+46
+00:03:58,040 --> 00:03:59,180
+ya que estás hablando con un antropólogo,
+
+47
+00:03:59,240 --> 00:04:00,720
+el contexto es importante, Andrés.
+
+48
+00:04:01,740 --> 00:04:03,180
+Exacto, exacto.
+
+49
+00:04:03,180 --> 00:04:03,540
+Pero bueno.
+
+50
+00:04:03,540 --> 00:04:08,400
+Bien, me quedo con eso que de allí de que se requiere un trabajo interdisciplinario
+
+51
+00:04:08,400 --> 00:04:14,740
+y por lo tanto, si hay alguien teniendo una única mirada sobre un dato
+
+52
+00:04:14,740 --> 00:04:18,560
+y publicando conclusiones apuradamente, quizás le falte algo.
+
+53
+00:04:20,160 --> 00:04:25,760
+Sí, pero porque tiene que ver también el proceso de si es inductivo, si es deductivo.
+
+54
+00:04:25,860 --> 00:04:29,780
+Digamos, ¿qué haces? ¿Vos haces hablar a los datos o vas a buscar datos con una pregunta?
+
+55
+00:04:29,920 --> 00:04:35,440
+Porque lo que ya sabemos es que los datos no se construyen en el vacío, digamos.
+
+56
+00:04:35,440 --> 00:04:37,560
+menos los datos que están asociados
+
+57
+00:04:37,560 --> 00:04:39,580
+a lo social, entonces en ese
+
+58
+00:04:39,580 --> 00:04:41,480
+contexto nosotros nunca podemos
+
+59
+00:04:41,480 --> 00:04:43,660
+decir cosas sin pensar antes que estamos viendo
+
+60
+00:04:43,660 --> 00:04:45,340
+o sea no hay dato
+
+61
+00:04:45,340 --> 00:04:47,140
+neutral, no hay dato no construido
+
+62
+00:04:47,140 --> 00:04:49,540
+entonces desde ese primer punto de vista
+
+63
+00:04:49,540 --> 00:04:51,480
+que es casi epistemológico y por eso nos fuimos a la
+
+64
+00:04:51,480 --> 00:04:52,000
+mierda digamos
+
+65
+00:04:52,000 --> 00:04:54,740
+ese es el objetivo
+
+66
+00:04:54,740 --> 00:04:57,300
+desde el punto de vista más
+
+67
+00:04:57,300 --> 00:04:58,820
+epistemológico el dato
+
+68
+00:04:58,820 --> 00:05:00,700
+por sí mismo no explica nada
+
+69
+00:05:00,700 --> 00:05:03,480
+por más que vos encuentres cosas
+
+70
+00:05:03,480 --> 00:05:05,400
+o sea que uses técnicas, métodos
+
+71
+00:05:05,400 --> 00:05:08,320
+sobre grandes bases de datos que están disponibles para pensar cosas.
+
+72
+00:05:08,840 --> 00:05:10,940
+Lo que sí te puede permitir es pensar cosas, ¿ves?
+
+73
+00:05:11,600 --> 00:05:14,460
+Como tener una idea, explorar.
+
+74
+00:05:14,460 --> 00:05:18,200
+Vos explorás, encontrás regularidades, encontrás cosas,
+
+75
+00:05:18,320 --> 00:05:21,280
+y a partir de ahí haces el proceso de análisis de eso
+
+76
+00:05:21,280 --> 00:05:24,920
+en función de algún método que le dé rigurosidad científica,
+
+77
+00:05:25,000 --> 00:05:27,160
+si estamos hablando de ese tipo de rigurosidad.
+
+78
+00:05:27,900 --> 00:05:28,200
+¿Se entiende?
+
+79
+00:05:28,360 --> 00:05:30,860
+También puedes jugar con los datos y hacer cosas divertidas.
+
+80
+00:05:32,160 --> 00:05:34,580
+Visualizaciones, mapitas y cositas con muchos colores.
+
+81
+00:05:34,580 --> 00:05:47,340
+El tema es el sentido y la interpretación es casi todo en lo que es la ciencia, si querés. Más es ciencia social, que es bien interpretativa. Entonces cuando se ponen en juego datos, eso es una de las cosas que hay que tener en cuenta.
+
+82
+00:05:47,340 --> 00:06:11,860
+¿Qué es lo que queremos decir con esto? Porque vimos mil ejemplos, muchos de ellos distribuidos por nuestra propia comunidad de datos, como la llamás vos, donde encuentran eso. ¿Cómo mostrás los datos para decir una cosa distinta con los mismos datos que tengo yo? Fíjate vos ese juego también que se pone ahí en marcha y entonces nosotros podemos identificar que con los mismos datos una visualización distinta dice diferentes cosas.
+
+83
+00:06:11,860 --> 00:06:13,380
+Exacto
+
+84
+00:06:13,380 --> 00:06:17,100
+Bien, usando datos
+
+85
+00:06:17,100 --> 00:06:18,880
+Y vinculado a los gobiernos
+
+86
+00:06:18,880 --> 00:06:21,280
+Que es la parte que me interesa un poco más
+
+87
+00:06:21,280 --> 00:06:22,760
+Hace algunos años te crucé
+
+88
+00:06:22,760 --> 00:06:24,520
+Y estabas trabajando
+
+89
+00:06:24,520 --> 00:06:26,480
+Impulsando un proyecto que se llamaba
+
+90
+00:06:26,480 --> 00:06:28,060
+Gobierno Abierto Local
+
+91
+00:06:28,060 --> 00:06:29,340
+Te quería preguntar
+
+92
+00:06:29,340 --> 00:06:31,500
+¿Qué era o qué es?
+
+93
+00:06:31,580 --> 00:06:32,340
+En caso que siga
+
+94
+00:06:32,340 --> 00:06:33,740
+¿Y cómo empezó ese proyecto?
+
+95
+00:06:34,440 --> 00:06:37,280
+El proyecto fue o es o fue
+
+96
+00:06:37,280 --> 00:06:39,160
+Tengo que confirmar algo
+
+97
+00:06:39,160 --> 00:06:40,020
+En estos días
+
+98
+00:06:40,020 --> 00:07:04,880
+No, básicamente fue un proyecto que era parte, un componente vinculado a la capacitación municipal que era parte de un gran programa que era el programa de mejora de gestión municipal que estaba allí en el Ministerio del Interior y Transporte en su momento y que estaba alojado en un ámbito que a veces es muy, entre comillas, entre mil comillas, neutral porque no era tan político sino era más de ejecución que es la unidad ejecutora central que ahora tiene otro nombre, por cierto.
+
+99
+00:07:04,880 --> 00:07:08,060
+entonces en ese marco de un programa financiado por el BID
+
+100
+00:07:08,060 --> 00:07:10,240
+uno de los componentes fue el portal gobierno local
+
+101
+00:07:10,240 --> 00:07:14,540
+en donde desde el ingreso a la coordinación de ese equipo
+
+102
+00:07:14,540 --> 00:07:17,480
+que fue en el 2013 junto con una compañera que también conocés
+
+103
+00:07:17,480 --> 00:07:18,300
+que es Lina Montoya
+
+104
+00:07:18,300 --> 00:07:22,600
+nosotros le dimos una impronta muy pero muy asociada
+
+105
+00:07:22,600 --> 00:07:25,560
+a lo que es la apertura, el software libre en los municipios
+
+106
+00:07:25,560 --> 00:07:27,740
+al gobierno abierto y a la colaboración
+
+107
+00:07:27,740 --> 00:07:29,520
+siempre fue un proyecto colaborativo
+
+108
+00:07:29,520 --> 00:07:33,100
+para los que no tuvieron la oportunidad de navegarlo
+
+109
+00:07:33,100 --> 00:07:35,020
+mientras estaba en línea, porque ahora no está.
+
+110
+00:07:35,680 --> 00:07:37,560
+Sí, lo busqué y no lo encontré.
+
+111
+00:07:37,760 --> 00:07:38,540
+No lo encontraste.
+
+112
+00:07:38,900 --> 00:07:41,400
+Y hay muchas anécdotas para contarte
+
+113
+00:07:41,400 --> 00:07:45,080
+lo que fue el proceso de transición, si querés,
+
+114
+00:07:45,160 --> 00:07:47,460
+o de traspaso de una gestión a la otra,
+
+115
+00:07:47,560 --> 00:07:48,740
+porque nosotros...
+
+116
+00:07:48,740 --> 00:07:51,560
+¿Está hablando del 2015 en cambio del gobierno de Argentina?
+
+117
+00:07:52,080 --> 00:07:53,580
+El 2015 cambia el gobierno,
+
+118
+00:07:53,580 --> 00:07:56,580
+pero nuestro financiamiento termina en el 2016,
+
+119
+00:07:57,560 --> 00:07:58,960
+si mal no recuerdo.
+
+120
+00:07:59,240 --> 00:08:01,020
+Entonces durante el 2015,
+
+121
+00:08:01,460 --> 00:08:03,040
+durante todo el 2015, digamos,
+
+122
+00:08:03,100 --> 00:08:08,360
+trabajamos en un proceso de inserción institucional de una herramienta como esta
+
+123
+00:08:08,360 --> 00:08:13,080
+que lo que ofrecía para los que no lo conocen era capacitación en línea,
+
+124
+00:08:13,240 --> 00:08:18,920
+fuentes de información, o sea, era como un gran espacio de construcción
+
+125
+00:08:18,920 --> 00:08:21,840
+de comunidad de práctica de funcionario municipal.
+
+126
+00:08:22,340 --> 00:08:27,120
+Había recursos a rolete, más de 2.000, había cursos en línea,
+
+127
+00:08:27,740 --> 00:08:31,560
+había, qué sé yo, información de las diferentes comunas,
+
+128
+00:08:31,560 --> 00:08:37,820
+había un secán atrás donde estaban todos los datos municipales.
+
+129
+00:08:38,300 --> 00:08:41,980
+Había muchas cosas que hacían a un marco de trabajo.
+
+130
+00:08:42,200 --> 00:08:44,320
+Si alguien quería empezar a trabajar en un proyecto,
+
+131
+00:08:44,460 --> 00:08:48,240
+a hacer alguna cosa en su municipio, podía buscar experiencias previas,
+
+132
+00:08:48,400 --> 00:08:52,860
+podía identificar los resultados de eso, podíamos contactarlos con otros.
+
+133
+00:08:53,080 --> 00:08:57,140
+O sea, estábamos haciendo ese ejercicio de trabajar en conjunto,
+
+134
+00:08:57,260 --> 00:08:58,560
+de crear conocimiento compartido.
+
+135
+00:08:59,560 --> 00:09:01,420
+Y fue buenísimo, buenísimo.
+
+136
+00:09:01,560 --> 00:09:03,820
+pero en ese traspaso
+
+137
+00:09:03,820 --> 00:09:06,040
+de inserción
+
+138
+00:09:06,040 --> 00:09:07,760
+institucional, y claro, por suerte
+
+139
+00:09:07,760 --> 00:09:09,420
+en un podcast no nos ven, pero yo cuando digo
+
+140
+00:09:09,420 --> 00:09:11,540
+inserción estoy haciendo un gesto obsceno
+
+141
+00:09:11,540 --> 00:09:15,240
+fue tremendo, porque
+
+142
+00:09:15,240 --> 00:09:17,480
+en el marco de un nuevo
+
+143
+00:09:17,480 --> 00:09:18,800
+espacio que venía
+
+144
+00:09:18,800 --> 00:09:21,640
+muy, digamos, muy receloso
+
+145
+00:09:21,640 --> 00:09:23,440
+de sus procesos de comunicación y muy
+
+146
+00:09:23,440 --> 00:09:25,420
+centralizado en eso, vieron que ahora
+
+147
+00:09:25,420 --> 00:09:27,440
+ya es un único portal de los que salen todos
+
+148
+00:09:27,440 --> 00:09:29,300
+los ministerios y qué sé yo
+
+149
+00:09:29,300 --> 00:09:30,620
+el nuestro
+
+150
+00:09:30,620 --> 00:09:37,260
+pero no te digo que no tenía lugar, no se entendía, no se entendió.
+
+151
+00:09:38,380 --> 00:09:41,580
+Entonces, a pesar de los esfuerzos, no pudimos lograrlo.
+
+152
+00:09:41,620 --> 00:09:43,780
+¿Lo apagaron directamente?
+
+153
+00:09:44,900 --> 00:09:48,360
+No directamente, pasó un tiempo, pero sí, como que terminó eso.
+
+154
+00:09:48,360 --> 00:09:52,080
+Nosotros terminamos siendo parte con otro proyecto, pero de continuidad,
+
+155
+00:09:52,680 --> 00:09:59,160
+de la Dirección Nacional de Capacitación Municipal, con muy malos resultados.
+
+156
+00:09:59,160 --> 00:10:01,180
+o después cambió la dirección y qué sé yo
+
+157
+00:10:01,180 --> 00:10:02,160
+pero digamos
+
+158
+00:10:02,160 --> 00:10:05,460
+no pudimos lograr hacer ese acuerdo
+
+159
+00:10:05,460 --> 00:10:07,360
+y eso que tuvimos varias reuniones con la gente
+
+160
+00:10:07,360 --> 00:10:08,460
+de comunicación del ministerio
+
+161
+00:10:08,460 --> 00:10:11,220
+para poder, por ejemplo
+
+162
+00:10:11,220 --> 00:10:13,220
+terminar de hacer
+
+163
+00:10:13,220 --> 00:10:15,000
+entender a las personas con las que hablábamos
+
+164
+00:10:15,000 --> 00:10:17,160
+que colaborativo
+
+165
+00:10:17,860 --> 00:10:19,300
+no era voluntario, por ejemplo
+
+166
+00:10:19,300 --> 00:10:20,260
+cosas así, ¿no es pasado?
+
+167
+00:10:20,380 --> 00:10:21,200
+claro, claro
+
+168
+00:10:21,200 --> 00:10:25,220
+sí, sí, perdón
+
+169
+00:10:25,220 --> 00:10:27,160
+y después vos te das cuenta que
+
+170
+00:10:27,160 --> 00:10:29,600
+esa misma gestión hizo un montón de espacios
+
+171
+00:10:29,600 --> 00:10:30,900
+colaborativos para el trabajo
+
+172
+00:10:30,900 --> 00:10:32,880
+o sea, no era un problema de comprensión
+
+173
+00:10:32,880 --> 00:10:36,080
+era como un mal timing
+
+174
+00:10:36,080 --> 00:10:37,480
+nos faltó como un poco más
+
+175
+00:10:37,480 --> 00:10:39,480
+o que nos escuchara mejor
+
+176
+00:10:39,480 --> 00:10:40,940
+o que nos explicáramos mejor
+
+177
+00:10:40,940 --> 00:10:43,660
+porque yo creo que es un producto que en cualquiera
+
+178
+00:10:43,660 --> 00:10:45,200
+de las dos gestiones era lo mismo
+
+179
+00:10:45,200 --> 00:10:46,720
+estaba bueno, ofrecía
+
+180
+00:10:46,720 --> 00:10:49,580
+cosas que van más allá de esto
+
+181
+00:10:49,580 --> 00:10:50,920
+y
+
+182
+00:10:50,920 --> 00:10:52,940
+me nombraste SICAN
+
+183
+00:10:52,940 --> 00:10:55,140
+para los que no lo conozcan, es un software libre
+
+184
+00:10:55,140 --> 00:10:56,900
+para hacer portales de datos abiertos
+
+185
+00:10:56,900 --> 00:10:58,760
+Me nombraste software libre también
+
+186
+00:10:58,760 --> 00:11:01,480
+¿A vos te parece que el software libre
+
+187
+00:11:01,480 --> 00:11:03,160
+Es o debe ser
+
+188
+00:11:03,160 --> 00:11:04,380
+Porque creo que no lo es hoy
+
+189
+00:11:04,380 --> 00:11:07,000
+Una política a tener en cuenta
+
+190
+00:11:07,000 --> 00:11:08,640
+Dentro de gobierno abierto?
+
+191
+00:11:09,460 --> 00:11:10,980
+Yo creo que es la única forma
+
+192
+00:11:10,980 --> 00:11:12,340
+De hacer un verdadero gobierno abierto
+
+193
+00:11:12,340 --> 00:11:15,560
+Para mí es la única forma de hacer un verdadero gobierno
+
+194
+00:11:15,560 --> 00:11:16,020
+Ponele
+
+195
+00:11:16,020 --> 00:11:18,020
+Pero bueno, es verdad que peco
+
+196
+00:11:18,020 --> 00:11:21,320
+De ser primero activista por el software libre
+
+197
+00:11:21,320 --> 00:11:23,520
+Desde las múltiples virtudes
+
+198
+00:11:23,520 --> 00:11:24,780
+Que tiene, en donde una
+
+199
+00:11:24,780 --> 00:11:27,340
+es su incorporación en el Estado
+
+200
+00:11:27,340 --> 00:11:29,260
+por transparencia, por lo que tiene que ver
+
+201
+00:11:29,260 --> 00:11:30,880
+con el uso de los fondos públicos
+
+202
+00:11:30,880 --> 00:11:32,660
+por el manejo, por la seguridad
+
+203
+00:11:32,660 --> 00:11:34,280
+por la soberanía tecnológica
+
+204
+00:11:34,280 --> 00:11:36,480
+que es un concepto que fue un poco borrado
+
+205
+00:11:36,480 --> 00:11:37,240
+en los últimos años
+
+206
+00:11:37,240 --> 00:11:39,140
+pero que me parece que vale la pena retomar
+
+207
+00:11:39,140 --> 00:11:41,740
+por todas estas cuestiones es la única forma
+
+208
+00:11:41,740 --> 00:11:44,060
+cuando vos estás inmerso en una política
+
+209
+00:11:44,060 --> 00:11:45,000
+de gobierno abierto
+
+210
+00:11:45,000 --> 00:11:46,640
+como la que se fue impulsando
+
+211
+00:11:46,640 --> 00:11:50,080
+desde las mesas de agenda digital
+
+212
+00:11:50,080 --> 00:11:50,680
+me refiero
+
+213
+00:11:50,680 --> 00:11:54,400
+entonces es la única manera
+
+214
+00:11:54,400 --> 00:12:09,880
+La única manera coherente, digamos. Después ya sabemos que en la gestión las personas hacemos lo que se va pudiendo con los múltiples intereses que se ponen en juego. Pero es cierto que hay mucho software libre para gobierno abierto porque tiene una asociatividad que es innegable.
+
+215
+00:12:09,880 --> 00:12:12,660
+Exacto, exacto
+
+216
+00:12:12,660 --> 00:12:14,820
+En este intercambio
+
+217
+00:12:14,820 --> 00:12:17,080
+Con los gobiernos
+
+218
+00:12:17,080 --> 00:12:18,780
+Municipales a través de este
+
+219
+00:12:18,780 --> 00:12:20,840
+Proyecto Vox, notaste que había
+
+220
+00:12:20,840 --> 00:12:22,980
+En general, intenciones
+
+221
+00:12:22,980 --> 00:12:24,240
+Sinceras de
+
+222
+00:12:24,240 --> 00:12:26,920
+Tener gobiernos
+
+223
+00:12:26,920 --> 00:12:28,780
+Más abiertos, porque una pregunta
+
+224
+00:12:28,780 --> 00:12:29,740
+Que hago en general es
+
+225
+00:12:29,740 --> 00:12:32,900
+¿Cómo diferencia una propuesta de apertura
+
+226
+00:12:32,900 --> 00:12:35,220
+Que es de marketing y vacía de contenido
+
+227
+00:12:35,220 --> 00:12:37,060
+De una que es interesante
+
+228
+00:12:37,060 --> 00:12:38,760
+Me imagino que vos te cruzaste con muchas
+
+229
+00:12:38,760 --> 00:12:40,880
+propuestas en este proyecto
+
+230
+00:12:40,880 --> 00:12:42,260
+te quería preguntar
+
+231
+00:12:42,260 --> 00:12:45,160
+de qué forma vos más o menos podés diferenciar
+
+232
+00:12:45,160 --> 00:12:45,940
+o nos podés contar
+
+233
+00:12:45,940 --> 00:12:47,820
+cuando aparece una propuesta nueva
+
+234
+00:12:47,820 --> 00:12:50,580
+qué le podemos mirar para saber si es
+
+235
+00:12:50,580 --> 00:12:52,680
+profunda o es marketinera
+
+236
+00:12:52,680 --> 00:12:54,580
+yo te cuento
+
+237
+00:12:54,580 --> 00:12:56,440
+lo que creemos especialmente con
+
+238
+00:12:56,440 --> 00:12:58,960
+esta compañera Lina Montoya
+
+239
+00:12:58,960 --> 00:13:00,740
+que un día vas a tener que conversar
+
+240
+00:13:00,740 --> 00:13:02,980
+con ella seguro, respecto especialmente
+
+241
+00:13:02,980 --> 00:13:04,680
+a lo que tiene que ver con gobierno abierto
+
+242
+00:13:04,680 --> 00:13:06,700
+en municipios, porque a pesar de que ese portal
+
+243
+00:13:06,700 --> 00:13:09,440
+se discontinuó, vamos a usar ese término
+
+244
+00:13:09,440 --> 00:13:10,800
+que es mucho más ameno
+
+245
+00:13:10,800 --> 00:13:12,700
+es más amable
+
+246
+00:13:12,700 --> 00:13:15,400
+lo que nosotros veníamos
+
+247
+00:13:15,400 --> 00:13:17,100
+impulsando respecto de hacer
+
+248
+00:13:17,100 --> 00:13:19,040
+algún tipo de trabajo con los municipios
+
+249
+00:13:19,040 --> 00:13:21,160
+y el gobierno abierto, lo sostuvo Lina Montoya
+
+250
+00:13:21,160 --> 00:13:22,360
+a lo largo del tiempo, aún hoy
+
+251
+00:13:22,360 --> 00:13:24,760
+con una prueba piloto de municipios
+
+252
+00:13:24,760 --> 00:13:27,220
+entonces federalizando las propuestas del gobierno abierto
+
+253
+00:13:27,220 --> 00:13:29,080
+e incluyendo compromisos
+
+254
+00:13:29,080 --> 00:13:31,160
+a lo largo de los distintos planes de acción de la Argentina
+
+255
+00:13:31,160 --> 00:13:32,940
+entonces hubo
+
+256
+00:13:32,940 --> 00:13:35,300
+y sosteniendo la red argentina
+
+257
+00:13:35,300 --> 00:13:41,060
+de municipios por el gobierno abierto, digamos, que como no es parte
+
+258
+00:13:41,060 --> 00:13:45,620
+tan oficial, digamos, de lo que es el ministerio, permanecía un poco
+
+259
+00:13:45,620 --> 00:13:48,360
+más libre para poder trabajar desde ahí, porque después de todo
+
+260
+00:13:48,360 --> 00:13:52,100
+era una comunidad, digamos, las comunidades no se pueden oficializar
+
+261
+00:13:52,100 --> 00:13:55,680
+en ese sentido, no teníamos la plataforma, no teníamos el GOVAR,
+
+262
+00:13:56,000 --> 00:13:59,440
+pero la comunidad sigue existiendo, y ella la supo gestionar bien
+
+263
+00:13:59,440 --> 00:14:02,700
+hasta estos días, y lo que sí pudimos ver con ella, y de hecho
+
+264
+00:14:02,700 --> 00:14:08,940
+lo escribimos en algún que otro documento, es que, y te lo resumo,
+
+265
+00:14:09,060 --> 00:14:13,480
+si vos vas a los municipios, ellos quieren, dicen, ya tenemos un portal de datos,
+
+266
+00:14:13,480 --> 00:14:16,800
+¿ahora qué hacemos? Y ahí ya te das cuenta de que empezaron al revés.
+
+267
+00:14:17,380 --> 00:14:21,680
+Y tenía mucho que ver con otras políticas que venían de otros ministerios, ¿no?
+
+268
+00:14:22,340 --> 00:14:27,080
+Lo que nosotros proponíamos era un proceso primero de concientización inicial,
+
+269
+00:14:27,380 --> 00:14:30,900
+una idea de que las prácticas de gobierno abierto son eso, son prácticas
+
+270
+00:14:30,900 --> 00:14:34,980
+que no siempre involucran la tecnología, salvo que sean las de datos abiertos,
+
+271
+00:14:35,300 --> 00:14:39,660
+que por definición implican una, digamos, una dimensión tecnológica,
+
+272
+00:14:40,220 --> 00:14:44,220
+y es más sólida y es más sincera, entre comillas, si querés,
+
+273
+00:14:44,400 --> 00:14:48,440
+es más importante en términos de alejarse de esa mirada del marketing,
+
+274
+00:14:48,900 --> 00:14:52,080
+mientras más articule los distintos componentes de lo que es el gobierno abierto.
+
+275
+00:14:52,700 --> 00:14:57,200
+Si se está pensando efectivamente para la colaboración, para la participación,
+
+276
+00:14:57,200 --> 00:15:01,240
+si hay escucha activa, si hay proceso, si hay una transparencia que esté sostenida
+
+277
+00:15:01,240 --> 00:15:05,960
+en una necesidad propia de ese municipio, si el municipio abre ese juego
+
+278
+00:15:05,960 --> 00:15:09,720
+no es lo mismo que hacer una cosa que se pueda decir en el portal
+
+279
+00:15:09,720 --> 00:15:13,780
+en un portal propio de un municipio, es todo un proceso que es largo
+
+280
+00:15:13,780 --> 00:15:17,980
+que a veces es tortuoso, que no siempre es tan productivo como uno lo espera
+
+281
+00:15:17,980 --> 00:15:22,540
+pero que es la manera de construirlo con más fuerza en el tiempo
+
+282
+00:15:22,540 --> 00:15:27,040
+porque si no, nada, sale el portal, subimos 5 sets, por ahí no le importan a nadie
+
+283
+00:15:27,040 --> 00:15:29,520
+y seguimos adelante y aparecemos en una lista
+
+284
+00:15:29,520 --> 00:15:31,020
+de portales de datos abiertos
+
+285
+00:15:31,020 --> 00:15:32,360
+y nos sacamos la foto
+
+286
+00:15:32,360 --> 00:15:34,380
+nos sacamos las fotos
+
+287
+00:15:34,380 --> 00:15:36,880
+distinta es, y esto después algún día
+
+288
+00:15:36,880 --> 00:15:39,260
+te voy a molestar a vos para sacarte un poco
+
+289
+00:15:39,260 --> 00:15:40,960
+de data también, son
+
+290
+00:15:40,960 --> 00:15:43,180
+las apuestas de ciudades en donde
+
+291
+00:15:43,180 --> 00:15:45,320
+ponen a disposición datos que después
+
+292
+00:15:45,320 --> 00:15:47,360
+pueden ser reutilizados por terceros y a su vez
+
+293
+00:15:47,360 --> 00:15:49,460
+vuelvan a la ciudadanía, no como se pone
+
+294
+00:15:49,460 --> 00:15:51,400
+en marcha ese ecosistema en donde
+
+295
+00:15:51,400 --> 00:15:53,200
+todos pueden participar de una manera
+
+296
+00:15:53,200 --> 00:15:55,320
+y es una mirada
+
+297
+00:15:55,320 --> 00:15:57,900
+compleja que lleva mucho tiempo
+
+298
+00:15:57,900 --> 00:15:58,840
+mucha apertura
+
+299
+00:15:58,840 --> 00:16:00,800
+y donde la apertura no es solamente
+
+300
+00:16:00,800 --> 00:16:04,720
+digamos decirla
+
+301
+00:16:04,720 --> 00:16:07,720
+sino efectivamente hacerla en la práctica
+
+302
+00:16:07,720 --> 00:16:08,820
+y cuando decimos con Lina
+
+303
+00:16:08,820 --> 00:16:10,100
+con Lina Montoya práctica
+
+304
+00:16:10,100 --> 00:16:12,780
+decimos territorio, 100% territorio
+
+305
+00:16:12,780 --> 00:16:14,580
+entonces vos en tu sitio web
+
+306
+00:16:14,580 --> 00:16:16,680
+hacé lo que te parezca
+
+307
+00:16:16,680 --> 00:16:20,200
+pero si no fuiste a la gente
+
+308
+00:16:20,200 --> 00:16:21,980
+y no buscaste las formas
+
+309
+00:16:21,980 --> 00:16:23,680
+de establecer ese vínculo
+
+310
+00:16:23,680 --> 00:16:27,900
+entre esa cosa digital que parece políticamente correcta
+
+311
+00:16:27,900 --> 00:16:30,760
+y el efecto verdadero que puede tener sobre la ciudadanía
+
+312
+00:16:30,760 --> 00:16:31,980
+no hiciste ese ejercicio
+
+313
+00:16:31,980 --> 00:16:35,560
+entonces seguramente o está mal planificado
+
+314
+00:16:35,560 --> 00:16:39,080
+o desde el principio fue como una cuestión de marketing político
+
+315
+00:16:39,080 --> 00:16:42,000
+bien, bien, me gusta
+
+316
+00:16:42,000 --> 00:16:45,120
+a los técnicos nos manda a trabajar
+
+317
+00:16:45,120 --> 00:16:48,040
+a salir a la calle, a caminar, a ver si los datos que
+
+318
+00:16:48,040 --> 00:16:50,500
+trabajamos y publicamos realmente
+
+319
+00:16:50,500 --> 00:16:52,760
+pueden tener algún impacto
+
+320
+00:16:52,760 --> 00:16:54,340
+o algo afuera
+
+321
+00:16:54,340 --> 00:16:56,900
+si, ni siquiera es que tengan que hacerlo
+
+322
+00:16:56,900 --> 00:16:58,840
+los técnicos, porque los técnicos
+
+323
+00:16:58,840 --> 00:17:00,760
+yo no le puedo pedir a los técnicos que sean
+
+324
+00:17:00,760 --> 00:17:02,800
+los que deciden que datos
+
+325
+00:17:02,800 --> 00:17:04,820
+se abren, esas son
+
+326
+00:17:04,820 --> 00:17:06,920
+decisiones políticas, nunca es un problema técnico
+
+327
+00:17:06,920 --> 00:17:08,440
+el del gobierno abierto
+
+328
+00:17:08,440 --> 00:17:10,780
+la apertura de datos
+
+329
+00:17:10,780 --> 00:17:12,800
+no, en general no
+
+330
+00:17:12,800 --> 00:17:15,020
+o sea, hay problemas técnicos
+
+331
+00:17:15,020 --> 00:17:16,520
+que vos los conocés mejor que yo
+
+332
+00:17:16,520 --> 00:17:18,260
+que se van resolviendo, hay
+
+333
+00:17:18,260 --> 00:17:20,760
+muy poca práctica de generar datos
+
+334
+00:17:20,760 --> 00:17:22,600
+en el gobierno para que sean
+
+335
+00:17:22,600 --> 00:17:24,720
+abiertos, recién ahora estamos empezando
+
+336
+00:17:24,720 --> 00:17:26,740
+a hacer eso, y entonces por supuesto
+
+337
+00:17:26,740 --> 00:17:28,420
+es un quilombo abrir datos
+
+338
+00:17:28,420 --> 00:17:30,920
+digamos
+
+339
+00:17:30,920 --> 00:17:32,680
+si no tenemos el trabajo
+
+340
+00:17:32,680 --> 00:17:33,820
+previo, cada vez
+
+341
+00:17:33,820 --> 00:17:36,700
+tendría que ser menos, pero yo no
+
+342
+00:17:36,700 --> 00:17:38,040
+es algo que le pediría al técnico
+
+343
+00:17:38,040 --> 00:17:40,720
+lo pediría al que toma las decisiones sobre eso
+
+344
+00:17:40,720 --> 00:17:42,020
+Perfecto
+
+345
+00:17:42,020 --> 00:17:44,720
+te saco, movemos un paso
+
+346
+00:17:44,720 --> 00:17:46,680
+adelante, ahora estás en el SIECTI
+
+347
+00:17:46,680 --> 00:17:47,920
+no sé si lo pronuncio bien
+
+348
+00:17:47,920 --> 00:17:49,700
+Te quería preguntar, ¿qué es el CIECTI?
+
+349
+00:17:50,320 --> 00:17:56,120
+El CIECTI es un centro interdisciplinario de estudios de ciencia, tecnología e innovación,
+
+350
+00:17:56,340 --> 00:18:04,580
+esa es la sigla, es una iniciativa que está, fue incubada con aportes del BID por varias universidades,
+
+351
+00:18:04,720 --> 00:18:11,060
+la Flaxo, la Universidad de Quilmes, las de General Sarmiento, no sé si hay alguna más que me estoy olvidando,
+
+352
+00:18:11,140 --> 00:18:15,680
+espero que no, y que en 2015, una vez que fue impulsada, está allí en el polo tecnológico,
+
+353
+00:18:15,680 --> 00:18:20,020
+es como parte de los institutos interdisciplinarios, que son varios,
+
+354
+00:18:20,200 --> 00:18:25,780
+allí donde está el CONICET, el ex Ministerio de Ciencia y Tecnología, la agencia,
+
+355
+00:18:26,580 --> 00:18:30,420
+todo eso junto, bueno, uno de los edificios está en los institutos,
+
+356
+00:18:30,520 --> 00:18:35,380
+y nosotros somos uno de esos institutos, con la particularidad que desde el 2015
+
+357
+00:18:35,380 --> 00:18:39,500
+se constituyeron, yo todavía no era parte del CIECTI como una asociación civil,
+
+358
+00:18:40,280 --> 00:18:44,680
+entonces lo que hace es tratar de poner a disposición un montón de capacidades
+
+359
+00:18:44,680 --> 00:18:50,280
+que tiene su base de investigadores, tanto sea para evaluar políticas públicas,
+
+360
+00:18:50,280 --> 00:18:55,480
+para hacer algunas recomendaciones, tienen toda una parte de análisis inicial
+
+361
+00:18:55,480 --> 00:19:03,020
+de nuevos temas, que genera conocimiento, a la vez que evalúa políticas
+
+362
+00:19:03,020 --> 00:19:05,860
+y que hace también procesos de planificación muy interesantes.
+
+363
+00:19:06,360 --> 00:19:11,220
+Somos como que brindamos servicios no tecnológicos, sino técnicos, si querés,
+
+364
+00:19:11,680 --> 00:19:14,620
+desde distintos sectores, depende de cómo viene la mano.
+
+365
+00:19:14,680 --> 00:19:17,000
+entonces hay una unidad de evaluación y monitoreo,
+
+366
+00:19:17,560 --> 00:19:21,260
+tenemos fundada hace muy poquito una unidad de datos abiertos y masivos,
+
+367
+00:19:22,060 --> 00:19:25,680
+cosas así que trabajamos en productos, en algunos documentos,
+
+368
+00:19:25,680 --> 00:19:32,520
+pero también canalizamos capacitaciones, hacemos algunas presentaciones,
+
+369
+00:19:33,140 --> 00:19:34,820
+es un lugar muy lindo para trabajar por lo menos.
+
+370
+00:19:35,600 --> 00:19:40,220
+Suena interesante, estuve leyendo cuando preparé la entrevista
+
+371
+00:19:40,220 --> 00:19:44,120
+y vi algunas presentaciones tuyas acerca de una ley
+
+372
+00:19:44,120 --> 00:19:46,480
+que tiene Argentina de repositorios digitales
+
+373
+00:19:46,480 --> 00:19:48,120
+que pareciera ser la búsqueda
+
+374
+00:19:48,120 --> 00:19:50,160
+de que la ciencia que es financiada
+
+375
+00:19:50,160 --> 00:19:52,060
+por el Estado libere
+
+376
+00:19:52,060 --> 00:19:54,360
+los datos para que se reutilicen
+
+377
+00:19:54,360 --> 00:19:56,400
+entiendo que vos, una de tus líneas
+
+378
+00:19:56,400 --> 00:19:58,140
+de trabajo en el CIECTI es
+
+379
+00:19:58,140 --> 00:19:59,780
+vinculada a esto, te quería preguntar si es así
+
+380
+00:19:59,780 --> 00:20:02,000
+si tenemos ciencia transparente o ciencia abierta
+
+381
+00:20:02,000 --> 00:20:04,120
+en Argentina. Tenemos un movimiento
+
+382
+00:20:04,120 --> 00:20:06,200
+grande de ciencia abierta
+
+383
+00:20:06,200 --> 00:20:08,000
+tenemos gente muy capacitada en eso
+
+384
+00:20:08,000 --> 00:20:09,480
+y que trabaja mucho
+
+385
+00:20:09,480 --> 00:20:10,540
+desde la
+
+386
+00:20:10,540 --> 00:20:13,880
+academia en cómo construir
+
+387
+00:20:13,880 --> 00:20:18,160
+y cómo trabajarla, y tenemos esa ley, que no es exactamente de ciencia abierta,
+
+388
+00:20:18,260 --> 00:20:20,960
+sino, como decías vos, de acceso abierto a repositorios digitales,
+
+389
+00:20:21,340 --> 00:20:27,560
+es una ley que no es tan nueva, la ley es 2013 y en el 2016 recién se reglamentó,
+
+390
+00:20:28,040 --> 00:20:32,040
+pero lo que pone a disposición en principio son las publicaciones
+
+391
+00:20:32,040 --> 00:20:39,240
+de todos los científicos, de todo el sistema científico y de la innovación
+
+392
+00:20:39,240 --> 00:20:43,000
+de todo el sistema CTI, que tuvo financiamiento estatal.
+
+393
+00:20:43,000 --> 00:20:55,940
+En ese sentido, sí, hay un avance, hay un repositorio nacional y esa misma normativa tiene un apartado que está vinculado a los datos abiertos de investigación científica.
+
+394
+00:20:56,720 --> 00:21:08,640
+Bien, y efectivamente, o sea, tenemos un portal con todos los papers, digamos, o todos los estudios, las investigaciones, y tenemos también cada uno de esos papers, ¿tiene todos los datasets que usaron completos publicados?
+
+395
+00:21:08,640 --> 00:21:10,380
+No, por eso te iba a decir
+
+396
+00:21:10,380 --> 00:21:13,400
+La normativa dice, tienen que estar todos los papers
+
+397
+00:21:13,400 --> 00:21:15,160
+Tampoco es que tenemos todos los papers
+
+398
+00:21:15,160 --> 00:21:16,860
+Es como algo que se está implementando
+
+399
+00:21:16,860 --> 00:21:19,240
+Y la gente que lleva adelante
+
+400
+00:21:19,240 --> 00:21:20,840
+La cuestión de los repositorios digitales
+
+401
+00:21:20,840 --> 00:21:21,740
+Del sistema nacional
+
+402
+00:21:21,740 --> 00:21:23,860
+Cosecha de muchos repositorios
+
+403
+00:21:23,860 --> 00:21:25,420
+De más de 30 o 40
+
+404
+00:21:25,420 --> 00:21:27,000
+Está por allí el dato
+
+405
+00:21:27,000 --> 00:21:29,460
+De que son de las instituciones
+
+406
+00:21:29,460 --> 00:21:31,820
+O sea, la normativa impacta en las instituciones
+
+407
+00:21:31,820 --> 00:21:34,620
+Las universidades tienen que tener su repositorio
+
+408
+00:21:34,620 --> 00:21:35,720
+Y compartirlo con otra
+
+409
+00:21:35,720 --> 00:21:37,180
+¿Entendido?
+
+410
+00:21:37,180 --> 00:21:45,380
+Y en ese sentido, eso fue creciendo porque el movimiento de acceso abierto, y en esto tendrías que hablar, si querés, algún día con...
+
+411
+00:21:45,380 --> 00:21:46,260
+Fernando López.
+
+412
+00:21:46,480 --> 00:21:54,600
+Fernando, gracias. Es un movimiento previo, amplio, que impulsó toda esta normativa hace mucho más tiempo
+
+413
+00:21:54,600 --> 00:21:57,300
+del que se viene hablando del gobierno abierto, que es relativamente nuevo.
+
+414
+00:21:58,040 --> 00:22:06,240
+Entonces son, un poco te lo comenté alguna vez, estos movimientos de apertura son vistos desde mucho más arriba
+
+415
+00:22:06,240 --> 00:22:08,200
+de lo que lo vemos a veces son medio el mismo
+
+416
+00:22:08,200 --> 00:22:10,280
+o podrían articularse
+
+417
+00:22:10,280 --> 00:22:12,420
+de una manera que lograra más efectos
+
+418
+00:22:12,420 --> 00:22:14,240
+pero bueno, se logró un efecto
+
+419
+00:22:14,240 --> 00:22:16,080
+fuerte en materia de
+
+420
+00:22:16,080 --> 00:22:18,420
+papers, porque realmente es lo más fácil de publicar
+
+421
+00:22:18,420 --> 00:22:19,620
+claro, pues ya están
+
+422
+00:22:19,620 --> 00:22:22,080
+y porque a los científicos les gusta, pero calculo que
+
+423
+00:22:22,080 --> 00:22:24,220
+a los científicos no les gusta publicar
+
+424
+00:22:24,220 --> 00:22:25,920
+los datos que tanto esfuerzo
+
+425
+00:22:25,920 --> 00:22:27,820
+les costó procesar
+
+426
+00:22:27,820 --> 00:22:30,080
+en charlas con gente
+
+427
+00:22:30,080 --> 00:22:32,100
+que se dedica a esto, en general noto algún
+
+428
+00:22:32,100 --> 00:22:33,980
+recelo en decir, si el paper
+
+429
+00:22:33,980 --> 00:22:35,900
+todo bien, le amé, si también
+
+430
+00:22:35,900 --> 00:22:37,940
+me encanta, pero estos datos
+
+431
+00:22:37,940 --> 00:22:39,680
+me llevaron seis meses de investigación
+
+432
+00:22:39,680 --> 00:22:41,280
+que me los pidan
+
+433
+00:22:41,280 --> 00:22:44,440
+pero no los publico
+
+434
+00:22:44,440 --> 00:22:46,500
+eso es lo que pasa
+
+435
+00:22:46,500 --> 00:22:47,680
+¿cómo lo podemos cambiar?
+
+436
+00:22:48,120 --> 00:22:50,160
+¿o la ley prevé algo para corregirlo a eso?
+
+437
+00:22:50,600 --> 00:22:51,600
+la ley prevé
+
+438
+00:22:51,600 --> 00:22:53,860
+procesos de concientización al respecto
+
+439
+00:22:53,860 --> 00:22:55,060
+pero no puede resolver
+
+440
+00:22:55,060 --> 00:22:56,760
+prevé también un tiempo
+
+441
+00:22:56,760 --> 00:22:57,420
+porque no es que
+
+442
+00:22:57,420 --> 00:23:02,180
+usted pone su paper y enseguida tiene que poner los datos
+
+443
+00:23:02,180 --> 00:23:03,600
+lo que pasa es que hay un principio
+
+444
+00:23:03,600 --> 00:23:04,500
+que vos también conoces
+
+445
+00:23:04,500 --> 00:23:06,840
+por el cual los datos van perdiendo valor
+
+446
+00:23:06,840 --> 00:23:08,500
+o sea, a veces
+
+447
+00:23:08,500 --> 00:23:11,180
+no tiene sentido resguardarlos
+
+448
+00:23:11,180 --> 00:23:13,060
+demasiado tiempo sin que puedan ser utilizados
+
+449
+00:23:13,060 --> 00:23:14,800
+porque se desvalorizan y si vos no
+
+450
+00:23:14,800 --> 00:23:17,420
+realizaste, en términos económicos
+
+451
+00:23:17,420 --> 00:23:18,720
+económicos amplios
+
+452
+00:23:18,720 --> 00:23:21,320
+su valor a lo largo de toda la vida
+
+453
+00:23:21,320 --> 00:23:22,980
+que los tuviste cerrados, también es una
+
+454
+00:23:22,980 --> 00:23:24,540
+boludez, por simplificar
+
+455
+00:23:24,540 --> 00:23:26,840
+vos me dijiste que se podían decir malas palabras
+
+456
+00:23:26,840 --> 00:23:27,200
+Andrés
+
+457
+00:23:27,200 --> 00:23:30,920
+muchas gracias, ya van dos o tres
+
+458
+00:23:30,920 --> 00:23:31,400
+muy bien
+
+459
+00:23:31,400 --> 00:23:34,100
+entonces la ley lo que dice es
+
+460
+00:23:34,100 --> 00:23:36,340
+desde que vos lo recabaste tenés hasta 5 años
+
+461
+00:23:36,340 --> 00:23:38,260
+para hacerlos públicos
+
+462
+00:23:38,260 --> 00:23:40,040
+entonces ya estamos por medio por fuera
+
+463
+00:23:40,040 --> 00:23:41,320
+ya estamos vencidos
+
+464
+00:23:41,320 --> 00:23:43,900
+ya deberían empezar a publicarse
+
+465
+00:23:43,900 --> 00:23:46,140
+pero hay muchísimas cosas
+
+466
+00:23:46,140 --> 00:23:47,940
+que pasan, porque el problema es que
+
+467
+00:23:47,940 --> 00:23:48,880
+no existen todavía
+
+468
+00:23:48,880 --> 00:23:51,760
+algo intermedio que es el plan de gestión de datos
+
+469
+00:23:51,760 --> 00:23:53,160
+de investigación que es lo que se le pide
+
+470
+00:23:53,160 --> 00:23:55,560
+recién se le empezó a pedir en el 2017
+
+471
+00:23:55,560 --> 00:23:56,920
+a los investigadores con ICET
+
+472
+00:23:56,920 --> 00:23:59,800
+y con ICET es el único, por lo menos por ahora
+
+473
+00:23:59,800 --> 00:24:01,640
+que tiene un plan de gestión de datos
+
+474
+00:24:01,640 --> 00:24:03,720
+estandarizado que le dice a sus investigadores
+
+475
+00:24:03,720 --> 00:24:08,820
+que tienen que usarlos así, en el sentido en el que ustedes imagínense que es un documento
+
+476
+00:24:08,820 --> 00:24:11,520
+que dice dónde lo vas a guardar, qué vas a recabar, qué formato va a tener,
+
+477
+00:24:11,940 --> 00:24:16,380
+cómo vas a hacer para que se preserven, cosas básicas, digamos, para los datos.
+
+478
+00:24:16,380 --> 00:24:20,840
+Entonces, no es solo el proceso de cooperación-competencia que se vive en las comunidades
+
+479
+00:24:20,840 --> 00:24:25,060
+de práctica de investigadores, por lo cual esas dos cosas se tironean todo el tiempo,
+
+480
+00:24:25,580 --> 00:24:29,720
+porque no es que no se lo comparten, es que no se lo comparten aquellos con los que compiten.
+
+481
+00:24:29,880 --> 00:24:32,540
+Entonces, abrirlos implicaría compartírselos a todos.
+
+482
+00:24:32,540 --> 00:24:43,540
+Y no es solamente eso, sino que nosotros Argentina abrimos nuestros datos y entonces somos unos grandes proveedores de datos de tipos que tienen más capacidad para reutilizarlos, por ejemplo.
+
+483
+00:24:43,960 --> 00:24:46,160
+Son miedos que existen y son válidos.
+
+484
+00:24:46,860 --> 00:24:49,800
+Pasa lo mismo con los portales de datos abiertos.
+
+485
+00:24:49,960 --> 00:25:01,600
+Cuando uno abre desde un gobierno un dataset muy difícil de usar y muy valioso, los que van a sacar provecho son las empresas que tengan la plata para pagar lo que cuesta sacar ese provecho.
+
+486
+00:25:01,600 --> 00:25:05,700
+y por lo tanto ahí hay un rol que no termina de definirse
+
+487
+00:25:05,700 --> 00:25:10,480
+que es cómo el Estado se asegura de que haya intermediarios
+
+488
+00:25:10,480 --> 00:25:17,100
+que produzcan contenidos o soluciones que lleguen a mucha gente
+
+489
+00:25:17,100 --> 00:25:20,640
+y que no solamente algunas personas puedan usarlo.
+
+490
+00:25:20,780 --> 00:25:22,420
+Ahí tenemos un tema con los datos abiertos.
+
+491
+00:25:22,420 --> 00:25:26,600
+Sí, que sea más directo el efecto positivo sobre la ciudadanía
+
+492
+00:25:26,600 --> 00:25:30,400
+que no quede tan atrapado en la cuestión económica.
+
+493
+00:25:30,400 --> 00:25:43,220
+Uno puede pensar, entre mil comillas, que mientras más valoricen económicamente esos datos desde el ámbito de los privados, es mucha gente de la comunidad que piensa así, también de alguna manera tiene que redundar en algo bueno.
+
+494
+00:25:43,220 --> 00:26:02,520
+Yo creo que el ejercicio que hay que hacer es ser más capaces de abrir más, pero no abrir más porque somos los grandes proveedores de datos en una división internacional del trabajo donde nosotros decimos cosas y otros las interpretan, sino abrir más para incluso reutilizar mejor.
+
+495
+00:26:02,520 --> 00:26:11,220
+Porque el problema básico, y vuelvo a los del Estado, que creo que son los más importantes en este aspecto, es que no hay verdadera reutilización.
+
+496
+00:26:12,340 --> 00:26:13,020
+¿Por qué no?
+
+497
+00:26:13,740 --> 00:26:17,740
+No verdadera, porque es poca, se abre más de lo que se utiliza.
+
+498
+00:26:18,560 --> 00:26:21,880
+Y no hay herramientas que midan efectivamente si se reutilizan.
+
+499
+00:26:21,980 --> 00:26:28,140
+Entonces el Estado hace un esfuerzo grande por abrirlo, pero necesitamos que sean más usados para que ese esfuerzo tenga más valor.
+
+500
+00:26:28,140 --> 00:26:31,800
+Bien, ahí saco una palabra que dijiste vos hace un rato
+
+501
+00:26:31,800 --> 00:26:32,840
+Ecosistema
+
+502
+00:26:32,840 --> 00:26:36,960
+Si abro los datos y no miro mucho el ecosistema
+
+503
+00:26:36,960 --> 00:26:40,440
+O si no le pregunto al ecosistema qué necesita o qué querría usar
+
+504
+00:26:40,440 --> 00:26:42,620
+Termina pasando eso que decís vos
+
+505
+00:26:42,620 --> 00:26:44,060
+Que abrimos más de lo que se usa
+
+506
+00:26:44,060 --> 00:26:45,240
+De todas formas
+
+507
+00:26:45,240 --> 00:26:48,060
+No, o abrimos cosas que no se usan, que es lo peor
+
+508
+00:26:48,060 --> 00:26:52,320
+Bien, pero tampoco está mal pensar
+
+509
+00:26:52,320 --> 00:26:55,360
+Que los datos tienen que ser abiertos por defecto
+
+510
+00:26:55,360 --> 00:26:57,480
+Independientemente de que alguien
+
+511
+00:26:57,480 --> 00:26:58,340
+Los use o no
+
+512
+00:26:58,340 --> 00:27:01,240
+Si es que no me genera un costo adicional a mi
+
+513
+00:27:01,240 --> 00:27:02,220
+Totalmente
+
+514
+00:27:02,220 --> 00:27:05,860
+Yo estoy hablando en este escenario
+
+515
+00:27:05,860 --> 00:27:06,760
+Que es el que pasa ahora
+
+516
+00:27:06,760 --> 00:27:09,440
+Que es que trato de abrir los que menos impactan
+
+517
+00:27:09,440 --> 00:27:10,400
+Políticamente
+
+518
+00:27:10,400 --> 00:27:12,540
+Esto alguno de los chicos en alguno de estos podcasts
+
+519
+00:27:12,540 --> 00:27:14,040
+Te lo comentó, no me acuerdo si fue
+
+520
+00:27:14,040 --> 00:27:17,200
+No me acuerdo si fue alguno de los chicos que conocemos en común
+
+521
+00:27:17,200 --> 00:27:17,880
+Que decía
+
+522
+00:27:17,880 --> 00:27:20,380
+El problema es el impacto político de la apertura
+
+523
+00:27:20,380 --> 00:27:22,840
+Entonces abrimos un montón de datos que no tienen impacto
+
+524
+00:27:22,840 --> 00:27:23,320
+Porque
+
+525
+00:27:23,320 --> 00:27:25,600
+estoy saltando de mi arma
+
+526
+00:27:25,600 --> 00:27:26,400
+a la ciencia, pero
+
+527
+00:27:26,400 --> 00:27:29,220
+no, no, pero es que me parece que la problemática es la misma
+
+528
+00:27:29,220 --> 00:27:32,140
+o parecida
+
+529
+00:27:32,140 --> 00:27:33,280
+hay ciertos recelos
+
+530
+00:27:33,280 --> 00:27:35,180
+aparte hay investigadores que no están
+
+531
+00:27:35,180 --> 00:27:37,240
+seguros de sus investigaciones
+
+532
+00:27:37,240 --> 00:27:38,620
+y si abren los datos y alguien
+
+533
+00:27:38,620 --> 00:27:41,520
+trata de replicar su investigación y le da otro resultado
+
+534
+00:27:41,520 --> 00:27:42,980
+se va a encontrar con un problema grande
+
+535
+00:27:42,980 --> 00:27:45,480
+no abrir los datos es una forma de tapar
+
+536
+00:27:45,480 --> 00:27:47,460
+tu inseguridad o tu ineficiencia
+
+537
+00:27:47,460 --> 00:27:48,720
+a los gobiernos les pasa lo mismo
+
+538
+00:27:48,720 --> 00:27:51,120
+yo abro los datos
+
+539
+00:27:51,120 --> 00:27:53,340
+de tal servicio
+
+540
+00:27:53,340 --> 00:27:55,560
+y alguien que sepa mucho más de ese servicio
+
+541
+00:27:55,560 --> 00:27:57,220
+podría decir
+
+542
+00:27:57,220 --> 00:27:58,480
+está haciendo las cosas mal
+
+543
+00:27:58,480 --> 00:28:01,480
+y los gobiernos en vez de aceptar de buena manera
+
+544
+00:28:01,480 --> 00:28:03,280
+esa crítica, se la toman
+
+545
+00:28:03,280 --> 00:28:05,240
+bastante mal, y calculo que para un científico
+
+546
+00:28:05,240 --> 00:28:05,720
+es peor
+
+547
+00:28:05,720 --> 00:28:11,000
+yo pienso que es peor también para la ciencia
+
+548
+00:28:11,000 --> 00:28:12,060
+ese es el problema
+
+549
+00:28:12,060 --> 00:28:15,200
+la ciencia avanza por su capacidad
+
+550
+00:28:15,200 --> 00:28:16,580
+de reproducibilidad
+
+551
+00:28:16,580 --> 00:28:19,040
+o reproductibilidad, depende de lo que queramos decir
+
+552
+00:28:19,040 --> 00:28:20,540
+pero en todo caso
+
+553
+00:28:20,540 --> 00:28:24,320
+ningún científico estaría en contra
+
+554
+00:28:24,320 --> 00:28:25,960
+de pensar que
+
+555
+00:28:25,960 --> 00:28:27,600
+esos dos aspectos
+
+556
+00:28:27,600 --> 00:28:29,880
+del crecimiento de la ciencia
+
+557
+00:28:29,880 --> 00:28:32,260
+son constitutivos, el problema es la práctica
+
+558
+00:28:32,260 --> 00:28:34,480
+individual, eso es tremendo
+
+559
+00:28:34,480 --> 00:28:36,120
+y hay una dimensión más
+
+560
+00:28:36,120 --> 00:28:38,140
+que es, los científicos
+
+561
+00:28:38,140 --> 00:28:40,180
+hay muchas dimensiones, pero una
+
+562
+00:28:40,180 --> 00:28:42,260
+es que los científicos no saben tratar a los datos
+
+563
+00:28:42,260 --> 00:28:43,920
+saben tratar a sus bases de datos
+
+564
+00:28:43,920 --> 00:28:46,180
+pero no saben abrir los datos
+
+565
+00:28:46,180 --> 00:28:47,780
+porque lo que le pide la ley no es
+
+566
+00:28:47,780 --> 00:28:49,620
+abrir los datos de tu base de datos
+
+567
+00:28:49,620 --> 00:28:52,240
+te piden abrir los datos de todo tu proceso de investigación
+
+568
+00:28:52,240 --> 00:28:54,100
+los datos crudos abrís
+
+569
+00:28:54,100 --> 00:28:55,780
+para que puedan ser reutilizados
+
+570
+00:28:55,780 --> 00:28:57,640
+pero hay algunas revistas
+
+571
+00:28:57,640 --> 00:29:00,340
+de muchos practicos internacionales que te piden los datos
+
+572
+00:29:00,340 --> 00:29:02,080
+y si no, no te publican
+
+573
+00:29:02,080 --> 00:29:04,100
+y bueno, en esos casos sí los liberan
+
+574
+00:29:04,100 --> 00:29:06,260
+sí, pero fíjate vos
+
+575
+00:29:06,260 --> 00:29:07,160
+cuál es el
+
+576
+00:29:07,160 --> 00:29:09,220
+incentivo
+
+577
+00:29:09,220 --> 00:29:12,580
+y esa es la palabra clave en toda esa normativa
+
+578
+00:29:12,580 --> 00:29:14,100
+¿cuáles son los incentivos
+
+579
+00:29:14,100 --> 00:29:15,840
+para que los científicos abran sus datos?
+
+580
+00:29:16,400 --> 00:29:18,080
+si no están vistos como ningún
+
+581
+00:29:18,080 --> 00:29:18,960
+activo que pongan
+
+582
+00:29:18,960 --> 00:29:20,620
+no están medidos
+
+583
+00:29:20,620 --> 00:29:22,160
+y acá hay algo muy perverso
+
+584
+00:29:22,160 --> 00:29:24,200
+del mundo de la academia
+
+585
+00:29:24,200 --> 00:29:26,460
+que es cómo se evalúan a los académicos
+
+586
+00:29:26,460 --> 00:29:27,160
+y cómo uno
+
+587
+00:29:27,160 --> 00:29:30,180
+si se deja caer en esa trampa
+
+588
+00:29:30,180 --> 00:29:31,480
+termina siendo un productor
+
+589
+00:29:31,480 --> 00:29:32,700
+de papers
+
+590
+00:29:32,700 --> 00:29:36,440
+el incentivo en la ciencia
+
+591
+00:29:36,440 --> 00:29:38,340
+parece estar puerto en las publicaciones
+
+592
+00:29:38,340 --> 00:29:40,240
+en revistas trascendentes
+
+593
+00:29:40,240 --> 00:29:42,400
+y no en
+
+594
+00:29:42,400 --> 00:29:44,520
+aportar un grano de arena
+
+595
+00:29:44,520 --> 00:29:46,240
+para que la comunidad científica
+
+596
+00:29:46,240 --> 00:29:48,760
+avance en cosas importantísimas
+
+597
+00:29:48,760 --> 00:29:50,000
+que necesitamos todavía.
+
+598
+00:29:50,560 --> 00:29:52,740
+Y esas grandes revistas, el problema es que tiene
+
+599
+00:29:52,740 --> 00:29:54,020
+grandes condicionamientos.
+
+600
+00:29:54,800 --> 00:29:56,440
+Ese es el verdadero problema, porque si no uno,
+
+601
+00:29:56,740 --> 00:29:59,020
+igual uno puede publicar lo que publicó en grandes revistas
+
+602
+00:29:59,020 --> 00:30:01,240
+como la versión previa
+
+603
+00:30:01,240 --> 00:30:03,400
+o la versión preprint o cosas por el estilo
+
+604
+00:30:03,400 --> 00:30:05,480
+en repositorios de acceso abierto
+
+605
+00:30:05,480 --> 00:30:06,340
+y sostener eso.
+
+606
+00:30:06,660 --> 00:30:09,520
+Los datos es ya otra cuestión, porque una de las dimensiones
+
+607
+00:30:09,520 --> 00:30:11,340
+que no te lo dije, y ya con esto te dejo
+
+608
+00:30:11,340 --> 00:30:13,920
+tranquilo, es que no hay repositorios
+
+609
+00:30:13,920 --> 00:30:15,400
+de datos tantos
+
+610
+00:30:15,400 --> 00:30:17,220
+como de acceso abierto.
+
+611
+00:30:17,220 --> 00:30:36,220
+Algunos adjuntan, como decís vos, o anexan esos datos, pero no hay algo regional o nacional o algo de lo que pudiéramos estar seguros que va a funcionar bien, que no solamente pongan los metadatos adecuados a cada uno de los set de datos vinculados a una investigación, sino también que los pueda poner a conversar, digamos, a articular.
+
+612
+00:30:36,220 --> 00:31:00,380
+Y me estás hablando de ciencia y datos y pienso en las universidades. Sé que la UBA empezó, permitió pedidos de acceso a la información pública hace algunos años, sé que la universidad de Cuyo tiene un portal de transparencia que me parece que está un poco apagado ahora. ¿Conocés ejemplos lindos de universidades que entiendan todo este proceso tal como vos lo contás de apertura?
+
+613
+00:31:00,380 --> 00:31:03,460
+Mira, a mí, si vos me preguntás así rápido
+
+614
+00:31:03,460 --> 00:31:05,760
+Se me ocurren esos dos ejemplos
+
+615
+00:31:05,760 --> 00:31:07,540
+Que me dijiste vos, a nivel nacional
+
+616
+00:31:07,540 --> 00:31:08,900
+Y alguno de los dos
+
+617
+00:31:08,900 --> 00:31:11,000
+Para destacar, alguno de los dos
+
+618
+00:31:11,000 --> 00:31:13,420
+Decir qué lindo que está este, está bueno, me gusta
+
+619
+00:31:13,420 --> 00:31:15,640
+Se hizo bien, o no lo miraste tanto
+
+620
+00:31:15,640 --> 00:31:17,100
+No lo miré tanto
+
+621
+00:31:17,100 --> 00:31:19,420
+Si conozco el proceso un poco más
+
+622
+00:31:19,420 --> 00:31:20,860
+De la universidad de Cuyo
+
+623
+00:31:20,860 --> 00:31:22,500
+Me parece que
+
+624
+00:31:22,500 --> 00:31:25,180
+Como proceso estuvo re bien formulado
+
+625
+00:31:25,180 --> 00:31:27,280
+Porque activaron como todos estos
+
+626
+00:31:27,280 --> 00:31:29,200
+Momentos previos, no fue una decisión de poner
+
+627
+00:31:29,200 --> 00:31:31,100
+un portal de transparencia, sino que
+
+628
+00:31:31,100 --> 00:31:33,000
+se abrieron espacios de consenso previo
+
+629
+00:31:33,000 --> 00:31:35,100
+porque hay que combinar muchas cosas
+
+630
+00:31:35,100 --> 00:31:37,220
+para que una universidad, siendo autónoma
+
+631
+00:31:37,220 --> 00:31:39,660
+con todos los intereses
+
+632
+00:31:39,660 --> 00:31:41,220
+en juego de las diferentes
+
+633
+00:31:41,220 --> 00:31:42,960
+partes de lo que es una universidad
+
+634
+00:31:42,960 --> 00:31:44,940
+se pongan de acuerdo, es complicado
+
+635
+00:31:44,940 --> 00:31:47,040
+y me pareció que venía bien, como decís vos
+
+636
+00:31:47,040 --> 00:31:49,140
+que está pagado hace mucho que no ando por ahí
+
+637
+00:31:49,140 --> 00:31:50,880
+yo creo que de universidades
+
+638
+00:31:50,880 --> 00:31:53,380
+también, Fernando puede ser
+
+639
+00:31:53,380 --> 00:31:54,860
+un buen referente como para ver
+
+640
+00:31:54,860 --> 00:31:57,180
+en qué andan en esto, de qué es lo que están
+
+641
+00:31:57,180 --> 00:31:59,100
+mostrando, especialmente de repositorios
+
+642
+00:31:59,100 --> 00:32:01,220
+y de apertura de datos de su propia gobernanza
+
+643
+00:32:01,220 --> 00:32:02,700
+porque el tema
+
+644
+00:32:02,700 --> 00:32:05,020
+hay una diferenciación
+
+645
+00:32:05,020 --> 00:32:06,400
+entre portales de transparencia
+
+646
+00:32:06,400 --> 00:32:08,640
+y portales de datos cuando se habla de universidad
+
+647
+00:32:08,640 --> 00:32:10,580
+y de gobierno también, pero de universidad más
+
+648
+00:32:10,580 --> 00:32:13,060
+porque los datos pareciera que son los datos
+
+649
+00:32:13,060 --> 00:32:14,860
+más propios de la investigación
+
+650
+00:32:14,860 --> 00:32:17,040
+y la transparencia más propia de la gestión
+
+651
+00:32:17,040 --> 00:32:19,260
+claro, presupuesto
+
+652
+00:32:19,260 --> 00:32:21,180
+designaciones
+
+653
+00:32:21,180 --> 00:32:22,760
+designaciones, concursos
+
+654
+00:32:22,760 --> 00:32:23,920
+resoluciones, todo
+
+655
+00:32:23,920 --> 00:32:27,000
+bueno, para no pasarme mucho el tiempo
+
+656
+00:32:27,000 --> 00:32:28,180
+me quedan dos preguntas
+
+657
+00:32:28,180 --> 00:32:30,620
+Una que me interesa mucho conocer tu opinión
+
+658
+00:32:30,620 --> 00:32:32,680
+¿Qué pasa si mañana el presidente
+
+659
+00:32:32,680 --> 00:32:34,440
+No importa si el actual, el que viene
+
+660
+00:32:34,440 --> 00:32:36,680
+Un presidente te convoca
+
+661
+00:32:36,680 --> 00:32:38,300
+Para ejercer alguna especie
+
+662
+00:32:38,300 --> 00:32:39,860
+Alguna secretaría
+
+663
+00:32:39,860 --> 00:32:42,020
+De datos abiertos
+
+664
+00:32:42,020 --> 00:32:43,380
+Algún ministerio
+
+665
+00:32:43,380 --> 00:32:46,040
+Alguna cosa de más gestión política
+
+666
+00:32:46,040 --> 00:32:47,440
+Para tomar decisiones
+
+667
+00:32:47,440 --> 00:32:49,280
+¿Es algo que te gustaría hacer?
+
+668
+00:32:50,580 --> 00:32:52,780
+Yo pasé por la coordinación
+
+669
+00:32:52,780 --> 00:32:54,160
+De equipos en el ministerio
+
+670
+00:32:54,160 --> 00:32:56,780
+Y desde ese lugar es un lugar como un modo de trabajo
+
+671
+00:32:56,780 --> 00:32:58,800
+un espacio
+
+672
+00:32:58,800 --> 00:33:00,120
+de mucha gestión política
+
+673
+00:33:00,120 --> 00:33:02,340
+no sé si me lo banco, estoy mayor
+
+674
+00:33:02,340 --> 00:33:05,040
+estoy mayor
+
+675
+00:33:05,040 --> 00:33:06,680
+el otro día fui al cardiólogo
+
+676
+00:33:06,680 --> 00:33:09,000
+y me dijo vos lo que tenés que hacer es quedarte tranquila
+
+677
+00:33:09,000 --> 00:33:10,520
+no sé
+
+678
+00:33:10,520 --> 00:33:12,700
+si es el momento, pero sí me parece
+
+679
+00:33:12,700 --> 00:33:14,940
+que son espacios que, no sé si ocupar
+
+680
+00:33:14,940 --> 00:33:15,680
+pero sí contribuir
+
+681
+00:33:15,680 --> 00:33:17,960
+claro, está bien
+
+682
+00:33:17,960 --> 00:33:21,020
+de última, serías consultora
+
+683
+00:33:21,020 --> 00:33:22,580
+estarías ahí cerca, te gustaría
+
+684
+00:33:22,580 --> 00:33:25,060
+participar de las decisiones
+
+685
+00:33:25,060 --> 00:33:26,960
+en esa materia. Si a mí me
+
+686
+00:33:26,960 --> 00:33:28,920
+preguntan sobre algo en lo que yo crea
+
+687
+00:33:28,920 --> 00:33:30,740
+que tengo la capacidad de dar
+
+688
+00:33:30,740 --> 00:33:33,060
+algún comentario, no lo dudes
+
+689
+00:33:33,060 --> 00:33:34,980
+que lo voy a hacer porque me parece que inclusive
+
+690
+00:33:34,980 --> 00:33:37,020
+esto me pasa mucho también porque tengo la culpa
+
+691
+00:33:37,020 --> 00:33:38,040
+del becario con ICET
+
+692
+00:33:38,040 --> 00:33:40,920
+que me parece que tengo como que devolver
+
+693
+00:33:40,920 --> 00:33:42,560
+todo eso que de alguna manera
+
+694
+00:33:42,560 --> 00:33:44,200
+todo ese sueldazo
+
+695
+00:33:44,200 --> 00:33:47,340
+todo ese sueldazo, no sé si era un sueldazo
+
+696
+00:33:47,340 --> 00:33:49,320
+pero fue una buena oportunidad
+
+697
+00:33:49,320 --> 00:33:50,780
+digamos. Sí, sí, es lindo
+
+698
+00:33:50,780 --> 00:33:52,820
+es lindo y bueno, no sé
+
+699
+00:33:52,820 --> 00:33:55,020
+pasó mucho tiempo de eso y sigo
+
+700
+00:33:55,020 --> 00:33:57,160
+haciéndolo, o sea que se ve que tengo una culpa
+
+701
+00:33:57,160 --> 00:33:58,680
+enorme, pero
+
+702
+00:33:58,680 --> 00:34:01,000
+sí, se pueden hacer cosas aunque
+
+703
+00:34:01,000 --> 00:34:03,100
+uno no esté en un espacio de alta
+
+704
+00:34:03,100 --> 00:34:04,980
+gestión, digamos, porque a veces estar muy
+
+705
+00:34:04,980 --> 00:34:06,880
+arriba implica tener otro tipo
+
+706
+00:34:06,880 --> 00:34:08,820
+de trabajo, sin cambio el trabajo
+
+707
+00:34:08,820 --> 00:34:10,840
+operativo, y eso también lo vimos
+
+708
+00:34:10,840 --> 00:34:12,940
+mucho en software libre, a veces es el que tracciona
+
+709
+00:34:12,940 --> 00:34:15,140
+muchas de las cosas que terminan floreciendo
+
+710
+00:34:15,140 --> 00:34:16,940
+en políticas que trascienden algunas de las
+
+711
+00:34:16,940 --> 00:34:18,880
+gestiones. Bueno,
+
+712
+00:34:19,100 --> 00:34:20,820
+me encanta. La última
+
+713
+00:34:20,820 --> 00:34:23,260
+es para todos los invitados
+
+714
+00:34:23,260 --> 00:34:25,440
+Igual la forma de construcción
+
+715
+00:34:25,440 --> 00:34:27,480
+De este podcast es la recomendación
+
+716
+00:34:27,480 --> 00:34:29,020
+De nuevos invitados
+
+717
+00:34:29,020 --> 00:34:30,540
+Por parte de los invitados
+
+718
+00:34:30,540 --> 00:34:31,760
+En curso
+
+719
+00:34:31,760 --> 00:34:34,740
+Me nombraste a Lina Montoya
+
+720
+00:34:34,740 --> 00:34:35,760
+Que la tengo anotada
+
+721
+00:34:35,760 --> 00:34:37,340
+A Fernando López
+
+722
+00:34:37,340 --> 00:34:41,260
+Que sabe muchísimo de ciencia abierta
+
+723
+00:34:41,260 --> 00:34:42,560
+Y de repositorio
+
+724
+00:34:42,560 --> 00:34:44,300
+En este sentido
+
+725
+00:34:44,300 --> 00:34:46,880
+Te quería preguntar si te gustaría sumar a alguien más
+
+726
+00:34:46,880 --> 00:34:47,940
+¿A quién tengo que invitar?
+
+727
+00:34:48,820 --> 00:34:50,600
+Sabes que vos ya invitaste tanta gente
+
+728
+00:34:50,600 --> 00:34:52,680
+Que no sé si se me ocurre mucha más
+
+729
+00:34:52,680 --> 00:34:54,660
+Podría repetir, no importa
+
+730
+00:34:54,660 --> 00:34:58,440
+Podría repetir, no, algunos todavía no los terminé de escuchar
+
+731
+00:34:58,440 --> 00:35:00,880
+Porque la verdad es que son interesantes
+
+732
+00:35:00,880 --> 00:35:03,420
+Los antropólogos nos gusta escuchar este tipo de entrevistas
+
+733
+00:35:03,420 --> 00:35:07,560
+Porque sacamos cosas que las personas dicen aunque no las quieran decir
+
+734
+00:35:07,560 --> 00:35:09,200
+Que es lo que estoy haciendo yo ahora
+
+735
+00:35:09,200 --> 00:35:13,260
+Pero bueno, me quedo con esos dos especialmente
+
+736
+00:35:13,260 --> 00:35:18,620
+Porque los dos creo que combinan un poco de lo que todavía no vi en este podcast
+
+737
+00:35:18,620 --> 00:35:21,520
+Porque si no sería repetir mucho de alguna manera
+
+738
+00:35:21,520 --> 00:35:23,500
+perfecto, perfecto
+
+739
+00:35:23,500 --> 00:35:26,160
+bueno, muchísimas gracias Vero, un abrazo
+
+740
+00:35:26,160 --> 00:35:27,220
+un abrazo para vos
+

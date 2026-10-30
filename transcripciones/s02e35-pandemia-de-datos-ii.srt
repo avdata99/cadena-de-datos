@@ -1,0 +1,2872 @@
+1
+00:00:00,000 --> 00:00:05,440
+Cadena de datos, episodio número 35, de este lado Andrés Vázquez desde Córdoba en Argentina.
+
+2
+00:00:06,060 --> 00:00:11,020
+Hoy tengo el gusto de que me acompañen Dante Paz, que es astrónomo, investigador de CONICET
+
+3
+00:00:11,020 --> 00:00:14,940
+y docente del Observatorio Astronómico de la Universidad Nacional de Córdoba.
+
+4
+00:00:15,580 --> 00:00:22,800
+También Juan Cabral, es doctor en informática dedicado al análisis de datos, principalmente vinculado a la astronomía.
+
+5
+00:00:22,800 --> 00:00:30,560
+es investigador postdoctoral del CONICET y docente del Colegio Universitario Periodismo de Córdoba.
+
+6
+00:00:30,960 --> 00:00:34,180
+Buenas tardes para los dos y muchas gracias por sumarse, chicos.
+
+7
+00:00:36,470 --> 00:00:37,670
+Hola, ¿qué tal? ¿Cómo va?
+
+8
+00:00:38,570 --> 00:00:46,850
+El motivo principal del episodio de este podcast es porque encontré que desarrollaron ustedes,
+
+9
+00:00:46,850 --> 00:00:53,770
+son parte de un grupo que desarrolló un sistema de soporte para el análisis de los datos de la pandemia de COVID-19
+
+10
+00:00:53,770 --> 00:00:58,170
+en la provincia de Córdoba, y no solamente trabajaron eso, sino que lo liberaron.
+
+11
+00:00:58,270 --> 00:01:03,470
+Así que quería empezarles preguntando cuál fue el problema que se enfrentaron a resolver,
+
+12
+00:01:03,950 --> 00:01:09,870
+qué datos tenían y qué proyectos, qué desarrolló el grupo en el que están ustedes.
+
+13
+00:01:12,600 --> 00:01:13,240
+¿Vas vos, Dante?
+
+14
+00:01:14,080 --> 00:01:16,100
+Vos, Juan, que sos el coordinador.
+
+15
+00:01:17,300 --> 00:01:20,720
+Bueno, dale. Perdón que no tengo el video, pero la conexión no me da.
+
+16
+00:01:20,720 --> 00:01:24,940
+Bueno, resulta que hace más o menos
+
+17
+00:01:24,940 --> 00:01:26,780
+Dos semanas atrás
+
+18
+00:01:26,780 --> 00:01:27,920
+Yo mando un mail
+
+19
+00:01:27,920 --> 00:01:31,520
+Busqué epidemiología a Córdoba
+
+20
+00:01:31,520 --> 00:01:33,140
+Me salió un mail del hospital Rawson
+
+21
+00:01:33,140 --> 00:01:33,780
+Acá en la ciudad
+
+22
+00:01:33,780 --> 00:01:36,740
+Mando un mail diciendo si necesitaban ayuda de algo
+
+23
+00:01:36,740 --> 00:01:37,840
+De lo que sea
+
+24
+00:01:37,840 --> 00:01:40,340
+Y me terminan contactando con una persona
+
+25
+00:01:40,340 --> 00:01:41,920
+Que está encargada de parte de la pandemia
+
+26
+00:01:41,920 --> 00:01:43,700
+Del gobierno, en el ministerio
+
+27
+00:01:43,700 --> 00:01:45,800
+Nos reunimos con esa persona
+
+28
+00:01:45,800 --> 00:01:48,260
+Todavía no estaba tan
+
+29
+00:01:48,260 --> 00:01:50,260
+Debo decir más de dos semanas
+
+30
+00:01:50,260 --> 00:01:54,000
+porque no estaba tan puesta la pandemia como la cuarentena como ahora,
+
+31
+00:01:55,020 --> 00:01:58,360
+y nos muestra que la mayor problemática que tienen ellos a priori
+
+32
+00:01:58,360 --> 00:01:59,400
+es la carga de datos.
+
+33
+00:02:00,620 --> 00:02:02,180
+Nos muestran cómo cargan los datos ellos,
+
+34
+00:02:02,280 --> 00:02:03,860
+que lo cargan a través de una tabla de Excel.
+
+35
+00:02:04,820 --> 00:02:08,900
+Entonces, a mí se me ocurrió armar un proyectito chiquito
+
+36
+00:02:08,900 --> 00:02:10,900
+que lo liberé, está en la página del grupo,
+
+37
+00:02:11,120 --> 00:02:12,820
+que después se supone que lo han puesto a partir.
+
+38
+00:02:12,920 --> 00:02:14,180
+Te interrumpo un segundo.
+
+39
+00:02:14,360 --> 00:02:18,120
+El gobierno nacional no les dio a las provincias un sistema,
+
+40
+00:02:18,120 --> 00:02:20,840
+para esto de unidad especial, digamos que
+
+41
+00:02:20,840 --> 00:02:22,460
+el área
+
+42
+00:02:22,460 --> 00:02:24,560
+bien, bien, el área
+
+43
+00:02:24,560 --> 00:02:26,980
+cada evento que pasaba
+
+44
+00:02:26,980 --> 00:02:28,880
+con algún paciente lo cargaba en una
+
+45
+00:02:28,880 --> 00:02:30,640
+planilla de Excel. No,
+
+46
+00:02:30,800 --> 00:02:32,840
+desconozco si ese es el proceso tradicional
+
+47
+00:02:32,840 --> 00:02:34,820
+pero esa era la forma que tenían de ordenarse
+
+48
+00:02:34,820 --> 00:02:35,540
+para armar
+
+49
+00:02:35,540 --> 00:02:38,720
+los informes diarios
+
+50
+00:02:38,720 --> 00:02:40,640
+que se pasaban entre ellos. Tampoco sé
+
+51
+00:02:40,640 --> 00:02:42,600
+qué tanta injerencia tenía esos datos
+
+52
+00:02:42,600 --> 00:02:44,640
+en los informes diarios que
+
+53
+00:02:44,640 --> 00:02:46,560
+termina emitiendo el gobierno provincial, porque algunas
+
+54
+00:02:46,560 --> 00:02:52,440
+provincias emiten los informes, otras provincias no emiten los informes. Realmente desconozco,
+
+55
+00:02:52,680 --> 00:02:58,700
+simplemente vi un par de ejemplos de cómo se hace, entonces armé un prototipo que lo subí a GitHub,
+
+56
+00:02:58,940 --> 00:03:05,420
+eso está pensado para tratar con datos de los reales, de los pacientes, para ellos, son muchas
+
+57
+00:03:05,420 --> 00:03:10,220
+cosas, digamos, por eso en realidad los datos de eso, propiamente dicho, no es que están disponibles
+
+58
+00:03:10,220 --> 00:03:14,940
+porque no se puede distribuir datos de cuestiones de salud, es una cuestión legal, es para ellos.
+
+59
+00:03:16,560 --> 00:03:21,320
+Paralelo a eso, nosotros dijimos, bueno, si ellos van a empezar a cargar los datos
+
+60
+00:03:21,320 --> 00:03:26,580
+de la provincia, estaría bueno que puedan cruzarlo con otras cosas.
+
+61
+00:03:27,580 --> 00:03:30,420
+Y entonces empezamos a curar los datos de los informes diarios.
+
+62
+00:03:31,500 --> 00:03:34,200
+Lo seguimos haciendo hasta el día de hoy, lo que hacemos,
+
+63
+00:03:35,020 --> 00:03:38,400
+digamos, se encarga más que nada a mi pareja, que ella también está en el grupo,
+
+64
+00:03:39,040 --> 00:03:42,780
+que ella viene del lado de las ciencias económicas y hace un sistema de partida doble
+
+65
+00:03:42,780 --> 00:03:44,680
+para verificar que los datos estén bien cargados.
+
+66
+00:03:44,680 --> 00:03:48,040
+con eso armamos un grupo
+
+67
+00:03:48,040 --> 00:03:50,460
+con los chicos del observatorio y de otros lugares
+
+68
+00:03:50,460 --> 00:03:52,920
+también tenemos de ciencias químicas
+
+69
+00:03:52,920 --> 00:03:54,600
+bueno, de administración
+
+70
+00:03:54,600 --> 00:03:56,980
+hay gente que trabajó en el observatorio
+
+71
+00:03:56,980 --> 00:03:58,400
+pero ahora está trabajando en otros lados
+
+72
+00:03:58,400 --> 00:04:00,040
+que también se sumó
+
+73
+00:04:00,040 --> 00:04:01,700
+y empezamos a encarar
+
+74
+00:04:01,700 --> 00:04:04,600
+toda la problemática
+
+75
+00:04:04,600 --> 00:04:06,040
+de carga y análisis de datos
+
+76
+00:04:06,040 --> 00:04:07,960
+para cerrar el final de la historia
+
+77
+00:04:07,960 --> 00:04:09,220
+justo ese fin de semana
+
+78
+00:04:09,220 --> 00:04:12,360
+hubo un seminario de un profesor
+
+79
+00:04:12,360 --> 00:04:13,640
+de Bogotá
+
+80
+00:04:13,640 --> 00:04:17,640
+que habló de cómo mezclar el modelo epidemiológico,
+
+81
+00:04:17,720 --> 00:04:19,120
+uno de los más populares que hay,
+
+82
+00:04:19,200 --> 00:04:20,900
+de eso te puedo hablar un poco más antes de ese modelo,
+
+83
+00:04:21,980 --> 00:04:23,700
+y con cuestiones económicas.
+
+84
+00:04:23,880 --> 00:04:26,960
+Y ahí es como que ese seminario fue súper introductorio
+
+85
+00:04:26,960 --> 00:04:30,300
+y nos sirvió para meternos en un montón de la problemática
+
+86
+00:04:30,300 --> 00:04:31,800
+de lo que es la epidemiología en general,
+
+87
+00:04:32,320 --> 00:04:34,120
+sin ser expertos en el área ninguno, obviamente.
+
+88
+00:04:36,120 --> 00:04:36,800
+Bien, bien.
+
+89
+00:04:37,100 --> 00:04:41,300
+Dante, ¿cómo fue tu participación ahí en ese comienzo del proyecto?
+
+90
+00:04:42,280 --> 00:04:50,820
+Bueno, los chicos estaban muy abocados al tema de lo que sería la curación de los datos
+
+91
+00:04:50,820 --> 00:04:57,440
+y formar una tabla, digamos, digital con toda la información,
+
+92
+00:04:57,740 --> 00:05:00,420
+porque hasta ese momento era todo muy artesanal,
+
+93
+00:05:00,420 --> 00:05:06,700
+vos bajabas los PDF del gobierno de la nación y era todo como difícil.
+
+94
+00:05:08,000 --> 00:05:10,840
+Entonces cuando los datos empezaron a estar disponibles,
+
+95
+00:05:11,300 --> 00:05:14,760
+y uno ya podía empezar a hacer plots,
+
+96
+00:05:15,140 --> 00:05:17,800
+de hecho en Twitter hubo como una explosión de gente
+
+97
+00:05:17,800 --> 00:05:20,080
+que empezaba a analizar los datos,
+
+98
+00:05:20,220 --> 00:05:21,840
+y se veía el crecimiento exponencial,
+
+99
+00:05:22,780 --> 00:05:25,160
+y bueno, y se empezó a hablar también del tema
+
+100
+00:05:25,160 --> 00:05:26,660
+de que hacía falta una cuarentena.
+
+101
+00:05:28,620 --> 00:05:31,020
+Nosotros, bueno, ya habíamos estado viendo este tema
+
+102
+00:05:31,020 --> 00:05:32,820
+de cómo se modelaban las cuarentenas,
+
+103
+00:05:32,820 --> 00:05:36,600
+y un poco a mí siempre, por mi trabajo,
+
+104
+00:05:38,020 --> 00:05:40,520
+siempre me gustó, o en realidad trabajo,
+
+105
+00:05:40,520 --> 00:05:42,660
+en ajustar modelos a datos
+
+106
+00:05:42,660 --> 00:05:44,540
+entonces dije
+
+107
+00:05:44,540 --> 00:05:46,120
+bueno, me voy a meter con este modelo
+
+108
+00:05:46,120 --> 00:05:48,860
+y encontré
+
+109
+00:05:48,860 --> 00:05:53,320
+buscando modelos
+
+110
+00:05:53,320 --> 00:05:54,700
+porque dije, bueno, no me voy a poner
+
+111
+00:05:54,700 --> 00:05:56,380
+a implementar un modelo epidemiológico
+
+112
+00:05:56,380 --> 00:05:58,620
+desde el libro, si ya debe estar
+
+113
+00:05:58,620 --> 00:06:00,400
+hecho, entonces busqué
+
+114
+00:06:00,400 --> 00:06:01,400
+había muchas
+
+115
+00:06:01,400 --> 00:06:03,100
+opciones
+
+116
+00:06:03,100 --> 00:06:06,500
+de software libre, gente que había
+
+117
+00:06:06,500 --> 00:06:08,640
+puesto en repositorio diferentes modelos
+
+118
+00:06:08,640 --> 00:06:10,040
+y encontré
+
+119
+00:06:10,040 --> 00:06:11,980
+una persona en Estados Unidos
+
+120
+00:06:11,980 --> 00:06:13,740
+el doctor Gabriel Go
+
+121
+00:06:13,740 --> 00:06:15,760
+que había implementado un
+
+122
+00:06:15,760 --> 00:06:18,060
+modelo que lo que me pareció
+
+123
+00:06:18,060 --> 00:06:19,940
+que tenía interesante era que el modelo
+
+124
+00:06:19,940 --> 00:06:21,200
+era en Javascript
+
+125
+00:06:21,200 --> 00:06:22,480
+y
+
+126
+00:06:22,480 --> 00:06:25,840
+daba resultados confiables
+
+127
+00:06:25,840 --> 00:06:27,820
+y tenía una
+
+128
+00:06:27,820 --> 00:06:29,300
+interfase web, entonces
+
+129
+00:06:29,300 --> 00:06:31,640
+dije bueno, esto es
+
+130
+00:06:31,640 --> 00:06:33,020
+quizás lo que
+
+131
+00:06:33,020 --> 00:06:35,000
+puede funcionar porque
+
+132
+00:06:35,000 --> 00:06:37,400
+mientras tanto teníamos
+
+133
+00:06:37,400 --> 00:06:38,980
+las interacciones con Juan y
+
+134
+00:06:38,980 --> 00:06:44,280
+y Juan estaba abocado al tema de la carga de datos para la provincia,
+
+135
+00:06:44,280 --> 00:06:48,440
+y habíamos estado hablando de cómo ellos generaban los informes.
+
+136
+00:06:49,380 --> 00:06:52,900
+Entonces dijimos, bueno, quizás a ellos les sirve tener un modelo
+
+137
+00:06:52,900 --> 00:06:57,080
+que ellos puedan manipular fácilmente con conocimientos,
+
+138
+00:06:57,580 --> 00:07:02,220
+sí con conocimientos de salud, porque el modelo es complejo,
+
+139
+00:07:02,340 --> 00:07:07,080
+tiene muchos parámetros, o sea, estaba orientado a ellos, digamos,
+
+140
+00:07:07,080 --> 00:07:09,820
+en el Ministerio de Salud, pero sin conocimiento
+
+141
+00:07:09,820 --> 00:07:12,400
+de programación, porque si yo le entregaba
+
+142
+00:07:12,400 --> 00:07:15,240
+no sé, un paquete en Python
+
+143
+00:07:15,240 --> 00:07:19,080
+era imposible. Ese es un segundo
+
+144
+00:07:19,080 --> 00:07:21,200
+repositorio de GitHub, que es la calculadora
+
+145
+00:07:21,200 --> 00:07:24,820
+epidemiológica, la estuve viendo, me pareció
+
+146
+00:07:24,820 --> 00:07:27,740
+muy intuitiva, muy fácil de usar
+
+147
+00:07:27,740 --> 00:07:30,880
+sin entender nada de epidemiología. ¿Están conectados
+
+148
+00:07:30,880 --> 00:07:33,880
+los datos que se cargan a diario con el
+
+149
+00:07:33,880 --> 00:07:35,280
+modelo que vos podés generar?
+
+150
+00:07:36,280 --> 00:07:37,220
+Sí, sí, exactamente.
+
+151
+00:07:38,480 --> 00:07:39,880
+Lo que pasó
+
+152
+00:07:39,880 --> 00:07:41,700
+fue, bueno, cuando tomé
+
+153
+00:07:41,700 --> 00:07:43,920
+esa calculadora había que hacerle
+
+154
+00:07:43,920 --> 00:07:45,620
+varias modificaciones, porque
+
+155
+00:07:45,620 --> 00:07:47,800
+por empezar modelaba
+
+156
+00:07:47,800 --> 00:07:49,320
+la epidemia, pero
+
+157
+00:07:49,320 --> 00:07:52,240
+también permitía
+
+158
+00:07:52,240 --> 00:07:53,700
+una intervención,
+
+159
+00:07:54,120 --> 00:07:55,780
+digamos, ¿no? Un momento en que
+
+160
+00:07:55,780 --> 00:07:58,000
+uno interviene en la epidemia y puede producir, por ejemplo,
+
+161
+00:07:58,060 --> 00:07:59,620
+una cuarentena o alguna medida.
+
+162
+00:08:00,540 --> 00:08:01,460
+Entonces, bueno,
+
+163
+00:08:01,720 --> 00:08:03,720
+ahí dije, bueno, lo primero que, como
+
+164
+00:08:03,720 --> 00:08:09,580
+se acababa de declarar la cuarentena, a nivel nacional dije, bueno, hay que tratar de modelar
+
+165
+00:08:09,580 --> 00:08:15,260
+la duración de la cuarentena para poder producir escenarios y decidir si hay que salir de la
+
+166
+00:08:15,260 --> 00:08:19,340
+cuarentena, en qué momento hay que salir de la cuarentena y qué es lo que va a pasar luego de la
+
+167
+00:08:19,340 --> 00:08:27,860
+cuarentena. Pero la calculadora en sí misma no tenía datos, entonces como Juan ya había desarrollado
+
+168
+00:08:27,860 --> 00:08:29,540
+mucho la otra parte
+
+169
+00:08:29,540 --> 00:08:31,720
+y él
+
+170
+00:08:31,720 --> 00:08:33,860
+había producido una tabla digital
+
+171
+00:08:33,860 --> 00:08:35,600
+ya curada que se actualizaba
+
+172
+00:08:35,600 --> 00:08:37,560
+diariamente cada vez que la nación daba
+
+173
+00:08:37,560 --> 00:08:38,200
+las partes
+
+174
+00:08:38,200 --> 00:08:41,320
+daba la información, entonces
+
+175
+00:08:41,320 --> 00:08:43,760
+incluimos los datos
+
+176
+00:08:43,760 --> 00:08:45,440
+en la calculadora, entonces
+
+177
+00:08:45,440 --> 00:08:47,620
+lo que hacemos, el trabajo que hacemos todos los días
+
+178
+00:08:47,620 --> 00:08:49,500
+es, yo tengo una
+
+179
+00:08:49,500 --> 00:08:51,280
+implementación idéntica
+
+180
+00:08:51,280 --> 00:08:52,960
+de la calculadora
+
+181
+00:08:52,960 --> 00:08:54,920
+en otro lenguaje que me permite
+
+182
+00:08:54,920 --> 00:08:56,600
+ajuste de parámetros
+
+183
+00:08:56,600 --> 00:08:59,080
+y más análisis.
+
+184
+00:08:59,660 --> 00:09:01,380
+Y yo voy actualizando el modelo
+
+185
+00:09:01,380 --> 00:09:03,660
+y voy ajustando los datos que el gobierno da
+
+186
+00:09:03,660 --> 00:09:09,480
+y la calculadora ofrece esos parámetros al inicio.
+
+187
+00:09:10,480 --> 00:09:13,260
+Y la idea que sirva para generar escenarios
+
+188
+00:09:13,260 --> 00:09:15,760
+a cualquier autoridad o cualquier persona
+
+189
+00:09:15,760 --> 00:09:17,720
+que dice, bueno, a ver,
+
+190
+00:09:17,720 --> 00:09:20,220
+este modelo ajusta los parámetros.
+
+191
+00:09:20,880 --> 00:09:23,020
+Pero ¿qué pasa si en realidad
+
+192
+00:09:23,020 --> 00:09:25,540
+yo cambio tal parámetro o cambio tal otro?
+
+193
+00:09:26,220 --> 00:09:27,960
+¿Cómo se modifica la curva?
+
+194
+00:09:29,620 --> 00:09:33,700
+Es una manera de extrapolar esos datos, ¿me entendés?
+
+195
+00:09:34,000 --> 00:09:34,560
+Perfecto.
+
+196
+00:09:34,980 --> 00:09:36,220
+Ese fue el objetivo.
+
+197
+00:09:36,680 --> 00:09:37,680
+Muy interesante.
+
+198
+00:09:37,940 --> 00:09:42,580
+¿Esto lo está usando ya actualmente, además de para la carga de datos,
+
+199
+00:09:42,580 --> 00:09:47,040
+para ver estos modelos, el equipo de salud de la provincia de Córdoba
+
+200
+00:09:47,040 --> 00:09:49,280
+lo mira todos los días, lo está usando?
+
+201
+00:09:50,260 --> 00:09:55,260
+Mira, yo no estoy al tanto de eso porque, como bien te explicaba Juan,
+
+202
+00:09:55,260 --> 00:10:06,020
+nosotros estamos en realidad medio aparte, pero en un momento conseguimos que nos invitaran a reuniones
+
+203
+00:10:06,020 --> 00:10:16,860
+de los comités de crisis y todo eso, y ahí me enteré, me conecté con una persona que trabaja en el comité de respuesta
+
+204
+00:10:16,860 --> 00:10:24,780
+ante emergencias de la CONAE, y ellos mismos habían estado trabajando exactamente en el mismo proyecto
+
+205
+00:10:24,780 --> 00:10:26,980
+que yo, o sea, habían tomado
+
+206
+00:10:26,980 --> 00:10:28,740
+el proyecto de
+
+207
+00:10:28,740 --> 00:10:30,820
+Gable Go, y ellos
+
+208
+00:10:30,820 --> 00:10:32,640
+le habían agregado un par de facilidades
+
+209
+00:10:32,640 --> 00:10:34,680
+como descarga de datos
+
+210
+00:10:34,680 --> 00:10:36,800
+y comparación
+
+211
+00:10:36,800 --> 00:10:38,900
+con países,
+
+212
+00:10:39,680 --> 00:10:40,560
+cosas que le habían pedido
+
+213
+00:10:40,560 --> 00:10:42,060
+en el ministerio, ¿no es cierto?
+
+214
+00:10:42,600 --> 00:10:44,440
+Y habían mejorado un poco la interfase.
+
+215
+00:10:45,720 --> 00:10:46,280
+Pero,
+
+216
+00:10:46,800 --> 00:10:47,360
+¿cómo?
+
+217
+00:10:49,640 --> 00:10:50,560
+No, no, no,
+
+218
+00:10:50,560 --> 00:10:52,700
+y ellos como que tenían
+
+219
+00:10:52,700 --> 00:10:53,780
+digamos
+
+220
+00:10:53,780 --> 00:10:56,020
+les gustó
+
+221
+00:10:56,020 --> 00:10:58,100
+el modelado
+
+222
+00:10:58,100 --> 00:10:59,760
+que nosotros hacíamos de la cuarentena
+
+223
+00:10:59,760 --> 00:11:02,260
+y cómo habíamos cambiado
+
+224
+00:11:02,260 --> 00:11:04,080
+lo habíamos puesto en un
+
+225
+00:11:04,080 --> 00:11:05,880
+servidor web disponible para
+
+226
+00:11:05,880 --> 00:11:07,180
+todo el mundo, entonces me dijo
+
+227
+00:11:07,180 --> 00:11:09,820
+Mario me dijo, bueno eso está muy bueno
+
+228
+00:11:09,820 --> 00:11:11,860
+me parece que podríamos fusionar los dos
+
+229
+00:11:11,860 --> 00:11:13,980
+proyectos, y ahí empezamos a trabajar juntos
+
+230
+00:11:13,980 --> 00:11:15,920
+entonces
+
+231
+00:11:15,920 --> 00:11:17,140
+actualmente
+
+232
+00:11:17,140 --> 00:11:19,460
+la gente tiene
+
+233
+00:11:19,460 --> 00:11:21,000
+la versión
+
+234
+00:11:21,000 --> 00:11:22,360
+que
+
+235
+00:11:22,360 --> 00:11:27,560
+que Mario Lanfi, la gente de Konae, desarrolló.
+
+236
+00:11:29,560 --> 00:11:34,560
+También hay un desarrollador en Konae,
+
+237
+00:11:35,300 --> 00:11:37,140
+que es, estoy buscando el nombre acá,
+
+238
+00:11:37,400 --> 00:11:38,280
+Ezequiel Aguirre.
+
+239
+00:11:38,820 --> 00:11:40,280
+Bueno, yo no me contacté con él,
+
+240
+00:11:40,400 --> 00:11:42,480
+pero Ezequiel trabaja con Mario
+
+241
+00:11:42,480 --> 00:11:44,780
+y él esquisó muchas partes del código.
+
+242
+00:11:45,620 --> 00:11:47,940
+Entonces yo, bueno, ya la versión nueva
+
+243
+00:11:47,940 --> 00:11:49,900
+fusiona varias
+
+244
+00:11:49,900 --> 00:11:52,200
+de las
+
+245
+00:11:52,200 --> 00:11:54,040
+mejoras
+
+246
+00:11:54,040 --> 00:11:55,760
+que hizo la gente con AE
+
+247
+00:11:55,760 --> 00:11:58,140
+con las mejoras que hicimos nosotros
+
+248
+00:11:58,140 --> 00:11:59,940
+y ahora tenemos el producto unificado
+
+249
+00:11:59,940 --> 00:12:00,340
+digamos
+
+250
+00:12:00,340 --> 00:12:03,500
+que bueno
+
+251
+00:12:03,500 --> 00:12:05,680
+que hayan conseguido integrar esas cosas
+
+252
+00:12:05,680 --> 00:12:07,900
+si, si, y ahora bueno
+
+253
+00:12:07,900 --> 00:12:08,620
+la idea es que
+
+254
+00:12:08,620 --> 00:12:11,600
+en el comité de crisis
+
+255
+00:12:11,600 --> 00:12:13,400
+se empiece a utilizar
+
+256
+00:12:13,400 --> 00:12:14,620
+esta calculadora
+
+257
+00:12:14,620 --> 00:12:17,780
+bien, y ustedes dos
+
+258
+00:12:17,780 --> 00:12:19,680
+están cercanos
+
+259
+00:12:19,680 --> 00:12:21,520
+al mundo de la astronomía
+
+260
+00:12:21,520 --> 00:12:23,460
+y por lo que me decís, también participó
+
+261
+00:12:23,460 --> 00:12:25,600
+gente de CONAE, ninguno
+
+262
+00:12:25,600 --> 00:12:27,640
+por lo menos hasta estas partes que vemos
+
+263
+00:12:27,640 --> 00:12:29,160
+no son personas dedicadas
+
+264
+00:12:29,160 --> 00:12:31,460
+a temas de salud
+
+265
+00:12:31,460 --> 00:12:33,440
+si bien lo usan, ¿ustedes tienen alguna
+
+266
+00:12:33,440 --> 00:12:35,480
+explicación para eso? ¿Por qué los astrónomos
+
+267
+00:12:35,480 --> 00:12:37,240
+tomaron la apuesta de esto?
+
+268
+00:12:39,700 --> 00:12:40,980
+Qué pregunta difícil
+
+269
+00:12:40,980 --> 00:12:42,540
+La verdad
+
+270
+00:12:42,540 --> 00:12:45,580
+porque nos divierte y nos gusta
+
+271
+00:12:45,580 --> 00:12:47,460
+hacer estas cosas, digamos, vimos el problema
+
+272
+00:12:47,460 --> 00:12:52,460
+y, digamos, dando vuelta por LinkedIn hay una frase que dice
+
+273
+00:12:52,460 --> 00:12:55,140
+no desaproveches una buena crisis.
+
+274
+00:12:56,840 --> 00:13:00,260
+Porque, digamos, vos pensás en la situación actual.
+
+275
+00:13:00,920 --> 00:13:03,600
+No es que el gobierno libera cuenta gota los datos.
+
+276
+00:13:04,220 --> 00:13:07,180
+No hay datos sobre la pandemia. Esto es tremendamente nuevo.
+
+277
+00:13:07,280 --> 00:13:12,240
+Nosotros tenemos el primer infectado el 31 de diciembre del año pasado.
+
+278
+00:13:12,240 --> 00:13:14,240
+Ese es el día cero de la pandemia.
+
+279
+00:13:15,200 --> 00:13:17,140
+No hay absolutamente nada de datos.
+
+280
+00:13:17,460 --> 00:13:20,700
+y hay un montón de enfoques para encarar el problema,
+
+281
+00:13:21,500 --> 00:13:24,060
+que a priori para mucha gente lo primero que se le viene a la cabeza
+
+282
+00:13:24,060 --> 00:13:28,720
+es que es un problema epidemiológico, biológico, o un problema clínico.
+
+283
+00:13:29,160 --> 00:13:32,940
+Y si bien es un problema de índole de salud pública,
+
+284
+00:13:33,400 --> 00:13:36,320
+el problema fundamental que tiene esta pandemia es el problema logístico.
+
+285
+00:13:36,940 --> 00:13:41,840
+El tratar de organizar lo que tenemos para brindar soporte a una,
+
+286
+00:13:41,840 --> 00:13:45,900
+¿cómo se llama?, una generación de enfermos muy superior
+
+287
+00:13:45,900 --> 00:13:48,340
+de lo que puede soportar cualquier sistema de salud del mundo.
+
+288
+00:13:48,460 --> 00:13:50,360
+No es que estamos en primero, segundo o tercer mundo.
+
+289
+00:13:50,780 --> 00:13:53,660
+Realmente están todos, pueden colapsar en cualquier momento.
+
+290
+00:13:54,500 --> 00:13:56,720
+Y este es un problema que en la literatura se conoce,
+
+291
+00:13:56,800 --> 00:14:00,120
+la parte de logística se llama como supply chain,
+
+292
+00:14:00,280 --> 00:14:01,600
+el de cadena de abastecimiento.
+
+293
+00:14:01,760 --> 00:14:03,460
+Ese es el problema fundamental que hay.
+
+294
+00:14:04,140 --> 00:14:07,720
+El tratar de decidir cómo ordenar lo que tenemos para solucionar el problema.
+
+295
+00:14:08,720 --> 00:14:12,700
+Y la gente de salud a priori está preocupada en otras cosas
+
+296
+00:14:12,700 --> 00:14:14,440
+que son tremendamente importantes, digamos.
+
+297
+00:14:14,440 --> 00:14:17,700
+como ellos están viendo, de salvar vidas, esencialmente,
+
+298
+00:14:18,220 --> 00:14:19,320
+y por ahí ver datos,
+
+299
+00:14:19,820 --> 00:14:22,280
+en el nivel de urgencia que estamos manejando,
+
+300
+00:14:22,400 --> 00:14:24,600
+realmente el nivel de urgencia que estamos manejando,
+
+301
+00:14:25,400 --> 00:14:27,540
+es tremendamente complicado,
+
+302
+00:14:27,700 --> 00:14:29,920
+porque uno va a pedir datos de ese estilo,
+
+303
+00:14:30,040 --> 00:14:32,400
+y la gente está realmente ocupada en otra cosa.
+
+304
+00:14:32,640 --> 00:14:34,060
+No es que no está haciendo nada.
+
+305
+00:14:36,400 --> 00:14:36,920
+Perfecto.
+
+306
+00:14:39,280 --> 00:14:41,220
+Quería agregar una cosa, André.
+
+307
+00:14:41,220 --> 00:14:49,040
+Perdóname que te interrumpí. También lo otro, viste, que esta pandemia, digamos,
+
+308
+00:14:50,000 --> 00:14:57,980
+el hecho que le quita muchas herramientas a los mecanismos, digamos, de los gobiernos,
+
+309
+00:14:57,980 --> 00:15:12,500
+porque por empezar, no tenés vacuna, eso te evita, te prohíbe aumentar el nivel de inmunidad de la población
+
+310
+00:15:12,500 --> 00:15:17,560
+y al mismo tiempo es súper contagiosa, es una de las cosas más contagiosas que ha habido.
+
+311
+00:15:18,440 --> 00:15:24,200
+Entonces, digamos, lo que han ensayado en China,
+
+312
+00:15:24,340 --> 00:15:30,360
+y eso es lo que ha un poco despertado el bicho de meternos en todas estas cosas,
+
+313
+00:15:30,360 --> 00:15:36,420
+es que China realmente ha controlado esta crisis de una manera impresionante.
+
+314
+00:15:37,240 --> 00:15:39,860
+A ver, digo, lo hicieron muy mal al principio, ¿no?
+
+315
+00:15:39,980 --> 00:15:43,200
+O sea, ellos dejaron escapar la situación,
+
+316
+00:15:43,200 --> 00:15:48,680
+y cuando se dieron cuenta tenían una crisis enorme en una gran ciudad, ¿no es cierto?
+
+317
+00:15:49,480 --> 00:15:53,860
+Pero luego la manera en la que se tomó el control de la situación
+
+318
+00:15:53,860 --> 00:15:57,640
+fue básicamente porque explotaron todas las tecnologías
+
+319
+00:15:57,640 --> 00:16:01,560
+que se están desarrollando desde hace tiempo, en este siglo,
+
+320
+00:16:02,360 --> 00:16:04,780
+que son tecnologías de la información, ¿no es cierto?
+
+321
+00:16:04,780 --> 00:16:14,300
+Entonces, como que nosotros cuando leíamos las noticias y nos fijamos
+
+322
+00:16:14,300 --> 00:16:18,760
+las cosas que estaban pasando en China, cuando empezó a ocurrir acá en Argentina
+
+323
+00:16:18,760 --> 00:16:24,580
+nos dimos cuenta de que esto iba a pasar tanto por el sector de salud
+
+324
+00:16:24,580 --> 00:16:28,880
+como por el sector de las tecnologías de la información, de la minería de los datos,
+
+325
+00:16:29,020 --> 00:16:32,320
+del análisis de los datos, de la proyección de modelos,
+
+326
+00:16:32,320 --> 00:16:36,360
+Y que los modelos no podían ser los modelos sencillos, simples,
+
+327
+00:16:36,480 --> 00:16:39,140
+que se venían o que se podían utilizar.
+
+328
+00:16:39,340 --> 00:16:46,500
+Tenían que ser los más precisos, los más sofisticados posibles
+
+329
+00:16:46,500 --> 00:16:51,720
+para poder resolver el problema de logística que Juan te decía.
+
+330
+00:16:51,720 --> 00:16:56,480
+El decir cuántas camas hay, cuántos respiradores hay,
+
+331
+00:16:56,660 --> 00:16:58,960
+cómo distribuir esos recursos.
+
+332
+00:16:58,960 --> 00:17:07,140
+Entonces, por eso, como nosotros en astronomía trabajamos con minería de datos
+
+333
+00:17:07,140 --> 00:17:13,420
+y con modelos complejos, dijimos, bueno, es una responsabilidad que tenemos
+
+334
+00:17:13,420 --> 00:17:18,420
+de llevar ese conocimiento que tenemos a algo práctico.
+
+335
+00:17:18,560 --> 00:17:23,460
+O sea, la astronomía puede esperar, la astronomía no le va a pasar nada.
+
+336
+00:17:23,480 --> 00:17:25,960
+Las estrellas van a seguir ahí, no se van a ir ahí.
+
+337
+00:17:25,960 --> 00:17:29,380
+Bien, bien, yo le agradezco
+
+338
+00:17:29,380 --> 00:17:30,640
+Que haya tomado esta iniciativa
+
+339
+00:17:30,640 --> 00:17:31,920
+Les pregunto
+
+340
+00:17:31,920 --> 00:17:34,480
+Para ustedes quizás sea súper común
+
+341
+00:17:34,480 --> 00:17:36,080
+Pero no es nada común
+
+342
+00:17:36,080 --> 00:17:39,400
+Que proyectos vinculados al sector público
+
+343
+00:17:39,400 --> 00:17:40,940
+Sean software libre
+
+344
+00:17:40,940 --> 00:17:43,800
+Y inviten a otros
+
+345
+00:17:43,800 --> 00:17:44,640
+A reutilizar
+
+346
+00:17:44,640 --> 00:17:45,940
+¿Cómo tomaron esa decisión?
+
+347
+00:17:46,300 --> 00:17:47,580
+¿La provincia se lo pidió?
+
+348
+00:17:47,800 --> 00:17:49,840
+¿Ustedes lo hicieron sin preguntar?
+
+349
+00:17:50,440 --> 00:17:51,720
+¿Cómo fue? ¿Lo abrieron y ya?
+
+350
+00:17:51,880 --> 00:17:53,140
+¿O hubo una conversación?
+
+351
+00:17:53,140 --> 00:17:56,400
+perdoná que discrepe un poco
+
+352
+00:17:56,400 --> 00:17:58,820
+en realidad las cuestiones de salud
+
+353
+00:17:58,820 --> 00:18:01,140
+son las muy difíciles de que libere el gobierno
+
+354
+00:18:01,140 --> 00:18:03,220
+pero si vos te fijás
+
+355
+00:18:03,220 --> 00:18:04,840
+cualquier proyecto que sale
+
+356
+00:18:04,840 --> 00:18:06,980
+con ICET y que sea para generar cualquier
+
+357
+00:18:06,980 --> 00:18:08,480
+paper, casi siempre está disponible
+
+358
+00:18:08,480 --> 00:18:10,940
+y eso también es gobierno, eso también es
+
+359
+00:18:10,940 --> 00:18:11,680
+fondo público
+
+360
+00:18:11,680 --> 00:18:16,480
+nosotros lo que hicimos fue herramientas
+
+361
+00:18:16,480 --> 00:18:18,860
+con la esperanza de generar el suficiente
+
+362
+00:18:18,860 --> 00:18:20,800
+ruido
+
+363
+00:18:20,800 --> 00:18:22,940
+por un lado, o sea, hacer bombo
+
+364
+00:18:22,940 --> 00:18:24,900
+esencialmente, para que alguien le preste
+
+365
+00:18:24,900 --> 00:18:27,140
+atención. Nuestra filosofía
+
+366
+00:18:27,140 --> 00:18:28,940
+fue tratar de hacer algo práctico
+
+367
+00:18:28,940 --> 00:18:30,620
+para dárselo a la gente.
+
+368
+00:18:31,200 --> 00:18:33,020
+Hoy, por ejemplo, tuvimos un feedback que nos
+
+369
+00:18:33,020 --> 00:18:35,240
+dijeron algo que es cierto. Todos los modelos
+
+370
+00:18:35,240 --> 00:18:37,100
+son súper interesantes
+
+371
+00:18:37,100 --> 00:18:38,760
+pero tienen demasiados parámetros.
+
+372
+00:18:39,060 --> 00:18:41,040
+Y a una persona que está preocupada por la parte
+
+373
+00:18:41,040 --> 00:18:42,920
+de decisión, no le puedes dar que ajuste
+
+374
+00:18:42,920 --> 00:18:44,880
+20 parámetros. Tenés que encontrar
+
+375
+00:18:44,880 --> 00:18:47,200
+la forma de achicarlo. Y eso es cierto.
+
+376
+00:18:47,840 --> 00:18:48,680
+Hay una teoría
+
+377
+00:18:48,680 --> 00:18:50,520
+de la decisión que la ve
+
+378
+00:18:50,520 --> 00:18:53,180
+Kahneman y Tversky, que es un Nobel, lo que te voy a decir,
+
+379
+00:18:53,680 --> 00:18:55,620
+es que te dice que las personas pueden mantener en la cabeza
+
+380
+00:18:55,620 --> 00:18:56,520
+siete parámetros.
+
+381
+00:18:57,720 --> 00:18:59,540
+O sea, eso es el tope que vos podés tomar,
+
+382
+00:18:59,640 --> 00:19:02,460
+manejar para la decisión.
+
+383
+00:19:02,600 --> 00:19:05,520
+Después no podés, digamos, directamente.
+
+384
+00:19:06,420 --> 00:19:09,000
+Vos me decías que para vos es súper común,
+
+385
+00:19:09,000 --> 00:19:12,840
+pero la provincia de Córdoba no tiene un repositorio
+
+386
+00:19:12,840 --> 00:19:15,760
+de software libre.
+
+387
+00:19:16,180 --> 00:19:19,620
+O sea, ustedes subieron esto en cuentas personales
+
+388
+00:19:19,620 --> 00:19:20,880
+Porque no hay un lugar
+
+389
+00:19:20,880 --> 00:19:23,020
+Era eso lo que quería
+
+390
+00:19:23,020 --> 00:19:25,820
+Destacar
+
+391
+00:19:25,820 --> 00:19:27,700
+Que ustedes liberaron
+
+392
+00:19:27,700 --> 00:19:29,000
+Una cultura que traemos
+
+393
+00:19:29,000 --> 00:19:31,380
+Del sector científico
+
+394
+00:19:31,380 --> 00:19:31,960
+Quizá por eso
+
+395
+00:19:31,960 --> 00:19:35,120
+En el CONICET nosotros cuando publicamos
+
+396
+00:19:35,120 --> 00:19:36,860
+Paper y desarrollamos software
+
+397
+00:19:36,860 --> 00:19:39,360
+Siempre lo tendemos
+
+398
+00:19:39,360 --> 00:19:40,140
+A liberar
+
+399
+00:19:40,140 --> 00:19:44,520
+Una carga nuestra
+
+400
+00:19:44,520 --> 00:19:45,000
+Por eso
+
+401
+00:19:45,000 --> 00:19:46,800
+Ni pedimos permiso
+
+402
+00:19:46,800 --> 00:19:48,080
+Lo primero que hicimos fue decir
+
+403
+00:19:48,080 --> 00:19:49,580
+bueno, vamos a desarrollar el producto
+
+404
+00:19:49,580 --> 00:19:51,840
+y lo vamos a poner libre, eso
+
+405
+00:19:51,840 --> 00:19:56,440
+Para ustedes es súper natural
+
+406
+00:19:56,440 --> 00:19:58,500
+y yo, que soy un poco de la comunidad
+
+407
+00:19:58,500 --> 00:20:00,380
+sobre el libre, para mí también, pero
+
+408
+00:20:00,380 --> 00:20:02,560
+creo que es importante decirlo porque posiblemente
+
+409
+00:20:02,560 --> 00:20:04,280
+nos escuche alguien de otra provincia
+
+410
+00:20:04,280 --> 00:20:06,640
+que esté trabajando en algo con un equipo
+
+411
+00:20:06,640 --> 00:20:08,620
+de informática de su provincia y lo más
+
+412
+00:20:08,620 --> 00:20:10,560
+probable es que sea cerrado. Otros
+
+413
+00:20:10,560 --> 00:20:12,560
+distritos como Ciudad Autónoma de Buenos Aires
+
+414
+00:20:12,560 --> 00:20:14,620
+Provincia de Buenos Aires, ¿escucharon
+
+415
+00:20:14,620 --> 00:20:15,860
+de casos similares
+
+416
+00:20:15,860 --> 00:20:20,500
+que estén manejando esto de esta forma abierta?
+
+417
+00:20:20,620 --> 00:20:22,760
+Porque yo no lo escuché, pero quizás existen.
+
+418
+00:20:22,760 --> 00:20:25,100
+Sí, hay iniciativas de otros lados.
+
+419
+00:20:25,640 --> 00:20:27,040
+No me acuerdo ahora en particular,
+
+420
+00:20:27,180 --> 00:20:29,500
+pero hay iniciativas de gente que está tratando de trabajar.
+
+421
+00:20:30,200 --> 00:20:32,540
+Más allá de eso, la comunidad en general
+
+422
+00:20:32,540 --> 00:20:34,680
+está bastante desorganizada,
+
+423
+00:20:35,000 --> 00:20:36,020
+eso es un hecho también.
+
+424
+00:20:36,800 --> 00:20:39,460
+Digamos, cada uno está haciendo como por su lado
+
+425
+00:20:39,460 --> 00:20:41,120
+y no hay un hilo conductor.
+
+426
+00:20:41,120 --> 00:20:47,640
+pero es particularmente, digamos, ese poco de anarquía es algo también clásico
+
+427
+00:20:47,640 --> 00:20:49,740
+en el software libre, tampoco está mal, de todas formas.
+
+428
+00:20:51,080 --> 00:20:55,120
+Yo creo que, digamos, el tema de esto de cómo trabaja el gobierno
+
+429
+00:20:55,120 --> 00:21:00,060
+con estos temas en particular, yo voy a seguirme simplemente a la situación de crisis,
+
+430
+00:21:00,200 --> 00:21:03,140
+porque estamos en una crisis humanitaria directamente, digamos,
+
+431
+00:21:03,240 --> 00:21:06,440
+o sea, acá lo que se quiere tratar de salvar vidas directamente.
+
+432
+00:21:07,320 --> 00:21:13,500
+Entonces, por ahí, digamos, ni siquiera se llega a la discusión de esto tiene que ser libre o no.
+
+433
+00:21:13,740 --> 00:21:14,540
+El problema es otro.
+
+434
+00:21:15,180 --> 00:21:16,740
+Realmente estamos a otro nivel.
+
+435
+00:21:16,740 --> 00:21:21,740
+O sea, el pensar en software libre en este momento, con esto en particular.
+
+436
+00:21:21,900 --> 00:21:25,700
+O sea, si la gente hace algo y libera software, bienvenido sea y puede ser tremendamente útil.
+
+437
+00:21:25,800 --> 00:21:26,640
+No estoy diciendo que no.
+
+438
+00:21:27,400 --> 00:21:33,100
+Pero, digamos, el ver por qué los gobiernos ahora no van a liberarlos
+
+439
+00:21:33,100 --> 00:21:36,340
+es porque están en otra cosa, están en absolutamente otra cosa.
+
+440
+00:21:36,440 --> 00:21:45,040
+De hecho, estamos en una situación tan atípica como que todo el arco político, absolutamente todo el arco político, citando a Mario Negri, dijo, no estamos en el momento de críticas.
+
+441
+00:21:46,180 --> 00:22:00,200
+Y, o sea, estamos en esas situaciones. Realmente está todo a punto de prenderse fuego y están tratando de solucionar que no pase lo peor, esencialmente, pero se están preparando para lo peor, como dijo hoy, no me acuerdo, tiene una nota del día a día.
+
+442
+00:22:00,200 --> 00:22:04,460
+Perfecto, y de parte de ustedes entonces hay una invitación abierta
+
+443
+00:22:04,460 --> 00:22:07,500
+por si cualquier equipo de cualquier otra provincia
+
+444
+00:22:07,500 --> 00:22:08,660
+quiere implementar esto
+
+445
+00:22:08,660 --> 00:22:13,080
+yo igual en las notas del episodio voy a agregar los links a los repositorios
+
+446
+00:22:13,080 --> 00:22:16,500
+y alguna forma de conexión con usted
+
+447
+00:22:16,500 --> 00:22:19,520
+pero la invitación está abierta, cualquier provincia que quiera
+
+448
+00:22:19,520 --> 00:22:22,300
+comparar lo que tiene con esto o empezar a usar esto
+
+449
+00:22:22,300 --> 00:22:23,240
+está abierto
+
+450
+00:22:23,240 --> 00:22:25,160
+Sí, por supuesto
+
+451
+00:22:25,160 --> 00:22:29,860
+Bien, y más allá de lo que mencionaban antes
+
+452
+00:22:29,860 --> 00:22:32,960
+y que los datos de salud nunca son abiertos,
+
+453
+00:22:33,620 --> 00:22:36,280
+¿hay alguna versión recortada, anonimizada,
+
+454
+00:22:36,360 --> 00:22:37,660
+de los datos que ustedes manejan
+
+455
+00:22:37,660 --> 00:22:39,860
+que la comunidad científica puede usar
+
+456
+00:22:39,860 --> 00:22:41,140
+para investigar desde afuera?
+
+457
+00:22:41,140 --> 00:22:43,420
+¿O eso no?
+
+458
+00:22:44,720 --> 00:22:47,720
+Claro, nosotros, el problema que tenemos
+
+459
+00:22:47,720 --> 00:22:50,000
+es que tampoco estamos teniendo acceso a los datos,
+
+460
+00:22:50,920 --> 00:22:54,380
+porque cuando se desató todo esto,
+
+461
+00:22:54,380 --> 00:23:01,840
+no han resuelto todavía
+
+462
+00:23:01,840 --> 00:23:03,580
+los organismos
+
+463
+00:23:03,580 --> 00:23:05,360
+cómo dar datos anonimizados
+
+464
+00:23:05,360 --> 00:23:07,720
+hay gente que está trabajando
+
+465
+00:23:07,720 --> 00:23:09,600
+ahora en eso, por lo que yo sé
+
+466
+00:23:09,600 --> 00:23:11,700
+a nivel nacional
+
+467
+00:23:11,700 --> 00:23:17,440
+he escuchado de personas que están
+
+468
+00:23:17,440 --> 00:23:19,440
+desarrollando software para anonimizar
+
+469
+00:23:19,440 --> 00:23:21,840
+los datos, para poder
+
+470
+00:23:21,840 --> 00:23:23,480
+empezar a entregar los datos
+
+471
+00:23:23,480 --> 00:23:27,100
+a grupos de investigación que hay en Buenos Aires,
+
+472
+00:23:28,120 --> 00:23:34,600
+pero nosotros, por ejemplo, cuando empezamos a trabajar con esto,
+
+473
+00:23:34,760 --> 00:23:41,500
+una de las primeras cosas que hicimos fue generar un set de datos ficticio,
+
+474
+00:23:41,500 --> 00:23:46,260
+o si se quiere, no sé exactamente la palabra, Juan puede explicarlo mejor que yo.
+
+475
+00:23:46,700 --> 00:23:51,960
+Está en el repositorio del cargador, hay un CCB que simula los datos muy parecido
+
+476
+00:23:51,960 --> 00:23:54,520
+a lo que se carga en el gobierno actualmente.
+
+477
+00:23:54,840 --> 00:23:55,120
+Claro.
+
+478
+00:23:55,580 --> 00:23:56,740
+Son datos de mentira.
+
+479
+00:23:57,740 --> 00:23:58,460
+Simulaciones, ¿viste?
+
+480
+00:23:58,460 --> 00:24:00,480
+Empezamos a desarrollar el software con simulaciones.
+
+481
+00:24:01,400 --> 00:24:04,680
+Y eso no ha mejorado mucho, ¿está bien?
+
+482
+00:24:05,060 --> 00:24:07,200
+Lo que es el software de carga de datos.
+
+483
+00:24:08,220 --> 00:24:10,460
+Lo que es los modelos epidemiológicos,
+
+484
+00:24:11,260 --> 00:24:14,740
+allí no tenemos los datos más ideales.
+
+485
+00:24:15,800 --> 00:24:19,900
+Yo espero que en este momento el gobierno tenga
+
+486
+00:24:19,900 --> 00:24:22,740
+seguro análisis hechos con esos datos
+
+487
+00:24:22,740 --> 00:24:24,220
+porque esos datos se están tomando
+
+488
+00:24:24,220 --> 00:24:26,100
+que son, por ejemplo
+
+489
+00:24:26,100 --> 00:24:28,360
+los casos confirmados
+
+490
+00:24:28,360 --> 00:24:30,560
+el gobierno diariamente
+
+491
+00:24:30,560 --> 00:24:32,680
+anuncia cuáles son los casos
+
+492
+00:24:32,680 --> 00:24:33,920
+confirmados del coronavirus
+
+493
+00:24:33,920 --> 00:24:36,880
+y te anuncia cuáles son las muertes
+
+494
+00:24:36,880 --> 00:24:39,240
+y cuáles son las personas que se han recuperado
+
+495
+00:24:39,240 --> 00:24:40,420
+del coronavirus
+
+496
+00:24:40,420 --> 00:24:42,300
+pero esa información
+
+497
+00:24:42,300 --> 00:24:45,180
+es relevante
+
+498
+00:24:45,180 --> 00:24:45,740
+es útil
+
+499
+00:24:45,740 --> 00:24:48,880
+pero no te permite aplicar
+
+500
+00:24:48,880 --> 00:24:51,220
+modelos epidemiológicos de manera
+
+501
+00:24:51,220 --> 00:24:53,060
+exacta
+
+502
+00:24:53,060 --> 00:24:55,260
+porque vos necesitás
+
+503
+00:24:55,260 --> 00:24:57,160
+que te den toda la información
+
+504
+00:24:57,160 --> 00:24:58,260
+a vos te tienen que decir
+
+505
+00:24:58,260 --> 00:25:01,200
+cuando el paciente empezó
+
+506
+00:25:01,200 --> 00:25:02,360
+a desarrollar los síntomas
+
+507
+00:25:02,360 --> 00:25:05,020
+cuando el paciente se le hizo el hisopado
+
+508
+00:25:05,020 --> 00:25:06,780
+y cuando se le han confirmado
+
+509
+00:25:06,780 --> 00:25:08,180
+la
+
+510
+00:25:08,180 --> 00:25:11,380
+la enfermedad
+
+511
+00:25:11,380 --> 00:25:12,620
+y en el caso de los muertos
+
+512
+00:25:12,620 --> 00:25:14,440
+te tienen que informar
+
+513
+00:25:14,440 --> 00:25:16,400
+si se murió
+
+514
+00:25:16,400 --> 00:25:18,160
+coronavirus
+
+515
+00:25:18,160 --> 00:25:23,620
+o sea, si está confirmado como el caso del coronavirus
+
+516
+00:25:23,620 --> 00:25:25,400
+y se murió en ese día
+
+517
+00:25:25,400 --> 00:25:28,380
+o fue confirmado post-mortem
+
+518
+00:25:28,380 --> 00:25:31,140
+que se había muerto por coronavirus, ¿me entendés?
+
+519
+00:25:31,140 --> 00:25:33,640
+Toda esa serie de detalles
+
+520
+00:25:33,640 --> 00:25:35,540
+que parecen minucias
+
+521
+00:25:35,540 --> 00:25:36,600
+en realidad son muy importantes
+
+522
+00:25:36,600 --> 00:25:38,180
+porque los modelos epidemiológicos
+
+523
+00:25:38,180 --> 00:25:40,560
+predicen la curva de crecimiento de esos casos
+
+524
+00:25:40,560 --> 00:25:42,940
+en un tiempo real, digamos,
+
+525
+00:25:43,040 --> 00:25:45,360
+en un tiempo de la dinámica de los modelos.
+
+526
+00:25:45,360 --> 00:26:01,960
+Entonces, nosotros empezamos a hacer esta base de datos, como te dice Juan, estudiando los PDFs con un software, cargándola en un repositorio digital, pero la información que tenemos es de dominio público, que es la que da el gobierno, y no es la mejor.
+
+527
+00:26:01,960 --> 00:26:15,160
+Entonces empezamos a decir, bueno, midamos con parámetros cuánto es el tiempo que se tarda en hacer un test del coronavirus, pongamos un retardo en ese tiempo.
+
+528
+00:26:15,720 --> 00:26:23,440
+O sea, por ejemplo, si vos entras ahora al modelo epidemiológico que desarrollamos nosotros, vas a ver que están los datos ajustados.
+
+529
+00:26:23,900 --> 00:26:29,620
+Pero esos datos que están ajustados son estos datos que yo te digo, que son de dominio público y que no son los mejores.
+
+530
+00:26:29,620 --> 00:26:31,920
+si nosotros
+
+531
+00:26:31,920 --> 00:26:34,340
+tuviéramos acceso a datos anonimizados
+
+532
+00:26:34,340 --> 00:26:35,720
+por ejemplo, yo me saco de encima
+
+533
+00:26:35,720 --> 00:26:37,640
+ese parámetro y el modelo
+
+534
+00:26:37,640 --> 00:26:39,220
+empieza a ser mucho más preciso
+
+535
+00:26:39,220 --> 00:26:41,640
+¿me explico? y empieza a
+
+536
+00:26:41,640 --> 00:26:43,160
+mejorar un montón, entonces
+
+537
+00:26:43,160 --> 00:26:45,120
+el tipo de trabajo que estamos haciendo
+
+538
+00:26:45,120 --> 00:26:47,000
+es con datos públicos
+
+539
+00:26:47,000 --> 00:26:48,980
+y nada más, porque
+
+540
+00:26:48,980 --> 00:26:51,600
+no tenemos acceso a los datos
+
+541
+00:26:51,600 --> 00:26:52,500
+anonimizados
+
+542
+00:26:52,500 --> 00:26:55,200
+haría falta mejorar ahí
+
+543
+00:26:55,200 --> 00:26:57,140
+¿Querés agregar algo Juan?
+
+544
+00:26:57,720 --> 00:26:58,460
+Sí, mirá, o sea,
+
+545
+00:26:58,460 --> 00:27:01,600
+digamos, tal vez, o sea, digamos,
+
+546
+00:27:01,980 --> 00:27:04,700
+la gente que está sacando datos en públicos
+
+547
+00:27:04,700 --> 00:27:07,300
+se está viendo las conferencias en prensa, las anota,
+
+548
+00:27:08,220 --> 00:27:10,420
+está buscando en los diarios, porque a veces que los diarios
+
+549
+00:27:10,420 --> 00:27:13,080
+porque tienen contactos internos, juntan más información,
+
+550
+00:27:13,720 --> 00:27:16,060
+pero, por ejemplo, no te está saliendo ahora
+
+551
+00:27:16,060 --> 00:27:19,280
+en dónde están siendo los recuperados día a día.
+
+552
+00:27:19,740 --> 00:27:21,140
+Pero algunos diarios lo están informando.
+
+553
+00:27:21,980 --> 00:27:23,940
+Nos dicen dónde están, pero los diarios lo informan.
+
+554
+00:27:24,060 --> 00:27:26,480
+O sea, algún contacto tienen que tener.
+
+555
+00:27:27,160 --> 00:27:31,400
+Tampoco tenemos que asumir, digamos, de que en la situación que estamos,
+
+556
+00:27:31,400 --> 00:27:34,980
+digamos, tiene que ser totalmente claro que esto es una crisis.
+
+557
+00:27:35,640 --> 00:27:39,260
+Y hay que evitar que se venga la cuspide de la curva.
+
+558
+00:27:40,400 --> 00:27:45,380
+Tal vez no están tan comunicados como necesitan para la situación en la cual estamos.
+
+559
+00:27:46,800 --> 00:27:48,440
+Porque tienen otras prioridades.
+
+560
+00:27:49,480 --> 00:27:52,080
+Y para la gente que esté haciendo análisis de datos por ahí afuera,
+
+561
+00:27:52,480 --> 00:27:55,020
+nosotros la filosofía que estamos manejando es, primero que nada,
+
+562
+00:27:55,020 --> 00:27:56,380
+cuando tenga un prototipo de algo,
+
+563
+00:27:56,800 --> 00:27:57,400
+muéstralo,
+
+564
+00:27:57,460 --> 00:27:58,080
+cuanto antes.
+
+565
+00:27:59,100 --> 00:28:01,280
+Porque eso evita que otra gente haga lo mismo.
+
+566
+00:28:01,400 --> 00:28:03,740
+Y trata de hacer el mayor ruido que pueda por redes sociales.
+
+567
+00:28:04,920 --> 00:28:05,800
+Por otro lado,
+
+568
+00:28:06,100 --> 00:28:07,060
+no asumas que hay datos.
+
+569
+00:28:07,680 --> 00:28:09,040
+No partas del hecho de que hay datos.
+
+570
+00:28:09,240 --> 00:28:11,300
+Partí del hecho de que no hay datos de dónde los saco.
+
+571
+00:28:11,880 --> 00:28:13,340
+Hay miles de formas de recaudar.
+
+572
+00:28:13,820 --> 00:28:14,380
+Por ejemplo,
+
+573
+00:28:14,700 --> 00:28:15,340
+nosotros ahora,
+
+574
+00:28:15,480 --> 00:28:19,660
+la siguiente versión de la base de datos
+
+575
+00:28:19,660 --> 00:28:22,420
+y de la librería Python que se comunica a la base de datos,
+
+576
+00:28:22,860 --> 00:28:24,600
+lo que va a hacer es calcular errores de la carga.
+
+577
+00:28:24,600 --> 00:28:27,420
+que los errores van a ser varios tipos, cantidad de testeos diarios que hay,
+
+578
+00:28:27,740 --> 00:28:29,920
+cantidad de correcciones al día que se hacen sobre la base,
+
+579
+00:28:30,000 --> 00:28:34,440
+que te da una idea de la calidad del dato tomado ese día.
+
+580
+00:28:35,100 --> 00:28:36,640
+También se va a sacar otra, había una más,
+
+581
+00:28:36,680 --> 00:28:40,540
+y van a tratarse de hacer errores estadísticos, totalmente teóricos,
+
+582
+00:28:40,580 --> 00:28:42,740
+de ajustes con Poisson y todo ese tipo de cosas.
+
+583
+00:28:43,720 --> 00:28:47,600
+El tema es que, pensándolo, digamos, crudamente,
+
+584
+00:28:48,440 --> 00:28:50,660
+imaginemos que llegamos a la cúspide de la ola,
+
+585
+00:28:51,380 --> 00:28:54,900
+estamos con, no sé cuántos enfermos puede haber,
+
+586
+00:28:55,160 --> 00:28:57,540
+pongámosle, invento un número, estoy inventando,
+
+587
+00:28:58,100 --> 00:29:01,420
+100.000 enfermos y 5.000 muertos, pongámosle.
+
+588
+00:29:01,940 --> 00:29:03,140
+Y aún así, en ese momento,
+
+589
+00:29:03,840 --> 00:29:08,020
+es poco dato para lo que muchas herramientas de análisis de datos
+
+590
+00:29:08,020 --> 00:29:09,580
+quieren usar, digamos.
+
+591
+00:29:10,220 --> 00:29:11,520
+Entonces, por ejemplo, yo también, digamos,
+
+592
+00:29:11,580 --> 00:29:13,640
+yo vengo del lado del Machine Learning, de análisis de datos,
+
+593
+00:29:13,640 --> 00:29:17,300
+del Data Science, también es mi área de formación académica,
+
+594
+00:29:17,720 --> 00:29:19,560
+esas herramientas no se pueden usar,
+
+595
+00:29:19,560 --> 00:29:24,100
+Hay que caer a otro tipo de herramientas, como por ejemplo, cadenas de Markov,
+
+596
+00:29:25,500 --> 00:29:29,760
+qué sé yo, métodos de teoría de la decisión, para los que hayan alguna vez escuchado de investigación operativa,
+
+597
+00:29:29,920 --> 00:29:30,980
+es el momento de usarlo.
+
+598
+00:29:31,860 --> 00:29:37,360
+También tenés cosas del estilo de teoría de colas, para, ¿cómo se llama?, para simular esperas y demás,
+
+599
+00:29:37,480 --> 00:29:39,520
+o sea, cuánto tiempo tardaba en entrar, salió un paciente a algún lado,
+
+600
+00:29:39,900 --> 00:29:42,480
+todo ese tipo de cosas que ya hay, trabajos dando vuelta.
+
+601
+00:29:43,060 --> 00:29:47,460
+De hecho, ahora en el COVID Lab, que fue el fin de semana, salió un trabajo espectacular con ese tipo de cosas.
+
+602
+00:29:47,460 --> 00:29:48,820
+pero digamos
+
+603
+00:29:48,820 --> 00:29:52,280
+hay que trabajar con lo que hay
+
+604
+00:29:52,280 --> 00:29:54,580
+y hay que aportar desde lo que hay
+
+605
+00:29:54,580 --> 00:29:56,460
+y por Dios dejen de hacer mapas
+
+606
+00:29:56,460 --> 00:29:58,200
+por Dios sabemos dónde está la gente enferma
+
+607
+00:29:58,200 --> 00:29:59,260
+están en las grandes ciudades
+
+608
+00:29:59,260 --> 00:30:03,510
+perfecto
+
+609
+00:30:03,510 --> 00:30:04,610
+perfecto Juan
+
+610
+00:30:04,610 --> 00:30:07,090
+Juan Dante estoy más o menos
+
+611
+00:30:07,090 --> 00:30:08,770
+en el tiempo
+
+612
+00:30:08,770 --> 00:30:11,310
+pero me gustaría que cada uno de ustedes
+
+613
+00:30:11,310 --> 00:30:13,110
+pueda hacer un pequeño cierre
+
+614
+00:30:13,110 --> 00:30:15,470
+con lo que crean que haga falta
+
+615
+00:30:15,470 --> 00:30:17,070
+decir a la comunidad
+
+616
+00:30:17,070 --> 00:30:19,570
+que trabaje con datos
+
+617
+00:30:19,570 --> 00:30:21,490
+al que quiera ayudar, al que quiera
+
+618
+00:30:21,490 --> 00:30:22,210
+participar
+
+619
+00:30:22,210 --> 00:30:25,250
+tómense un minutito
+
+620
+00:30:25,250 --> 00:30:27,290
+para cerrar cada uno con lo que crean que faltó
+
+621
+00:30:27,290 --> 00:30:28,930
+Sí
+
+622
+00:30:28,930 --> 00:30:30,670
+yo quería tomar un poco
+
+623
+00:30:30,670 --> 00:30:32,970
+lo que vos habrías dicho
+
+624
+00:30:32,970 --> 00:30:34,730
+que yo también entiendo
+
+625
+00:30:34,730 --> 00:30:35,950
+la postura de Juan
+
+626
+00:30:35,950 --> 00:30:38,570
+y el contexto de crisis
+
+627
+00:30:38,570 --> 00:30:40,330
+y todo esto, pero a los grupos
+
+628
+00:30:40,330 --> 00:30:42,590
+que están desarrollando
+
+629
+00:30:42,590 --> 00:30:43,690
+software y que tienen
+
+630
+00:30:43,690 --> 00:30:46,570
+dentro de todo la posibilidad
+
+631
+00:30:46,570 --> 00:30:53,170
+me parece que la vida de, digamos, de liberar los códigos y dar el software libre
+
+632
+00:30:53,170 --> 00:30:58,810
+es como fundamental para que todos podamos comparar notas,
+
+633
+00:30:59,090 --> 00:31:05,030
+podamos decir, podamos comparar incluso versiones, ¿no?
+
+634
+00:31:05,070 --> 00:31:09,390
+Yo te comentaba al principio la nota, como yo tomé un software libre
+
+635
+00:31:09,390 --> 00:31:13,110
+que hizo el doctor Go, lo modifiqué,
+
+636
+00:31:13,810 --> 00:31:16,750
+y después nos enteramos en una reunión
+
+637
+00:31:16,750 --> 00:31:18,870
+que otras personas estaban haciendo el mismo trabajo.
+
+638
+00:31:20,770 --> 00:31:23,630
+Y bueno, ellos no tenían un repositorio libre.
+
+639
+00:31:23,950 --> 00:31:25,710
+Ellos estaban resolviendo, como dice Juan,
+
+640
+00:31:25,790 --> 00:31:26,990
+estaban resolviendo el problema.
+
+641
+00:31:27,630 --> 00:31:32,390
+Estaban en un comité de crisis y está perfecto, digamos.
+
+642
+00:31:32,390 --> 00:31:36,410
+Y es más, ellos son héroes porque ellos entregaron el modelo
+
+643
+00:31:36,410 --> 00:31:42,870
+mucho antes que nosotros, y se empezó a usar mucho antes, y eso ayuda.
+
+644
+00:31:43,790 --> 00:31:48,950
+Y bueno, después integramos el código, pero ellos pudieron ver instantáneamente
+
+645
+00:31:48,950 --> 00:31:52,210
+lo que yo estaba haciendo, porque yo lo había puesto en un repositorio.
+
+646
+00:31:52,310 --> 00:31:58,210
+Entonces digo, es más, ahora si hay gente en otras provincias que está desarrollando
+
+647
+00:31:58,210 --> 00:32:04,130
+sistemas de carga de datos, o de modelos y todo eso, estaría buenísimo que los códigos,
+
+648
+00:32:04,130 --> 00:32:10,330
+no los datos sensibles, los códigos fueran libres, cosa de que poder compartir soluciones.
+
+649
+00:32:11,050 --> 00:32:24,870
+Eso por un lado. Y por el otro, yo lo que he visto es que algunos gobiernos han creado repositorios libres
+
+650
+00:32:24,870 --> 00:32:29,810
+con datos anonimizados del coronavirus sobre la epidemia en varios países.
+
+651
+00:32:29,810 --> 00:32:36,770
+Y eso ha facilitado mucho que muchos grupos de investigación desarrollen herramientas.
+
+652
+00:32:37,330 --> 00:32:40,830
+Entonces me parece que quizás en Argentina estamos necesitando también,
+
+653
+00:32:41,410 --> 00:32:43,910
+de alguna forma, hacer una liberación de los datos
+
+654
+00:32:43,910 --> 00:32:47,970
+para que se desarrollen más soluciones.
+
+655
+00:32:48,910 --> 00:32:51,650
+Eso simplemente quería como recalcar.
+
+656
+00:32:51,650 --> 00:32:52,790
+Perfecto. ¿Juan?
+
+657
+00:32:54,550 --> 00:32:57,650
+Yo, digamos, por un lado, digamos, sí,
+
+658
+00:32:57,890 --> 00:33:00,970
+liberen los códigos, todo lo que hagan, por favor, libérenlo.
+
+659
+00:33:01,630 --> 00:33:04,470
+Si ven que alguien hizo algo mejor que lo que hizo uno,
+
+660
+00:33:05,110 --> 00:33:11,110
+avisen y fomenten, guse el otro, por una situación de colaboración.
+
+661
+00:33:12,110 --> 00:33:15,410
+Y hay un problema que hay que tratar de zanjar
+
+662
+00:33:15,410 --> 00:33:17,650
+desde la comunidad de la ciencia de datos en general.
+
+663
+00:33:18,030 --> 00:33:22,390
+Es que la formación que tiene la mayoría de la gente de ciencia de datos
+
+664
+00:33:22,390 --> 00:33:24,050
+es bastante homogénea.
+
+665
+00:33:24,930 --> 00:33:27,030
+O sea, sí, hay biólogos, hay esto, hay aquello,
+
+666
+00:33:27,030 --> 00:33:28,730
+pero son gente muy interesada en los datos.
+
+667
+00:33:29,230 --> 00:33:31,090
+Hay un montón de problemas que a nosotros se nos escapan.
+
+668
+00:33:32,230 --> 00:33:32,870
+Digamos, directamente.
+
+669
+00:33:33,070 --> 00:33:34,870
+O sea, gente, por ejemplo, hoy salió un trabajo
+
+670
+00:33:34,870 --> 00:33:38,930
+que se juntaron economistas a ver si convenía o no cuarentena.
+
+671
+00:33:39,970 --> 00:33:40,930
+Ese tipo de cosas.
+
+672
+00:33:41,090 --> 00:33:42,490
+Y la respuesta es sí, conviene cuarentena.
+
+673
+00:33:44,650 --> 00:33:47,010
+Digamos, el tratar de traer gente de afuera
+
+674
+00:33:47,010 --> 00:33:50,390
+que piensa distinto para darle una perspectiva diferente al problema
+
+675
+00:33:50,390 --> 00:33:51,990
+es tremendamente útil.
+
+676
+00:33:52,430 --> 00:33:54,390
+Y si alguien tiene la posibilidad de hacerlo, genial.
+
+677
+00:33:54,390 --> 00:33:56,210
+y por otro lado
+
+678
+00:33:56,210 --> 00:33:57,730
+si alguien
+
+679
+00:33:57,730 --> 00:33:59,070
+tiene ganas
+
+680
+00:33:59,070 --> 00:33:59,710
+sería genial
+
+681
+00:33:59,710 --> 00:34:00,330
+que alguien se ponga
+
+682
+00:34:00,330 --> 00:34:01,070
+a recopilar
+
+683
+00:34:01,070 --> 00:34:01,890
+todos estos esfuerzos
+
+684
+00:34:01,890 --> 00:34:02,510
+en un solo lugar
+
+685
+00:34:02,510 --> 00:34:03,610
+digamos
+
+686
+00:34:03,610 --> 00:34:04,630
+a priori
+
+687
+00:34:04,630 --> 00:34:04,850
+digamos
+
+688
+00:34:04,850 --> 00:34:05,010
+sí
+
+689
+00:34:05,010 --> 00:34:05,970
+lo podemos hacer nosotros
+
+690
+00:34:05,970 --> 00:34:06,750
+pero si alguien
+
+691
+00:34:06,750 --> 00:34:07,750
+digamos
+
+692
+00:34:07,750 --> 00:34:07,970
+dice
+
+693
+00:34:07,970 --> 00:34:08,270
+ah mirá
+
+694
+00:34:08,270 --> 00:34:08,990
+yo puedo colaborar
+
+695
+00:34:08,990 --> 00:34:09,850
+exactamente en esto
+
+696
+00:34:09,850 --> 00:34:10,890
+entra en contacto
+
+697
+00:34:10,890 --> 00:34:11,770
+le damos las herramientas
+
+698
+00:34:11,770 --> 00:34:12,430
+le damos el soporte
+
+699
+00:34:12,430 --> 00:34:13,090
+le damos la ayuda
+
+700
+00:34:13,090 --> 00:34:14,690
+y damos para adelante
+
+701
+00:34:14,690 --> 00:34:15,950
+y empezamos a unir esfuerzos
+
+702
+00:34:15,950 --> 00:34:17,070
+y digamos
+
+703
+00:34:17,070 --> 00:34:18,790
+y disminuimos carga de trabajo
+
+704
+00:34:18,790 --> 00:34:19,290
+para lograr
+
+705
+00:34:19,290 --> 00:34:20,290
+mayores resultados
+
+706
+00:34:20,290 --> 00:34:23,260
+perfecto
+
+707
+00:34:23,260 --> 00:34:24,340
+la verdad que
+
+708
+00:34:24,340 --> 00:34:25,660
+espero que esto sea
+
+709
+00:34:25,660 --> 00:34:28,420
+un granito más de arena para que la colaboración
+
+710
+00:34:28,420 --> 00:34:29,960
+entre especialistas
+
+711
+00:34:29,960 --> 00:34:30,860
+de todo el país
+
+712
+00:34:30,860 --> 00:34:34,260
+de donde sea, se desarrolle
+
+713
+00:34:34,260 --> 00:34:35,740
+y se aproveche de esta herramienta
+
+714
+00:34:35,740 --> 00:34:37,940
+y si hay mejores que usemos las mejores
+
+715
+00:34:37,940 --> 00:34:39,640
+que andan. Muchísimas gracias
+
+716
+00:34:39,640 --> 00:34:41,200
+a los dos por lo que hicieron.
+
+717
+00:34:42,400 --> 00:34:43,620
+Gracias a vos Andrés.
+
+718
+00:34:43,960 --> 00:34:45,020
+Gracias a vos por el espacio.
+

@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>La cadena | Cadena de datos</title>
+    <meta name="description" content="Mapa de quién recomendó a quién al final de cada episodio de Cadena de datos.">
+    <meta name="theme-color" content="#4a1a1d">
+    <link rel="icon" href="img-cadena-de-datos.png">
+    <script>
+      (function () {
+        var mq = window.matchMedia('(prefers-color-scheme: dark)');
+        var set = function () { document.documentElement.setAttribute('data-bs-theme', mq.matches ? 'dark' : 'light'); };
+        set();
+        mq.addEventListener('change', set);
+      })();
+    </script>
+    <link rel="stylesheet" href="vendor/bootstrap/bootstrap.min.css">
+    <link rel="stylesheet" href="vendor/bootstrap-icons/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="css/cadena.css">
+    <style>
+      :root { --map-ent: #b8414a; --map-rec: #3d7ab8; --map-link: #cdbdb8; --map-surface: #ffffff; }
+      [data-bs-theme="dark"] { --map-ent: #cc5c66; --map-rec: #4a89c4; --map-link: #4a3536; --map-surface: #1d1112; }
+
+      .map-stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 1rem; margin-top: 2rem; }
+      .map-stat { background: rgba(255, 255, 255, .06); border: 1px solid rgba(240, 180, 182, .2); border-radius: var(--cd-radius); padding: 1rem 1.2rem; }
+      .map-stat b { display: block; font-family: "Outfit", sans-serif; font-size: 2.2rem; line-height: 1; color: var(--cd-pink); }
+      .map-stat span { font-size: .85rem; opacity: .85; }
+
+      .map-wrap { position: relative; background: var(--map-surface); border: 1px solid var(--cd-border); border-radius: calc(var(--cd-radius) * 1.25); overflow: hidden; }
+      #mapa { display: block; width: 100%; height: min(78vh, 820px); cursor: grab; touch-action: none; }
+      #mapa:active { cursor: grabbing; }
+      .map-toolbar { display: flex; flex-wrap: wrap; gap: .75rem; align-items: center; margin-bottom: 1rem; }
+      .map-legend { display: flex; flex-wrap: wrap; gap: 1.1rem; font-size: .88rem; color: var(--cd-muted); }
+      .map-legend i { display: inline-block; vertical-align: -2px; margin-right: .35rem; }
+      .lg-ent { width: 14px; height: 14px; border-radius: 50%; border: 3px solid var(--map-ent); }
+      .lg-rec { width: 10px; height: 10px; border-radius: 50%; background: var(--map-rec); }
+      .lg-org { width: 10px; height: 10px; background: var(--map-rec); border-radius: 2px; }
+      .lg-link { width: 22px; height: 2px; background: var(--map-ent); }
+      .map-hint { position: absolute; left: 1rem; bottom: .8rem; font-size: .8rem; color: var(--cd-muted); pointer-events: none; }
+      .map-zoom { position: absolute; right: .8rem; top: .8rem; display: flex; flex-direction: column; gap: .3rem; }
+      .map-zoom button { width: 2.2rem; height: 2.2rem; border-radius: .6rem; border: 1px solid var(--cd-border); background: var(--cd-surface); color: var(--cd-text); }
+
+      .node-label { font: 600 11px "Inter", sans-serif; fill: var(--cd-text); paint-order: stroke; stroke: var(--map-surface); stroke-width: 3px; stroke-linejoin: round; pointer-events: none; }
+      .node-label.rec { font-weight: 500; fill: var(--cd-muted); }
+      .link { stroke: var(--map-link); stroke-width: 1.2px; fill: none; }
+      .link.cierra { stroke: var(--map-ent); stroke-width: 2px; }
+      .node { cursor: pointer; }
+      .faded { opacity: .12; }
+      .node-label.oculto { display: none; }
+
+      .map-tip { position: absolute; pointer-events: none; z-index: 5; max-width: 280px; background: var(--cd-surface); color: var(--cd-text); border: 1px solid var(--cd-border); border-radius: .75rem; padding: .7rem .85rem; font-size: .85rem; box-shadow: 0 10px 30px rgba(0, 0, 0, .18); }
+      .map-tip strong { font-family: "Outfit", sans-serif; font-size: 1rem; display: block; }
+      .map-tip .muted { color: var(--cd-muted); }
+
+      .map-panel { min-height: 100%; }
+      .map-panel img { width: 72px; height: 72px; border-radius: .75rem; object-fit: cover; }
+      .map-panel ul { padding-left: 1.1rem; margin-bottom: .75rem; }
+      .chip-ent { color: var(--map-ent); font-weight: 600; }
+      .dudoso { border-bottom: 1px dotted var(--cd-muted); cursor: help; }
+
+      .map-table td, .map-table th { background: transparent; color: var(--cd-text); border-color: var(--cd-border); vertical-align: top; }
+      .map-table a { text-decoration: none; }
+    </style>
+  </head>
+  <body>
+    <nav class="navbar cd-nav sticky-top">
+      <div class="container">
+        <a class="navbar-brand cd-brand" href="index.html">
+          <span class="cd-logo" aria-hidden="true"><i class="bi bi-mic-fill"></i></span>
+          Cadena de datos
+        </a>
+        <div class="d-flex gap-3 align-items-center">
+          <a class="cd-nav-link" href="index.html#episodios">Episodios</a>
+          <a class="cd-nav-link" href="cadena.html" aria-current="page"><i class="bi bi-diagram-3"></i> <span class="d-none d-sm-inline">La cadena</span></a>
+        </div>
+      </div>
+    </nav>
+
+    <main>
+      <section class="cd-hero" style="padding-bottom: 3.5rem;">
+        <div class="container">
+          <p class="cd-kicker">El mapa de la cadena</p>
+          <h1 class="cd-hero-title cd-hero-title-sm">¿A quién más tengo que entrevistar?</h1>
+          <p class="cd-hero-lead">Cada episodio termina con la misma pregunta. Este mapa junta todas las respuestas: quién recomendó a quién y qué recomendaciones terminaron en una nueva entrevista.</p>
+          <div class="map-stats" id="stats"></div>
+        </div>
+      </section>
+
+      <section class="cd-section">
+        <div class="container">
+          <div class="map-toolbar">
+            <input type="search" class="form-control cd-search" id="buscar" placeholder="Buscar una persona..." aria-label="Buscar una persona" list="nombres">
+            <datalist id="nombres"></datalist>
+            <div class="form-check form-switch m-0">
+              <input class="form-check-input" type="checkbox" id="solo-cierres">
+              <label class="form-check-label small" for="solo-cierres">Solo la cadena que se cumplió</label>
+            </div>
+            <div class="map-legend ms-lg-auto" aria-label="Referencias">
+              <span><i class="lg-ent"></i>Entrevistado (con su foto)</span>
+              <span><i class="lg-rec"></i>Recomendado</span>
+              <span><i class="lg-org"></i>Organización o proyecto</span>
+              <span><i class="lg-link"></i>Recomendación que llegó a entrevista</span>
+            </div>
+          </div>
+
+          <div class="row g-4">
+            <div class="col-lg-9">
+              <div class="map-wrap">
+                <svg id="mapa" role="img" aria-label="Grafo de recomendaciones entre entrevistados"></svg>
+                <div class="map-zoom">
+                  <button type="button" id="zoom-in" aria-label="Acercar"><i class="bi bi-plus-lg"></i></button>
+                  <button type="button" id="zoom-out" aria-label="Alejar"><i class="bi bi-dash-lg"></i></button>
+                  <button type="button" id="zoom-reset" aria-label="Ver todo"><i class="bi bi-arrows-fullscreen"></i></button>
+                </div>
+                <div class="map-hint">Arrastrá para mover, rueda o pellizco para zoom, click en una persona para ver su cadena.</div>
+                <div class="map-tip" id="tip" hidden></div>
+              </div>
+            </div>
+            <aside class="col-lg-3">
+              <div class="cd-box map-panel" id="panel">
+                <h2 class="cd-box-title">Hacé click en alguien</h2>
+                <p class="small cd-muted mb-0">Vas a ver a quién recomendó, quién lo recomendó a él o ella y el link a su episodio.</p>
+              </div>
+              <p class="small cd-muted">Las flechas van de quien recomienda a quien es recomendado. Los nombres <span class="dudoso" title="Nombre a verificar">subrayados con puntos</span> salen de la transcripción automática y no están confirmados.</p>
+              <p class="small cd-muted mb-0"><i class="bi bi-download"></i> Datos abiertos: <a href="datos/cadena.json">cadena.json</a></p>
+            </aside>
+          </div>
+        </div>
+      </section>
+
+      <section class="cd-section cd-section-alt">
+        <div class="container">
+          <h2 class="cd-section-title mb-4">Todas las recomendaciones</h2>
+          <div class="table-responsive">
+            <table class="table map-table">
+              <thead><tr><th>#</th><th>Entrevistado</th><th>Recomendó a</th></tr></thead>
+              <tbody id="tabla"></tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <script src="vendor/d3/d3.min.js"></script>
+    <script>
+    (function () {
+      'use strict';
+
+      var svg = d3.select('#mapa');
+      var tip = document.getElementById('tip');
+      var panel = document.getElementById('panel');
+      var esc = function (s) { return String(s).replace(/[&<>"]/g, function (c) { return {'&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;'}[c]; }); };
+
+      fetch('datos/cadena.json').then(function (r) { return r.json(); }).then(dibujar);
+
+      function dibujar(data) {
+        var byId = {};
+        data.nodos.forEach(function (n) { byId[n.id] = n; n.salen = []; n.entran = []; });
+        var links = data.enlaces.map(function (e) {
+          var l = {source: byId[e.de], target: byId[e.a]};
+          l.cierra = l.target.tipo === 'entrevistado';
+          l.source.salen.push(l.target);
+          l.target.entran.push(l.source);
+          return l;
+        });
+        // dejamos afuera del grafo a los episodios sin pregunta de cadena (los especiales de pandemia)
+        var nodes = data.nodos.filter(function (n) { return n.salen.length || n.entran.length; });
+
+        stats(data, nodes, links);
+        tabla(data, byId);
+
+        var R_ENT = 20;
+        var radio = function (n) { return n.tipo === 'entrevistado' ? R_ENT : 5 + Math.min(n.entran.length, 4) * 1.5; };
+
+        var box = svg.node().getBoundingClientRect();
+        var W = box.width, H = box.height;
+        svg.attr('viewBox', [-W / 2, -H / 2, W, H]);
+
+        var defs = svg.append('defs');
+        [['flecha', 'var(--map-link)'], ['flecha-cierra', 'var(--map-ent)']].forEach(function (m) {
+          defs.append('marker').attr('id', m[0]).attr('viewBox', '0 -4 8 8').attr('refX', 8).attr('refY', 0)
+            .attr('markerWidth', 7).attr('markerHeight', 7).attr('orient', 'auto')
+            .append('path').attr('d', 'M0,-4L8,0L0,4').style('fill', m[1]);
+        });
+        nodes.forEach(function (n, i) {
+          if (n.imagen) {
+            defs.append('clipPath').attr('id', 'clip-' + i).append('circle').attr('r', R_ENT - 2);
+            n.clip = 'clip-' + i;
+          }
+        });
+
+        var g = svg.append('g');
+        var zoom = d3.zoom().scaleExtent([0.3, 5]).on('zoom', function (ev) {
+          g.attr('transform', ev.transform);
+          etiquetas(ev.transform.k);
+        });
+        svg.call(zoom).on('dblclick.zoom', null);
+
+        var link = g.append('g').selectAll('path').data(links).join('path')
+          .attr('class', function (d) { return 'link' + (d.cierra ? ' cierra' : ''); })
+          .attr('marker-end', function (d) { return d.cierra ? 'url(#flecha-cierra)' : 'url(#flecha)'; });
+
+        var node = g.append('g').selectAll('g').data(nodes).join('g')
+          .attr('class', 'node')
+          .attr('tabindex', 0)
+          .attr('role', 'button')
+          .attr('aria-label', function (d) { return d.nombre; });
+
+        node.each(function (d) {
+          var el = d3.select(this);
+          if (d.tipo === 'entrevistado') {
+            el.append('circle').attr('r', R_ENT).style('fill', 'var(--map-surface)').style('stroke', 'var(--map-ent)').attr('stroke-width', 3);
+            if (d.imagen) {
+              el.append('image').attr('href', d.imagen).attr('x', -R_ENT + 2).attr('y', -R_ENT + 2)
+                .attr('width', (R_ENT - 2) * 2).attr('height', (R_ENT - 2) * 2)
+                .attr('preserveAspectRatio', 'xMidYMid slice').attr('clip-path', 'url(#' + d.clip + ')');
+            }
+          } else if (d.tipo === 'organizacion') {
+            var s = radio(d) * 1.8;
+            el.append('rect').attr('x', -s / 2).attr('y', -s / 2).attr('width', s).attr('height', s).attr('rx', 2)
+              .style('fill', 'var(--map-rec)').style('stroke', 'var(--map-surface)').attr('stroke-width', 2);
+          } else {
+            el.append('circle').attr('r', radio(d)).style('fill', 'var(--map-rec)').style('stroke', 'var(--map-surface)').attr('stroke-width', 2);
+          }
+          // area de click mas grande que la marca
+          el.append('circle').attr('r', Math.max(radio(d) + 6, 12)).style('fill', 'transparent');
+        });
+
+        var label = g.append('g').selectAll('text').data(nodes).join('text')
+          .attr('class', function (d) { return 'node-label' + (d.tipo === 'entrevistado' ? '' : ' rec'); })
+          .attr('text-anchor', 'middle')
+          .attr('dy', function (d) { return radio(d) + 13; })
+          .text(function (d) { return d.nombre + (d.dudoso ? ' (?)' : ''); });
+
+        var sim = d3.forceSimulation(nodes)
+          .force('link', d3.forceLink(links).distance(function (l) { return l.cierra ? 140 : 80; }).strength(0.5))
+          .force('charge', d3.forceManyBody().strength(function (d) { return d.tipo === 'entrevistado' ? -700 : -140; }))
+          .force('collide', d3.forceCollide().radius(function (d) { return radio(d) + (d.tipo === 'entrevistado' ? 14 : 6); }))
+          .force('x', d3.forceX().strength(0.03))
+          .force('y', d3.forceY().strength(0.05))
+          .on('tick', tick);
+
+        function tick() {
+          link.attr('d', function (d) {
+            var dx = d.target.x - d.source.x, dy = d.target.y - d.source.y, len = Math.hypot(dx, dy) || 1;
+            var rs = radio(d.source), rt = radio(d.target) + 3;
+            return 'M' + (d.source.x + dx / len * rs) + ',' + (d.source.y + dy / len * rs) +
+                   'L' + (d.target.x - dx / len * rt) + ',' + (d.target.y - dy / len * rt);
+          });
+          node.attr('transform', function (d) { return 'translate(' + d.x + ',' + d.y + ')'; });
+          label.attr('x', function (d) { return d.x; }).attr('y', function (d) { return d.y; });
+        }
+
+        node.call(d3.drag()
+          .on('start', function (ev, d) { if (!ev.active) sim.alphaTarget(0.2).restart(); d.fx = d.x; d.fy = d.y; })
+          .on('drag', function (ev, d) { d.fx = ev.x; d.fy = ev.y; })
+          .on('end', function (ev, d) { if (!ev.active) sim.alphaTarget(0); d.fx = null; d.fy = null; }));
+
+        // etiquetas de recomendados solo con zoom, para no saturar
+        var seleccionado = null;
+        function etiquetas(k) {
+          label.classed('oculto', function (d) {
+            if (seleccionado) return !vecinos(seleccionado).has(d);
+            return d.tipo !== 'entrevistado' && k < 1.6 && d.entran.length < 2;
+          });
+        }
+        etiquetas(1);
+
+        function vecinos(d) {
+          var s = new Set([d]);
+          d.salen.forEach(function (n) { s.add(n); });
+          d.entran.forEach(function (n) { s.add(n); });
+          return s;
+        }
+
+        function resaltar(d) {
+          seleccionado = d;
+          var set = d ? vecinos(d) : null;
+          node.classed('faded', function (n) { return set && !set.has(n); });
+          link.classed('faded', function (l) { return set && l.source !== d && l.target !== d; });
+          etiquetas(d3.zoomTransform(svg.node()).k);
+        }
+
+        var soloCierres = document.getElementById('solo-cierres');
+        soloCierres.addEventListener('change', function () {
+          var on = soloCierres.checked;
+          link.style('display', function (l) { return on && !l.cierra ? 'none' : null; });
+          node.style('display', function (n) { return on && n.tipo !== 'entrevistado' ? 'none' : null; });
+          label.style('display', function (n) { return on && n.tipo !== 'entrevistado' ? 'none' : null; });
+        });
+
+        // tooltip
+        node.on('mouseenter', function (ev, d) {
+          tip.hidden = false;
+          tip.innerHTML = '<strong>' + esc(d.nombre) + (d.dudoso ? ' <span class="muted">(a verificar)</span>' : '') + '</strong>' +
+            (d.tipo === 'entrevistado' ? '<span class="muted">Episodio ' + d.numero + ' &middot; ' + d.fecha.slice(0, 4) + '</span><br>' : (d.nota ? '<span class="muted">' + esc(d.nota) + '</span><br>' : '')) +
+            (d.salen.length ? 'Recomendó a ' + d.salen.length + '. ' : '') +
+            (d.entran.length ? 'Recomendado por ' + d.entran.map(function (n) { return esc(n.nombre); }).join(', ') + '.' : '');
+        }).on('mousemove', function (ev) {
+          var r = svg.node().parentNode.getBoundingClientRect();
+          var x = ev.clientX - r.left + 14, y = ev.clientY - r.top + 14;
+          if (x + 290 > r.width) x -= 300;
+          tip.style.left = x + 'px';
+          tip.style.top = y + 'px';
+        }).on('mouseleave', function () { tip.hidden = true; });
+
+        node.on('click', function (ev, d) { ev.stopPropagation(); seleccionar(d); })
+          .on('keydown', function (ev, d) { if (ev.key === 'Enter' || ev.key === ' ') { ev.preventDefault(); seleccionar(d); } });
+        svg.on('click', function () { resaltar(null); });
+
+        function seleccionar(d, centrar) {
+          resaltar(d);
+          mostrarPanel(d);
+          if (centrar) svg.transition().duration(600).call(zoom.transform, d3.zoomIdentity.scale(1.8).translate(-d.x, -d.y));
+        }
+
+        function persona(n) {
+          var t = esc(n.nombre);
+          if (n.dudoso) t = '<span class="dudoso" title="Nombre a verificar">' + t + '</span>';
+          if (n.tipo === 'entrevistado') t = '<a class="chip-ent" href="' + n.pagina + '">' + t + '</a> <span class="cd-muted small">ep. ' + n.numero + '</span>';
+          else if (n.nota) t += ' <span class="cd-muted small">' + esc(n.nota) + '</span>';
+          return '<li>' + t + '</li>';
+        }
+
+        function mostrarPanel(d) {
+          var h = '';
+          if (d.tipo === 'entrevistado') {
+            h += '<div class="d-flex gap-3 align-items-center mb-3">' + (d.imagen ? '<img src="' + d.imagen + '" alt="">' : '') +
+                 '<div><h2 class="cd-box-title mb-1">' + esc(d.nombre) + '</h2><div class="small cd-muted">Episodio ' + d.numero + ' &middot; ' + d.fecha + '</div>' +
+                 '<a class="small" href="' + d.pagina + '">Escuchar episodio <i class="bi bi-arrow-right"></i></a></div></div>';
+          } else {
+            h += '<h2 class="cd-box-title mb-1">' + esc(d.nombre) + '</h2><p class="small cd-muted">' + esc(d.nota || '') + (d.dudoso ? ' (nombre a verificar)' : '') + '</p>';
+          }
+          if (d.salen.length) h += '<div class="small fw-semibold mb-1">Recomendó a</div><ul class="small">' + d.salen.map(persona).join('') + '</ul>';
+          if (d.entran.length) h += '<div class="small fw-semibold mb-1">Lo recomendaron</div><ul class="small">' + d.entran.map(persona).join('') + '</ul>';
+          if (!d.salen.length && d.tipo === 'entrevistado') h += '<p class="small cd-muted">En su episodio no quedó registrada una recomendación.</p>';
+          panel.innerHTML = h;
+        }
+
+        // buscador
+        var dl = document.getElementById('nombres');
+        nodes.slice().sort(function (a, b) { return a.nombre.localeCompare(b.nombre); }).forEach(function (n) {
+          var o = document.createElement('option'); o.value = n.nombre; dl.appendChild(o);
+        });
+        var buscar = document.getElementById('buscar');
+        buscar.addEventListener('change', function () {
+          var q = buscar.value.trim().toLowerCase();
+          var n = nodes.find(function (x) { return x.nombre.toLowerCase() === q; }) ||
+                  nodes.find(function (x) { return x.nombre.toLowerCase().indexOf(q) !== -1; });
+          if (q && n) seleccionar(n, true);
+        });
+
+        document.getElementById('zoom-in').onclick = function () { svg.transition().call(zoom.scaleBy, 1.4); };
+        document.getElementById('zoom-out').onclick = function () { svg.transition().call(zoom.scaleBy, 1 / 1.4); };
+        document.getElementById('zoom-reset').onclick = function () { resaltar(null); svg.transition().call(zoom.transform, d3.zoomIdentity.scale(0.6)); };
+
+        // arranca un poco alejado para ver todo
+        sim.on('end.fit', function () { sim.on('end.fit', null); });
+        svg.call(zoom.transform, d3.zoomIdentity.scale(0.6));
+      }
+
+      function stats(data, nodes, links) {
+        var ent = data.nodos.filter(function (n) { return n.tipo === 'entrevistado' && n.salen.length; }).length;
+        var personas = new Set(links.map(function (l) { return l.target.id; })).size;
+        var cierres = links.filter(function (l) { return l.cierra; }).length;
+        var top = data.nodos.slice().sort(function (a, b) { return b.entran.length - a.entran.length; })[0];
+        var html = [
+          [ent, 'episodios respondieron la pregunta'],
+          [links.length, 'recomendaciones'],
+          [personas, 'personas y proyectos recomendados'],
+          [cierres, 'recomendaciones terminaron en entrevista'],
+        ].map(function (s) { return '<div class="map-stat"><b>' + s[0] + '</b><span>' + s[1] + '</span></div>'; }).join('');
+        html += '<div class="map-stat"><b style="font-size:1.3rem">' + esc(top.nombre) + '</b><span>la persona más recomendada (' + top.entran.length + ' veces)</span></div>';
+        document.getElementById('stats').innerHTML = html;
+      }
+
+      function tabla(data, byId) {
+        var filas = data.nodos.filter(function (n) { return n.tipo === 'entrevistado'; }).map(function (n) {
+          var recs = n.salen.map(function (r) {
+            var t = esc(r.nombre);
+            if (r.dudoso) t = '<span class="dudoso" title="Nombre a verificar">' + t + '</span>';
+            return r.tipo === 'entrevistado' ? '<a class="chip-ent" href="' + r.pagina + '">' + t + '</a>' : t;
+          }).join(', ');
+          return '<tr><td>' + n.numero + '</td><td><a href="' + n.pagina + '">' + esc(n.nombre) + '</a></td><td>' +
+                 (recs || '<span class="cd-muted">Sin pregunta de cadena en este episodio</span>') + '</td></tr>';
+        });
+        document.getElementById('tabla').innerHTML = filas.join('');
+      }
+    })();
+    </script>
+  </body>
+</html>
