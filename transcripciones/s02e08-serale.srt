@@ -1,0 +1,1840 @@
+1
+00:00:02,030 --> 00:00:31,150
+Cadena de datos, segunda temporada, de este lado Andrés Vázquez desde Córdoba en Argentina. En el día de hoy tengo el gusto de que me acompañe Florencia Cerale, argentina radicada en Washington. Ella trabaja como consultora en temas de datos abiertos y gobierno digital. Es licenciada en Economía por la Universidad Nacional de La Plata en Argentina y tiene una maestría en Administración y Políticas Públicas de la Universidad de San Andrés, también de Argentina.
+
+2
+00:00:31,150 --> 00:00:33,230
+Hola Florencia, buenas tardes, ¿cómo estás?
+
+3
+00:00:39,600 --> 00:00:42,760
+No, y gracias a vos por darme este espacio
+
+4
+00:00:42,760 --> 00:00:48,840
+Bueno, el primer motivo, tengo que decir el primero porque después empecé a ver un poco más
+
+5
+00:00:48,840 --> 00:00:52,020
+Y vi que había muchas cosas interesantes que nos podías contar
+
+6
+00:00:52,020 --> 00:00:57,040
+El primer motivo por el cual te convocé Florencia fue porque leí una nota muy interesante
+
+7
+00:00:57,040 --> 00:01:01,360
+En el blog Gobernarte del BID que vos escribiste que se llama
+
+8
+00:01:01,360 --> 00:01:06,020
+Los datos abiertos para emprendedores
+
+9
+00:01:06,020 --> 00:01:11,560
+Una inversión que rinde en el blog Gobernarte del BID
+
+10
+00:01:11,560 --> 00:01:16,240
+Y antes de entrar a algunas preguntas específicas sobre eso
+
+11
+00:01:16,240 --> 00:01:19,720
+Te quería preguntar un poco antes que eso
+
+12
+00:01:19,720 --> 00:01:23,220
+¿Cuál fue tu primer proyecto relacionado al mundo de los datos abiertos?
+
+13
+00:01:23,400 --> 00:01:26,220
+¿En qué año, en qué momento, con qué proyecto empezaste?
+
+14
+00:01:26,900 --> 00:01:28,600
+Bueno, te cuento
+
+15
+00:01:28,600 --> 00:01:35,840
+Mi primera experiencia con los datos abiertos fue en 2017
+
+16
+00:01:35,840 --> 00:01:46,540
+allá con datos que fue en Bogotá, donde conocí a un montón de gente del ecosistema
+
+17
+00:01:46,540 --> 00:01:52,160
+y empecé a adentrarme en este mundo tan interesante de los datos.
+
+18
+00:01:52,880 --> 00:02:00,620
+Y ahí, por mi trabajo sobre todo, empezamos a pensar qué tipos de proyectos
+
+19
+00:02:00,620 --> 00:02:03,800
+podíamos hacer en temas de datos abiertos.
+
+20
+00:02:03,800 --> 00:02:09,460
+y nos dimos cuenta que América Latina y el Caribe es una de las regiones más abiertas,
+
+21
+00:02:09,720 --> 00:02:17,800
+tiene cuatro, entre los 20 tiene cuatro líderes en temas de apertura,
+
+22
+00:02:18,740 --> 00:02:25,780
+tiene más de 200 portales, adhesiones de la Carta Internacional a nivel nacional y subnacional.
+
+23
+00:02:26,560 --> 00:02:30,100
+A la hora de enviar el barómetro nos dimos cuenta de que, bueno,
+
+24
+00:02:30,100 --> 00:02:32,000
+en términos de transparencia de readiness
+
+25
+00:02:32,000 --> 00:02:33,800
+estaba bastante bien, pero
+
+26
+00:02:33,800 --> 00:02:35,760
+tenía el desafío de
+
+27
+00:02:35,760 --> 00:02:38,420
+mejorar el uso y el impacto
+
+28
+00:02:38,420 --> 00:02:40,060
+en temas de datos
+
+29
+00:02:40,060 --> 00:02:40,680
+abiertos.
+
+30
+00:02:42,120 --> 00:02:43,200
+Perdón, perdón, seguí.
+
+31
+00:02:43,620 --> 00:02:46,080
+Sí, sí. Te quería preguntar si te acordás
+
+32
+00:02:46,080 --> 00:02:48,040
+en aquel evento al que fuiste
+
+33
+00:02:48,040 --> 00:02:49,980
+si hay algún proyecto
+
+34
+00:02:49,980 --> 00:02:51,940
+que te llamó la atención o que
+
+35
+00:02:51,940 --> 00:02:53,460
+te inspiró o que te gustó
+
+36
+00:02:53,460 --> 00:02:55,620
+o que te llamó la atención.
+
+37
+00:02:57,140 --> 00:02:57,840
+Bueno, en ese
+
+38
+00:02:57,840 --> 00:02:58,460
+momento
+
+39
+00:02:58,460 --> 00:03:21,120
+Bueno, Argentina estaba ya fortaleciendo su estrategia de datos abiertos, México ya estaba, digamos, a pleno con su estrategia de apertura, Uruguay ya era un jugador de hace varios años y claramente los proyectos que más me llamaron la atención son por mi barrio, tu servicio,
+
+40
+00:03:21,120 --> 00:03:29,860
+porque eran un intento de acercar a la ciudadanía, al gobierno, a través de los datos.
+
+41
+00:03:30,020 --> 00:03:36,040
+Y también me parecen proyectos que logran democratizar el uso de los datos, porque ¿qué es lo que pasa?
+
+42
+00:03:37,020 --> 00:03:41,800
+Muchas veces nosotros decimos, bueno, no, los datos abiertos nos los imaginamos en datasets
+
+43
+00:03:41,800 --> 00:03:47,480
+o en grandes bases de datos que cuestan mucho descargar.
+
+44
+00:03:47,480 --> 00:04:03,580
+Y también, digamos, hay un montón de organizaciones de la sociedad civil que están trabajando para que la ciudadanía pueda acercarse a estos proyectos de apertura a través de apps, a través de portales, donde pueden votar, donde pueden hacer reclamos.
+
+45
+00:04:04,040 --> 00:04:06,600
+Entonces, esos son como los proyectos.
+
+46
+00:04:06,600 --> 00:04:27,500
+Es muy interesante. Y yendo más a tu nota en particular, veo que tomas una arista de los datos que a mí me parece súper valiosa y es que más allá de la mirada sobre los datos en cuanto a transparencia, hay una mirada económica para que empresas y emprendedores aprovechen y hay una parte de tu nota, vos decís que los datos generan crecimiento económico.
+
+47
+00:04:27,500 --> 00:04:40,260
+Quería preguntarte, ¿cómo es que eso pasa? ¿Cómo es que los datos dejan de ser algo para la transparencia y ya empiezan a ser activos económicos? ¿Qué podés comentarme con relación a eso?
+
+48
+00:04:40,260 --> 00:05:02,600
+Sí, te cuento. Esto es algo que está un poco más arraigado en Europa o hay algunas ciudades, por ejemplo, Londres que está trabajando hace muchos años en esto y es acercar a una comunidad, como es la comunidad emprendedora, a generar modelos de negocios que utilicen datos abiertos que abren los gobiernos.
+
+49
+00:05:02,600 --> 00:05:32,100
+Entonces, por ejemplo, en el caso de Transport for London, lo que hacen es trabajar con emprendedores para ver qué datos se están utilizando y qué apps y qué portales y qué tipo de información se está generando alrededor de los datos que se abren y se está haciendo una medición de cuánto se mejora el transporte público, pero también cuánto se mejoran o cuánto valor económico se genera alrededor de ese uso.
+
+50
+00:05:32,600 --> 00:05:58,000
+Entonces, el tema de utilizar los datos abiertos con un fin económico o para generar valor económico en América Latina es algo que está empezando. Por ejemplo, en Condatos Quito este año realizamos un taller con emprendedores donde empezamos a entender qué eran lo que estaban necesitando de los gobiernos para empezar a utilizar datos abiertos.
+
+51
+00:05:58,000 --> 00:06:08,960
+Y claro, ahí nos dimos cuenta de que quizás el discurso del valor económico no está tan, digamos, instaurado como está en otros países.
+
+52
+00:06:10,640 --> 00:06:15,240
+Y sobre todo, ¿por qué? Porque, bueno, ahí hay algunos temas, ¿no?
+
+53
+00:06:15,280 --> 00:06:26,580
+Primero, por ejemplo, a nivel de gobierno, las instituciones que trabajan con los emprendedores no son las mismas instituciones que trabajan con datos abiertos.
+
+54
+00:06:26,580 --> 00:06:43,380
+Entonces ahí ya tenés un primer tema, ¿no? Como que no se están coordinando lo suficiente para decir, bueno, mira, tengo un emprendedor digital que quiere trabajar en temas de datos de inmuebles y la ciudad no los está abriendo de la manera adecuada.
+
+55
+00:06:43,380 --> 00:06:46,460
+Ahí ya tenés temas de calidad, de interoperabilidad
+
+56
+00:06:46,460 --> 00:06:47,140
+De uso
+
+57
+00:06:47,140 --> 00:06:50,520
+De que, bueno, o sea, con temas de transparencia
+
+58
+00:06:50,520 --> 00:06:52,220
+También, ¿por qué? Porque hay muchos datos
+
+59
+00:06:52,220 --> 00:06:54,500
+Que están abiertos, pero no tienen el formato adecuado
+
+60
+00:06:54,500 --> 00:06:55,360
+Para que sean
+
+61
+00:06:55,360 --> 00:06:56,840
+Machine readable
+
+62
+00:06:56,840 --> 00:06:59,640
+No tienen la calidad suficiente
+
+63
+00:06:59,640 --> 00:07:02,500
+Claro, la agregación como para que los emprendedores
+
+64
+00:07:02,500 --> 00:07:03,480
+Puedan utilizarlo
+
+65
+00:07:03,480 --> 00:07:06,220
+Entonces, ¿qué es lo que pasa?
+
+66
+00:07:06,300 --> 00:07:07,320
+Las grandes empresas
+
+67
+00:07:07,320 --> 00:07:10,220
+Se resuelven explotando datos
+
+68
+00:07:10,220 --> 00:07:11,940
+O generando datos
+
+69
+00:07:11,940 --> 00:07:17,240
+y haciendo bases de datos privadas, pero los emprendedores que recién están empezando,
+
+70
+00:07:17,340 --> 00:07:26,320
+que están comenzando a adentrarse en el mundo de los datos abiertos, es como un poquito más difícil, ¿no?
+
+71
+00:07:26,520 --> 00:07:33,280
+Entonces, el gobierno ahí tiene un rol fundamental en apoyar regulaciones, en generar iniciativas.
+
+72
+00:07:33,280 --> 00:07:55,640
+Bueno, también, bueno, voy a nombrar muchos casos de Reino Unido, pero porque, digamos, ellos ya vienen trabajando mucho, pero, por ejemplo, hay una iniciativa que se llama el Open Data Challenge Series, que lo que hicieron fue nombrar retos públicos y ver cómo los podían resolver los emprendedores.
+
+73
+00:07:55,640 --> 00:08:14,420
+Entonces ahí se abrieron bases de datos, se utilizaron datos abiertos y se generaron proyectos alrededor de estos retos públicos que había que resolver. Y a partir de ahí también, bueno, surgieron varios emprendimientos y eso, ¿no?
+
+74
+00:08:14,420 --> 00:08:17,000
+yo tomo el ejemplo
+
+75
+00:08:17,000 --> 00:08:19,140
+porque me parece que el que nombraste recién
+
+76
+00:08:19,140 --> 00:08:21,120
+de transporte, yo tomé algunas notas
+
+77
+00:08:21,120 --> 00:08:23,100
+con respecto a eso, el gobierno
+
+78
+00:08:23,100 --> 00:08:25,660
+fomenta que se hablen datos de transporte
+
+79
+00:08:25,660 --> 00:08:27,220
+los emprendedores toman
+
+80
+00:08:27,220 --> 00:08:28,900
+esos datos de transporte y generan
+
+81
+00:08:28,900 --> 00:08:31,160
+aplicaciones que le dan información
+
+82
+00:08:31,160 --> 00:08:33,080
+a la gente para que más eficientemente
+
+83
+00:08:33,080 --> 00:08:34,880
+pueda y de una manera más cómoda pueda usar
+
+84
+00:08:34,880 --> 00:08:36,540
+el transporte, entonces
+
+85
+00:08:36,540 --> 00:08:38,500
+se usa más transporte público
+
+86
+00:08:38,500 --> 00:08:40,920
+eso es un beneficio para todos
+
+87
+00:08:40,920 --> 00:08:42,180
+los que se transportan en una ciudad
+
+88
+00:08:42,180 --> 00:08:44,920
+se genera beneficio económico para las aplicaciones
+
+89
+00:08:44,920 --> 00:08:47,720
+que buscan alguna forma de monetizar eso
+
+90
+00:08:47,720 --> 00:08:50,340
+y para las empresas de transporte también es un beneficio
+
+91
+00:08:50,340 --> 00:08:53,680
+porque tienen más clientes, ganan todos ahí.
+
+92
+00:08:53,880 --> 00:08:56,520
+¿Ese sería más o menos el modelo?
+
+93
+00:08:57,120 --> 00:08:58,880
+Sí, sí, totalmente.
+
+94
+00:08:59,540 --> 00:09:07,000
+Lo que hace Reino Unido también es hacer encuestas a los emprendedores.
+
+95
+00:09:07,000 --> 00:09:28,840
+Entonces, esos números salen directamente de los emprendedores que están usando los datos, que le dicen, bueno, mi volumen de negocios ahora es tal. Es como un ida y vuelta, ¿no? Porque también si no se crea esta sinergia o este vínculo, el gobierno no va a poder abrir los datos que están necesitando.
+
+96
+00:09:28,840 --> 00:09:42,460
+Entonces, si no hay ahí un canal de comunicación y datos que puedan mostrar que eso realmente vale la pena, en eso vale la pena invertir, digamos, no se va a llegar.
+
+97
+00:09:42,460 --> 00:10:11,300
+Exacto. Vi otro ejemplo en la nota en el que me sorprendió que hay un proyecto que se llama Labora en México que identificó efectivamente negocios con datos y esta colaboración pública-privada que se dio incentivó, dice la nota, la creación de 17 nuevas bases de datos, que es como lo que me contás en Reino Unido, pero acá más cerca en América Latina. ¿Te acordás que bases de datos se abrieron o cómo fue esa colaboración pública-privada?
+
+98
+00:10:11,300 --> 00:10:29,460
+Sí, Labora fue un piloto que se hizo a través de la coordinación de la Estrategia Digital Nacional, donde se hizo un llamado a emprendedores, un llamado general para decir, ok, estamos buscando firmas que quieran emprender con datos abiertos.
+
+99
+00:10:29,460 --> 00:10:48,900
+Y el sentido, digamos, vinculado al emprendimiento era como bastante amplio, ¿no? Porque, Eva, desde la idea hasta ya tener un producto mínimo viable. Y lo que se les hizo es un acompañamiento constante, primero, para ver qué tipos de datos estaban necesitando.
+
+100
+00:10:48,900 --> 00:11:06,360
+Se hicieron mesas de datos donde se involucraron a funcionarios de otras dependencias para ver si se podían abrir, bueno, estas 17 bases de datos, pero también las bases de datos que estaban abiertas, si se podía mejorar la calidad o se podían integrar con otras.
+
+101
+00:11:06,360 --> 00:11:07,660
+Entonces
+
+102
+00:11:07,660 --> 00:11:10,080
+La Borra es una experiencia
+
+103
+00:11:10,080 --> 00:11:12,100
+Súper, súper interesante
+
+104
+00:11:12,100 --> 00:11:14,340
+Que esperamos que
+
+105
+00:11:14,340 --> 00:11:16,120
+Otros países de la región
+
+106
+00:11:16,120 --> 00:11:18,760
+Puedan implementarla
+
+107
+00:11:18,760 --> 00:11:19,200
+Porque
+
+108
+00:11:19,200 --> 00:11:22,880
+Bueno, Colombia quizás tiene una
+
+109
+00:11:22,880 --> 00:11:24,700
+Ahora si querés podemos hablar también de
+
+110
+00:11:24,700 --> 00:11:26,940
+Tiene como una tradición
+
+111
+00:11:26,940 --> 00:11:28,940
+Más sostenible
+
+112
+00:11:28,940 --> 00:11:30,440
+En el tema, esto fue un piloto
+
+113
+00:11:30,440 --> 00:11:32,520
+Y el segundo La Borra
+
+114
+00:11:32,520 --> 00:11:33,380
+Todavía no llega
+
+115
+00:11:33,380 --> 00:11:36,020
+Pero bueno, fue un momento
+
+116
+00:11:36,020 --> 00:11:37,580
+de escucha activa, o sea
+
+117
+00:11:37,580 --> 00:11:39,740
+de escuchar a los emprendedores
+
+118
+00:11:39,740 --> 00:11:41,840
+ver qué necesitan, ver qué están
+
+119
+00:11:41,840 --> 00:11:42,480
+haciendo
+
+120
+00:11:42,480 --> 00:11:45,300
+fue súper interesante
+
+121
+00:11:45,300 --> 00:11:46,620
+bueno
+
+122
+00:11:46,620 --> 00:11:48,760
+y tengo un caso más
+
+123
+00:11:48,760 --> 00:11:51,560
+que en este caso
+
+124
+00:11:51,560 --> 00:11:53,240
+no es iniciativa del gobierno sino de
+
+125
+00:11:53,240 --> 00:11:54,980
+una organización
+
+126
+00:11:54,980 --> 00:11:57,280
+civil a tu servicio
+
+127
+00:11:57,280 --> 00:11:58,100
+en Uruguay
+
+128
+00:11:58,100 --> 00:12:00,960
+mediante pedido de acceso a la información
+
+129
+00:12:00,960 --> 00:12:02,920
+y alguna especie de reclamo
+
+130
+00:12:02,920 --> 00:12:04,240
+consiguieron que se abran datos
+
+131
+00:12:04,240 --> 00:12:11,780
+de los servicios de salud, de las obras sociales y eso generó que la gente tuviera muchísima mejor información
+
+132
+00:12:11,780 --> 00:12:15,940
+para elegir cuál era su servicio de salud. ¿Cómo fue ese caso?
+
+133
+00:12:15,940 --> 00:12:27,140
+Sí, a tu servicio fue un vínculo entre el Ministerio de Salud en Uruguay y la organización Data
+
+134
+00:12:27,140 --> 00:12:34,860
+que lo que hicieron fue ver un montón de registros vinculados a las prestadoras de salud en Uruguay
+
+135
+00:12:34,860 --> 00:12:39,940
+y todos los datos que tenía el Ministerio de Salud vinculado a eso.
+
+136
+00:12:40,760 --> 00:12:48,540
+Y bueno, según el modelo de prestación que tiene Uruguay, la gente se podía enrolar,
+
+137
+00:12:48,540 --> 00:12:52,920
+o sea, podía cambiar su prestador, creo que era dos veces al año.
+
+138
+00:12:53,160 --> 00:12:53,640
+Sí, sí.
+
+139
+00:12:53,640 --> 00:13:03,960
+Lo que hizo tu servicio es mostrar información para que la gente pueda tomar decisiones informadas
+
+140
+00:13:03,960 --> 00:13:08,100
+de si se quedaban con su prestador actual o podían cambiar a otro.
+
+141
+00:13:08,100 --> 00:13:13,980
+Y ahí se generaron un montón de indicadores de calidad vinculados a la información que tenía el Ministerio de Salud.
+
+142
+00:13:14,060 --> 00:13:19,600
+Por ejemplo, el precio promedio de atención, la calidad del servicio.
+
+143
+00:13:19,600 --> 00:13:31,540
+Y en muchos casos, claro, al abrir los datos, hay un estudio de Fabricio Scroolini que cuenta ahí los resultados de a tu servicio.
+
+144
+00:13:32,020 --> 00:13:37,900
+Se tenían, por ejemplo, reducciones en los precios de los medicamentos y de las prestaciones.
+
+145
+00:13:38,320 --> 00:13:38,800
+Buenísimo.
+
+146
+00:13:38,820 --> 00:13:43,380
+Claro, al mostrar esa data tuvo un montón de resultados.
+
+147
+00:13:43,380 --> 00:13:51,420
+Porque la gente, claro, lo que no podés medir, no podés intervenir lo que no podés medir.
+
+148
+00:13:53,700 --> 00:13:58,380
+Entonces, bueno, tu servicio fue un gran ejemplo que también...
+
+149
+00:13:59,300 --> 00:14:07,920
+Y un invitado me dijo en una entrevista una vez que los datos son como parte de la infraestructura de la ciudad.
+
+150
+00:14:07,920 --> 00:14:11,500
+O sea, que un gobierno puede hacer un puente o puede abrir datos
+
+151
+00:14:11,500 --> 00:14:17,240
+y las dos cosas van a ayudar a que la ciudadanía y las empresas se desarrollen.
+
+152
+00:14:17,360 --> 00:14:18,720
+¿Te parece que lo podemos mirar así?
+
+153
+00:14:18,860 --> 00:14:22,140
+¿Que abrir datos es como agregar una nueva infraestructura a tu ciudad
+
+154
+00:14:22,140 --> 00:14:23,280
+que va a ayudar a las empresas?
+
+155
+00:14:24,240 --> 00:14:28,960
+Si tenés un mecanismo que te permita conocer a la demanda, sí.
+
+156
+00:14:29,740 --> 00:14:33,220
+Ahora, eso es un desafío, ¿no?
+
+157
+00:14:34,000 --> 00:14:37,240
+Bueno, la ciudad quizás es mucho más visible
+
+158
+00:14:37,240 --> 00:14:44,380
+porque las ciudades generan un montón de datos y son el primer bastión del gobierno, ¿no?
+
+159
+00:14:44,440 --> 00:14:51,000
+Es donde realmente está el cara a cara entre el vecino, la vecina y el gobierno.
+
+160
+00:14:52,260 --> 00:14:57,880
+Pero sí es muy necesario como establecer mecanismos donde se encuentren
+
+161
+00:14:57,880 --> 00:15:02,320
+y también, digamos, se entienda la demanda y las necesidades.
+
+162
+00:15:02,720 --> 00:15:04,320
+Si no es...
+
+163
+00:15:04,320 --> 00:15:21,840
+Bien, o sea, no es que yo abro los datos y mágicamente los emprendedores van a venir. Parte de la política pública de apertura es fomentar que ese ecosistema opine, use y pida cambios. Eso es así.
+
+164
+00:15:21,840 --> 00:15:30,460
+Sí, total retroalimentación. O sea, si no hay retroalimentación, la apertura se queda solamente en tener una base de datos bonita en un portal.
+
+165
+00:15:31,760 --> 00:15:42,680
+Lo mismo, o sea, ahora estamos hablando de emprendedores, pero lo mismo hay un montón de colectivos que necesitan utilizar datos para visibilizar sus demandas y ahí también.
+
+166
+00:15:42,680 --> 00:15:54,160
+O sea, ahí hay que abrir canales con la ciudadanía o con las organizaciones para ver qué datos están necesitando para poder mostrar que ahí hay un problema y que hay que resolverlo.
+
+167
+00:15:54,160 --> 00:15:56,520
+y en esto de
+
+168
+00:15:56,520 --> 00:15:59,820
+me dijiste al principio
+
+169
+00:15:59,820 --> 00:16:01,740
+que América Latina tenía
+
+170
+00:16:01,740 --> 00:16:04,180
+4 o 5 gobiernos líderes
+
+171
+00:16:04,180 --> 00:16:05,680
+en materia de datos abiertos entre los
+
+172
+00:16:05,680 --> 00:16:06,880
+mejores 20 del mundo
+
+173
+00:16:06,880 --> 00:16:09,800
+pero te quería preguntar en relación a
+
+174
+00:16:09,800 --> 00:16:11,820
+salir a buscar el ecosistema
+
+175
+00:16:11,820 --> 00:16:13,300
+fomentarlo y generarlo
+
+176
+00:16:13,300 --> 00:16:15,820
+¿estamos bien? a mí me da un poco la sensación de que
+
+177
+00:16:15,820 --> 00:16:17,700
+me contaste el proyecto Labora
+
+178
+00:16:17,700 --> 00:16:19,840
+Apps.co, lo que pasó con tu servicio
+
+179
+00:16:19,840 --> 00:16:21,560
+¿te parece que tenemos
+
+180
+00:16:21,560 --> 00:16:23,640
+la suficiente cantidad de casos? ¿te parece
+
+181
+00:16:23,640 --> 00:16:25,620
+que es parte, que tenemos mucha transparencia
+
+182
+00:16:25,620 --> 00:16:27,800
+y poco de esto o estamos también bien en esto?
+
+183
+00:16:28,120 --> 00:16:29,740
+En términos de uso son
+
+184
+00:16:29,740 --> 00:16:31,320
+la verdad algunos los países
+
+185
+00:16:31,320 --> 00:16:32,940
+que están
+
+186
+00:16:32,940 --> 00:16:35,040
+relativamente bien
+
+187
+00:16:35,040 --> 00:16:37,380
+por ejemplo
+
+188
+00:16:37,380 --> 00:16:39,320
+bueno, sí
+
+189
+00:16:39,320 --> 00:16:41,480
+en la publicación que aparece abajo
+
+190
+00:16:41,480 --> 00:16:43,600
+de los datos abiertos
+
+191
+00:16:43,600 --> 00:16:45,080
+en América Latina y el Caribe
+
+192
+00:16:45,080 --> 00:16:47,000
+tiene un capítulo donde analizamos
+
+193
+00:16:47,000 --> 00:16:48,960
+el barómetro de los datos abiertos
+
+194
+00:16:48,960 --> 00:16:51,260
+y vemos a los países en términos
+
+195
+00:16:51,260 --> 00:16:53,580
+de preparación, implementación e impacto
+
+196
+00:16:54,360 --> 00:17:01,180
+Entonces ahí tenés países como, bueno, que también coinciden con los líderes, ¿no?
+
+197
+00:17:01,180 --> 00:17:08,900
+Como México, Brasil, Colombia, que están bastante bien en términos de impacto y de uso,
+
+198
+00:17:09,140 --> 00:17:14,180
+pero el resto de América Latina se ha concentrado un poco más en la preparación,
+
+199
+00:17:15,280 --> 00:17:23,400
+que, bueno, obviamente si hay países que todavía no tienen una tradición en términos de apertura grande,
+
+200
+00:17:23,580 --> 00:17:26,120
+Sí se espera que estén en la parte de preparación,
+
+201
+00:17:26,680 --> 00:17:32,140
+pero no hay ningún país que haya como explorado la posibilidad de empezar por el uso.
+
+202
+00:17:32,140 --> 00:17:37,600
+O sea, de decir, bueno, ok, la regulación la empiezo un poquitito después
+
+203
+00:17:37,600 --> 00:17:39,420
+o voy haciendo camino al andar.
+
+204
+00:17:40,060 --> 00:17:44,280
+Primero como que me pongo a generar un buen caso de uso
+
+205
+00:17:44,280 --> 00:17:49,560
+que me permita como lograr visibilidad y juntar adeptos
+
+206
+00:17:49,560 --> 00:17:54,560
+y después, digamos, sigo como abriendo datos.
+
+207
+00:17:55,140 --> 00:17:55,820
+Bien, bien, bien.
+
+208
+00:17:55,820 --> 00:17:59,580
+Sí, y ¿sabes qué? También en términos de medición de impacto.
+
+209
+00:18:00,100 --> 00:18:06,060
+O sea, todas las menciones que hay en el blog en cuanto a los billones, los trillones
+
+210
+00:18:06,060 --> 00:18:11,160
+que generan de valor económico, que generan los datos abiertos,
+
+211
+00:18:11,160 --> 00:18:16,380
+son todos casos de Europa, o sea, de España, de Reino Unido.
+
+212
+00:18:16,660 --> 00:18:18,560
+Bueno, hay un estudio de la Unión Europea también,
+
+213
+00:18:18,560 --> 00:18:21,100
+donde intenta hacer la medición
+
+214
+00:18:21,100 --> 00:18:22,860
+en América Latina todavía
+
+215
+00:18:22,860 --> 00:18:25,520
+no encontramos una medición
+
+216
+00:18:25,520 --> 00:18:27,320
+rigurosa para poder
+
+217
+00:18:27,320 --> 00:18:28,860
+decir bueno este es el valor
+
+218
+00:18:28,860 --> 00:18:30,640
+económico alrededor de
+
+219
+00:18:30,640 --> 00:18:32,840
+o sea ni siquiera te digo
+
+220
+00:18:32,840 --> 00:18:35,040
+a nivel global de un país
+
+221
+00:18:35,040 --> 00:18:36,820
+a nivel de una
+
+222
+00:18:36,820 --> 00:18:39,160
+aplicación o a nivel
+
+223
+00:18:39,160 --> 00:18:41,120
+de un sector entonces hay como
+
+224
+00:18:41,120 --> 00:18:42,860
+que empezar a pensar como
+
+225
+00:18:42,860 --> 00:18:44,440
+medimos eso
+
+226
+00:18:44,440 --> 00:18:47,080
+para que nos pueda ayudar
+
+227
+00:18:47,080 --> 00:18:49,320
+hacer sensibilización y a poder comunicar
+
+228
+00:18:49,320 --> 00:18:51,520
+de la importancia de abrir datos de calidad
+
+229
+00:18:51,520 --> 00:18:52,920
+bien
+
+230
+00:18:52,920 --> 00:18:55,220
+para afuera
+
+231
+00:18:55,220 --> 00:18:57,360
+pareciera que las empresas
+
+232
+00:18:57,360 --> 00:18:58,640
+y los emprendedores están
+
+233
+00:18:58,640 --> 00:19:01,520
+empezando a buscar datos para sacarle el valor
+
+234
+00:19:01,520 --> 00:19:02,980
+¿te parece que eso
+
+235
+00:19:02,980 --> 00:19:05,480
+falta en los
+
+236
+00:19:05,480 --> 00:19:07,460
+gobiernos? o sea los funcionarios
+
+237
+00:19:07,460 --> 00:19:08,800
+los que toman decisiones
+
+238
+00:19:08,800 --> 00:19:11,440
+se sientan a una mesa a mirar datos
+
+239
+00:19:11,440 --> 00:19:13,540
+para también tener
+
+240
+00:19:13,540 --> 00:19:15,320
+éxito en sus políticas
+
+241
+00:19:15,320 --> 00:19:17,080
+públicas o para monitorearlas
+
+242
+00:19:17,080 --> 00:19:19,260
+y mejorarlas, para lo que sea. ¿Te parece
+
+243
+00:19:19,260 --> 00:19:21,240
+que eso está pasando más afuera de los
+
+244
+00:19:21,240 --> 00:19:23,180
+gobiernos que adentro o también en los gobiernos
+
+245
+00:19:23,180 --> 00:19:25,460
+lo ves con futuro?
+
+246
+00:19:26,240 --> 00:19:27,340
+No, eso
+
+247
+00:19:27,340 --> 00:19:29,180
+está empezando a
+
+248
+00:19:29,180 --> 00:19:30,460
+pasar.
+
+249
+00:19:31,140 --> 00:19:33,120
+Por ejemplo, Ciudad de Buenos Aires es un
+
+250
+00:19:33,120 --> 00:19:35,060
+caso donde se generan
+
+251
+00:19:35,060 --> 00:19:36,920
+un montón de actividades
+
+252
+00:19:36,920 --> 00:19:37,620
+al año,
+
+253
+00:19:38,320 --> 00:19:41,120
+donde se juntan todos los funcionarios
+
+254
+00:19:41,120 --> 00:19:42,720
+encargados de la apertura de datos,
+
+255
+00:19:43,280 --> 00:19:45,100
+se diseminan temas importantes como
+
+256
+00:19:45,100 --> 00:19:47,580
+Data Analytics o cursos de Data Science
+
+257
+00:19:47,580 --> 00:19:49,340
+para poder explotar esa información
+
+258
+00:19:49,340 --> 00:19:51,300
+y se hace mucho hincapié en
+
+259
+00:19:51,300 --> 00:19:53,420
+abramos datos de calidad.
+
+260
+00:19:54,620 --> 00:19:55,260
+También
+
+261
+00:19:55,260 --> 00:19:57,060
+hay otra cosa que
+
+262
+00:19:57,060 --> 00:19:59,520
+está vinculada también al tema
+
+263
+00:19:59,520 --> 00:20:01,540
+del uso de datos
+
+264
+00:20:01,540 --> 00:20:03,600
+por parte de emprendedores, que a veces
+
+265
+00:20:03,600 --> 00:20:05,100
+al funcionario público
+
+266
+00:20:05,100 --> 00:20:07,040
+tiene la obligación
+
+267
+00:20:07,040 --> 00:20:09,500
+de abrir datos, pero
+
+268
+00:20:09,500 --> 00:20:11,400
+quizás si hace
+
+269
+00:20:11,400 --> 00:20:13,600
+media milla más, lo logra
+
+270
+00:20:13,600 --> 00:20:15,760
+abrir con la calidad necesaria
+
+271
+00:20:15,760 --> 00:20:17,520
+para que un extranjero lo pueda utilizar
+
+272
+00:20:17,520 --> 00:20:19,340
+y ahí es muy importante
+
+273
+00:20:19,340 --> 00:20:21,240
+que las oficinas nacionales
+
+274
+00:20:21,240 --> 00:20:23,920
+o que las oficinas responsables
+
+275
+00:20:23,920 --> 00:20:26,360
+políticamente
+
+276
+00:20:26,360 --> 00:20:27,700
+de la apertura de datos
+
+277
+00:20:27,700 --> 00:20:30,020
+hagan sensibilización
+
+278
+00:20:30,020 --> 00:20:30,780
+por ejemplo
+
+279
+00:20:30,780 --> 00:20:32,740
+Hilda hizo un curso
+
+280
+00:20:32,740 --> 00:20:35,460
+dedicado exclusivamente
+
+281
+00:20:35,460 --> 00:20:37,220
+a funcionarios públicos
+
+282
+00:20:37,220 --> 00:20:38,360
+también se llamaron
+
+283
+00:20:38,360 --> 00:20:41,300
+algunas personas de la academia
+
+284
+00:20:41,300 --> 00:20:43,140
+para diseminar
+
+285
+00:20:43,140 --> 00:20:45,540
+la importancia de abrir datos
+
+286
+00:20:45,540 --> 00:20:47,120
+y utilizar datos para
+
+287
+00:20:47,120 --> 00:20:49,220
+generar política pública basada
+
+288
+00:20:49,220 --> 00:20:49,960
+en evidencia.
+
+289
+00:20:50,840 --> 00:20:52,860
+Y eso es algo que está pasando
+
+290
+00:20:52,860 --> 00:20:54,920
+en América Latina
+
+291
+00:20:54,920 --> 00:20:56,200
+hace dos años.
+
+292
+00:20:56,540 --> 00:20:58,820
+El curso de Islas se implementó
+
+293
+00:20:58,820 --> 00:21:01,140
+en Costa Rica, en Uruguay y en la provincia
+
+294
+00:21:01,140 --> 00:21:02,760
+de Mendoza. Entonces
+
+295
+00:21:02,760 --> 00:21:04,560
+sí, esperamos que haya
+
+296
+00:21:04,560 --> 00:21:06,800
+muchos más países,
+
+297
+00:21:06,800 --> 00:21:08,700
+muchas más provincias y ciudades
+
+298
+00:21:08,700 --> 00:21:09,820
+que lo puedan hacer.
+
+299
+00:21:10,500 --> 00:21:12,900
+Bueno, y hablamos de datos públicos
+
+300
+00:21:12,900 --> 00:21:15,180
+En el caso de a tu servicio
+
+301
+00:21:15,180 --> 00:21:18,000
+Me parece que los datos si bien son de la salud pública
+
+302
+00:21:18,000 --> 00:21:19,700
+Están relacionados a empresas privadas
+
+303
+00:21:19,700 --> 00:21:21,960
+Te quería preguntar si además de los gobiernos
+
+304
+00:21:21,960 --> 00:21:23,400
+Alguien más tiene que abrir datos
+
+305
+00:21:23,400 --> 00:21:25,240
+Porque, no sé, estoy pensando
+
+306
+00:21:25,240 --> 00:21:28,220
+En universidades, en sindicatos
+
+307
+00:21:28,220 --> 00:21:29,640
+Partidos políticos
+
+308
+00:21:29,640 --> 00:21:31,780
+Cámaras de comercio
+
+309
+00:21:31,780 --> 00:21:34,520
+¿Esta infraestructura
+
+310
+00:21:34,520 --> 00:21:36,120
+¿Es solamente datos públicos?
+
+311
+00:21:36,880 --> 00:21:38,840
+¿O ya hay otros actores?
+
+312
+00:21:39,020 --> 00:21:40,420
+¿Están, no están? ¿Deberían estar?
+
+313
+00:21:41,120 --> 00:21:42,320
+Sí, o sea
+
+314
+00:21:42,320 --> 00:22:00,540
+Todo el que tiene datos que no atenten contra temas personales o temas de seguridad nacional, que digamos son las únicas excepciones a la apertura, deberían pensar la manera de empezar a abrir datos.
+
+315
+00:22:00,540 --> 00:22:10,180
+Por ejemplo, en el sector privado hay una iniciativa que se llama Data Collaboratives, que lo que hace es generar incentivos para que las empresas liberen datos.
+
+316
+00:22:10,180 --> 00:22:37,060
+La academia también, muchas veces para hacer investigaciones, genera bases de datos, muchas veces construidas de encuestas, de hogar o, por ejemplo, tomando datos de terreno, pero, digamos, tiene bases de datos súper ricas que podrían ser utilizadas por organizaciones de sociedad civil para, por ejemplo, lo que decíamos antes,
+
+317
+00:22:37,060 --> 00:22:39,120
+de visibilizar demandas
+
+318
+00:22:39,120 --> 00:22:40,840
+o poder contar un problema
+
+319
+00:22:40,840 --> 00:22:42,820
+entonces sí, es súper importante
+
+320
+00:22:42,820 --> 00:22:45,160
+empezar a involucrar a otros
+
+321
+00:22:45,160 --> 00:22:47,280
+actores del ecosistema que se animen
+
+322
+00:22:47,280 --> 00:22:48,000
+a abrir datos
+
+323
+00:22:48,000 --> 00:22:50,960
+Bueno, tengo una pregunta
+
+324
+00:22:50,960 --> 00:22:53,200
+un poco más yendo a lo
+
+325
+00:22:53,200 --> 00:22:54,920
+laboral o personal si querés
+
+326
+00:22:54,920 --> 00:22:57,080
+si te convocara al presidente
+
+327
+00:22:57,080 --> 00:22:58,800
+del país que vos quieras
+
+328
+00:22:58,800 --> 00:23:01,140
+a tener una función
+
+329
+00:23:01,140 --> 00:23:03,300
+más de decisión política, alguna secretaría
+
+330
+00:23:03,300 --> 00:23:05,000
+algún ministerio vinculado a estos temas para
+
+331
+00:23:05,000 --> 00:23:06,600
+desarrollar fuertemente
+
+332
+00:23:06,600 --> 00:23:09,140
+esta agenda sobre la que tanto conoces
+
+333
+00:23:09,140 --> 00:23:11,380
+vos aceptarías
+
+334
+00:23:11,380 --> 00:23:12,740
+es algo que te gustaría
+
+335
+00:23:12,740 --> 00:23:14,720
+es algo que preferirías no hacer
+
+336
+00:23:14,720 --> 00:23:16,500
+ay que difícil
+
+337
+00:23:16,500 --> 00:23:18,760
+que difícil hablar de uno
+
+338
+00:23:18,760 --> 00:23:21,300
+no me encantaría
+
+339
+00:23:21,300 --> 00:23:22,000
+obviamente
+
+340
+00:23:22,000 --> 00:23:23,960
+la verdad es que
+
+341
+00:23:23,960 --> 00:23:24,680
+si si si
+
+342
+00:23:24,680 --> 00:23:27,720
+te parece que falta un poco
+
+343
+00:23:27,720 --> 00:23:29,640
+de ese compromiso
+
+344
+00:23:29,640 --> 00:23:31,860
+en actores que están o en la sociedad civil
+
+345
+00:23:31,860 --> 00:23:33,240
+o en el sector privado
+
+346
+00:23:33,240 --> 00:23:35,040
+de involucrarse porque
+
+347
+00:23:35,040 --> 00:23:37,220
+es un lugar de exposición
+
+348
+00:23:37,220 --> 00:23:39,400
+y seguramente
+
+349
+00:23:39,400 --> 00:23:41,260
+no debe ser una tarea fácil
+
+350
+00:23:41,260 --> 00:23:43,180
+que exige un porcentaje de
+
+351
+00:23:43,180 --> 00:23:45,380
+tiempo y de esfuerzo, en algunos
+
+352
+00:23:45,380 --> 00:23:47,260
+casos es muy grande. ¿Te parece
+
+353
+00:23:47,260 --> 00:23:49,200
+que falta un poco de compromiso
+
+354
+00:23:49,200 --> 00:23:50,900
+de la lectura de afuera o te parece que estamos bien?
+
+355
+00:23:51,980 --> 00:23:53,160
+No, yo creo que
+
+356
+00:23:53,160 --> 00:23:55,160
+en América Latina estamos bien.
+
+357
+00:23:55,420 --> 00:23:57,120
+Sí faltan algunas cosas, pero
+
+358
+00:23:57,120 --> 00:23:58,820
+me parece que es más un tema
+
+359
+00:23:58,820 --> 00:24:00,780
+de comunicación,
+
+360
+00:24:00,780 --> 00:24:02,520
+de mostrar lo que estamos
+
+361
+00:24:02,520 --> 00:24:04,600
+haciendo. No tanto de
+
+362
+00:24:04,600 --> 00:24:06,660
+falta de compromiso
+
+363
+00:24:06,660 --> 00:24:09,020
+ni ganas
+
+364
+00:24:09,020 --> 00:24:11,180
+me parece que tenemos un ecosistema
+
+365
+00:24:11,180 --> 00:24:13,140
+súper vibrante que está haciendo un montón
+
+366
+00:24:13,140 --> 00:24:13,780
+de cosas
+
+367
+00:24:13,780 --> 00:24:16,620
+y hay que
+
+368
+00:24:16,620 --> 00:24:18,820
+empezar a diseminarlas
+
+369
+00:24:18,820 --> 00:24:21,040
+también para que los que vienen aprendan
+
+370
+00:24:21,040 --> 00:24:22,880
+de los que ya hace rato que están
+
+371
+00:24:22,880 --> 00:24:25,040
+y que ya han hecho cosas y que algunos se han
+
+372
+00:24:25,040 --> 00:24:26,880
+equivocado y a otros les ha ido muy bien
+
+373
+00:24:26,880 --> 00:24:29,080
+pero que han
+
+374
+00:24:29,080 --> 00:24:30,960
+tenido la oportunidad de iterar ideas
+
+375
+00:24:30,960 --> 00:24:33,120
+y de poder innovar
+
+376
+00:24:33,120 --> 00:24:35,080
+entonces me parece que sí
+
+377
+00:24:35,080 --> 00:24:37,180
+que como comunidad tenemos como que
+
+378
+00:24:37,180 --> 00:24:39,240
+empezar a compartir
+
+379
+00:24:39,240 --> 00:24:39,860
+un poco más
+
+380
+00:24:39,860 --> 00:24:43,300
+y entender que también los errores
+
+381
+00:24:43,300 --> 00:24:45,280
+son parte del aprendizaje
+
+382
+00:24:45,280 --> 00:24:47,360
+eso también, porque siempre compartimos
+
+383
+00:24:47,360 --> 00:24:48,740
+todo lo bueno que nos pasa
+
+384
+00:24:48,740 --> 00:24:52,100
+y no contamos
+
+385
+00:24:52,100 --> 00:24:53,320
+mirá, me equivoqué
+
+386
+00:24:53,320 --> 00:24:55,360
+o sea, quise hacer esto y me di cuenta
+
+387
+00:24:55,360 --> 00:24:57,160
+que la verdad que
+
+388
+00:24:57,160 --> 00:24:59,420
+abrí este dataset y nadie lo está
+
+389
+00:24:59,420 --> 00:25:00,060
+utilizando
+
+390
+00:25:00,060 --> 00:25:02,760
+quizás encontrás del otro lado a alguien
+
+391
+00:25:02,760 --> 00:25:04,580
+que te dice, no, mira, la verdad es que no
+
+392
+00:25:04,580 --> 00:25:06,480
+lo están utilizando porque
+
+393
+00:25:06,480 --> 00:25:08,620
+no sé, o no tienen la calidad
+
+394
+00:25:08,620 --> 00:25:10,680
+o no estás hablando con la
+
+395
+00:25:10,680 --> 00:25:12,480
+persona adecuada que lo pueda utilizar
+
+396
+00:25:12,480 --> 00:25:14,680
+me parece
+
+397
+00:25:14,680 --> 00:25:16,800
+que quedó por ahí, ah, en mi
+
+398
+00:25:16,800 --> 00:25:18,960
+opinión, ¿eh? Sí, sí, sí, por supuesto
+
+399
+00:25:18,960 --> 00:25:20,800
+última pregunta
+
+400
+00:25:20,800 --> 00:25:21,520
+Florencia
+
+401
+00:25:21,520 --> 00:25:24,640
+este podcast se llama Cadena
+
+402
+00:25:24,640 --> 00:25:26,720
+de Datos porque la idea es ir encadenando
+
+403
+00:25:26,720 --> 00:25:28,680
+los invitados a través
+
+404
+00:25:28,680 --> 00:25:31,280
+de las personas que participan de las entrevistas
+
+405
+00:25:31,280 --> 00:25:32,740
+¿qué actores te parece
+
+406
+00:25:32,740 --> 00:25:35,120
+que dos o tres
+
+407
+00:25:35,120 --> 00:25:36,940
+personas que te parecería interesante poder
+
+408
+00:25:36,940 --> 00:25:37,960
+convocar este espacio?
+
+409
+00:25:39,300 --> 00:25:40,780
+vinculado a lo que estamos
+
+410
+00:25:40,780 --> 00:25:44,080
+a datos abiertos
+
+411
+00:25:44,080 --> 00:25:44,940
+porque yo estaba
+
+412
+00:25:44,940 --> 00:25:46,980
+pensando nominar
+
+413
+00:25:46,980 --> 00:25:48,900
+a las personas que participaron
+
+414
+00:25:48,900 --> 00:25:50,920
+en el panel
+
+415
+00:25:50,920 --> 00:25:52,860
+y en el taller que tuvimos
+
+416
+00:25:52,860 --> 00:25:54,500
+en Quito
+
+417
+00:25:54,500 --> 00:25:57,160
+que bueno tuvimos a dos personas de gobierno
+
+418
+00:25:57,160 --> 00:25:59,200
+uno es Martina Laludo de Ciudad de Buenos Aires
+
+419
+00:25:59,200 --> 00:26:01,160
+y otras Auras y Fuentes
+
+420
+00:26:01,160 --> 00:26:03,360
+que trabaja en la Dirección Nacional
+
+421
+00:26:03,360 --> 00:26:05,080
+de Planeamiento de Colombia, que fueron
+
+422
+00:26:05,080 --> 00:26:07,200
+panelistas y contaron sus experiencias
+
+423
+00:26:07,200 --> 00:26:08,980
+de trabajo con emprendedores
+
+424
+00:26:08,980 --> 00:26:10,180
+buenísimo
+
+425
+00:26:10,180 --> 00:26:13,180
+y después, bueno, en nuestro
+
+426
+00:26:13,180 --> 00:26:15,460
+caso emblemático
+
+427
+00:26:15,460 --> 00:26:17,260
+de datos
+
+428
+00:26:17,260 --> 00:26:19,380
+abiertos y emprendimientos
+
+429
+00:26:19,380 --> 00:26:20,460
+que es Properati, ¿no?
+
+430
+00:26:21,600 --> 00:26:22,800
+Martín Charzales
+
+431
+00:26:22,800 --> 00:26:25,200
+claro, que tiene, o sea, lo bueno de
+
+432
+00:26:25,200 --> 00:26:27,220
+Properati, perdón que no hablamos tanto
+
+433
+00:26:27,220 --> 00:26:29,040
+de Properati, pero ese es un
+
+434
+00:26:29,040 --> 00:26:31,080
+súper ejemplo. Tiene enbebido
+
+435
+00:26:31,080 --> 00:26:32,740
+el tema de la apertura desde que
+
+436
+00:26:32,740 --> 00:26:35,120
+empieza, ¿no? O sea, abre
+
+437
+00:26:35,120 --> 00:26:37,120
+datos que en algunos, digamos,
+
+438
+00:26:37,300 --> 00:26:39,500
+otros ejemplos
+
+439
+00:26:39,500 --> 00:26:41,480
+de soluciones
+
+440
+00:26:41,480 --> 00:26:43,340
+similares, no necesariamente
+
+441
+00:26:43,340 --> 00:26:45,180
+los abren. Ellos deciden abrirlos.
+
+442
+00:26:45,200 --> 00:26:46,160
+No, no, yo creo que son los únicos.
+
+443
+00:26:46,640 --> 00:26:49,080
+Sí, y además, cuando llegan a una
+
+444
+00:26:49,080 --> 00:26:51,220
+ciudad, trabajan codo a codo
+
+445
+00:26:51,220 --> 00:26:52,680
+y demandan
+
+446
+00:26:52,680 --> 00:26:54,420
+que les abran datos,
+
+447
+00:26:54,420 --> 00:26:58,220
+con determinados formatos
+
+448
+00:26:58,220 --> 00:26:59,720
+y es un trabajo
+
+449
+00:26:59,720 --> 00:27:00,800
+súper interesante
+
+450
+00:27:00,800 --> 00:27:03,860
+regional y que además se está extendiendo
+
+451
+00:27:03,860 --> 00:27:04,800
+a muchas ciudades
+
+452
+00:27:04,800 --> 00:27:07,220
+perfecto, perfecto
+
+453
+00:27:07,220 --> 00:27:08,640
+bueno, te tomo
+
+454
+00:27:08,640 --> 00:27:11,100
+todos estos casos Florencia
+
+455
+00:27:11,100 --> 00:27:12,860
+te despido
+
+456
+00:27:12,860 --> 00:27:15,380
+agradeciéndote muchísimo por este tiempo
+
+457
+00:27:15,380 --> 00:27:16,080
+que te tomaste
+
+458
+00:27:16,080 --> 00:27:18,080
+gracias Andrés, a vos
+
+459
+00:27:18,080 --> 00:27:20,140
+un abrazo, nos vemos
+
+460
+00:27:20,140 --> 00:27:21,440
+un abrazo, chao
+

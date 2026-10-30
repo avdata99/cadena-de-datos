@@ -261,3 +261,7 @@ a { text-underline-offset: 3px; }
 /* ajustes */
 .cd-hero .cd-date { color: var(--cd-pink); opacity: .85; }
 .cd-card-cover, .cd-mini-cover { background-position: center 25%; }
+
+.cd-cadena-promo { color: inherit; text-decoration: none; transition: border-color .15s; }
+.cd-cadena-promo:hover { color: inherit; border-color: var(--cd-accent); }
+.cd-cadena-promo > .bi-diagram-3 { color: var(--cd-accent); }

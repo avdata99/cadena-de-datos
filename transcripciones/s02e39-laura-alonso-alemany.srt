@@ -1,0 +1,1288 @@
+1
+00:00:00,000 --> 00:00:10,980
+Cadena de datos, episodio número 39, de este lado Andrés Vázquez. Hoy me acompaña Laura Alonso Alemani, o Alemani, ya me confirmará.
+
+2
+00:00:11,160 --> 00:00:19,880
+Es profesora en el área de ciencia de la computación en la Facultad de Matemática, Astronomía, Física y Computación de la Universidad Nacional de Córdoba en Argentina.
+
+3
+00:00:20,620 --> 00:00:27,560
+Laura es también licenciada en Lingüística General con una maestría y un doctorado en Lingüística Computacional.
+
+4
+00:00:27,560 --> 00:00:28,880
+Buenas tardes, Laura. ¿Cómo estás?
+
+5
+00:00:30,000 --> 00:00:35,060
+Buenas tardes, muy bien, contenta de estar charlando con vos acá.
+
+6
+00:00:35,340 --> 00:00:39,740
+Bueno, me alegro muchísimo y te agradezco muchísimo que te sumes a esta charla.
+
+7
+00:00:40,160 --> 00:00:52,880
+Voy a arrancar con algo, un dato curioso, estuve leyendo tu currículum y revisé y la palabra lenguaje aparece 58 veces
+
+8
+00:00:52,880 --> 00:00:57,760
+y el término NLP, 19 veces.
+
+9
+00:00:58,480 --> 00:01:05,240
+Me gustaría muchísimo que nos cuentes qué es NLP, o procesamiento de lenguaje natural.
+
+10
+00:01:07,040 --> 00:01:11,420
+Bueno, precisamente el lenguaje natural es un área grande.
+
+11
+00:01:12,220 --> 00:01:18,220
+También se usan otras palabras para referirse a áreas parecidas,
+
+12
+00:01:18,220 --> 00:01:21,820
+como lingüística computacional, de tratamiento temático.
+
+13
+00:01:22,880 --> 00:01:50,360
+Hay gente que dice que la lingüística computacional es más una parte de la lingüística, como las formalizaciones lingüísticas necesarias para su tratamiento computacional y el procesamiento del lenguaje natural sería más bien como los procesos computacionales que tienen que ver con el tratamiento automático de los lenguajes naturales.
+
+14
+00:01:50,360 --> 00:02:11,260
+Y hay una diferencia entre lenguajes naturales, que son los que hablamos los seres humanos oralmente o con señas, y los lenguajes no naturales, que serían los inventados, como los lenguajes de programación o lenguajes que creamos artificialmente.
+
+15
+00:02:11,340 --> 00:02:18,160
+Los lenguajes naturales son lenguajes que surgen así en la naturaleza, que usamos los seres humanos para adaptarnos mejor a nuestro entorno.
+
+16
+00:02:18,160 --> 00:02:25,000
+Bien, y tu trabajo es un poco, o tu área de estudio es un poco entender cómo funciona eso.
+
+17
+00:02:27,560 --> 00:02:43,660
+Entenderlo en términos computacionales, que no es lo mismo, porque una cosa, yo en mi grado, en mi carrera de grado, como que nos formamos en entender el lenguaje, pero luego trasladar esa comprensión a términos computacionales no es trivial,
+
+18
+00:02:43,660 --> 00:02:55,080
+Porque las computadoras no piensan como pensamos los humanos. Los humanos podemos manejar vaguedad, ambigüedad, y eso las computadoras no pueden.
+
+19
+00:02:55,080 --> 00:03:23,220
+Y uno de esos pasos al lenguaje de computación, ¿se puede pensar como forma de datos? O sea, vos, después de que con tus herramientas procesas, me imagino texto, por ejemplo, debe ser una de las formas de trabajar, ¿traducís eso a datos? ¿Hay uso intensivo de dataset o bases de datos, como lo conocemos la gente que venimos del mundo de los datos en tu campo?
+
+20
+00:03:23,220 --> 00:03:43,880
+Sí, totalmente, totalmente. La mayor parte del lenguaje natural que hay en el mundo es oral y no es grabado, por lo menos hasta el aislamiento, pero hay una porción muy grande que queda registrada en formato digital.
+
+21
+00:03:43,880 --> 00:04:03,120
+Ya sean los mensajitos que escribimos, todas las páginas web, todos los documentos y ahora también todos los audios que mandamos. Todo eso son datos, son datos un poco distintos de la idea canónica que tenemos de datos que son tablas relacionales.
+
+22
+00:04:03,120 --> 00:04:18,020
+El lenguaje natural son datos que le llamamos no estructurados, datos secuenciales, datos que tienen también una diferencia grande entre el fenómeno observable y la causa latente.
+
+23
+00:04:18,020 --> 00:04:33,680
+Es decir, nosotros por ahí decimos unas ciertas palabras, pero el significado de lo que decimos, que es lo que realmente quisiéramos tener, la información que nosotros realmente queremos tener, está un poco lejos de esas palabras que quedan registradas.
+
+24
+00:04:33,680 --> 00:04:43,740
+Pero si todo eso son datos, datos, datos, grandes ingentes cantidades de datos que tienen Google o WhatsApp, Facebook, toda esta gente.
+
+25
+00:04:43,740 --> 00:04:57,780
+¿Y qué herramientas hay en tu caja de herramientas para trabajar en esta área? No me refiero tanto a productos de software que me interesan, pero me imagino que también usas lenguaje de programación para trabajar con estos datos.
+
+26
+00:04:57,780 --> 00:05:25,420
+Sí, sí, sí, totalmente. Existen muchísimas librerías, por suerte de código abierto, para trabajar con lenguaje natural, convertir los textos no estructurados a formatos estructurados que puedan ya dentro del pipeline, el flujo de trabajo más estándar de la minería de datos, del procesamiento de datos.
+
+27
+00:05:25,420 --> 00:05:47,940
+Lo que se hace en general es agarrar un texto, sacarle cosas raras, como por ejemplo cuando tenemos muchas S seguidas, sacarle emoticones, por ahí convertirlo todo a minúsculas, por ahí sacarle caracteres extraños,
+
+28
+00:05:47,940 --> 00:05:51,720
+sacar las palabras muy frecuentes
+
+29
+00:05:51,720 --> 00:05:54,040
+que normalmente no te aportan información
+
+30
+00:05:54,040 --> 00:05:57,260
+porque son palabras como la, en, por
+
+31
+00:05:57,260 --> 00:06:00,380
+y sacarle las palabras que son muchísimas
+
+32
+00:06:00,380 --> 00:06:02,160
+y tampoco te aportan mucha información
+
+33
+00:06:02,160 --> 00:06:03,680
+porque ocurren muy pocas veces
+
+34
+00:06:03,680 --> 00:06:08,840
+y luego convertir los textos a una matriz
+
+35
+00:06:08,840 --> 00:06:12,320
+usando estas palabras que quedaron
+
+36
+00:06:12,320 --> 00:06:15,700
+como nuestro espacio
+
+37
+00:06:15,700 --> 00:06:34,960
+Lo que nosotros decimos es que cada una de las palabras sería como una dimensión y los textos son objetos que se encuentran en estas dimensiones. Un texto, por ejemplo, puede tener mucho de caballo, un poco de carrera y otro poquito de victoria.
+
+38
+00:06:34,960 --> 00:06:55,680
+Otro texto puede tener inflación, otro puede tener casos, muertes, ¿sí? Y ahí están posicionando los textos en este espacio de las palabras, que ya es un espacio matemático que podemos entrar dentro del procesamiento de ciencia de datos común y corriente.
+
+39
+00:06:55,680 --> 00:07:11,520
+¿Y tenés algún lenguaje de programación preferido o cada proyecto lo manejas de la mejor forma posible? ¿O tenés un lenguaje de programación base que usas generalmente? ¿Alguno que te guste más, que lo prefieras para este trabajo?
+
+40
+00:07:11,520 --> 00:07:33,000
+Y mira, lo que se está usando mucho son notebooks de Python, porque hay muchas librerías, hay muchísimos ejemplos maravillosos de notebooks que son perfectamente legibles, que uno puede incluso correr en la nube, en un collab o una cosa así.
+
+41
+00:07:33,000 --> 00:07:47,820
+Y eso es lo que se está usando más para prototipar, ¿sí? Luego, para llevar a producción, yo la verdad que no llevo cosas a producción, pero eso ya depende mucho de la infraestructura propia de cada proyecto.
+
+42
+00:07:48,000 --> 00:07:51,820
+Lo cierto es que yo tengo mucho tiempo que no programo, así que...
+
+43
+00:07:51,820 --> 00:07:54,400
+Perfecto.
+
+44
+00:07:54,400 --> 00:08:18,660
+Te lo llevo un ejemplo que a mí me llamó mucho la atención. Hace dos años la facultad en la que trabajas, es un convenio con el Tribunal Superior de Justicia de Córdoba, en el que ellos querían analizar textos legales para identificar entidades y hacer un montón de cosas que al parecer solamente estaban cubiertas por productos privados.
+
+45
+00:08:18,660 --> 00:08:21,980
+y si a los que quede
+
+46
+00:08:21,980 --> 00:08:24,080
+preguntarte qué fue lo que les pidieron
+
+47
+00:08:24,080 --> 00:08:26,020
+y cómo fue
+
+48
+00:08:26,020 --> 00:08:27,800
+el proyecto, si fue exitoso
+
+49
+00:08:27,800 --> 00:08:29,460
+finalmente, si quedó algo funcionando
+
+50
+00:08:29,460 --> 00:08:31,820
+Bueno, mira, este
+
+51
+00:08:31,820 --> 00:08:33,040
+proyecto viene
+
+52
+00:08:33,040 --> 00:08:36,260
+con discontinuidades
+
+53
+00:08:36,260 --> 00:08:37,480
+pero sigue vivo
+
+54
+00:08:37,480 --> 00:08:39,860
+de hecho, este año por segunda
+
+55
+00:08:39,860 --> 00:08:41,740
+vez vamos a tener una mentoría dentro
+
+56
+00:08:41,740 --> 00:08:43,400
+de la diplomatura en ciencia de datos
+
+57
+00:08:43,400 --> 00:08:45,920
+que va a tratar con este proyecto
+
+58
+00:08:45,920 --> 00:08:47,640
+así que
+
+59
+00:08:47,640 --> 00:08:56,420
+le estamos dando continuidad, pero con pocos recursos humanos, digamos, así que va lento.
+
+60
+00:08:56,420 --> 00:09:07,940
+Pero como vos decís, nuestro mayor interés es hacer una prueba de concepto en la que se muestre
+
+61
+00:09:07,940 --> 00:09:14,560
+que con herramientas disponibles de código abierto, muy estándares para procesamiento del lenguaje natural,
+
+62
+00:09:14,560 --> 00:09:32,660
+se puede ofrecer un producto para, una solución más que un producto, ¿no es cierto?, para facilitar el acceso al enorme cuerpo de documentación que necesitan manejar los abogados, los jueces, ¿no es cierto?
+
+63
+00:09:32,660 --> 00:09:49,480
+Es un proceso bastante estándar, pero bueno, se requiere de bastante trabajo para adaptarlo a la idiosincrasia propia de tribunales.
+
+64
+00:09:49,480 --> 00:10:07,860
+Sí, bueno, también sucede que hoy en día, vos lo sabrás, la ciencia de datos es un campo muy de moda y es muy difícil conseguir personas que se interesen en proyectos por ahí menos vistosos, ¿sí?
+
+65
+00:10:07,860 --> 00:10:15,860
+Así que por ahí hemos estado con dificultades para conseguir estudiantes que quieran trabajar en este proyecto
+
+66
+00:10:15,860 --> 00:10:22,180
+y eso, junto con la pandemia, ha venido dificultando el avance.
+
+67
+00:10:22,600 --> 00:10:23,380
+Pero seguimos.
+
+68
+00:10:24,320 --> 00:10:32,660
+Sigue avanzando. ¿Hay formalmente una financiación del Poder Judicial o el Poder Ejecutivo de Córdoba para que ustedes trabajen en esto?
+
+69
+00:10:32,660 --> 00:10:55,500
+No tenemos financiación, esa es una de las principales trabas para conseguir recursos humanos que puedan darle continuidad al proyecto, así que por eso es que estamos siempre dependiendo de que haya estudiantes que decidan llevar a cabo su tesis de grado, por ejemplo, en estos temas.
+
+70
+00:10:55,500 --> 00:11:15,480
+Y bueno, los estudiantes por ahí se deslumbran con los proyectos interesantísimos que hay ahora en el área de inteligencia artificial, ciencia de datos y por ahí estos proyectos que también son súper interesantes, como facilitar el acceso a la documentación legal, quedan un poco relegados.
+
+71
+00:11:15,760 --> 00:11:21,680
+Bueno, me nombraste varias veces y me sirve perfecto de introducción para el siguiente tema que quería conversar contigo.
+
+72
+00:11:22,740 --> 00:11:30,080
+Desde el FAMAF estás trabajando en una diplomatura de ciencia de datos de la que tuve el gusto de participar hace un par de años.
+
+73
+00:11:30,840 --> 00:11:40,620
+Quería preguntarte cuál es tu rol en esa diplomatura y que me la describas más o menos de qué se trata para invitar a los interesados en ciencia de datos para que se sumen.
+
+74
+00:11:40,620 --> 00:12:02,700
+Bueno, esta diplomatura surgió en un momento en el que no había tantas formaciones en ciencia de datos en la región y bueno, la verdad que yo ahora mismo soy la coordinadora, es el segundo año que estoy en la coordinación, antes de eso estuvo Jorge Sánchez dos años en la coordinación
+
+75
+00:12:02,700 --> 00:12:27,720
+Y fuimos un grupo de gente que decidimos que podíamos hacer este esfuerzo, este aporte para acompañar a muchas personas que tenían mucho interés en los primeros pasos para adentrarse en la ciencia de datos.
+
+76
+00:12:27,720 --> 00:12:57,700
+Lo que nosotros observábamos en ese momento, imagínate hace ya más de cuatro años, era que había mucho interés pero muy poco conocimiento, que las personas, las pocas personas que tenían algún conocimiento en ciencia de datos rápidamente podían acceder a muchos cursos online de Stanford, del MIT, de un montón de lugares excelentes que podían acceder a todos estos notebooks que te decía que están ejemplos de código, tutoriales,
+
+77
+00:12:57,720 --> 00:13:25,080
+pero que había una gran cantidad de gente con mucha experiencia industrial, quizás, con mucha trayectoria en instituciones, con estudiantes de grado, con mucho entusiasmo, pero que sentían una barrera para ingresar a la ciencia de datos, o peor todavía, ingresaban de forma muy despareja, con grandes lagunas que llevaban a malas prácticas después,
+
+78
+00:13:25,080 --> 00:13:51,920
+Y eso producía una gran desconfianza porque se desarrollaba un proyecto, el proyecto andaba mal porque había estas diagunas. Entonces, nosotros lo que dijimos fue, nuestro objetivo es acompañar a personas de esta región a ingresar con fundamentos sólidos y con una visión muy aplicada a la ciencia de datos.
+
+79
+00:13:51,920 --> 00:14:15,560
+Porque nosotros tratamos desde el principio de que la formación fuera muy aplicada y la verdad que estamos muy contentos de los resultados que estamos teniendo. Siempre buscamos diversificar lo más posible la cohorte de forma que también estas formaciones alcanzaran al mayor número posible de instituciones, de lugares.
+
+80
+00:14:15,560 --> 00:14:22,160
+y sentimos que se está produciendo un cambio lindo en nuestro entorno acá en Córdoba.
+
+81
+00:14:22,160 --> 00:14:29,900
+Ahora ya hay muchas otras formaciones también a nivel privado y también de las diferentes universidades públicas
+
+82
+00:14:29,900 --> 00:14:38,440
+que se ofrecen en esta área y estamos muy contentos de ver que ahora uno va a cualquier lado
+
+83
+00:14:38,440 --> 00:14:43,880
+y se encuentra personas que tienen una formación y que pueden abordar proyectos interesantes
+
+84
+00:14:43,880 --> 00:14:51,160
+y llevarlos más allá y más allá y más allá, que pueden entender los cursos de Stanford
+
+85
+00:14:51,160 --> 00:14:58,680
+o buscarse los mejores ejemplos de código. Estamos muy satisfechos en ese sentido.
+
+86
+00:14:58,680 --> 00:15:05,900
+Bueno, me imagino que tienen un desafío gigante. Vos lo dejas ver un poco cuando hablas de lagunas y demás.
+
+87
+00:15:06,320 --> 00:15:11,400
+Me imagino que por un lado habemos un montón de programadores, sobre todo los más jóvenes,
+
+88
+00:15:11,400 --> 00:15:15,840
+con ganas de ver de qué se trata la inteligencia artificial,
+
+89
+00:15:16,620 --> 00:15:19,380
+hacer algoritmos que hagan cosas complicadas,
+
+90
+00:15:19,700 --> 00:15:23,580
+la industria queriendo, por supuesto, como corresponde,
+
+91
+00:15:24,100 --> 00:15:25,100
+ganar plata con esto.
+
+92
+00:15:25,160 --> 00:15:29,500
+Y por otro lado está la academia queriendo, me imagino,
+
+93
+00:15:29,580 --> 00:15:32,920
+ordenar un poco y decir, esto no es solamente empezar a programar,
+
+94
+00:15:32,980 --> 00:15:37,500
+sino que detrás hay un fondo matemático y estadístico muy profundo
+
+95
+00:15:37,500 --> 00:15:40,800
+que es necesario conocer para que no pasen esos errores que vos comentabas.
+
+96
+00:15:40,800 --> 00:15:47,580
+Me imagino que ahí tenés una dificultad en conjuga los intereses académicos
+
+97
+00:15:47,580 --> 00:15:49,740
+y los intereses de la industria.
+
+98
+00:15:50,040 --> 00:15:52,720
+¿Eso es un problema para ustedes? ¿Cómo lo resuelven?
+
+99
+00:15:53,600 --> 00:16:04,700
+Mira, la verdad que nosotros conocemos de esas diferentes prioridades.
+
+100
+00:16:04,700 --> 00:16:20,320
+Por un lado está como la prioridad de hacer las cosas rápido y de demostrar resultados que impresionen y por otro lado está la prioridad de hacer cosas sólidas.
+
+101
+00:16:20,320 --> 00:16:37,660
+La suerte que tenemos todos los que estamos trabajando en esto es que en este área tal como es hoy no se llega muy lejos sin unos fundamentos más o menos sólidos.
+
+102
+00:16:37,660 --> 00:16:57,920
+No estamos hablando de hacer un doctorado necesariamente, aunque esta es un área en la que un doctorado hace una diferencia en la industria, las personas con doctorados en ciencia de datos y inteligencia artificial son valoradas y buscadas en la industria,
+
+103
+00:16:57,920 --> 00:17:18,220
+pero en cualquier caso, para cualquier trabajo que tenga que ver con ciencia de datos, no se llega muy lejos sin una base, lo que decías vos, matemática, de probabilidad y también de programación, como no, sólida.
+
+104
+00:17:18,220 --> 00:17:35,520
+Y en ese sentido, no hemos sentido mucha tensión por el lado de las aplicaciones. Sabemos que todo el mundo quiere hacer cosas muy impresionantes, muy vistosas,
+
+105
+00:17:35,520 --> 00:18:01,020
+pero también la mayor parte de personas que vienen a la diplomatura o con las que nos cruzamos saben que no se puede hacer más rápido, no se pueden saltear pasos, porque si te salteas pasos terminas no entendiendo nada de lo que estás haciendo.
+
+106
+00:18:01,020 --> 00:18:17,400
+Igualmente es cierto que la formación que nosotros ofrecemos en la literatura es corta, es corta pero porque parte ya de que los estudiantes tienen una base de estadística, una base de álgebra.
+
+107
+00:18:17,400 --> 00:18:34,660
+En el sentido de la universidad también nos ha dado, ha confiado en nosotros, tenemos dentro del cuerpo de climaturas matemáticos, han cursado muchas personas con doctorado, postdoctorado,
+
+108
+00:18:34,660 --> 00:18:54,680
+Y creemos que valoran cómo nosotros ponemos en juego los fundamentos teóricos, siempre buscando solidificar los fundamentos de las aplicaciones, del trabajo aplicado, del trabajo práctico.
+
+109
+00:18:54,680 --> 00:18:58,900
+Exacto, y en cuanto a la plantilla de profesores
+
+110
+00:18:58,900 --> 00:19:01,820
+la que tienen ustedes, a mi entender
+
+111
+00:19:01,820 --> 00:19:04,840
+es muy interesante y muy buena, pero me imagino
+
+112
+00:19:04,840 --> 00:19:08,680
+que a la hora de financiar esta diplomatura del lado tuyo
+
+113
+00:19:08,680 --> 00:19:12,000
+de la coordinación, hay alguna dificultad porque me imagino
+
+114
+00:19:12,000 --> 00:19:14,200
+que la industria paga muy bien estos conocimientos
+
+115
+00:19:14,200 --> 00:19:17,300
+y las personas que vos tenés dando clases son
+
+116
+00:19:17,300 --> 00:19:21,340
+personas que tienen esos conocimientos y que tranquilamente pueden trabajar
+
+117
+00:19:21,340 --> 00:19:24,400
+en la industria por unos sueldos muy interesantes
+
+118
+00:19:24,400 --> 00:19:29,280
+¿Es un problema conseguir profesores que estén dispuestos a trabajar aquí,
+
+119
+00:19:29,380 --> 00:19:31,860
+teniendo en cuenta la competencia económica grande que hay afuera?
+
+120
+00:19:33,200 --> 00:19:42,260
+Sí, sí, siempre es difícil conseguir que las personas que pueden estar ganando
+
+121
+00:19:42,260 --> 00:19:48,440
+tres, cuatro, cinco veces más afuera, se queden en la universidad.
+
+122
+00:19:48,440 --> 00:20:05,680
+pero por otro lado la universidad pública también genera un compromiso en las personas que tienen ganas como de devolver lo que recibieron, también como de generar un impacto en su entorno.
+
+123
+00:20:05,680 --> 00:20:23,040
+Nosotros hemos tratado de ofrecer buenas condiciones a los profesores, ofrecer facilidades para que puedan desarrollar su trabajo. Tenemos una política, como decimos con Jorge, de no sufrimiento.
+
+124
+00:20:23,040 --> 00:20:38,660
+Así que tratamos de encontrar una forma de que el trabajo sea una satisfacción más que algo pesado.
+
+125
+00:20:39,360 --> 00:20:46,540
+Pero bueno, sí, sí, se complica. Siempre es uno de los temas más difíciles de resolver.
+
+126
+00:20:47,420 --> 00:20:50,600
+Hasta ahora creo que venimos resolviéndolo bastante bien.
+
+127
+00:20:50,600 --> 00:21:10,060
+Bien, bien, perfecto. Y una vez que un profesional en esta área empieza a ejercer, estamos escuchando mucho últimamente sobre que hay algoritmos y que estos algoritmos tienen sesgos y que toda esta cosa que nos parece tan genial probablemente sea peligrosa.
+
+128
+00:21:10,060 --> 00:21:28,000
+Te quería preguntar, un profesional en ciencia de datos, ¿con qué cosas tiene que cuidarse para no llegar a cometer algunos de estos errores graves que vemos a la hora de aplicar algoritmos masivamente y sin muchos cuidados?
+
+129
+00:21:28,560 --> 00:21:32,780
+¿Qué es lo que tiene que hacer un profesional de ciencia de datos para no caer en estas trampas?
+
+130
+00:21:32,780 --> 00:21:42,180
+Bueno, hemos estado, me parece que todos como área venimos pensando cada vez más en esto
+
+131
+00:21:42,180 --> 00:21:48,280
+porque en los últimos tiempos, como vos bien decís, han surgido muchos casos que han puesto en evidencia
+
+132
+00:21:48,280 --> 00:21:56,420
+los efectos negativos que pueden llegar a tener las soluciones que desplegamos
+
+133
+00:21:56,420 --> 00:21:59,540
+las soluciones automáticas en general, no solamente las basadas en datos
+
+134
+00:21:59,540 --> 00:22:15,160
+Pero las que son basadas en datos nos enseguecen un poco porque pensamos que los datos son objetivos y no se nos ocurre pensar que tienen sesgos. Y los datos tienen exactamente los mismos sesgos que las sociedades que generan esos datos.
+
+135
+00:22:15,160 --> 00:22:34,240
+Si nosotros somos una sociedad que discrimina por las razones que sean, por religión, por clase social, por color de piel, por género, nuestros datos van a reflejar eso también.
+
+136
+00:22:34,240 --> 00:23:00,440
+No van a ser la verdad que los generó. Y en ese sentido, si nosotros usamos los datos para crear modelos que replican esos datos, lo que puede estar sucediendo es que estemos amplificando esas discriminaciones y esos prejuicios de una manera que excede muchísimo a lo humano.
+
+137
+00:23:00,440 --> 00:23:30,140
+Porque no es lo mismo un policía que esté discriminando durante su jornada laboral que una cámara con un software de reconocimiento facial que esté discriminando las 24 horas del día, los 7 días de la semana, o 1.000 cámaras, o 3.000 cámaras, o 10.000 cámaras en una ciudad que estén haciendo eso sistemáticamente todas las horas del día.
+
+138
+00:23:30,140 --> 00:23:33,660
+todos los días, con los efectos que se puede tener
+
+139
+00:23:33,660 --> 00:23:38,540
+en intimidación de personas, ponerle, de piel más oscura,
+
+140
+00:23:38,660 --> 00:23:40,480
+que ya hemos visto que el reconocimiento facial
+
+141
+00:23:40,480 --> 00:23:43,480
+discrimina efectivamente a las personas de piel más oscura,
+
+142
+00:23:44,380 --> 00:23:49,960
+o privación de libertad, en muchos problemas muy graves.
+
+143
+00:23:50,140 --> 00:23:52,500
+Entonces, lo que tenemos que hacer nosotros
+
+144
+00:23:52,500 --> 00:23:55,680
+como científicos de datos es, en primer lugar,
+
+145
+00:23:56,340 --> 00:23:58,520
+dejar de ser tan ciegos, dejar de pensar
+
+146
+00:23:58,520 --> 00:24:09,560
+que los datos son objetivos, sí, luego cuando estamos pensando una solución, pensar no solamente en lo que tenemos delante
+
+147
+00:24:09,560 --> 00:24:16,280
+que es si maximiza una métrica o no maximiza una métrica, sino pensar en todos los efectos que puede llegar a tener
+
+148
+00:24:16,280 --> 00:24:22,060
+y es muy difícil que nosotros desde nuestro lugar podamos pensar en todos los efectos que puede llegar a tener,
+
+149
+00:24:22,060 --> 00:24:48,400
+Por lo tanto, tenemos que incorporar dentro de nuestro proceso de ideación de las soluciones basadas en datos otras miradas. Y a veces es difícil porque estamos en una organización chiquita o lo que sea, pero una forma linda de incorporar otras miradas es facilitar las quejas de los usuarios, recibirlas e integrarlas.
+
+150
+00:24:48,400 --> 00:25:04,180
+Esa es una buena forma de darnos cuenta de cuando algo no está andando bien. Obviamente es mucho mejor prevenir que recibir quejas, pero bueno, por ahí se pueden hacer las dos cosas, ¿no es cierto?
+
+151
+00:25:04,180 --> 00:25:20,120
+Incorporar otras miradas de las comunidades en las que vamos a desplegar alguna solución. Por ejemplo, si vamos a hacer un sistema automático para asignación de subsidios,
+
+152
+00:25:20,120 --> 00:25:25,580
+incorporar en la ideación y luego en las primeras pruebas
+
+153
+00:25:25,580 --> 00:25:29,860
+a representantes de diferentes sectores sociales
+
+154
+00:25:29,860 --> 00:25:34,080
+a quienes se podría llegar a asignar esos subsidios
+
+155
+00:25:34,080 --> 00:25:37,180
+y ver qué pasa, porque desde nuestra visión
+
+156
+00:25:37,180 --> 00:25:40,120
+está todo perfecto, pero porque a nadie se le ocurre
+
+157
+00:25:40,120 --> 00:25:42,920
+por ejemplo pensar que, por ejemplo,
+
+158
+00:25:43,040 --> 00:25:44,620
+hay un ejemplo que es muy bueno,
+
+159
+00:25:45,500 --> 00:25:47,760
+una televisión con reconocimiento de voz,
+
+160
+00:25:47,760 --> 00:25:54,040
+que uno le dice, pone Canal 7, te pone Canal 7, busca este vídeo en YouTube, te busca el vídeo en YouTube.
+
+161
+00:25:55,700 --> 00:26:02,120
+Ese software reconoce fantásticamente las voces, menos, por ejemplo, las voces de personas con síndrome de Down,
+
+162
+00:26:02,720 --> 00:26:08,280
+que son justamente las que más necesitarían el reconocimiento de voz, ¿no es cierto?
+
+163
+00:26:08,580 --> 00:26:09,100
+Exacto.
+
+164
+00:26:09,100 --> 00:26:18,100
+Eso es muy difícil pensarlo desde la perspectiva de alguien que no convive o no tiene contacto frecuente con personas con síndrome de Down.
+
+165
+00:26:20,160 --> 00:26:21,740
+Totalmente, totalmente, Laura.
+
+166
+00:26:22,980 --> 00:26:29,100
+Te iba a preguntar cuáles eran las posibles soluciones, pero veo que lo incluiste directamente y lo va a ver mucho.
+
+167
+00:26:31,260 --> 00:26:38,020
+El último tema que tengo para hoy, lo quiero introducir con una breve anécdota.
+
+168
+00:26:38,020 --> 00:26:48,940
+Hace algunos meses me llamaron desde el Gobierno Nacional de Argentina para ofrecerme un puesto de trabajo en gestión pública,
+
+169
+00:26:49,020 --> 00:26:55,500
+que me pareció súper interesante. Yo no lo podía tomar, pero cuando me describieron el cargo, yo dije,
+
+170
+00:26:55,640 --> 00:27:04,440
+este trabajo es para Laura, tenía tu nombre el cargo, porque era de ciencia de datos, era un tema para hacer políticas públicas vinculadas a eso.
+
+171
+00:27:04,440 --> 00:27:06,780
+y cuando te escribí me dijiste
+
+172
+00:27:06,780 --> 00:27:08,580
+no, efectivamente ya me lo ofrecieron hace
+
+173
+00:27:08,580 --> 00:27:10,740
+algunas semanas y lo tuve
+
+174
+00:27:10,740 --> 00:27:12,480
+que rechazar. La pregunta es
+
+175
+00:27:12,480 --> 00:27:14,740
+si trabajarías en el sector público
+
+176
+00:27:14,740 --> 00:27:16,320
+en un cargo de gestión política
+
+177
+00:27:16,320 --> 00:27:18,320
+y te
+
+178
+00:27:18,320 --> 00:27:20,380
+quería preguntar por qué
+
+179
+00:27:20,380 --> 00:27:22,460
+no te parece en general posible
+
+180
+00:27:22,460 --> 00:27:24,580
+que personas con tu formación y tu
+
+181
+00:27:24,580 --> 00:27:26,580
+conocimiento terminen en
+
+182
+00:27:26,580 --> 00:27:28,740
+esos cargos, porque en general lo ocupan otras personas
+
+183
+00:27:28,740 --> 00:27:30,320
+no especialistas en estas áreas.
+
+184
+00:27:31,980 --> 00:27:32,540
+Bueno,
+
+185
+00:27:32,540 --> 00:27:47,340
+Es una pregunta que yo llevo haciéndome cada vez más en los últimos tiempos y cada vez estoy más convencida de que efectivamente no es el lugar para mí.
+
+186
+00:27:47,340 --> 00:27:51,900
+Y mira, yo te voy a contestar también con una anécdota.
+
+187
+00:27:52,520 --> 00:27:57,960
+Viste cuando empezó la pandemia que había muchos científicos
+
+188
+00:27:57,960 --> 00:28:02,020
+que salieron a decir, la solución es esta.
+
+189
+00:28:03,020 --> 00:28:06,020
+Y te decían, porque ves, yo te hago un modelo
+
+190
+00:28:06,020 --> 00:28:09,740
+de cómo se propaga la epidemia,
+
+191
+00:28:09,740 --> 00:28:13,240
+entonces hay que hacer esto, esta es la solución.
+
+192
+00:28:13,980 --> 00:28:16,340
+Pero acá estamos, un año y pico más tarde
+
+193
+00:28:16,340 --> 00:28:18,080
+y estamos lejos de ver
+
+194
+00:28:18,080 --> 00:28:19,460
+sí, solución
+
+195
+00:28:19,460 --> 00:28:21,180
+o bueno, con soluciones
+
+196
+00:28:21,180 --> 00:28:24,120
+mucho más complejas
+
+197
+00:28:24,120 --> 00:28:24,400
+porque
+
+198
+00:28:24,400 --> 00:28:27,980
+la ciencia que hacemos
+
+199
+00:28:27,980 --> 00:28:29,780
+nosotros muchas veces
+
+200
+00:28:29,780 --> 00:28:32,020
+sobresimplifica los problemas
+
+201
+00:28:32,020 --> 00:28:33,020
+¿sí?
+
+202
+00:28:33,700 --> 00:28:36,120
+y las sociedades humanas
+
+203
+00:28:36,120 --> 00:28:38,020
+son mucho más complejas
+
+204
+00:28:38,020 --> 00:28:39,700
+que nuestras sobresimplificaciones
+
+205
+00:28:39,700 --> 00:28:40,660
+¿sí?
+
+206
+00:28:41,140 --> 00:28:43,620
+hay diferentes tipos de inteligencia
+
+207
+00:28:43,620 --> 00:28:45,840
+y me parece que las personas que elegimos
+
+208
+00:28:45,840 --> 00:28:55,160
+trabajar en la parte más técnica de la ciencia de datos, probablemente tenemos desarrolladas
+
+209
+00:28:55,160 --> 00:29:01,700
+inteligencias más racionales, pero no las inteligencias que nos permitirían tratar
+
+210
+00:29:01,700 --> 00:29:07,420
+de forma más adecuada con estas complejidades que son propias de lo social.
+
+211
+00:29:07,420 --> 00:29:29,180
+Yo contra más contacto tengo con lo social, más veo mis falencias para tratar con esa complejidad y me saco el sombrero ante la gente que puede hacerlo y pienso cómo puedo ayudar a esa gente,
+
+212
+00:29:29,180 --> 00:29:54,820
+Cómo mis saberes, mis experiencias pueden sumar en estructuras de una forma virtuosa, ¿no? De una forma que realmente sea sumar y no sea decir, ¡ay, no, lo están haciendo mal! Porque lo que tendrían que hacer es no sé qué. Porque obviamente hay muchas cosas que se me escapan desde mi perspectiva sobresimplificadora, ¿no?
+
+213
+00:29:55,700 --> 00:29:56,260
+Perfecto.
+
+214
+00:29:57,100 --> 00:29:57,680
+Sí, eso.
+
+215
+00:29:57,680 --> 00:30:00,080
+Bueno, perfecto
+
+216
+00:30:00,080 --> 00:30:02,440
+una pregunta más con respecto a tu
+
+217
+00:30:02,440 --> 00:30:04,300
+vida laboral, vi en tu currículum que
+
+218
+00:30:04,300 --> 00:30:05,740
+trabajaste 5 años
+
+219
+00:30:05,740 --> 00:30:07,600
+por lo menos 5 años
+
+220
+00:30:07,600 --> 00:30:10,280
+en una empresa de software
+
+221
+00:30:10,280 --> 00:30:12,400
+como Technical Leader, una empresa conocida
+
+222
+00:30:12,400 --> 00:30:14,260
+de Córdoba
+
+223
+00:30:14,260 --> 00:30:16,320
+me imagino que es una empresa totalmente
+
+224
+00:30:16,320 --> 00:30:18,000
+no totalmente, pero muy distinta
+
+225
+00:30:18,000 --> 00:30:20,400
+a la experiencia académica que tenés
+
+226
+00:30:20,400 --> 00:30:22,640
+hoy trabajando en la universidad
+
+227
+00:30:22,640 --> 00:30:24,340
+me parece que finalmente elegiste
+
+228
+00:30:24,340 --> 00:30:26,260
+el mundo académico, pero te quería
+
+229
+00:30:26,260 --> 00:30:27,880
+preguntar si te dan ganas de
+
+230
+00:30:27,880 --> 00:30:30,320
+volver a ese mundo o de compartir
+
+231
+00:30:30,320 --> 00:30:31,900
+tiempo entre los dos o estás
+
+232
+00:30:31,900 --> 00:30:34,120
+excelentemente bien donde estás y no
+
+233
+00:30:34,120 --> 00:30:36,320
+querés cambiar. Mira, yo siempre
+
+234
+00:30:36,320 --> 00:30:38,100
+cuando he trabajado, siempre he trabajado
+
+235
+00:30:38,100 --> 00:30:40,140
+en la universidad y he trabajado
+
+236
+00:30:40,140 --> 00:30:42,520
+en empresas part-time
+
+237
+00:30:42,520 --> 00:30:44,200
+y siempre
+
+238
+00:30:44,200 --> 00:30:46,420
+ha sido con un rol muy
+
+239
+00:30:46,420 --> 00:30:48,520
+de investigación
+
+240
+00:30:48,520 --> 00:30:50,180
+y desarrollo, ¿sí?
+
+241
+00:30:50,460 --> 00:30:52,760
+Muy de pruebas de concepto,
+
+242
+00:30:52,840 --> 00:30:54,060
+de prototipados,
+
+243
+00:30:54,700 --> 00:30:55,540
+de MVPs,
+
+244
+00:30:55,540 --> 00:31:14,930
+Me interesa mucho la empresa como un actor de impulso social. Me parece una cosa muy valiosa y he tenido la suerte
+
+245
+00:31:14,930 --> 00:31:32,430
+de estar en ambientes de crecimiento personal, de conocimiento de los equipos involucrados muy lindos, ¿sí?
+
+246
+00:31:32,430 --> 00:31:49,590
+Pero bueno, lo cierto es que yo no tengo el gusanillo de desplegar toda la parte social que es tan importante en la empresa.
+
+247
+00:31:49,590 --> 00:32:06,050
+En la universidad puedo hacer un trabajo más a largo plazo, más centrado en el contenido que en las aplicaciones de ese contenido.
+
+248
+00:32:06,210 --> 00:32:16,270
+Me interesan mucho las aplicaciones, pero también me interesa el desarrollo a largo plazo y eso es algo que en las empresas en general no tiene tanto lugar.
+
+249
+00:32:16,270 --> 00:32:20,330
+no imposible pero mucho más difícil
+
+250
+00:32:20,330 --> 00:32:24,910
+yo personalmente fui alumno tuyo
+
+251
+00:32:24,910 --> 00:32:27,430
+y estuve en la diplomatura que coordinaste
+
+252
+00:32:27,430 --> 00:32:30,890
+y te agradezco infinitamente que estés a donde estás
+
+253
+00:32:30,890 --> 00:32:34,490
+porque me parece que afectas muy positivamente
+
+254
+00:32:34,490 --> 00:32:36,610
+la vida de mucha gente que pasa por ahí
+
+255
+00:32:36,610 --> 00:32:38,330
+así que para mí es una tranquilidad que vos estés ahí
+
+256
+00:32:38,330 --> 00:32:40,790
+y yo personalmente te agradezco que estés ahí
+
+257
+00:32:40,790 --> 00:32:43,150
+y valoro mucho todo lo que haces
+
+258
+00:32:43,150 --> 00:32:46,470
+Muchas gracias Andrés, te agradezco
+
+259
+00:32:46,470 --> 00:32:48,930
+pero de vuelta no soy yo sola
+
+260
+00:32:48,930 --> 00:32:54,170
+Jorge estuvo ahí, Cristian, Milagro
+
+261
+00:32:54,170 --> 00:32:58,210
+Edgardo Ames, Gaby Miretti
+
+262
+00:32:58,210 --> 00:33:01,250
+Georgina Flessia, Lavalle Ruloni
+
+263
+00:33:01,250 --> 00:33:03,570
+el Mati Marenchino, sin ellos
+
+264
+00:33:03,570 --> 00:33:06,810
+Franco Luque, sin ellos todo esto
+
+265
+00:33:06,810 --> 00:33:10,050
+no se habría podido hacer, el hecho de que ellos
+
+266
+00:33:10,050 --> 00:33:12,090
+creyeran y estuvieron
+
+267
+00:33:12,090 --> 00:33:13,770
+ahí de una forma muy generosa, ¿viste?
+
+268
+00:33:13,770 --> 00:33:15,750
+Que me parece que eso es algo que hemos
+
+269
+00:33:15,750 --> 00:33:17,590
+tratado de enfatizar mucho.
+
+270
+00:33:18,310 --> 00:33:21,250
+guardarse las ideas
+
+271
+00:33:21,250 --> 00:33:23,630
+en este área no sirve para nada, porque
+
+272
+00:33:23,630 --> 00:33:25,370
+ideas tenemos todos, pero
+
+273
+00:33:25,370 --> 00:33:27,270
+implementarlas quiere de un equipo.
+
+274
+00:33:27,750 --> 00:33:29,570
+La diferencia entre tener las ideas
+
+275
+00:33:29,570 --> 00:33:31,750
+y que las ideas sirven para algo, es poder
+
+276
+00:33:31,750 --> 00:33:33,490
+implementarlas. Exacto. Bueno,
+
+277
+00:33:33,990 --> 00:33:35,870
+extiendo personalmente
+
+278
+00:33:35,870 --> 00:33:37,730
+el agradecimiento a todo el
+
+279
+00:33:37,730 --> 00:33:39,770
+equipo que nombraste. Tengo la última pregunta
+
+280
+00:33:39,770 --> 00:33:42,030
+Laura, este podcast se llama Cadena Datos
+
+281
+00:33:42,030 --> 00:33:44,050
+porque la idea es ir encadenando
+
+282
+00:33:44,050 --> 00:33:45,770
+entrevistados y te quería
+
+283
+00:33:45,770 --> 00:33:47,730
+preguntarte si tenés una o dos
+
+284
+00:33:47,730 --> 00:33:49,630
+personas para recomendarme
+
+285
+00:33:49,630 --> 00:33:51,910
+para entrevistar en el futuro
+
+286
+00:33:51,910 --> 00:33:53,770
+Bueno
+
+287
+00:33:53,770 --> 00:33:55,090
+quizás
+
+288
+00:33:55,090 --> 00:33:57,230
+podrías hablar con
+
+289
+00:33:57,230 --> 00:33:58,970
+gente
+
+290
+00:33:58,970 --> 00:34:01,470
+de salud, no sé si has
+
+291
+00:34:01,470 --> 00:34:03,790
+charlado con gente
+
+292
+00:34:03,790 --> 00:34:05,570
+de salud, pero yo ahora estoy trabajando
+
+293
+00:34:05,570 --> 00:34:07,670
+mucho con la oración
+
+294
+00:34:07,670 --> 00:34:10,370
+Sí, sí, la conozco
+
+295
+00:34:10,370 --> 00:34:10,950
+Bueno
+
+296
+00:34:10,950 --> 00:34:13,510
+me parece que
+
+297
+00:34:13,510 --> 00:34:15,950
+la perspectiva de cómo
+
+298
+00:34:15,950 --> 00:34:17,250
+articular
+
+299
+00:34:17,250 --> 00:34:20,090
+la parte
+
+300
+00:34:20,090 --> 00:34:21,910
+académica con
+
+301
+00:34:21,910 --> 00:34:24,250
+toda la complejidad
+
+302
+00:34:24,250 --> 00:34:25,650
+del sistema de salud
+
+303
+00:34:25,650 --> 00:34:28,150
+puede ser algo muy
+
+304
+00:34:28,150 --> 00:34:30,170
+interesante y también
+
+305
+00:34:30,170 --> 00:34:32,030
+quizás podrías hablar con Luciana
+
+306
+00:34:32,030 --> 00:34:33,350
+Benotti que es una persona
+
+307
+00:34:33,350 --> 00:34:36,290
+que está tratando de
+
+308
+00:34:36,290 --> 00:34:54,530
+de que los vínculos entre la comunidad académica, la comunidad internacional y Latinoamérica sean mucho más solidarios que paternalistas.
+
+309
+00:34:54,530 --> 00:35:05,030
+Venimos de un paternalismo que parece paternalismo, pero en el fondo huele mucho a colonialismo.
+
+310
+00:35:06,290 --> 00:35:28,310
+Y bueno, Luciana está trabajando desde hace mucho tiempo, una científica que trabaja en sistemas de diálogo, en la personalidad y reconocida, pero está trabajando mucho para que las relaciones entre Latinoamérica y el norte paternalista colonialista sean mucho mejores a través de lo académico.
+
+311
+00:35:28,310 --> 00:35:31,370
+bueno, las ponemos listas
+
+312
+00:35:31,370 --> 00:35:32,730
+y valoro especialmente
+
+313
+00:35:32,730 --> 00:35:35,290
+tu opinión o tu mirada
+
+314
+00:35:35,290 --> 00:35:36,850
+crítica porque vos venís
+
+315
+00:35:36,850 --> 00:35:39,350
+no tenés
+
+316
+00:35:39,350 --> 00:35:41,130
+nuestra tradicional tona de cordobesa
+
+317
+00:35:41,130 --> 00:35:43,330
+todavía, así que te delata un poco
+
+318
+00:35:43,330 --> 00:35:45,570
+tu origen
+
+319
+00:35:45,570 --> 00:35:46,850
+español
+
+320
+00:35:46,850 --> 00:35:48,670
+muchas gracias Laura, fue un gusto
+
+321
+00:35:48,670 --> 00:35:51,010
+muchas gracias Andrés, ha sido un gusto
+
+322
+00:35:51,010 --> 00:35:51,630
+muy grande
+

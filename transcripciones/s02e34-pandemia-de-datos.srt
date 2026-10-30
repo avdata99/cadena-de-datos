@@ -1,0 +1,2276 @@
+1
+00:00:00,500 --> 00:00:21,260
+Cadena de datos, episodio número 34. En este contexto de crisis y preocupación por la pandemia, donde todos queremos saber qué pasó ahora, qué tan grave es lo que está pasando y qué va a pasar en las próximas semanas, me surgieron algunas dudas acerca de la política de apertura y de uso de los datos por parte de la comunidad relacionada a este tema.
+
+2
+00:00:21,260 --> 00:00:25,700
+así que a diferencia de los otros episodios no va a ser la entrevista a una persona
+
+3
+00:00:25,700 --> 00:00:30,680
+sino que invité a múltiples personas a responder tres preguntas
+
+4
+00:00:30,680 --> 00:00:38,160
+agradezco la participación de Silvana Fumega, Uleguer Zagarra, Diego Kozlowski, Joaquín Meseguer
+
+5
+00:00:38,160 --> 00:00:42,380
+Juan Pablo Ruiz Nicolini, Patricio del Boca y Rodrigo Quiroga
+
+6
+00:00:42,380 --> 00:00:45,220
+y sin más vamos a las preguntas
+
+7
+00:00:45,220 --> 00:00:46,600
+Pregunta 1
+
+8
+00:00:46,600 --> 00:00:51,220
+¿Cuál es la política de apertura de datos esperables por parte de nuestros gobiernos?
+
+9
+00:00:51,260 --> 00:00:56,240
+¿Qué datos y con qué periodicidad te parece que deberían abrir los gobiernos?
+
+10
+00:00:56,380 --> 00:00:58,340
+¿En tiempo real y en formato reutilizable?
+
+11
+00:00:59,020 --> 00:01:00,880
+¿Solo información resumida una vez por día?
+
+12
+00:01:01,260 --> 00:01:03,680
+¿Deberían abrirse estos datos para todo el público?
+
+13
+00:01:04,460 --> 00:01:09,260
+Silvana Fumega de HILDA, la iniciativa latinoamericana por los datos abiertos
+
+14
+00:01:09,260 --> 00:01:13,520
+Hola, muchas gracias por este espacio para pensar un poquito este tema
+
+15
+00:01:13,520 --> 00:01:15,700
+que tanto nos ocupa y preocupa estos días
+
+16
+00:01:15,700 --> 00:01:19,760
+Te cuento que desde HILDA estuvimos pensando un poquito este tema
+
+17
+00:01:19,760 --> 00:01:23,460
+a nivel regional, mirando a los países de América Latina.
+
+18
+00:01:24,420 --> 00:01:27,100
+Lo que creemos es que uno de los puntos que parece ser clave
+
+19
+00:01:27,100 --> 00:01:30,260
+en materia de información sobre el combate contra el virus
+
+20
+00:01:30,260 --> 00:01:32,640
+es el testeo a gran escala de la población.
+
+21
+00:01:33,820 --> 00:01:37,700
+Pero como sabemos, no todos los países pueden materialmente implementar estas medidas.
+
+22
+00:01:38,360 --> 00:01:40,940
+Lo que sí pueden es compartir la información que tienen.
+
+23
+00:01:40,940 --> 00:01:43,080
+En este sentido, yendo un poco a tu pregunta,
+
+24
+00:01:43,620 --> 00:01:47,320
+es importante distinguir los datos y la información que pueda ser abierta
+
+25
+00:01:47,320 --> 00:01:50,360
+de aquella que deba compartirse entre autoridades sanitarias,
+
+26
+00:01:50,480 --> 00:01:54,900
+como también aquellos datos que deban ser resguardados y protegidos.
+
+27
+00:01:55,360 --> 00:01:58,200
+En el contexto de América Latina, la situación es bastante dispara.
+
+28
+00:01:58,380 --> 00:02:02,600
+Encontramos países donde se publican una especie de gazetilla de prensa,
+
+29
+00:02:02,680 --> 00:02:06,680
+como también encontramos países donde se pueden encontrar data sets desagregados.
+
+30
+00:02:07,260 --> 00:02:11,440
+Mirando un poco este escenario, es que con mi colega Fabricio Scrolini
+
+31
+00:02:11,440 --> 00:02:16,080
+estuvimos pensando un par de puntos que me gustaría compartir con vos.
+
+32
+00:02:16,080 --> 00:02:30,280
+Primero, la región precisa una serie de criterios metodológicos claros que sean comunicados de manera uniforme, es decir, las definiciones ya han sido establecidas por la MS, lo que necesitamos como región es comunicarlas y compartirlas mejor.
+
+33
+00:02:31,140 --> 00:02:36,560
+En segundo lugar, los gobiernos deben poner a disposición los datos en formatos abiertos e interoperables
+
+34
+00:02:36,560 --> 00:02:40,860
+para que se puedan, por ejemplo, crear visualizaciones, realizar mejores análisis.
+
+35
+00:02:41,300 --> 00:02:44,820
+De hecho, esto ya viene sucediendo en diferentes países de América Latina.
+
+36
+00:02:45,420 --> 00:02:47,580
+Pero para que estos ejercicios sean de utilidad,
+
+37
+00:02:47,580 --> 00:02:52,360
+es necesario que estos datos se mantengan actualizados periódicamente de manera regular.
+
+38
+00:02:53,520 --> 00:02:58,640
+Por último, la región precisa compartir más datos, incluso si no son de manera abierta,
+
+39
+00:02:58,640 --> 00:03:03,660
+acerca de la implementación de las políticas para aprender un poco más sobre la evolución de este virus.
+
+40
+00:03:04,220 --> 00:03:08,540
+Si bien está claro que esta evolución difiere de país a país por diferentes motivos,
+
+41
+00:03:08,540 --> 00:03:12,840
+ya sea sistemas de salud o, por ejemplo, la distribución de actitud de la población,
+
+42
+00:03:13,540 --> 00:03:16,620
+hay datos que van a ser de gran valor mientras dure esta pandemia.
+
+43
+00:03:17,060 --> 00:03:20,400
+La cantidad de días que los pacientes permanecen hospitalizados,
+
+44
+00:03:20,540 --> 00:03:25,320
+la cantidad de respiradores, los tratamientos aplicados, todo eso será de gran utilidad.
+
+45
+00:03:25,320 --> 00:03:45,620
+En este sentido es importante encontrar mecanismos ágiles para que las autoridades y particularmente esos especialistas como por ejemplo efectólogos, epidemiólogos puedan desarrollar una respuesta coordinada. Para todo esto lo que creemos es que los datos estandarizados nos pueden ayudar a tomar y a entender y a tomar mejores medidas.
+
+46
+00:03:46,440 --> 00:03:50,880
+Uleguer Zagarra es científico de datos y cofundador de la empresa Drivia.
+
+47
+00:03:50,880 --> 00:03:56,840
+Hola, soy Ula Bebe, Sagarra, cofundador de Drivia. Estoy encantado de volver a participar en Cadena de Datos.
+
+48
+00:03:57,080 --> 00:04:02,020
+Respecto a la primera pregunta, yo creo que diferenciaría entre lo que es esperable que hagan los gobiernos,
+
+49
+00:04:02,160 --> 00:04:04,700
+es decir, lo que están haciendo, y lo que sería deseable.
+
+50
+00:04:05,420 --> 00:04:09,740
+En tiempos de crisis, como el que estamos viviendo a nivel internacional, la humanidad,
+
+51
+00:04:10,400 --> 00:04:15,600
+yo creo que hay dos actitudes, o el paternalismo, de que el gobierno no comparte información
+
+52
+00:04:15,600 --> 00:04:19,920
+y envía mensajes muy digeridos a la población, o la transparencia.
+
+53
+00:04:19,920 --> 00:04:25,460
+A pesar de que los gobiernos están optando por la primera, creo que lo que sería deseable es que pasase la segunda
+
+54
+00:04:25,460 --> 00:04:31,240
+¿Por qué? Simplemente porque en estos tiempos de crisis lo que la gente espera o necesita es transparencia
+
+55
+00:04:31,240 --> 00:04:34,280
+¿Para qué? Para poder activar la inteligencia colectiva de la sociedad
+
+56
+00:04:34,280 --> 00:04:41,840
+Cuanto más abiertos sean los datos, más facilidad habrá para las iniciativas de gente que tiene ideas de todo tipo
+
+57
+00:04:41,840 --> 00:04:46,120
+sean soluciones técnicas, de ingeniería, de datos
+
+58
+00:04:46,120 --> 00:04:50,020
+o iniciativas sociales que puedan emerger en el sitio de la sociedad sin esperar
+
+59
+00:04:50,020 --> 00:04:54,280
+a que todo sea iniciativa estatal o direccionada por el gobierno
+
+60
+00:04:54,280 --> 00:04:58,180
+entiendo que los gobiernos piensen en una mentalidad más del siglo XX pero en el siglo XXI lo que necesitamos
+
+61
+00:04:58,180 --> 00:05:02,140
+es transparencia para activar esta inteligencia colectiva que nos permite resolver estos retos
+
+62
+00:05:02,140 --> 00:05:06,000
+que también son colectivos. Entonces, esta respuesta conjunta
+
+63
+00:05:06,000 --> 00:05:09,920
+también tiene que pasar en el apartado de datos. Entonces, ¿qué es lo que me gustaría a mí que pasase?
+
+64
+00:05:09,920 --> 00:05:20,720
+O sea, pues como es un reto para todos, también debería ser una respuesta unificada a diferentes niveles, no solo a nivel nacional, sino también a nivel internacional.
+
+65
+00:05:20,940 --> 00:05:29,680
+Y en el apartado de datos, ¿qué querría decir? Pues que estaría muy bien que hubiera una web centralizada con APIs de consumo, donde los datos se podrían bajar tanto en bruto como en neto,
+
+66
+00:05:29,680 --> 00:05:39,920
+es decir, construido por un ordenador como para el público en general, y yo creo que la periodicidad óptima sería más o menos diariamente o cada dos días en formato sin validar
+
+67
+00:05:39,920 --> 00:05:50,540
+y cada semana o cada tres días en formato validado. ¿Cuál es la diferencia? El formato validado quiere decir que son datos que han sido revisados y validados por la autoridad competente.
+
+68
+00:05:50,540 --> 00:05:57,600
+Pero aparte de eso, esta web centralizada también debería contener documentación sobre cómo se están tomando esas medidas
+
+69
+00:05:57,600 --> 00:06:02,420
+porque ahora mismo es muy difícil comparar a los diferentes países, incluso regiones, incluso ciudades
+
+70
+00:06:02,420 --> 00:06:08,800
+porque las metodologías para contar infectados, muertos, recuperados, etc. son muy diferentes
+
+71
+00:06:08,800 --> 00:06:13,500
+se deberían normalizar. Insisto en que todo esto es lo que se debería hacer, no es lo que se está haciendo
+
+72
+00:06:13,500 --> 00:06:17,300
+pero al menos a nivel de país sí que se debería intentar tener una fuente unificada de datos
+
+73
+00:06:17,300 --> 00:06:24,300
+¿Por qué? Porque así evitas las falsas informaciones, las fake news y también facilitas la vida a mucha gente que quiere colaborar.
+
+74
+00:06:24,360 --> 00:06:28,320
+Y cuando digo gente, no solo estoy hablando de personas privadas, también, como he dicho antes,
+
+75
+00:06:28,700 --> 00:06:33,640
+sino también de grupos científicos de todo el mundo que se están activando para intentar colaborar.
+
+76
+00:06:33,740 --> 00:06:41,360
+O de colectivos de makers que, por ejemplo, aquí en España están creando mascarillas y están creando otras cosas con impresoras 3D.
+
+77
+00:06:42,120 --> 00:06:46,040
+Diego Kouslowski, economista y científico de datos.
+
+78
+00:06:46,040 --> 00:06:54,460
+Yo creo que los datos se utilizan para diversos objetivos y depende de qué tipo de datos estamos hablando, cambia la respuesta.
+
+79
+00:06:55,540 --> 00:07:01,080
+Los datos que se utilizan para investigación, en particular en el caso de la pandemia,
+
+80
+00:07:01,600 --> 00:07:07,140
+los datos que se utilizan para tratar de encontrar nuevas curas o para tratar de entenderlo,
+
+81
+00:07:07,140 --> 00:07:13,920
+aquellos que están siendo utilizados por epidemiólogos en este momento, me parece que sí, tienen que estar abiertos,
+
+82
+00:07:13,920 --> 00:07:23,700
+tienen que ser lo más accesibles posible, en todos los formatos posibles, y con la inmediatez que requieren.
+
+83
+00:07:24,480 --> 00:07:28,020
+Creo que en este caso, de hecho, está funcionando muy bien.
+
+84
+00:07:28,620 --> 00:07:38,160
+En China, en enero, los primeros días de enero, apenas estaba empezando la pandemia o la dispersión del virus,
+
+85
+00:07:38,160 --> 00:07:45,520
+los chinos se encargaron de publicar toda la información que tenían disponible
+
+86
+00:07:45,520 --> 00:07:51,260
+o por lo menos yo no sé mucho de epidemiología así que no entiendo los detalles
+
+87
+00:07:51,260 --> 00:07:55,920
+pero sí sé que hicieron algo así como la secuenciación de genes del coronavirus
+
+88
+00:07:55,920 --> 00:08:03,680
+y lo publicaron apenas tenían esos datos, creo que batieron un récord de tiempo en esa área de estudio
+
+89
+00:08:03,680 --> 00:08:07,520
+y eso permitió que un montón de investigadores en un montón de lugares del mundo
+
+90
+00:08:07,520 --> 00:08:10,220
+rápidamente puedan ponerse a trabajar sobre el tema
+
+91
+00:08:10,220 --> 00:08:14,960
+y de la mano de eso creo que también es muy importante que se rompan
+
+92
+00:08:14,960 --> 00:08:21,340
+la investigación, los diques del peer review y la investigación lenta
+
+93
+00:08:21,340 --> 00:08:27,820
+que lleva muchísimo tiempo y los nichos donde cada uno trata de sacar
+
+94
+00:08:27,820 --> 00:08:35,020
+la mayor cantidad de ventaja posible en estas cosas para cuando publica un paper,
+
+95
+00:08:35,580 --> 00:08:38,160
+sino que al contrario lo que hay que hacer es algo totalmente abierto,
+
+96
+00:08:38,380 --> 00:08:42,780
+donde el peer review sea en lo inmediato, en lo cotidiano,
+
+97
+00:08:42,840 --> 00:08:46,840
+y se avance de forma rápida para justamente poder encontrar cura a una pandemia
+
+98
+00:08:46,840 --> 00:08:53,860
+y para la vez que viene, digamos, tratar de encontrar la cura antes de que se esparza tanto.
+
+99
+00:08:53,860 --> 00:08:56,420
+en ese sentido yo creo que eso sí
+
+100
+00:08:56,420 --> 00:08:57,840
+tiene que estar totalmente abierto
+
+101
+00:08:57,840 --> 00:08:59,300
+después hay otro tipo de datos
+
+102
+00:08:59,300 --> 00:09:02,900
+que son los datos para el público en general
+
+103
+00:09:02,900 --> 00:09:04,680
+y el rol
+
+104
+00:09:04,680 --> 00:09:06,780
+que tienen que tener son los del
+
+105
+00:09:06,780 --> 00:09:07,780
+escrutinio público
+
+106
+00:09:07,780 --> 00:09:10,180
+y respecto de esos
+
+107
+00:09:10,180 --> 00:09:12,600
+si bien hay un caso particular
+
+108
+00:09:12,600 --> 00:09:14,460
+que me voy a referir en la tercera
+
+109
+00:09:14,460 --> 00:09:16,920
+pregunta, creo que en general
+
+110
+00:09:16,920 --> 00:09:18,800
+no es la prioridad
+
+111
+00:09:18,800 --> 00:09:20,040
+en un momento de crisis
+
+112
+00:09:20,040 --> 00:09:22,840
+que el gobierno, que los estados
+
+113
+00:09:22,840 --> 00:09:38,260
+mejor dicho, estén utilizando infraestructura y tiempo y trabajo en publicar un montón de información online totalmente disponibilizada y abierta y demás,
+
+114
+00:09:38,640 --> 00:09:43,920
+sino que depende la infraestructura, depende de qué país hablemos, pero por ejemplo en el caso de Argentina,
+
+115
+00:09:43,920 --> 00:10:03,540
+Creo que lo mejor es que estén todas las energías enfocadas a tratar de combatir al virus y no tanto en esas otras cosas, ¿no? Que me parece que en general van a servir y hay un escrutinio que se puede hacer post-hoc cuando las cosas se paran.
+
+116
+00:10:03,540 --> 00:10:17,540
+Igual hay una excepción a eso, de la que me voy a referir más adelante, pero en general diría que mantener a la población informada, de forma diaria, con información agregada, sería suficiente.
+
+117
+00:10:18,540 --> 00:10:23,360
+Joaquín Meseguer, director general de Transparencia y Buen Gobierno de Castilla y León.
+
+118
+00:10:23,360 --> 00:10:46,020
+El debate sobre qué información debemos ofrecer a la ciudadanía en situaciones como la que actualmente vivimos, situaciones críticas y especialmente graves, como son las crisis o emergencias sanitarias, en concreto la derivada del COVID-19, es un tema realmente interesante, pero también muy complejo de abordar.
+
+119
+00:10:46,020 --> 00:10:55,720
+En mi opinión, yo creo que está claro el deber y la obligación de las administraciones de ofrecer, de informar a los ciudadanos sobre lo que está pasando.
+
+120
+00:10:56,740 --> 00:11:07,800
+La discusión o el debate puede venir, obviamente, cuál es el grado de profundidad o de intensidad que yo tengo que ofrecer de información.
+
+121
+00:11:07,800 --> 00:11:16,700
+Es verdad que los ciudadanos de a pie no tienen un conocimiento técnico ni especialmente cualificado sobre estas cuestiones
+
+122
+00:11:16,700 --> 00:11:22,880
+que son algunas veces bastante difíciles de entender o son bastante ininteligibles
+
+123
+00:11:22,880 --> 00:11:29,300
+y por eso yo creo que es muy importante la labor primero de selección de aquellos contenidos que yo considero
+
+124
+00:11:29,300 --> 00:11:35,500
+que son especialmente de interés o de gran importancia para conocimiento de la ciudadanía
+
+125
+00:11:36,300 --> 00:11:41,820
+Primero porque ellos van a poder ejercer mejor sus derechos, van a poder sentirse más seguros
+
+126
+00:11:41,820 --> 00:11:49,640
+y sobre todo van a poder respetar mejor las decisiones, cautelas o precauciones que las autoridades sanitarias den.
+
+127
+00:11:51,840 --> 00:11:57,720
+Con lo cual yo creo que no es discutible si la información se tiene que dar o no.
+
+128
+00:11:57,720 --> 00:12:16,060
+Está claro que hay que ofrecerla y yo creo que además hay que ofrecerla acompañada de las explicaciones o el contexto que sea necesario para interpretar correctamente la información y no fomentar o facilitar un uso incorrecto, una divulgación incorrecta de la información.
+
+129
+00:12:16,060 --> 00:12:31,840
+Yo creo que ese es el verdadero compromiso de la administración, ejercer esa pedagogía y dar toda la información acompañada, diríamos, de las explicaciones que sean oportunas para mejor entender qué es lo que está sucediendo, la gravedad de la situación.
+
+130
+00:12:32,700 --> 00:12:36,660
+Juan Pablo Ruiz Nicolini, científico de datos y politólogo.
+
+131
+00:12:36,660 --> 00:12:41,180
+Soy un aficionado al uso de datos públicos. En términos generales pienso que en Argentina,
+
+132
+00:12:41,680 --> 00:12:47,220
+si bien se está avanzando en mejores políticas para la apertura de datos, todavía falta un camino largo.
+
+133
+00:12:48,420 --> 00:12:54,280
+Hay un gran déficit de disponibilidad de datos bajo ciertas condiciones,
+
+134
+00:12:54,280 --> 00:12:58,660
+como que sean desagregados, reutilizables, oportunos.
+
+135
+00:12:59,600 --> 00:13:04,280
+Y más de las veces, me parece, son iniciativas comunitarias.
+
+136
+00:13:04,280 --> 00:13:22,740
+Más allá de que hay experiencia en gobiernos locales, algunos provinciales y demás, me parece que ejemplos como el del repositario de DATAR son como las iniciativas que más concentran información de datos que deberían ser públicos y estar disponibles.
+
+137
+00:13:22,740 --> 00:13:30,920
+Y aunque sea necesaria esa plataforma, habla un poco del estado de cómo se comparten los datos en Argentina.
+
+138
+00:13:30,920 --> 00:13:41,520
+En términos generales creo que está buenísimo que la comunidad de usuarios de datos abiertos tengan avidez de participar en la discusión pública
+
+139
+00:13:41,520 --> 00:13:50,500
+En mucho sentido me parece que esa participación comunitaria es el motor de una democratización del conocimiento
+
+140
+00:13:50,500 --> 00:13:55,360
+Mi propia experiencia profesional en los últimos años está marcado por eso
+
+141
+00:13:56,180 --> 00:14:01,500
+Por ejemplo, me encontró con dificultades de recabar información detallada y precisa
+
+142
+00:14:01,500 --> 00:14:03,900
+sobre procesos electorales que en mi campo de estudio.
+
+143
+00:14:04,740 --> 00:14:09,140
+Eso me llevó a participar de iniciativa, para tratar de colaborar en la apertura,
+
+144
+00:14:09,480 --> 00:14:16,100
+intercambio de información que no siempre está a mano de quienes la necesitamos
+
+145
+00:14:16,100 --> 00:14:19,040
+para llevar adelante nuestras investigaciones, nuestros trabajos.
+
+146
+00:14:20,240 --> 00:14:23,720
+Ahora, en el contexto particular de la crisis por la pandemia,
+
+147
+00:14:23,720 --> 00:14:29,480
+Mi sensación es que hay una sobredemanda, por decirlo de alguna manera, inoportuna
+
+148
+00:14:29,480 --> 00:14:31,140
+¿Qué quiero decir con esto?
+
+149
+00:14:32,020 --> 00:14:38,560
+Me parece saludable y motivador que haya gente queriendo aportar desde sus respectivos campos y conocimiento
+
+150
+00:14:38,560 --> 00:14:46,160
+Creo que la diversidad de voces y perspectiva en general ayuda a una mejor comprensión de determinados problemas
+
+151
+00:14:46,160 --> 00:14:49,680
+Pero también me parece que hay circunstancias particulares como esta
+
+152
+00:14:49,680 --> 00:14:54,140
+en la que las capacidades estatales en muchos casos funcionan al límite
+
+153
+00:14:54,140 --> 00:14:57,900
+que tiene muchas restricciones
+
+154
+00:14:57,900 --> 00:15:02,380
+y que una demanda fuerte que es esperable y hasta deseable
+
+155
+00:15:02,380 --> 00:15:05,280
+quizá en tiempos normales, para decirlo de algún modo
+
+156
+00:15:05,280 --> 00:15:11,700
+tiene menos sentido en situaciones como la que estamos viviendo ahora
+
+157
+00:15:11,700 --> 00:15:16,060
+Patricio del Boca, desarrollador de software y analista de datos
+
+158
+00:15:16,060 --> 00:15:18,540
+miembro de la comunidad Open Data Córdoba
+
+159
+00:15:18,540 --> 00:15:27,460
+Bueno, a ver, yo creo que en este contexto la periodicidad y la calidad y el formato de los datos que deberían compartirse debería ser el mismo.
+
+160
+00:15:27,620 --> 00:15:32,380
+No veo una razón por la cual esa política concreta tenga que cambiar en este momento.
+
+161
+00:15:33,240 --> 00:15:43,300
+Así que los datos que se compartan con cuestiones relacionadas a la enfermedad y a los contagios deberían ser los datos más crudos posibles,
+
+162
+00:15:43,300 --> 00:16:11,960
+Es decir, más básico posible, cantidad de casos, si se puede desglosar la persona, cuándo se lo identificó y a qué hora. Eso sería lo mejor, ¿no? Un dataset en donde tengamos por cada fila la hora en la que se contagió la persona, el lugar de donde vive la persona, el lugar donde se detectó el contagio. Sería también un buen dato a tener si la persona viajó al exterior o no viajó al exterior o si fue contagio local.
+
+163
+00:16:11,960 --> 00:16:38,620
+Yo creo que eso, el lugar donde se detectó el contagio, el lugar de procedencia de la persona, hora en la que se detectó el contagio, si viajó al exterior o no, y si fue un caso local o no, yo creo que sería un buen listado, un conjunto de datos con una fila para cada uno de esos datos y que después el investigador, el analista, el periodista, haga el análisis que quiera y los resuma y los sumarice de la forma que desea.
+
+164
+00:16:38,620 --> 00:17:00,440
+Pero sí, para mí la política de datos abiertos en este contexto no debería cambiarse, todo lo contrario, debería quizás potenciarse, abierto para todo público, sin resumir la información y siempre obviamente en tiempo real si es posible y en formato reutilizable para que se puedan automatizar y de esos datos se puedan hacer aplicaciones, se puedan hacer alertas.
+
+165
+00:17:00,440 --> 00:17:03,020
+mientras más reutilizable sea el dato
+
+166
+00:17:03,020 --> 00:17:05,160
+mayor es el trabajo que pueda hacer la comunidad
+
+167
+00:17:05,160 --> 00:17:08,960
+para darle un buen uso y una buena reutilización a ese dato
+
+168
+00:17:08,960 --> 00:17:14,680
+Rodrigo Quiroga, bioinformático e investigador asistente del CONICET
+
+169
+00:17:14,680 --> 00:17:18,600
+Es una pregunta más complicada de lo que parece
+
+170
+00:17:18,600 --> 00:17:21,860
+porque los que modelamos y analizamos datos
+
+171
+00:17:21,860 --> 00:17:24,700
+quisiéramos tener la mayor cantidad de datos posibles en tiempo real
+
+172
+00:17:24,700 --> 00:17:38,120
+pero al mismo tiempo está claro que esta epidemia está causando bastantes efectos psicológicos sobre la población
+
+173
+00:17:38,120 --> 00:17:41,020
+que pueden llegar a ser contraproducentes en algún momento
+
+174
+00:17:41,020 --> 00:17:51,800
+por ejemplo gente que no debería ir a un hospital y ir a un hospital por tener síntomas leves
+
+175
+00:17:51,800 --> 00:17:55,460
+Y porque, bueno, razonablemente tiene miedo
+
+176
+00:17:55,460 --> 00:18:06,260
+Por otro lado, me parece que la prensa igualmente informa los números que van saliendo
+
+177
+00:18:06,260 --> 00:18:09,900
+Con un carácter bastante sensacionalista
+
+178
+00:18:09,900 --> 00:18:20,000
+Por lo cual dudo que tener más y mejor información empeore en ese sentido las cosas
+
+179
+00:18:20,000 --> 00:18:25,000
+sino que creo que sin duda sería mejor tener la mayor cantidad de información posible.
+
+180
+00:18:25,960 --> 00:18:26,880
+Pregunta 2.
+
+181
+00:18:27,360 --> 00:18:32,500
+¿Está bien que desde la comunidad de usuarios de datos abiertos analicemos y compartamos en redes sociales?
+
+182
+00:18:33,080 --> 00:18:35,060
+¿Cuáles son los cuidados que tenemos que tener?
+
+183
+00:18:35,340 --> 00:18:40,080
+Silvana Fumega de Hilda, la iniciativa latinoamericana por los datos abiertos.
+
+184
+00:18:40,260 --> 00:18:42,520
+Como un poco te comentaba en la respuesta anterior,
+
+185
+00:18:42,780 --> 00:18:46,500
+es necesario que los datos publicados se mantengan actualizados periódicamente
+
+186
+00:18:46,500 --> 00:18:51,540
+de manera regular para que tanto los gobiernos como la ciudadanía puedan hacer uso de ellos.
+
+187
+00:18:52,400 --> 00:18:58,000
+En ese sentido, en varios países se han anunciado, tanto por parte de gobiernos como de actores de sociedad civil,
+
+188
+00:18:58,440 --> 00:19:00,860
+la creación de aplicaciones para el seguimiento de casos.
+
+189
+00:19:01,420 --> 00:19:06,740
+Pero, en este sentido, es necesario tener una discusión más amplia de cómo se gobierna y se accede a esos datos
+
+190
+00:19:06,740 --> 00:19:13,120
+que tanto las personas reportan a los contactos de esas personas con otras y a la información georreferenciada.
+
+191
+00:19:13,120 --> 00:19:22,940
+Por ejemplo, con datos de desplazamiento de la población, ingresos y egresos en un país, entre otros, se pueden pensar y desarrollar modelos que permitan prever la demanda de un sistema de salud.
+
+192
+00:19:23,620 --> 00:19:38,740
+Pero, en ese sentido, es un camino donde hay que considerar con cuidado la temporalidad de los datos, el potencial de reidentificación y algo muy importante, que es los efectos no deseados, por ejemplo, entre ellos la discriminación contra personas o colectivos más vulnerables.
+
+193
+00:19:38,740 --> 00:19:44,120
+Uleguer Sagarra es científico de datos y cofundador de la empresa Trivia
+
+194
+00:19:44,120 --> 00:19:47,000
+referente a la segunda pregunta yo creo que es muy clara respuesta
+
+195
+00:19:47,000 --> 00:19:51,400
+la respuesta es sí, sí que debemos compartir todo tipo de análisis y visualizaciones
+
+196
+00:19:51,400 --> 00:19:54,840
+que creamos oportunas en las redes sociales y donde convenga
+
+197
+00:19:54,840 --> 00:19:58,280
+lo único que creo que es muy importante es de mantener la humildad intelectual
+
+198
+00:19:58,280 --> 00:20:01,420
+igual que siempre se hace la broma que todos llevamos un entrenador de fútbol dentro
+
+199
+00:20:01,420 --> 00:20:03,520
+ahora parece que todos llevamos un epidemiólogo dentro
+
+200
+00:20:03,520 --> 00:20:05,720
+la epidemiología es una disciplina muy complicada
+
+201
+00:20:05,720 --> 00:20:14,420
+que requiere de mucha formación y de mucho estudio, entonces yo cuando hagamos cualquier tipo de estos análisis y se compartan
+
+202
+00:20:14,420 --> 00:20:23,260
+creo que lo más importante es poner un texto bien claro al principio de cualquier gráfico, de cualquier publicación
+
+203
+00:20:23,260 --> 00:20:27,980
+que explique cuál es nuestro background, quiénes somos, por qué estamos haciendo lo que estamos haciendo
+
+204
+00:20:27,980 --> 00:20:34,060
+y qué conocimientos tenemos al respecto y siempre que hacemos una aseveración respecto a un análisis de datos
+
+205
+00:20:34,060 --> 00:20:39,440
+es decir, he detectado que tal o estamos en un régimen exponencial de crecimiento de la epidemia
+
+206
+00:20:39,440 --> 00:20:43,020
+y creo que de aquí a una semana mi modelo dice que habrá tantos infectados
+
+207
+00:20:43,020 --> 00:20:48,700
+hay que ponerlo muy entre comillas y dejar bien claro que estos modelos son en general muy complejos
+
+208
+00:20:48,700 --> 00:20:54,400
+y que, bueno, cuál es el nivel de seguridad que tenemos, insisto, dejarlo muy claro
+
+209
+00:20:54,400 --> 00:20:56,400
+¿Por qué creo que es positivo compartir?
+
+210
+00:20:56,520 --> 00:20:59,900
+Porque por un lado estimula el intercambio de información
+
+211
+00:20:59,900 --> 00:21:05,240
+y toda idea puede ser buena para hacer modelaje y otro tipo de análisis
+
+212
+00:21:05,240 --> 00:21:10,060
+que igual a las personas competentes pues no tienen tiempo de hacerlo, no se les ha ocurrido
+
+213
+00:21:10,060 --> 00:21:14,520
+pero también creo que también es muy positivo porque así se intenta transmitir al público en general
+
+214
+00:21:14,520 --> 00:21:19,400
+le permite captar el abasto del reto al que nos enfrentamos
+
+215
+00:21:19,400 --> 00:21:24,100
+creo que las personas en general que no tienen mucha experiencia con matemáticas o con análisis de datos
+
+216
+00:21:24,100 --> 00:21:28,440
+o con este tipo de disciplinas, les cuesta entender
+
+217
+00:21:28,440 --> 00:21:32,180
+lo que significa un crecimiento exponencial. Entonces, pues bueno,
+
+218
+00:21:32,400 --> 00:21:36,160
+todo este tipo de análisis que podamos compartir, yo creo que es bueno
+
+219
+00:21:36,160 --> 00:21:40,240
+porque incentiven al debate siempre y cuando, insisto, se rehúya de
+
+220
+00:21:40,240 --> 00:21:44,420
+máximas y de poner en duda el trabajo de los expertos, siempre y cuando
+
+221
+00:21:44,420 --> 00:21:48,120
+estos expertos tengan, pues como he dicho antes, también transparencia y muestren los resultados
+
+222
+00:21:48,120 --> 00:21:52,380
+de las cosas que se hacen. Respecto a compartir y en general la transparencia
+
+223
+00:21:52,380 --> 00:21:54,000
+que también está relacionado con la primera pregunta
+
+224
+00:21:54,000 --> 00:21:56,400
+también creo que todo lo que se
+
+225
+00:21:56,400 --> 00:21:58,460
+haga con datos debe ser público
+
+226
+00:21:58,460 --> 00:22:00,420
+es decir, se debe poder reproducir
+
+227
+00:22:00,420 --> 00:22:02,480
+se debe poder ver los datos de donde han salido
+
+228
+00:22:02,480 --> 00:22:04,240
+y también se debe poder ver el código
+
+229
+00:22:04,240 --> 00:22:06,440
+y este creo que también es un aspecto muy
+
+230
+00:22:06,440 --> 00:22:08,520
+relevante que está emergiendo de esta actual
+
+231
+00:22:08,520 --> 00:22:09,980
+crisis, la necesidad de tener
+
+232
+00:22:09,980 --> 00:22:12,640
+pues bueno, para retos que aún nos alcanzan
+
+233
+00:22:12,640 --> 00:22:14,440
+a todos, soluciones o propuestas
+
+234
+00:22:14,440 --> 00:22:16,380
+de soluciones y políticas que también
+
+235
+00:22:16,380 --> 00:22:18,540
+son públicas y pues igual
+
+236
+00:22:18,540 --> 00:22:20,400
+que se lo quiero exigir a los gobiernos, también
+
+237
+00:22:20,400 --> 00:22:22,220
+las personas que comparten material
+
+238
+00:22:22,220 --> 00:22:22,980
+en las redes sociales
+
+239
+00:22:22,980 --> 00:22:26,400
+Diego Kozlowski, economista
+
+240
+00:22:26,400 --> 00:22:27,560
+y científico de datos
+
+241
+00:22:27,560 --> 00:22:29,620
+yo creo que en algún punto hay un fenómeno en la actualidad
+
+242
+00:22:29,620 --> 00:22:32,200
+de que la gente que hace ciencia de datos
+
+243
+00:22:32,200 --> 00:22:33,700
+o en general el análisis
+
+244
+00:22:33,700 --> 00:22:35,600
+basado en datos
+
+245
+00:22:35,600 --> 00:22:38,360
+tiene muchísima relevancia
+
+246
+00:22:38,360 --> 00:22:39,620
+digamos está de moda
+
+247
+00:22:39,620 --> 00:22:42,680
+y eso en algún punto puede ser problemático
+
+248
+00:22:42,680 --> 00:22:44,280
+porque
+
+249
+00:22:44,280 --> 00:22:46,020
+por varios motivos
+
+250
+00:22:46,020 --> 00:22:47,200
+estamos en un momento en el cual
+
+251
+00:22:47,200 --> 00:22:50,220
+la data science o en general
+
+252
+00:22:50,220 --> 00:23:13,420
+Dota Science es una voz autorizada, quizás más autorizada de lo que debiera, porque es algo que está de moda, como decía antes, y al mismo tiempo estamos en un momento en el cual todo el mundo está desesperado por entender una situación que es nueva, que es extraña, que nos da miedo, y estamos todos muy atentos a las novedades.
+
+253
+00:23:13,420 --> 00:23:32,340
+En esa combinación me parece que lo más importante es la responsabilidad de quienes por ahí tenemos una voz autorizada además, porque como estamos de moda en nuestro rubro, por ahí la gente nos da más bolilla de la que normalmente estamos sobreestimados.
+
+254
+00:23:32,340 --> 00:23:37,420
+y es muy peligroso la combinación de esas dos cosas
+
+255
+00:23:37,420 --> 00:23:41,140
+porque si no tenemos un contexto de la información
+
+256
+00:23:41,140 --> 00:23:43,680
+y si no entendemos el dominio del problema
+
+257
+00:23:43,680 --> 00:23:45,860
+las conclusiones que podemos sacar
+
+258
+00:23:45,860 --> 00:23:47,840
+desde lo puramente cuantitativo
+
+259
+00:23:47,840 --> 00:23:49,320
+pueden llegar a ser muy erradas
+
+260
+00:23:49,320 --> 00:23:53,220
+aunque obviamente no creo que
+
+261
+00:23:53,220 --> 00:23:54,540
+Data Science no sirve para nada
+
+262
+00:23:54,540 --> 00:23:56,680
+sino que al contrario creo que puede servir para un montón
+
+263
+00:23:56,680 --> 00:23:58,120
+y creo que puede servir un montón
+
+264
+00:23:58,120 --> 00:24:00,660
+incluso en este contexto particular
+
+265
+00:24:00,660 --> 00:24:07,060
+para poder tener nuevos puntos de vista y para podernos insights desde los datos sobre la problemática
+
+266
+00:24:07,060 --> 00:24:14,720
+y ayudar a los epidemiólogos, pero el tema es ese, tenemos que ayudar al dominio en su tarea.
+
+267
+00:24:15,640 --> 00:24:25,960
+Hablar sin conocimiento del contexto y decir afirmaciones elocuentes desde los gráficos y los datos
+
+268
+00:24:25,960 --> 00:24:30,080
+puede ser muy peligroso porque podemos estar sacando conclusiones incorrectas
+
+269
+00:24:30,080 --> 00:24:36,360
+que la gente les va a prestar atención y podemos generar un efecto negativo importante.
+
+270
+00:24:36,920 --> 00:24:41,800
+Entonces, me parece que lo más importante es que cada uno aporte desde su expertise,
+
+271
+00:24:41,940 --> 00:24:49,720
+desde su área de dominio, que los que quieran trabajar el tema del coronavirus
+
+272
+00:24:49,720 --> 00:24:53,600
+lo hagan junto con expertos en el tema.
+
+273
+00:24:53,600 --> 00:25:15,540
+O, por ejemplo, hablando con otros colegas que miren otros fenómenos aledaños o consecuencias del coronavirus que sí logren entender. Por ejemplo, los cientistas sociales que estudian el aislamiento social y los efectos que va a tener y podamos medir eso.
+
+274
+00:25:15,540 --> 00:25:22,940
+los economistas que traten de decidir cuál va a ser el efecto económico
+
+275
+00:25:22,940 --> 00:25:26,980
+pero no ponernos nosotros a hablar, a hacer series de tiempo
+
+276
+00:25:26,980 --> 00:25:30,680
+y predecir cuál va a ser el comportamiento en el tiempo del virus
+
+277
+00:25:30,680 --> 00:25:32,580
+cuando no tenemos idea de epidemiología
+
+278
+00:25:32,580 --> 00:25:37,420
+porque podemos llegar a generar muchísimo más temor innecesario
+
+279
+00:25:37,420 --> 00:25:41,620
+en la población del que corresponde y al que amerita la situación
+
+280
+00:25:41,620 --> 00:26:05,160
+Así que me parece que en ese sentido es muy importante la responsabilidad y sobre todo de aquellas personas que tienen una tendencia a no prestar demasiada atención al conocimiento de dominio y a centrarse exclusivamente en el análisis de datos, mantener un resguardo con lo que dicen.
+
+281
+00:26:05,740 --> 00:26:10,520
+Joaquín Meseguer, director general de Transparencia y Buen Gobierno de Castilla y León.
+
+282
+00:26:10,520 --> 00:26:27,840
+Yo creo que no hay Estado o gobierno contemporáneo que se quiera llamar o se quiera presentar como un gobierno democrático que al mismo tiempo no tenga un compromiso real con la apertura de su información a la ciudadanía.
+
+283
+00:26:27,840 --> 00:26:40,220
+Y estoy hablando de información de todo tipo, información que se genera en los distintos ámbitos de actividad económica en los que interviene el gobierno, los poderes públicos.
+
+284
+00:26:40,220 --> 00:26:48,760
+Hablo de información sanitaria, información relativa a la educación, a la enseñanza, al medioambiente, a la gestión urbanística, etc.
+
+285
+00:26:49,160 --> 00:26:58,820
+No toda esta información, obviamente, se genera con la misma frecuencia ni exige, yo creo, la misma periodicidad en su revisión o actualización.
+
+286
+00:26:59,520 --> 00:27:10,140
+Hay datos, por ejemplo, del presupuesto público que se aprueba en el mejor de los casos una vez al año y, por tanto, esa información basta con publicarla una vez al año.
+
+287
+00:27:10,220 --> 00:27:27,920
+Pero la ejecución del presupuesto sí que admite la publicidad de la información con un grado de actualización mucho mayor desde datos en tiempo real a datos que se pueden ofrecer semanalmente, mensualmente o cada dos meses.
+
+288
+00:27:27,920 --> 00:27:42,540
+Yo creo que la información que varía o que se altera muy frecuentemente, cuanto mayor sea la frecuencia de actualización, obviamente será el mejor estándar o parámetro de transparencia.
+
+289
+00:27:42,540 --> 00:27:59,040
+En cualquier caso la información tiene que estar en un formato reutilizable que permita a cualquier ciudadano, pero especialmente al reutilizador, que es aquel que se hace un análisis perfecto, estupendo, de la información en detalle que ofrecemos las administraciones públicas.
+
+290
+00:27:59,040 --> 00:28:09,240
+Como digo, es importante que la información esté en estos formatos para que ese trabajo, esa explotación, ese aprovechamiento de la información pueda hacerse en términos idóneos, óptimos.
+
+291
+00:28:09,240 --> 00:28:25,980
+Yo creo que hoy por hoy ofrecer información en formatos que no permiten hacer ese análisis dice muy poco de los gobiernos, dice muy poco de las administraciones en su compromiso con la apertura de la información a la ciudadanía.
+
+292
+00:28:25,980 --> 00:28:43,240
+Yo creo que, salvo en algunos casos en los que efectivamente está justificado aplicar determinados límites a la divulgación de la información, como es en el caso de la protección de aquellos datos personales que deben de tener una especial tutela o garantía,
+
+293
+00:28:43,240 --> 00:29:04,240
+Yo creo que en principio los gobiernos deberían de ofrecer prácticamente toda su información, como digo, salvaguardando en aquellas parcelas o ámbitos en los que la divulgación sin ningún control puede efectivamente generar perjuicios mucho más graves que los beneficios que se obtendrían de la transparencia del acceso a la información pública.
+
+294
+00:29:05,240 --> 00:29:09,140
+Juan Pablo Ruiz Nicolini, científico de datos y politólogo.
+
+295
+00:29:09,140 --> 00:29:13,860
+Creo que el tema del cuidado de la información que se comparte en redes es un tópico súper interesante
+
+296
+00:29:13,860 --> 00:29:18,240
+que, por suerte, está atraccionando parte de la discusión.
+
+297
+00:29:18,900 --> 00:29:24,820
+Acá un punto que me parece importante subrayar, me parece que es esta discusión que navega
+
+298
+00:29:24,820 --> 00:29:28,480
+entre la fake news y la desinformación.
+
+299
+00:29:29,120 --> 00:29:32,740
+Algo así sostiene, expone Alberto Cairo.
+
+300
+00:29:33,260 --> 00:29:37,260
+Para los que no lo conocen, es un cientista de datos que se especializa en visualizaciones.
+
+301
+00:29:37,260 --> 00:29:41,320
+recientemente publicó un libro que se llama How Charge Likes
+
+302
+00:29:41,320 --> 00:29:45,820
+la traducción sería como miente en los gráficos y él pone bastante énfasis en esta cuestión
+
+303
+00:29:45,820 --> 00:29:50,500
+un ejemplo que usa desde un campo en el que yo tengo más experiencia
+
+304
+00:29:50,500 --> 00:30:00,160
+como politólogo es este tweet de Trump compartiendo un mapa de Estados Unidos
+
+305
+00:30:00,160 --> 00:30:07,020
+que decía la leyenda try to impeach this en el contexto del congreso norteamericano
+
+306
+00:30:07,020 --> 00:30:09,000
+avanzando con un proceso de impeachment
+
+307
+00:30:09,000 --> 00:30:10,980
+la idea de este
+
+308
+00:30:10,980 --> 00:30:12,600
+tweet de Trump es
+
+309
+00:30:12,600 --> 00:30:14,880
+colaborar, contar una narrativa
+
+310
+00:30:14,880 --> 00:30:17,020
+que diría
+
+311
+00:30:17,020 --> 00:30:19,260
+algo así como que la mayoría de los distritos
+
+312
+00:30:19,260 --> 00:30:20,700
+no apoyan su impeachment
+
+313
+00:30:20,700 --> 00:30:22,900
+cuando el punto central ahí no es la cantidad
+
+314
+00:30:22,900 --> 00:30:24,920
+de kilómetros cuadrados que tiene cada
+
+315
+00:30:24,920 --> 00:30:26,480
+distrito dentro de los estados
+
+316
+00:30:26,480 --> 00:30:29,140
+pintados de un color republicano, rojo
+
+317
+00:30:29,140 --> 00:30:31,120
+o azul si es demócrata en la elección
+
+318
+00:30:31,120 --> 00:30:33,120
+presidencial, sino la cantidad
+
+319
+00:30:33,120 --> 00:30:33,600
+de
+
+320
+00:30:33,600 --> 00:30:36,660
+legisladores que tiene cada uno de estos
+
+321
+00:30:36,660 --> 00:30:38,640
+estados o en algún punto
+
+322
+00:30:38,640 --> 00:30:40,660
+cuál es la población que tienen esos
+
+323
+00:30:40,660 --> 00:30:42,800
+estados y eso no se refleja
+
+324
+00:30:42,800 --> 00:30:44,580
+en el mapa, entonces mostrar un mapa
+
+325
+00:30:44,580 --> 00:30:46,800
+así tiene la intención
+
+326
+00:30:46,800 --> 00:30:48,660
+de generar una narrativa específica
+
+327
+00:30:49,280 --> 00:30:52,840
+que genera una sensación visual
+
+328
+00:30:52,840 --> 00:30:54,640
+en la que mayoría de los estadounidenses
+
+329
+00:30:54,640 --> 00:30:56,100
+no apoyarían el impeachment
+
+330
+00:30:56,100 --> 00:30:58,540
+esto en algún punto es una versión análoga
+
+331
+00:30:58,540 --> 00:31:00,800
+a la discusión sobre si tiene sentido truncar
+
+332
+00:31:00,800 --> 00:31:02,300
+el eje Y en un gráfico
+
+333
+00:31:02,300 --> 00:31:03,920
+para mostrar movimientos
+
+334
+00:31:03,920 --> 00:31:07,060
+en los datos que estamos presentando
+
+335
+00:31:07,060 --> 00:31:10,880
+y esto sería una versión
+
+336
+00:31:10,880 --> 00:31:12,780
+análoga. Ahora, en el
+
+337
+00:31:12,780 --> 00:31:13,880
+contexto de la pandemia
+
+338
+00:31:13,880 --> 00:31:16,780
+Cairo agrega también
+
+339
+00:31:16,780 --> 00:31:17,100
+que
+
+340
+00:31:17,100 --> 00:31:20,000
+la desinformación
+
+341
+00:31:20,000 --> 00:31:22,860
+tanto la desinformación como la información
+
+342
+00:31:22,860 --> 00:31:24,660
+errónea pueden causar daño
+
+343
+00:31:24,660 --> 00:31:26,900
+la primera pues es intencional
+
+344
+00:31:26,900 --> 00:31:28,880
+las fake news caen ahí
+
+345
+00:31:28,880 --> 00:31:30,400
+adentro, pero la segunda
+
+346
+00:31:30,400 --> 00:31:32,360
+en general no les pueden hacerla
+
+347
+00:31:32,360 --> 00:31:36,920
+y es por ello que debemos tratar a la información con cuidado
+
+348
+00:31:36,920 --> 00:31:39,360
+y me parece un consejo que está súper bien
+
+349
+00:31:39,360 --> 00:31:40,920
+uno puede tener buenas intenciones
+
+350
+00:31:40,920 --> 00:31:44,440
+pero igualmente estar produciendo información errónea por varios motivos
+
+351
+00:31:44,440 --> 00:31:46,800
+no conocemos las fuentes de origen de la data
+
+352
+00:31:46,800 --> 00:31:48,900
+o no tenemos certeza sobre ello
+
+353
+00:31:48,900 --> 00:31:50,540
+no tenemos demasiado conocimiento
+
+354
+00:31:50,540 --> 00:31:54,220
+o tenemos conocimiento limitado de algunas de las metodologías
+
+355
+00:31:54,220 --> 00:31:57,500
+entonces un consejo general en este caso
+
+356
+00:31:57,500 --> 00:32:00,280
+no es limitarse a no realizar los ejercicios
+
+357
+00:32:00,280 --> 00:32:02,300
+como consumidores de datos y que estamos
+
+358
+00:32:02,300 --> 00:32:04,420
+trabajando con distintos datos todo el tiempo
+
+359
+00:32:04,420 --> 00:32:06,500
+pero sí que tenemos que tener cuidado
+
+360
+00:32:06,500 --> 00:32:08,160
+cómo y con quién lo compartimos
+
+361
+00:32:08,160 --> 00:32:10,200
+porque esto puede tener costos
+
+362
+00:32:10,200 --> 00:32:11,320
+no deseados
+
+363
+00:32:11,320 --> 00:32:14,560
+y eso es algo que está pasando
+
+364
+00:32:14,560 --> 00:32:16,340
+mucho en este contexto
+
+365
+00:32:16,340 --> 00:32:18,080
+de toda la discusión
+
+366
+00:32:18,080 --> 00:32:20,620
+alrededor de las fake news, están un poco
+
+367
+00:32:20,620 --> 00:32:21,580
+alrededor de eso
+
+368
+00:32:21,580 --> 00:32:24,180
+Patricio del Boca
+
+369
+00:32:24,180 --> 00:32:26,500
+desarrollador de software y analista de datos
+
+370
+00:32:26,500 --> 00:32:28,520
+miembro de la comunidad Open Data
+
+371
+00:32:28,520 --> 00:32:45,940
+Bueno, a ver, si está bien o está mal, no sé, el otro día hablaba con unos amigos y decíamos en un contexto de crisis tan excepcional como el que estamos viviendo en una pandemia mundial, a mí me parece que no existen tan fácil lineamientos para decir qué es lo bueno y qué es lo malo a la hora de hacer.
+
+372
+00:32:45,940 --> 00:32:53,520
+Yo creo, según mi perspectiva, es que las personas que hacemos normalmente análisis de datos
+
+373
+00:32:53,520 --> 00:33:00,140
+no deberíamos estar ni analizando ni compartiendo datos en las redes sociales
+
+374
+00:33:00,140 --> 00:33:04,780
+por el simple hecho de que no somos expertos en la materia,
+
+375
+00:33:05,580 --> 00:33:10,120
+de que no contamos con un background ni con antecedentes como para poder analizar
+
+376
+00:33:10,120 --> 00:33:13,260
+y sacar conclusiones fehacientes de lo que estamos haciendo
+
+377
+00:33:13,260 --> 00:33:26,640
+Y porque uno de los grandes problemas que estamos sufriendo a través de las redes sociales es la sobreabundancia de información. Y empezar a generar más información me parece completamente un despropósito y peligroso.
+
+378
+00:33:26,640 --> 00:33:56,320
+Seguir metiéndole leña a un fuego de desinformación me parece que no es lo que debería estar haciendo hoy en día la comunidad de datos abiertos y analistas de datos de la Argentina, salvo que sean conscientes de que sus conocimientos sobre epidemiología y sobre estas cuestiones son suficientes como para poder largar una conclusión concreta, que no es el caso de la mayoría de los analistas de datos de Argentina, que al menos yo conozco el contexto.
+
+379
+00:33:57,260 --> 00:34:11,180
+No obstante, yo creo que los analistas de datos sí tenemos un rol importante y es ayudar a que las personas que sí sepan de esta información y de este contexto y de epidemiología puedan tener acceso a estos datos.
+
+380
+00:34:11,180 --> 00:34:27,660
+Entonces, creo que el rol que tiene que tener la comunidad de analista de datos hoy en día no es la de hacer análisis, no es la de publicar ni análisis ni gráficos, sino más bien la de dar soporte a través, por ejemplo, de ingeniería de datos a las personas que sí sepan analizar y darle buen uso a estos datos.
+
+381
+00:34:27,660 --> 00:34:43,200
+Así que yo creo que ahí es un rol importante, creo que deberíamos salir, correr nosotros del eje público y dedicarnos a sí armar un ecosistema de herramientas que le permita a la gente hacer análisis, a la gente que sabe hacer análisis y publicar información.
+
+382
+00:34:43,440 --> 00:34:57,160
+Pero nosotros no creo que estemos a la altura de poder generar información de calidad que aporte al contexto y que no genere más ruido de lo que ya hay dando vuelta por las redes sociales.
+
+383
+00:34:57,660 --> 00:35:02,220
+Rodrigo Quiroga, bioinformático e investigador asistente del CONICET.
+
+384
+00:35:02,220 --> 00:35:16,080
+Creo que depende. Me parece que está bueno generar análisis y predicciones, etc., siempre y cuando se difundan de manera responsable.
+
+385
+00:35:16,080 --> 00:35:40,870
+Y esto es la parte complicada, ¿no? La idea es no generar ni pánico, ni falsas expectativas en que consume luego esa información, pero me parece que se puede hacer de manera responsable y con cuidado sin entrar en el sensacionalismo.
+
+386
+00:35:42,510 --> 00:35:48,190
+Así que bueno, sí, creo que puede ser productivo hacerlo siempre y cuando se haga con responsabilidad.
+
+387
+00:35:48,990 --> 00:35:57,350
+Pregunta 3. ¿Alguna consideración más sobre el tema que sea útil compartir? Este es un espacio abierto para que cada entrevistado agregue lo que le parezca.
+
+388
+00:35:57,650 --> 00:36:02,410
+Silvana Fumega de Hilda, la iniciativa latinoamericana por los datos abiertos.
+
+389
+00:36:02,810 --> 00:36:07,490
+Los países y en particular sus sistemas de salud pueden salir fortalecidos de esta crisis.
+
+390
+00:36:08,310 --> 00:36:15,150
+Esto implicaría comunicar con claridad y transparencia, brindando información confiable que garantice la seguridad sanitaria de la región.
+
+391
+00:36:15,150 --> 00:36:28,790
+Nos encontramos en una situación súper difícil en muchos niveles, pero si se la enfrenta con una gestión abierta y colaborativa, los gobiernos pueden apostar a generar la confianza necesaria en la ciudadanía frente a las decisiones difíciles que ya se están tomando.
+
+392
+00:36:29,630 --> 00:36:34,090
+Uleger Sagarra es científico de datos y cofundador de la empresa Trivia.
+
+393
+00:36:34,090 --> 00:37:00,650
+Me gustaría acabar con una reflexión y es que en el apartado de los datos parece ser que los gobiernos se están tirando, se están apostando por la vía, digamos, de control social más autoritaria, que es explotar el nivel ya, gran nivel de control que tienen ciertas empresas a través de nuestros datos, de nuestros teléfonos móviles, para intentar mitigar los focos de contagio.
+
+394
+00:37:00,650 --> 00:37:09,810
+Yo aquí querría hacer un par de reflexiones. La primera es que no es incompatible controlar contagios o controlar epidemias con los derechos a la privacidad y a la libertad individual.
+
+395
+00:37:10,470 --> 00:37:16,250
+Y esto se puede hacer de múltiples maneras, pero la primera es con transparencia absoluta y con código abierto.
+
+396
+00:37:16,550 --> 00:37:23,010
+Nada de estas soluciones puede ser de código cerrado porque el código cerrado no lo puede controlar, ni auditar, ni monitorizar nadie la población.
+
+397
+00:37:23,010 --> 00:37:33,470
+Esto también va por los modelos, las decisiones que se toman a nivel gubernamental deben estar apoyadas por hechos y estos hechos deben estar documentados y accesibles para todo
+
+398
+00:37:33,470 --> 00:37:42,390
+Pero bueno, a nivel de control de los movimientos de las personas, creo que se debe apostar por un modelo donde se apele a su responsabilidad
+
+399
+00:37:42,390 --> 00:37:47,990
+y se pueden usar los datos referentes a sus teléfonos móviles en cuanto a movilidad
+
+400
+00:37:47,990 --> 00:37:53,010
+como se ha hecho en China, como se ha hecho en Corea, pero respetando, insisto, mucho la privacidad
+
+401
+00:37:53,010 --> 00:37:58,910
+y con mucho y sumo cuidado para qué se usan estos datos, quién tiene acceso a estos datos
+
+402
+00:37:58,910 --> 00:38:04,530
+y sobre todo que siempre estén bajo control gubernamental o al menos control de empresas que no sean privadas
+
+403
+00:38:04,530 --> 00:38:07,650
+y que no tengan, cuyos intereses no estén claros.
+
+404
+00:38:07,650 --> 00:38:23,810
+Entonces, respecto a esta deriva autoritaria, también creo que hay maneras de... son más complicados, ciertamente, pero en épocas de crisis, todo es para ayer, es decir, hay mucha prisa por hacer todo, pero que la prisa no nos confunda que los potenciales riesgos de ejecutar acciones
+
+405
+00:38:23,810 --> 00:38:40,190
+Y porque acciones se puedan hacer en el dominio de los datos no quiere decir que se deban hacer. Como ejemplo, todos los países ahora están intentando movilizar apps para permitir el control o que la población en general se descargue estas apps para poder hacerse autodiagnóstico.
+
+406
+00:38:40,190 --> 00:38:42,630
+al menos esto es lo que están haciendo aquí en España
+
+407
+00:38:42,630 --> 00:38:46,090
+y creo que estas apps
+
+408
+00:38:46,090 --> 00:38:49,370
+si no nos explican muy bien para qué las quieren usar
+
+409
+00:38:49,370 --> 00:38:52,010
+son una de las tres opciones
+
+410
+00:38:52,010 --> 00:38:54,670
+que las tres pues pueden ser potencialmente peligrosas
+
+411
+00:38:54,670 --> 00:38:58,010
+la primera simplemente apps hechas muy rápido
+
+412
+00:38:58,010 --> 00:39:01,070
+que lo único que pretenden es transmitir una falsa sensación de seguridad
+
+413
+00:39:01,070 --> 00:39:04,310
+a las personas y estas apps normalmente son opacas
+
+414
+00:39:04,310 --> 00:39:07,090
+entonces yo creo que para hacer eso pues no vale la pena que lo hagan
+
+415
+00:39:07,090 --> 00:39:09,530
+la segunda son apps de control como he dicho
+
+416
+00:39:09,530 --> 00:39:19,270
+entonces en este caso sí que los riesgos se disparan en cuanto a la privacidad y se debería ser sumamente cuidadoso en cómo se hacen, qué protocolos se aplican y si es posible de anonimizar los datos
+
+417
+00:39:19,270 --> 00:39:29,610
+y el tercero es apps de monitoreo que permitan mapear el avance de la epidemia pero cuya finalidad final no queda muy clara
+
+418
+00:39:29,610 --> 00:39:48,550
+Entonces, pues bueno, a mí me gustaría pedir desde aquí que no nos confundan las medidas de emergencia con nuestros inalienables derechos a disfrutar de nuestra privacidad y que hay maneras de combatir la epidemia, pero estas maneras tienen que ser compatibles con los derechos de todos.
+
+419
+00:39:48,550 --> 00:39:54,790
+Y acabo, insistiendo, todas mis intervenciones en este podcast son sobre transparencia
+
+420
+00:39:54,790 --> 00:39:59,470
+Porque debemos ser exigentes, debemos ser exigentes en cuanto a la calidad de los datos
+
+421
+00:39:59,470 --> 00:40:04,550
+Y a transparencia tanto de datos, de modelos matemáticos o de código, de aplicaciones
+
+422
+00:40:04,550 --> 00:40:07,610
+De toda tecnología que se use para solventar esta epidemia
+
+423
+00:40:07,610 --> 00:40:11,250
+Y esto se está viendo, se está viendo también con las vacunas
+
+424
+00:40:11,250 --> 00:40:14,990
+Se habla de las patentes, se habla de patentes por ejemplo para respiradores
+
+425
+00:40:14,990 --> 00:40:17,430
+hay el caso de Italia donde unos chicos con empresa 3D
+
+426
+00:40:17,430 --> 00:40:21,810
+han empezado a copiar entre comillas las válvulas de unos respiradores
+
+427
+00:40:21,810 --> 00:40:26,530
+porque se necesitan para atender a las personas que están luchando por su vida
+
+428
+00:40:26,530 --> 00:40:29,350
+y la empresa propiedad de esta patente los ha denunciado
+
+429
+00:40:29,350 --> 00:40:32,810
+pero yo me gustaría también que esta crisis que estamos viviendo
+
+430
+00:40:32,810 --> 00:40:37,290
+iba para reflexionar sobre los límites de las patentes
+
+431
+00:40:37,290 --> 00:40:42,430
+y estas propiedades intelectuales en una situación donde están las vidas humanas en juego
+
+432
+00:40:42,430 --> 00:40:44,250
+y nada, me despido
+
+433
+00:40:44,250 --> 00:40:46,290
+dando las gracias y esperando que os haya gustado
+
+434
+00:40:46,290 --> 00:40:48,190
+mi intervención y que si alguien
+
+435
+00:40:48,190 --> 00:40:50,470
+quiere, pues discutirá muy abierto de hacerlo
+
+436
+00:40:50,470 --> 00:40:52,430
+a través de Twitter o los canales
+
+437
+00:40:52,430 --> 00:40:54,050
+que quedan oportunos, un saludo
+
+438
+00:40:54,050 --> 00:40:56,230
+Diego Kozlowski
+
+439
+00:40:56,230 --> 00:40:58,690
+economista y científico de datos
+
+440
+00:40:58,690 --> 00:41:00,350
+y volviendo
+
+441
+00:41:00,350 --> 00:41:01,710
+sobre el tema de
+
+442
+00:41:01,710 --> 00:41:04,730
+los datos y la publicación de los datos
+
+443
+00:41:04,730 --> 00:41:06,290
+si me parece que
+
+444
+00:41:06,290 --> 00:41:08,630
+sobre los datos
+
+445
+00:41:08,630 --> 00:41:10,270
+que sirven para el escrutinio público, o sea
+
+446
+00:41:10,270 --> 00:41:12,350
+no aquellos que son específicamente relacionados
+
+447
+00:41:12,350 --> 00:41:16,510
+con el control de la pandemia, sino sobre las consecuencias que tiene,
+
+448
+00:41:17,310 --> 00:41:22,690
+es muy importante entender que estamos en un momento en el cual en general en el mundo
+
+449
+00:41:22,690 --> 00:41:30,630
+los estados están en una situación de excepción donde los gobiernos de esos estados
+
+450
+00:41:30,630 --> 00:41:36,530
+están teniendo atribuciones que normalmente en democracia no tienen
+
+451
+00:41:36,530 --> 00:41:45,190
+y eso es un riesgo para la población y la democracia es algo que no se tiene que terminar en momentos de crisis,
+
+452
+00:41:45,190 --> 00:41:53,090
+sino que en todo caso si la democracia no se sostiene en los momentos de crisis es porque era una democracia muy endeble
+
+453
+00:41:53,090 --> 00:41:55,550
+y tenemos que preguntarnos qué es lo que está pasando.
+
+454
+00:41:55,550 --> 00:42:20,970
+Y en ese sentido creo que los estados tienen la responsabilidad de entregar la información en relación a todas las atribuciones extraordinarias que están teniendo y cómo las están manejando y el escrutinio público tiene que seguir activo para sostener las garantías democráticas.
+
+455
+00:42:20,970 --> 00:42:38,730
+Por ejemplo, me parece muy relevante el trabajo que está haciendo la gente de Correpi, relevando todas las detenciones y las arbitrariedades en las detenciones de la gente que o no está respetando la cuarentena o la policía detiene porque supuestamente no está respetando la cuarentena.
+
+456
+00:42:38,730 --> 00:42:55,270
+y creo que sería no solo una tarea de Correpi desde su esfuerzo de organización popular, sino una tarea del Estado, garantizar que toda la información respecto a estas atribuciones extraordinarias que tiene la policía,
+
+457
+00:42:55,270 --> 00:43:01,430
+que es un cuerpo polémico y que en Argentina está históricamente denunciado
+
+458
+00:43:01,430 --> 00:43:06,690
+por casos de gatillo fácil y demás, ese superpoder que les están dando
+
+459
+00:43:06,690 --> 00:43:11,490
+a los policías creo que tiene que ser detenidamente escrutado
+
+460
+00:43:11,490 --> 00:43:16,630
+por la población y el Estado tiene que garantizar la información necesaria
+
+461
+00:43:16,630 --> 00:43:19,970
+para que nosotros desde nuestras casas podamos ver eso
+
+462
+00:43:19,970 --> 00:43:24,570
+y el día de mañana también sacar los balances necesarios.
+
+463
+00:43:25,270 --> 00:43:29,970
+Joaquín Meseguer, director general de Transparencia y Buen Gobierno de Castilla y León.
+
+464
+00:43:29,970 --> 00:43:43,150
+Bueno, a mí me gustaría agradecer la posibilidad de compartir mi opinión sobre temas que tanto nos atraen y nos importan a todos los ciudadanos,
+
+465
+00:43:43,510 --> 00:43:49,390
+también a los que tenemos alguna responsabilidad en la gestión de políticas de transparencia y apertura de la información.
+
+466
+00:43:50,230 --> 00:43:56,270
+Como digo, me gustaría animar a todas las administraciones y poderes públicos, ya sea de mi país y de cualquier otro,
+
+467
+00:43:56,270 --> 00:44:02,370
+en ese compromiso de apertura y de compartir la información con la ciudadanía.
+
+468
+00:44:02,970 --> 00:44:09,270
+Yo creo que es muy importante tener claro que este es un elemento esencial para fortalecer las democracias,
+
+469
+00:44:10,070 --> 00:44:16,950
+para fomentar e impulsar la participación de los ciudadanos en la toma de decisiones que les afectan,
+
+470
+00:44:16,950 --> 00:44:25,570
+en la gestión de las políticas públicas, en la aprobación de las normas que reconocen sus derechos y les imponen también al mismo tiempo obligaciones.
+
+471
+00:44:26,370 --> 00:44:35,930
+Y yo creo que solamente de esta manera conseguimos tener instituciones democráticas, instituciones más sólidas que respeten y protejan al ciudadano.
+
+472
+00:44:35,930 --> 00:44:50,530
+Yo creo que cualquier sociedad quiere tener ciudadanos bien formados, bien informados, ciudadanos alerta, activos en la gestión de lo público, responsables, conscientes de su papel en la vida pública.
+
+473
+00:44:50,530 --> 00:45:18,490
+Y por eso es importante facilitar y compartir la información, los datos, para que cualquiera pueda tomar sus decisiones en base a evidencias, a certezas, sino en base a sensaciones o intuiciones. Yo creo que ese es uno de los verdaderos retos y compromisos, obligaciones de la administración pública y esa, como yo digo, es la administración que yo quiero para cualquier ciudadano.
+
+474
+00:45:18,490 --> 00:45:22,710
+Juan Pablo Ruiz Nicolini, científico de datos y politólogo
+
+475
+00:45:22,710 --> 00:45:28,610
+Yo entiendo en algún punto la reacción de colegas de distintas disciplinas en esta discusión
+
+476
+00:45:28,610 --> 00:45:31,710
+Digo, una réplica de lo que decía antes podría ser
+
+477
+00:45:31,710 --> 00:45:36,110
+¿Por qué otros pueden hablar en elecciones juntando dos datos y hacer una teoría sobre lo que pasó?
+
+478
+00:45:36,850 --> 00:45:41,170
+Y comparto en algún punto parte de ese malestar medio narciso, digamos
+
+479
+00:45:41,170 --> 00:45:47,290
+A uno, a mí me pasa que de repente muchos participan en la discusión de un tema
+
+480
+00:45:47,290 --> 00:45:49,170
+que uno considera cercano
+
+481
+00:45:49,170 --> 00:45:51,110
+por la dedicación que le pone a estudiarlo
+
+482
+00:45:51,110 --> 00:45:52,910
+o trabajarlo. Y a veces
+
+483
+00:45:52,910 --> 00:45:55,230
+reacciona de una manera parecida a lo que describía
+
+484
+00:45:55,230 --> 00:45:56,170
+antes. Digo,
+
+485
+00:45:57,050 --> 00:45:59,030
+parte de mi investigación, por ejemplo, se concentró
+
+486
+00:45:59,030 --> 00:46:00,970
+en estudiar los efectos políticos del cambio
+
+487
+00:46:00,970 --> 00:46:03,270
+del sistema de votación. Evidentemente
+
+488
+00:46:03,270 --> 00:46:05,030
+este fue un tema que se debatió mucho
+
+489
+00:46:05,030 --> 00:46:06,670
+públicamente en Argentina
+
+490
+00:46:06,670 --> 00:46:09,410
+y desde mi óptica
+
+491
+00:46:09,410 --> 00:46:11,070
+particular como politólogo
+
+492
+00:46:11,070 --> 00:46:13,250
+y basado en las conclusiones que yo saqué
+
+493
+00:46:13,250 --> 00:46:15,270
+de mi análisis, muchos de los referentes
+
+494
+00:46:15,270 --> 00:46:17,270
+de otras áreas discutieron o propusieron
+
+495
+00:46:17,270 --> 00:46:19,490
+en ese debate, para mí eran
+
+496
+00:46:19,490 --> 00:46:21,390
+salidas tangenciales de donde había que poner
+
+497
+00:46:21,390 --> 00:46:23,190
+el foco, pero de vuelta
+
+498
+00:46:23,190 --> 00:46:25,230
+esto es una cosa que me parece una discusión
+
+499
+00:46:25,230 --> 00:46:27,030
+medio narcisa
+
+500
+00:46:27,030 --> 00:46:29,490
+y que uno, nos podemos
+
+501
+00:46:29,490 --> 00:46:31,310
+hacer cargo de eso, y me parece que está bien
+
+502
+00:46:31,310 --> 00:46:32,190
+que nos hagamos cargo
+
+503
+00:46:32,190 --> 00:46:35,130
+dicho todo esto
+
+504
+00:46:35,130 --> 00:46:37,290
+creo que es importante resaltar varias
+
+505
+00:46:37,290 --> 00:46:39,230
+cuestiones, primero, creo que
+
+506
+00:46:39,230 --> 00:46:41,090
+es importante seguir avanzando en políticas
+
+507
+00:46:41,090 --> 00:46:43,090
+de apertura de datos públicos en Argentina
+
+508
+00:46:43,090 --> 00:46:45,130
+se viene avanzando, existen experiencias
+
+509
+00:46:45,130 --> 00:46:47,130
+las cuales se puede aprender, pero todavía falta
+
+510
+00:46:47,130 --> 00:46:52,990
+Creo, en segundo lugar, que hay circunstancias en las cuales determinadas demandas tienen menos lugar
+
+511
+00:46:52,990 --> 00:46:58,310
+Mi sensación particular es que requerir toda la información desagregada en tiempo real
+
+512
+00:46:58,310 --> 00:47:02,910
+Disponible para todo, no es el mejor camino en un contexto como este
+
+513
+00:47:02,910 --> 00:47:09,150
+Y por último, me parece que tenemos que estar más atentos y ser más rigurosos
+
+514
+00:47:09,150 --> 00:47:10,970
+En la calidad de información que consumimos
+
+515
+00:47:10,970 --> 00:47:14,050
+Y por ende, en la que reutilizamos y que compartimos
+
+516
+00:47:14,050 --> 00:47:23,070
+Porque existen riesgos de desinformación y de mala información, creo que están ahí y que son difíciles de controlar.
+
+517
+00:47:24,430 --> 00:47:30,470
+Patricio del Boca, desarrollador de software y analista de datos, miembro de la comunidad Open Data Córdoba.
+
+518
+00:47:30,750 --> 00:47:35,290
+Bueno, a ver, alguna consideración. Sí, voy a pensar en voz alta, porque no quiero ofender a nadie.
+
+519
+00:47:36,170 --> 00:47:42,410
+Pero me parece que la comunidad de datos abiertos y el gobierno abierto está muy enfrascada o muy concentrada en, bueno,
+
+520
+00:47:42,410 --> 00:47:55,270
+El control ciudadano y lucha contra la corrupción y financiamiento público, lo cual me parece que es útil, es necesario, pero eso solamente funciona cuando las cosas andan bien.
+
+521
+00:47:55,710 --> 00:48:01,910
+Y me parece que es necesario cuando las democracias funcionan y cuando todo anda bien y está aceitado, es un buen mecanismo de control.
+
+522
+00:48:02,810 --> 00:48:07,370
+Ahora, hay que pensar un poquito más allá y decir, bueno,
+
+523
+00:48:07,370 --> 00:48:12,570
+¿qué podemos hacer desde la política de datos abiertos y desde la política de gobiernos abiertos
+
+524
+00:48:12,570 --> 00:48:18,970
+para fortalecer, en vez de controlar, para fortalecer a los estados frente a estas crisis?
+
+525
+00:48:19,110 --> 00:48:21,630
+Porque ese es un poquito, creo, el punto que hay que considerar.
+
+526
+00:48:22,250 --> 00:48:27,370
+¿Vamos a utilizar las políticas de gobierno abierto y datos abiertos solamente para hacer estados más transparentes,
+
+527
+00:48:28,050 --> 00:48:30,030
+más abiertos y menos corruptos?
+
+528
+00:48:30,030 --> 00:48:36,070
+o vamos también a utilizar estas políticas de datos abiertos para hacer un Estado más fuerte, más presente.
+
+529
+00:48:36,390 --> 00:48:43,510
+Porque es distinta, es decir, es distinto. Uno se puede quedar en la rama o en el área de control a los Estados
+
+530
+00:48:43,510 --> 00:48:50,670
+o uno puede agarrar esos datos también y decir, utilizo estos datos para potenciar el Estado.
+
+531
+00:48:50,670 --> 00:48:54,710
+Entonces, las ONGs vamos a tener que considerar un cambio en nuestro rol.
+
+532
+00:48:54,910 --> 00:48:58,550
+¿Vamos a ser controladores del Estado o vamos a trabajar en conjunto con el Estado?
+
+533
+00:48:58,550 --> 00:49:01,610
+Yo creo que esa es la primera consideración que vamos a tener que tener después de esta crisis.
+
+534
+00:49:02,130 --> 00:49:10,550
+Me parece que toda la estructura y la relación entre ONGs y Estados funciona y es muy buena cuando las cosas andan.
+
+535
+00:49:11,790 --> 00:49:13,910
+Pero frente a estas crisis nos hemos quedado cortos.
+
+536
+00:49:14,150 --> 00:49:19,310
+Si estas crisis nos damos cuenta de que muchas de las ONGs de Argentina quedaron on the upside.
+
+537
+00:49:19,650 --> 00:49:23,030
+Está bien, el mundo quedó on the upside, así que tampoco es una culpa de las ONGs.
+
+538
+00:49:23,030 --> 00:49:25,570
+pero sí me parece que es momento para decir
+
+539
+00:49:25,570 --> 00:49:27,210
+bueno, ¿cómo podemos llevar esto al próximo nivel
+
+540
+00:49:27,210 --> 00:49:29,650
+para que la política de datos abiertos
+
+541
+00:49:29,650 --> 00:49:31,470
+y gobiernos abiertos realmente
+
+542
+00:49:31,470 --> 00:49:33,510
+solidifiquen la estructura del Estado
+
+543
+00:49:33,510 --> 00:49:35,550
+para que las próximas crisis mundiales
+
+544
+00:49:35,550 --> 00:49:37,570
+que haya, tengamos más herramientas
+
+545
+00:49:37,570 --> 00:49:39,590
+para afrontarlas de una forma
+
+546
+00:49:39,590 --> 00:49:41,550
+más lógica, más
+
+547
+00:49:41,550 --> 00:49:42,630
+coherente, más rápida
+
+548
+00:49:42,630 --> 00:49:45,330
+y de mejor manera, yo creo que
+
+549
+00:49:45,330 --> 00:49:47,030
+esa va a ser la discusión
+
+550
+00:49:47,030 --> 00:49:49,270
+yo creo que la interacción
+
+551
+00:49:49,270 --> 00:49:51,190
+entre ONG, sociedad civil
+
+552
+00:49:51,190 --> 00:49:52,830
+y Estados a partir de esta crisis
+
+553
+00:49:52,830 --> 00:49:58,070
+va a tener que cambiar completamente, porque ya la dinámica de sociedad civil como controladora del Estado,
+
+554
+00:49:58,230 --> 00:50:04,550
+que es la que mayoritariamente se observa, queda obsoleta, porque nos damos cuenta que apenas se sacuden un poquito
+
+555
+00:50:04,550 --> 00:50:08,510
+los cimientos de la convivencia mundial e internacional, nos quedamos cortos.
+
+556
+00:50:08,610 --> 00:50:12,570
+Entonces creo que esa es la primera consideración que vamos a tener que tener a pensar a futuro
+
+557
+00:50:12,570 --> 00:50:15,150
+con respecto a lo que ha pasado en estos días.
+
+558
+00:50:15,910 --> 00:50:20,350
+Rodrigo Quiroga, bioinformático e investigador asistente del CONICET.
+
+559
+00:50:20,350 --> 00:50:27,490
+Bueno, con respecto a los datos y los datos sobre la pandemia de coronavirus en general,
+
+560
+00:50:29,370 --> 00:50:34,790
+creo que sería muy útil que se pusieran de acuerdo los gobiernos,
+
+561
+00:50:34,970 --> 00:50:40,670
+que la OMS estandarizara la manera en la que se producen y se generan datos,
+
+562
+00:50:41,810 --> 00:50:46,550
+porque esto lleva justamente a malas interpretaciones de la prensa
+
+563
+00:50:46,550 --> 00:50:54,390
+y de la propia gente que está analizando los datos, porque sabemos que no son comparables.
+
+564
+00:50:55,510 --> 00:51:04,250
+Para poder de alguna manera estandarizar datos, necesitaremos mucho más información de la que están dando la mayoría de los países,
+
+565
+00:51:04,250 --> 00:51:11,230
+necesitaremos saber cuántos test han dado negativos, cuántos han dado positivos, cuántos test se están haciendo,
+
+566
+00:51:11,230 --> 00:51:40,640
+Las edades de la población infectada y de los fallecidos, la sintomatología, son todos datos que permitirían construir un panorama más completo de los datos que estamos analizando y sin ellos es muy muy difícil realmente hacer comparativas que reflejen, digamos, la realidad.
+
+567
+00:51:40,640 --> 00:51:44,640
+Es muy difícil comparar datos entre países en este momento.
+
+568
+00:51:45,800 --> 00:51:51,840
+Bien, llegamos al final. Espero que como yo hayan disfrutado de las opiniones de todos los invitados.
+
+569
+00:51:52,140 --> 00:51:52,840
+Nos vemos la próxima.
+

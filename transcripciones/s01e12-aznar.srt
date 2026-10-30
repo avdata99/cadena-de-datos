@@ -1,0 +1,1420 @@
+1
+00:00:00,000 --> 00:00:27,600
+Cadena de datos, episodio número 12. Nuestro invitado de hoy es Jorge Aznar de Zaragoza en España. Es diseñador gráfico o fue diseñador gráfico y ahora es desarrollador de software. Ya lo vamos a conversar con él. Es lo que nosotros en Argentina llamaríamos activista o hacker cívico y tiene muchos proyectos varios de los cuales me gustaría conocer y conversar hoy con él.
+
+2
+00:00:27,600 --> 00:00:29,460
+Buenos días, Jorge, ¿cómo estás?
+
+3
+00:00:30,040 --> 00:00:31,660
+Hola, buenos días, Andrés, muy bien.
+
+4
+00:00:32,400 --> 00:00:35,240
+Bueno, muchas gracias por participar, Jorge.
+
+5
+00:00:36,400 --> 00:00:43,960
+Estás invitado porque estuve viendo en internet numerosos proyectos tuyos usando datos de gobierno
+
+6
+00:00:43,960 --> 00:00:46,880
+y como a muchos otros invitados te quería preguntar
+
+7
+00:00:46,880 --> 00:00:51,540
+¿en qué momento vos comenzaste a usar datos públicos o datos de gobierno
+
+8
+00:00:51,540 --> 00:00:55,880
+para hacer proyectos o personales o comunitarios?
+
+9
+00:00:55,880 --> 00:00:57,540
+¿Desde cuándo tenés esta costumbre?
+
+10
+00:00:57,600 --> 00:01:15,200
+Bueno, empiezo más o menos en el 2013, en Aragón se publica, bueno, nace una iniciativa que es Aragón Open Data por el gobierno de Aragón y allí empiezo a jugar con datasets, algo bastante básico.
+
+11
+00:01:15,200 --> 00:01:43,880
+En 2014 el ayuntamiento, las fechas igual me bailan un poco, el ayuntamiento publica otra iniciativa que es Zaragoza Open Data, donde empiezan a publicar, a liberar un montón de datasets y ahí más o menos empiezo, lo que pasa que como bien has dicho yo vengo del mundo del diseño, la programación la he ido aprendiendo poco a poco y haciendo cursos y entonces sí que había al principio una barrera de cómo usar los datos o cómo hacerlos,
+
+12
+00:01:43,880 --> 00:01:47,040
+Pero bueno, esa barrera la he ido salvando.
+
+13
+00:01:47,560 --> 00:01:54,900
+¿Y hay una comunidad de mucha gente que hace lo que vos haces o lo que vos haces es algo poco frecuente?
+
+14
+00:01:55,900 --> 00:02:04,380
+Nos vamos conociendo. Hay gente que en diferentes puntos de España sí que hace cosas igual que yo y nos hemos puesto en contacto,
+
+15
+00:02:04,380 --> 00:02:14,960
+Por ejemplo, con la gente de CIECODE, de Tipi Cidadano, que tienen una iniciativa para fiscalizar todo lo que se presenta en el Congreso de España, de los diputados.
+
+16
+00:02:15,800 --> 00:02:26,580
+Y sí que hay más iniciativas, pero son grupos pequeños o en este caso estoy yo solo, que a veces me ayuda algún amigo, pero en concreto soy solitario.
+
+17
+00:02:26,700 --> 00:02:31,900
+A mí me gustaría dar algunos datos de contexto y necesito que vos me lo corrigas si están mal.
+
+18
+00:02:31,900 --> 00:02:36,780
+Zaragoza es una ciudad que tiene más o menos 700.000 habitantes y 1.000 kilómetros cuadrados.
+
+19
+00:02:37,740 --> 00:02:41,760
+Exacto, sí. Somos la quinta ciudad de España.
+
+20
+00:02:42,300 --> 00:02:48,720
+Bien, como referencia, la ciudad de Córdoba en la que yo estoy tiene el doble de habitantes, pero la mitad de kilómetros cuadrados.
+
+21
+00:02:48,900 --> 00:02:52,340
+Pero supongo que son más o menos parecidos.
+
+22
+00:02:53,120 --> 00:03:00,840
+Jorge, ustedes, vos en solitario o esas organizaciones que me comentás, ¿tienen una relación activa con el gobierno?
+
+23
+00:03:00,840 --> 00:03:02,600
+además de usar los datos, ¿tienen
+
+24
+00:03:02,600 --> 00:03:04,580
+intercambios? ¿Van eventos
+
+25
+00:03:04,580 --> 00:03:06,720
+a donde ven a los funcionarios
+
+26
+00:03:06,720 --> 00:03:07,200
+o no?
+
+27
+00:03:08,200 --> 00:03:10,380
+No, yo no. En mi caso es muy
+
+28
+00:03:10,380 --> 00:03:12,500
+mi caso es muy particular
+
+29
+00:03:12,500 --> 00:03:14,800
+los funcionarios del
+
+30
+00:03:14,800 --> 00:03:16,600
+ayuntamiento, sé que conocen
+
+31
+00:03:16,600 --> 00:03:17,300
+el proyecto
+
+32
+00:03:17,300 --> 00:03:20,500
+bueno, si queréis
+
+33
+00:03:20,500 --> 00:03:21,820
+os cuento de qué va
+
+34
+00:03:21,820 --> 00:03:23,840
+el proyecto, claro, por eso, ¿no?
+
+35
+00:03:24,340 --> 00:03:24,940
+Sí, sí, sí. Vale.
+
+36
+00:03:26,140 --> 00:03:27,220
+Esto surge
+
+37
+00:03:27,220 --> 00:03:30,260
+yo creo que es en 2016, el proyecto se llama
+
+38
+00:03:30,260 --> 00:03:31,900
+Bislai. Bislai
+
+39
+00:03:31,900 --> 00:03:33,920
+significa en aragones
+
+40
+00:03:33,920 --> 00:03:35,820
+mirar de reojo, ¿vale?
+
+41
+00:03:36,240 --> 00:03:38,300
+En vez de mirar de reojo, en aragones se dice
+
+42
+00:03:38,300 --> 00:03:40,060
+así, que es como muchas veces miramos a la
+
+43
+00:03:40,060 --> 00:03:42,380
+política. Y esto surge
+
+44
+00:03:42,380 --> 00:03:44,360
+porque yo veo una noticia,
+
+45
+00:03:44,480 --> 00:03:46,040
+veo una noticia en la tele
+
+46
+00:03:46,040 --> 00:03:47,560
+y se hace una votación
+
+47
+00:03:47,560 --> 00:03:50,460
+y el resultado
+
+48
+00:03:50,460 --> 00:03:52,280
+me choca. Entonces voy a buscar
+
+49
+00:03:52,280 --> 00:03:54,320
+información, voy a buscar a la
+
+50
+00:03:54,320 --> 00:03:56,060
+web del ayuntamiento pensando que en el
+
+51
+00:03:56,060 --> 00:03:58,120
+Open Data estarían liberados todos los datos
+
+52
+00:03:58,120 --> 00:04:05,240
+y no encuentro nada, o sea, busco, busco, busco, busco, no encuentro nada, me pongo en contacto con ellos a través de Twitter
+
+53
+00:04:05,240 --> 00:04:14,580
+y me pasan un enlace que estaba escondido en la web del ayuntamiento y lo que veo, bueno, ahí se suben todo lo que pasa en el pleno,
+
+54
+00:04:14,580 --> 00:04:24,160
+pero ¿qué hacen? Vale, hay una persona que transcribe todo lo que pasa en el pleno y luego ellos lo vuelcan en bruto en la web.
+
+55
+00:04:24,160 --> 00:04:35,020
+Entonces, ¿qué pasa? Que no se hace una distinción de ni quién presenta las propuestas, qué partido las presenta, ni el título, ni el resultado. Es decir, está todo en bruto.
+
+56
+00:04:35,020 --> 00:04:53,900
+Es decir, para que me hagáis una idea, la fuente es la misma, no se resalta nada y entonces a mí me parece que no te invita mucho. Entender, claro, se entiende, pero te hace una barrera al diseño de, bueno, esto es un rollo, esto es una pistola enorme.
+
+57
+00:04:53,900 --> 00:04:55,880
+me parece la Biblia y no me la voy a leer.
+
+58
+00:04:56,000 --> 00:04:56,940
+Entonces, a partir de ahí,
+
+59
+00:04:57,020 --> 00:04:58,940
+empiezo a recolectar todos los datos,
+
+60
+00:04:59,900 --> 00:05:00,800
+hacer scrapping
+
+61
+00:05:00,800 --> 00:05:05,320
+y creo este proyecto,
+
+62
+00:05:05,580 --> 00:05:06,980
+que la idea principal era,
+
+63
+00:05:07,260 --> 00:05:08,420
+yo lo que quería era un buscador,
+
+64
+00:05:08,560 --> 00:05:10,860
+es decir, lo lógico sería un buscador,
+
+65
+00:05:10,980 --> 00:05:12,640
+yo busco por un término
+
+66
+00:05:12,640 --> 00:05:14,380
+y el buscador me devuelve
+
+67
+00:05:14,380 --> 00:05:18,440
+qué partidos han presentado esos temas.
+
+68
+00:05:18,720 --> 00:05:20,500
+Entonces, no había ni tan siquiera un buscador.
+
+69
+00:05:20,680 --> 00:05:23,020
+Entonces, mi idea es solo un buscador
+
+70
+00:05:23,020 --> 00:05:31,080
+y presentar más, con un poco de diseño que sea más visible o más accesible la información.
+
+71
+00:05:31,460 --> 00:05:38,260
+Esto que hiciste termina siendo un producto mejor al que el gobierno publicaba con los datos.
+
+72
+00:05:38,620 --> 00:05:41,160
+¿Se lo tomaron bien? ¿Les gustó o no les gustó?
+
+73
+00:05:42,740 --> 00:05:49,240
+Ellos no publican los datos, ¿vale? Ellos no publican ni un solo dato de, o sea, lo suben a internet, vamos,
+
+74
+00:05:49,240 --> 00:05:59,340
+pero no está en un formato reutilizable, entonces yo lo que he hecho es crear un, al final, conforme he ido recolectando propuesta,
+
+75
+00:05:59,440 --> 00:06:05,020
+quién ha presentado la propuesta, cuándo se ha presentado la propuesta, quién ha votado a favor, quién ha votado en contra, quién se ha abstenido,
+
+76
+00:06:05,560 --> 00:06:14,320
+entonces al final yo lo que creo es un dataset yo solo, yo propio, entonces con un JSON y al final lo compartí,
+
+77
+00:06:14,320 --> 00:06:23,660
+Y luego me di cuenta de que tenía tantos datos, de que empecé a cruzar los datos con Node y Lodash para filtrarlos e ir sacando estadísticas.
+
+78
+00:06:23,900 --> 00:06:31,940
+Que si les ha sentado bien o tal, sé que luego, más tarde, ¿me oyes?
+
+79
+00:06:32,840 --> 00:06:34,320
+Sí, sí, te escucho perfecto.
+
+80
+00:06:34,620 --> 00:06:35,560
+Pensaba que se había ido.
+
+81
+00:06:36,120 --> 00:06:41,140
+Al año siguiente de publicar el proyecto ellos sacan un buscador, ¿vale?
+
+82
+00:06:41,140 --> 00:06:48,320
+que es lo que yo buscaba desde el principio y lo que quería era un buscador y sacan un buscador
+
+83
+00:06:48,320 --> 00:06:53,460
+pero sacan un buscador que no tiene carácter retroactivo es decir el buscador sólo busca a
+
+84
+00:06:53,460 --> 00:07:01,180
+partir de ese día y ese día era diciembre 2017 y sólo busca eso mi proyecto te busca en todas
+
+85
+00:07:01,180 --> 00:07:10,580
+la en toda la legislatura y los medios de comunicación es lo usaron sé que hay gente
+
+86
+00:07:10,580 --> 00:07:17,440
+partidos políticos que lo ha usado y me han escrito por privado me han felicitado me han
+
+87
+00:07:17,440 --> 00:07:25,180
+dicho que muy bien qué tal pero más allá no los medios en bueno me nominaron a unos premios de un
+
+88
+00:07:25,180 --> 00:07:34,000
+medio y ya está allí se acaba la relación con el ayuntamiento y con los medios. Bien, vi que
+
+89
+00:07:34,000 --> 00:07:41,200
+publicabas algunas cosas en github, ¿este proyecto BigLight es software libre o son otros los que son?
+
+90
+00:07:41,200 --> 00:07:48,840
+Sí, sí, sí, es todo, todo lo que hago, si los datos lo permiten, está publicado con Creative Commons y
+
+91
+00:07:48,840 --> 00:07:52,980
+Y con poner una referencia me es indiferente.
+
+92
+00:07:53,080 --> 00:07:54,980
+Igual si no la pones tampoco pasa nada.
+
+93
+00:07:55,440 --> 00:07:58,380
+Pero sí, sí, es todo software libre.
+
+94
+00:07:58,680 --> 00:07:59,240
+Perfecto.
+
+95
+00:07:59,380 --> 00:08:05,840
+Y ahí, ¿se acercó alguien más de la comunidad técnica, algún programador a participar?
+
+96
+00:08:06,860 --> 00:08:08,860
+Sí, bueno, con un amigo.
+
+97
+00:08:08,860 --> 00:08:16,340
+Con un amigo sí que montamos todo el sistema con Node y lo das para ir filtrando y sacando.
+
+98
+00:08:16,340 --> 00:08:28,520
+Porque al final me junté con tantos datos desde 2015 hasta 2019 que abarca esta legislatura, me junté con tantos datos que montamos el sistema para filtrar y poder sacar estadísticas.
+
+99
+00:08:28,520 --> 00:08:48,620
+Es decir, cuando presenta un partido una propuesta, quién vota a favor, quién vota en contra, quién se abstiene, que más o menos tú ya sabes que por izquierda, derecha, cada uno se va absteniendo, va votando en contra, pero luego verlo te llevas a veces algunas sorpresas y bastante bienvenidas.
+
+100
+00:08:48,620 --> 00:09:07,940
+Nosotros también tenemos activistas de la sociedad civil que llevan datos como los que vos comentás de cómo votó y a quién votó cada uno en cada proyecto y me parece súper valioso e interesante.
+
+101
+00:09:08,600 --> 00:09:14,720
+El portal Aragón Open Data que vos nombrabas, me dijiste que se creó más o menos en 2013 o 2014.
+
+102
+00:09:15,380 --> 00:09:22,680
+2012, claro, está el de gobierno de Aragón, que es 2012, que Zaragoza pertenece a la región de Aragón, dentro de España.
+
+103
+00:09:23,560 --> 00:09:29,360
+Y luego está, por otro lado, el del ayuntamiento, que es Zaragoza Open Data y Aragón Open Data.
+
+104
+00:09:29,360 --> 00:09:36,280
+Uno creo que es 2012-2013 el del gobierno y el del ayuntamiento 2013-2014, más o menos.
+
+105
+00:09:36,280 --> 00:09:58,220
+Bueno, actualmente ese portal, yo siento alguna curiosidad, ¿es normal? Ya es lo que hacen siempre que publican los datos con algún formato reutilizable, tú nombraste JSON, ¿es un formato que un gobierno usaría o es algo que nosotros los técnicos usamos solamente?
+
+106
+00:09:58,220 --> 00:10:12,820
+Es algo de los técnicos. Ellos te dan varias opciones. Te dan XML, te dan CSV y te dan JSON o si están georreferenciados te dan GeoJSON. Entonces sí que te dan varias opciones.
+
+107
+00:10:12,820 --> 00:10:22,860
+y el problema aquí que es que a veces no se supervisa lo que se publica entonces algunas
+
+108
+00:10:22,860 --> 00:10:32,620
+veces no hay algún control de calidad los sobre todo en csv da muchísimos errores faltan valores
+
+109
+00:10:32,620 --> 00:10:40,360
+entonces ahí quiero decir a mí porque me gusta y porque me los limpio yo y los hago yo pero
+
+110
+00:10:40,360 --> 00:10:42,380
+quizás es una barrera para otras personas
+
+111
+00:10:42,380 --> 00:10:44,560
+que ve que salta un error
+
+112
+00:10:44,560 --> 00:10:46,740
+y el dataset no funciona.
+
+113
+00:10:47,300 --> 00:10:47,860
+Seguramente.
+
+114
+00:10:48,060 --> 00:10:50,780
+El dataset de 100.000 líneas y demás,
+
+115
+00:10:51,260 --> 00:10:52,900
+eso es una locura.
+
+116
+00:10:54,080 --> 00:10:54,720
+Exacto.
+
+117
+00:10:55,100 --> 00:10:56,620
+Vi que hiciste también un
+
+118
+00:10:56,620 --> 00:10:58,540
+proyecto en donde ponías en un
+
+119
+00:10:58,540 --> 00:10:59,940
+mapa la renta media
+
+120
+00:10:59,940 --> 00:11:02,460
+por código postal. ¿Puede ser?
+
+121
+00:11:03,160 --> 00:11:04,500
+Sí, esto es algo
+
+122
+00:11:04,500 --> 00:11:05,740
+nuevo. Ahora Hacienda
+
+123
+00:11:05,740 --> 00:11:08,620
+en las ciudades de más de 200.000
+
+124
+00:11:08,620 --> 00:11:18,700
+habitantes, ha publicado la renta media por código postal, las rentas
+
+125
+00:11:18,700 --> 00:11:23,800
+declaradas, es decir, de dónde proviene cada renta, número de declarantes y unos
+
+126
+00:11:23,800 --> 00:11:28,680
+datos bastante interesantes, sí. ¿Y los polígonos de cada código postal es un
+
+127
+00:11:28,680 --> 00:11:34,660
+dato que está abierto, que existe, que está disponible? Eso lo hizo, había un
+
+128
+00:11:34,660 --> 00:11:44,640
+sistema hasta 2017, pero en 2017 pasó a ser de pago. Estuve leyendo por correos que es el servicio
+
+129
+00:11:44,640 --> 00:11:51,300
+postal aquí en España, al final decidió cortarlo. Entonces, hay un repositorio en GitHub que alguien
+
+130
+00:11:51,300 --> 00:11:55,860
+subió todos los códigos postales. El problema es que cuando hay una actualización de un código
+
+131
+00:11:55,860 --> 00:12:01,720
+postal, por lo que sea, porque ha cambiado la delimitación de la ciudad o se ha ampliado o tal,
+
+132
+00:12:01,720 --> 00:12:03,420
+entonces no está actualizado. Creo que estaba
+
+133
+00:12:03,420 --> 00:12:04,920
+actualizado hasta 2018.
+
+134
+00:12:05,620 --> 00:12:07,800
+Bien. Nosotros en Argentina tuvimos
+
+135
+00:12:07,800 --> 00:12:09,660
+algún problema parecido con los códigos postales.
+
+136
+00:12:09,880 --> 00:12:11,740
+El mapa oficial es un dato cerrado,
+
+137
+00:12:11,840 --> 00:12:12,700
+es un dato privado
+
+138
+00:12:12,700 --> 00:12:15,660
+y me parece muy curioso
+
+139
+00:12:15,660 --> 00:12:17,640
+que a ustedes les pase lo mismo. El dato
+
+140
+00:12:17,640 --> 00:12:19,660
+era abierto y dejó de ser abierto.
+
+141
+00:12:19,800 --> 00:12:20,660
+Ahora es un dato cerrado.
+
+142
+00:12:22,280 --> 00:12:23,560
+Bueno, este es cerrado
+
+143
+00:12:23,560 --> 00:12:25,440
+o previo pago. Te lo abren
+
+144
+00:12:25,440 --> 00:12:25,960
+si
+
+145
+00:12:25,960 --> 00:12:29,480
+a tantos códigos postales
+
+146
+00:12:29,480 --> 00:12:31,060
+pidas, me imagino que irá el peso.
+
+147
+00:12:31,720 --> 00:12:57,780
+Mira vos. Bueno, tenés también un proyecto que me pareció interesante, que fue, a mí me parece que esto, si bien son datos que existen, genera mucho impacto, armaste un pequeño portal de cambio climático para Zaragoza, tomaste datos del clima de tu ciudad, lluvia, y me imagino otras mediciones de hace muchos años y la visualizaste de una forma muy interesante.
+
+148
+00:12:57,780 --> 00:13:27,760
+Sí, eso, en esto sí que se hace bien, tiene sus cosas, que es la Agencia Estatal de Meteorología, sí que tiene un portal de Open Data que a través de una pique que es gratuita, te da desde, recogen datos, a veces hay estaciones desde 1900, dependiendo de la estación de donde está la ciudad, sí que te va devolviendo un montón de datos y un montón de valores.
+
+149
+00:13:27,780 --> 00:13:35,220
+como lo que decías, temperatura máxima, temperatura mínima, lluvia recogida, velocidad del viento,
+
+150
+00:13:35,360 --> 00:13:39,080
+cuando se dio la máxima, cuando se dio la mínima y demás.
+
+151
+00:13:39,740 --> 00:13:43,920
+Entonces, a partir de ahí recolecté todos los datos, en principio solo para Zaragoza,
+
+152
+00:13:44,340 --> 00:13:49,460
+para ver cómo nos está afectando y para visualizarlo, ¿no?
+
+153
+00:13:50,140 --> 00:13:53,880
+Para ver cómo tenemos un problema bastante grande.
+
+154
+00:13:54,020 --> 00:13:55,180
+Sí, sí, y se ve bien.
+
+155
+00:13:55,180 --> 00:13:58,240
+y ahora lo estoy haciendo para toda España
+
+156
+00:13:58,240 --> 00:14:00,180
+ahora ya tengo todos los datos
+
+157
+00:14:00,180 --> 00:14:02,220
+al final me hice un scraper
+
+158
+00:14:02,220 --> 00:14:04,520
+con BaaS y con Python
+
+159
+00:14:04,520 --> 00:14:06,540
+y te puedes descargar
+
+160
+00:14:06,540 --> 00:14:08,360
+te puedes descargar
+
+161
+00:14:08,360 --> 00:14:10,500
+cualquier estación que esté disponible
+
+162
+00:14:10,500 --> 00:14:12,020
+en AMT
+
+163
+00:14:12,020 --> 00:14:12,760
+en el Open Data
+
+164
+00:14:12,760 --> 00:14:15,340
+en ese portal
+
+165
+00:14:15,340 --> 00:14:18,100
+no están los datos de tal forma
+
+166
+00:14:18,100 --> 00:14:20,020
+que uno se los pueda bajar, tuviste que hacer un scraper
+
+167
+00:14:20,020 --> 00:14:21,500
+están
+
+168
+00:14:21,500 --> 00:14:23,520
+pero tiene una limitación
+
+169
+00:14:23,520 --> 00:14:25,520
+es decir, solo puedes hacer una petición cada
+
+170
+00:14:25,520 --> 00:14:27,540
+31 días, es decir, solo te puedes
+
+171
+00:14:27,540 --> 00:14:28,440
+descargar un mes
+
+172
+00:14:28,440 --> 00:14:31,300
+Ah, mira, entonces tuviste que hacer una scrapper
+
+173
+00:14:31,300 --> 00:14:33,320
+para bajarte cada uno de los meses
+
+174
+00:14:33,320 --> 00:14:35,460
+Entonces, claro, si tú tienes que
+
+175
+00:14:35,460 --> 00:14:37,500
+hacer un clic, seleccionar el mes
+
+176
+00:14:37,500 --> 00:14:39,620
+otro clic, seleccionar la estación y tal
+
+177
+00:14:39,620 --> 00:14:41,720
+son 6 clics por mes, multiplicarlo
+
+178
+00:14:41,720 --> 00:14:43,860
+Hay un problema
+
+179
+00:14:43,860 --> 00:14:44,820
+con el portal, sí
+
+180
+00:14:44,820 --> 00:14:47,500
+Entonces sí que el portal te da, eso está
+
+181
+00:14:47,500 --> 00:14:49,480
+bien porque te dan ejemplos y demás
+
+182
+00:14:49,480 --> 00:14:51,400
+el ejemplo tampoco me sirvió para nada, para que
+
+183
+00:14:51,400 --> 00:14:53,140
+utilices el lenguaje de programación que quiera
+
+184
+00:14:53,140 --> 00:15:18,200
+Y entonces me monté un scraper con Bash y con Python y ahora puedes bajarte un rango de fechas, un rango de años. Hay tres modalidades. O si solo te quieres bajar un día. Entonces, así ya, por ejemplo, por poner un ejemplo, la semana pasada lo tuve funcionando una semana y en seis días se bajó un millón de días de datos.
+
+185
+00:15:18,200 --> 00:15:21,100
+Sin tener que estar tú, como solo pasarle el número,
+
+186
+00:15:21,560 --> 00:15:24,720
+ya él te va haciendo todo y te lo formatea y demás.
+
+187
+00:15:25,160 --> 00:15:27,400
+Por acá es muy común también hacer scrapper.
+
+188
+00:15:27,620 --> 00:15:29,980
+Hay un caso muy conocido.
+
+189
+00:15:30,540 --> 00:15:35,040
+En el año 2010 había un scrapper sobre una base de datos de compras públicas
+
+190
+00:15:35,040 --> 00:15:37,880
+y cuando el gobierno se dio cuenta le colocó un captcha
+
+191
+00:15:37,880 --> 00:15:40,180
+para que el scrapper deje de funcionar.
+
+192
+00:15:41,000 --> 00:15:43,160
+¿A vos te pasó alguna vez algo parecido?
+
+193
+00:15:43,780 --> 00:15:45,560
+No, por ahora no me ha pasado nada.
+
+194
+00:15:45,560 --> 00:15:51,040
+y si no me han quitado el APK después de bajarme un millón de días,
+
+195
+00:15:51,480 --> 00:15:54,460
+creo que ya creo que me van a dejar hacer lo que quieran.
+
+196
+00:15:54,580 --> 00:15:56,020
+Por ahora los voy a dejar descansar.
+
+197
+00:15:56,080 --> 00:15:59,100
+Ya tengo los datos, entonces ahora los voy a dejar descansar.
+
+198
+00:15:59,220 --> 00:16:01,340
+Pero no, por ahora ahí no me ha pasado nada.
+
+199
+00:16:01,940 --> 00:16:03,740
+Te pongo... Sí, déjeme.
+
+200
+00:16:04,160 --> 00:16:04,760
+Perdona, ¿eh?
+
+201
+00:16:05,020 --> 00:16:08,960
+Sí que es verdad que antes había un FTP de la MT,
+
+202
+00:16:09,060 --> 00:16:10,660
+de la Agencia Estatal de Meteorología,
+
+203
+00:16:11,340 --> 00:16:15,540
+hasta un FTP donde tú te podías descargar los datos de todo
+
+204
+00:16:15,540 --> 00:16:19,620
+y a partir de 2012 cerraron el FTP y el acceso libre,
+
+205
+00:16:19,740 --> 00:16:21,280
+que era bastante cómodo para la gente.
+
+206
+00:16:22,240 --> 00:16:24,480
+Entonces, ahí no sé por qué tomaron esa decisión
+
+207
+00:16:24,480 --> 00:16:28,120
+y en 2012-2013 dejaron de tener todos los datos disponibles.
+
+208
+00:16:28,780 --> 00:16:33,460
+Bueno, te pongo, tengo una consulta que le hago a todos los invitados.
+
+209
+00:16:33,900 --> 00:16:36,320
+Supongamos que te llama el alcalde de Zaragoza
+
+210
+00:16:36,320 --> 00:16:40,040
+y te invita a ser su nuevo director de datos abiertos
+
+211
+00:16:40,040 --> 00:16:42,080
+o no sé cómo se llaman los cargos de funcionarios.
+
+212
+00:16:42,080 --> 00:16:44,600
+Te invita a ser funcionario público para que te encargues
+
+213
+00:16:44,600 --> 00:16:47,800
+de hacer un portal de datos acorde a todas estas cosas
+
+214
+00:16:47,800 --> 00:16:49,100
+que decimos que se podrían corregir.
+
+215
+00:16:49,420 --> 00:16:50,760
+¿Tú participarías del gobierno?
+
+216
+00:16:51,640 --> 00:16:54,580
+Sí, seguramente sí, aunque me han hecho caso nulo
+
+217
+00:16:54,580 --> 00:16:56,180
+para una vez que me hacen caso.
+
+218
+00:16:56,820 --> 00:16:59,420
+Sí que teniendo en cuenta la variable
+
+219
+00:16:59,420 --> 00:17:01,680
+de que todo lo que te prometen, el 50%,
+
+220
+00:17:01,680 --> 00:17:05,800
+no se va a cumplir, pero sí, sí que aceptaría.
+
+221
+00:17:06,060 --> 00:17:07,380
+Sí participarías, bueno.
+
+222
+00:17:08,540 --> 00:17:09,440
+Muy interesante.
+
+223
+00:17:10,000 --> 00:17:11,880
+Te quería preguntar cómo ves vos
+
+224
+00:17:11,880 --> 00:17:14,420
+a los que ya están en la función pública.
+
+225
+00:17:14,500 --> 00:17:21,360
+¿Te parece que los datos son usados por ellos para tomar decisiones?
+
+226
+00:17:21,460 --> 00:17:25,580
+O sea, ¿miran datos, tienen una visión profesional de la política
+
+227
+00:17:25,580 --> 00:17:28,500
+de sumar los datos a la mesa de decisión
+
+228
+00:17:28,500 --> 00:17:31,520
+o se guían por el sentido común o por la intuición?
+
+229
+00:17:31,520 --> 00:17:35,200
+¿Cómo ves eso en los funcionarios de Zaragoza o de Aragón?
+
+230
+00:17:36,040 --> 00:17:41,700
+Sé que hay algunos que sí que lo utilizan y hacen uso de ellos.
+
+231
+00:17:41,880 --> 00:17:51,180
+y a otra parte no, y luego sí que, bueno, pediría que más allá de hacerse la foto y de decir salir en la noticia,
+
+232
+00:17:51,180 --> 00:18:02,000
+hemos publicado, hemos puesto X datasets liberados, que se hiciera un seguimiento, es decir, no hacerte la foto y olvidarte,
+
+233
+00:18:02,140 --> 00:18:07,600
+y cuando te preguntes, no, no, si es que nosotros ya hemos liberado los datos, sino persistir en el tiempo,
+
+234
+00:18:07,600 --> 00:18:25,100
+Es decir, hacer un seguimiento, preguntar a la gente o buscar a la gente qué hace con los datos e intentar hacer un seguimiento de eso, no hacer la foto y nos olvidamos. Está el portal allí y ya está.
+
+235
+00:18:25,100 --> 00:18:38,820
+Eso pasa mucho. Y con respecto al acceso a la información pública, si un dato que tú quieres no está, ¿hay una vía más o menos, no sé si te pasó, alguna vez tuviste que pedir un dato formalmente que no estaba publicado?
+
+236
+00:18:38,820 --> 00:18:57,100
+Sí, se supone y según la ley que en un plazo de 20 días deberían de facilitarte el dato y el dataset. Sí que ha habido días. Ha habido alguna vez, por ejemplo, hace un par de años, al día siguiente tenía los datos.
+
+237
+00:18:57,100 --> 00:19:03,640
+me imagino que ellos ya los tenían y los iban a publicar y hace poco otro
+
+238
+00:19:03,640 --> 00:19:08,260
+otro data set que pedí me marearon me dijeron que no que no correspondía a
+
+239
+00:19:08,260 --> 00:19:13,820
+ellos era sobre las basuras y la recogida de residuos de la ciudad y me
+
+240
+00:19:13,820 --> 00:19:18,160
+dijeron que no que ellos no me lo podían dar que tenía que ir a la empresa y le
+
+241
+00:19:18,160 --> 00:19:23,160
+dije pero a ver si es algo público claro es que tener vosotros pero no bueno me
+
+242
+00:19:23,160 --> 00:19:29,460
+marearon y el periódico sí que lo tenía un periódico sí que lo tenía pero no
+
+243
+00:19:29,460 --> 00:19:33,700
+estaba liberado y cuál es la vía para pedirlo un email informal o hay un
+
+244
+00:19:33,700 --> 00:19:39,660
+formulario online para mí hay un formulario bastante feo y a partir de
+
+245
+00:19:39,660 --> 00:19:45,560
+ahí lo pides muchas veces y esto poniendo en común con otra con otra
+
+246
+00:19:45,560 --> 00:19:49,080
+organización con otros activistas aquí de zaragoza que es el observatorio
+
+247
+00:19:49,080 --> 00:19:53,020
+municipal que lo que hacen es fiscalizar todo lo que hace
+
+248
+00:19:53,160 --> 00:20:20,460
+los presupuestos y demás, muchas veces les contestan con la ley. Es decir, la ley de protección de datos no nos permite facilitarles ese dato. Entonces, muchas veces juegan con esa baza y esa baza muchas veces, por desconocimiento, porque los activistas a veces no se saben la ley, es mentira. Es decir, lo utilizan y si cuela, cuela y si no, mira.
+
+249
+00:20:20,460 --> 00:20:49,680
+Bien, bien, te llevo al mundo del periodismo porque a veces los portales de datos están ahí, como decís, quedan y no generan mucho impacto, es algo que converso con muchas personas, quería saber si dentro del impacto que pueden generar los datos en Zaragoza o en Aragón hay medios de comunicación que toman recurrentemente como fuente los portales de datos y hacen visualizaciones, cuentan historias basadas en datos, ¿eso es algo común?
+
+250
+00:20:49,680 --> 00:21:04,040
+No, en Aragón no, en España sí. En España sí que está el país, el confidencial, y me dejaré alguno más, pero a nivel...
+
+251
+00:21:04,040 --> 00:21:06,480
+Pero en tu zona no es común.
+
+252
+00:21:07,000 --> 00:21:13,220
+No, no, no es algo común, no. Sí que sé que lo utilizan, pero visualizaciones como tales no.
+
+253
+00:21:14,220 --> 00:21:16,920
+Bien, entonces falta un poco por ahí también.
+
+254
+00:21:16,920 --> 00:21:19,600
+Bueno, Jorge
+
+255
+00:21:19,600 --> 00:21:22,680
+si todavía no te invitaron
+
+256
+00:21:22,680 --> 00:21:24,300
+pero es posible que en algún momento
+
+257
+00:21:24,300 --> 00:21:25,540
+te inviten a participar en el gobierno
+
+258
+00:21:25,540 --> 00:21:28,560
+¿qué les recomendarías a la persona
+
+259
+00:21:28,560 --> 00:21:29,800
+encargada
+
+260
+00:21:29,800 --> 00:21:32,380
+de los datos de Aragón o de Zaragoza
+
+261
+00:21:32,380 --> 00:21:32,880
+que haga?
+
+262
+00:21:33,600 --> 00:21:36,300
+Si tú asumieras, ¿qué sería de las dos o tres primeras
+
+263
+00:21:36,300 --> 00:21:38,320
+cosas que harías? ¿Qué te parece que le
+
+264
+00:21:38,320 --> 00:21:40,140
+falta a Zaragoza y Aragón
+
+265
+00:21:40,140 --> 00:21:41,420
+en cuanto a datos abiertos?
+
+266
+00:21:43,640 --> 00:21:44,120
+Comunicación
+
+267
+00:21:44,120 --> 00:21:46,280
+o sea, comunicación con la
+
+268
+00:21:46,280 --> 00:21:51,860
+gente que utiliza los datos, vuelvo a repetir, preguntar o buscar qué están
+
+269
+00:21:51,860 --> 00:21:56,040
+haciendo con nuestros datos y luego comunicación porque sí que muchas veces
+
+270
+00:21:56,040 --> 00:22:01,520
+y por otros amigos que tenían otros proyectos para pues cuando llega el
+
+271
+00:22:01,520 --> 00:22:07,100
+autobús o de eventos, cuando se hacen cambios en las APIs, avisar a la gente que
+
+272
+00:22:07,100 --> 00:22:12,920
+está usando las APIs, no cambiar que el otro se dé cuenta cuando se ha caído todo
+
+273
+00:22:12,920 --> 00:22:19,340
+servicio encima te están haciendo algo tan útil que es como cuando viene el
+
+274
+00:22:19,340 --> 00:22:24,300
+autobús cuando si hay una bicicleta para cuando viene el tranvía y demás si
+
+275
+00:22:24,300 --> 00:22:29,860
+están haciendo ese servicio público por amor al arte muchas veces si vas a
+
+276
+00:22:29,860 --> 00:22:37,340
+cambiar las apis y demás que menos que oye mira por esto y esto no que la
+
+277
+00:22:37,340 --> 00:22:42,000
+gente lo vaya descubriendo creo que hay un problema de comunicación bastante
+
+278
+00:22:42,000 --> 00:22:44,040
+grande. Quería saber
+
+279
+00:22:44,040 --> 00:22:46,100
+si ustedes tienen lo que acá nosotros
+
+280
+00:22:46,100 --> 00:22:48,120
+llamamos laboratorios de innovación
+
+281
+00:22:48,120 --> 00:22:50,200
+un espacio público
+
+282
+00:22:50,200 --> 00:22:52,040
+con acceso a la ciudadanía
+
+283
+00:22:52,040 --> 00:22:53,660
+para hacer
+
+284
+00:22:53,660 --> 00:22:55,440
+jacatones, para hacer encuentros
+
+285
+00:22:55,440 --> 00:22:57,900
+¿hay convocatorias del gobierno
+
+286
+00:22:57,900 --> 00:22:59,880
+para juntarse
+
+287
+00:22:59,880 --> 00:23:01,740
+a analizar cosas, a proponer cosas?
+
+288
+00:23:02,300 --> 00:23:04,120
+Sí, sí que hay
+
+289
+00:23:04,120 --> 00:23:05,400
+no solo
+
+290
+00:23:05,400 --> 00:23:08,080
+sobre datos, pero sí que hay
+
+291
+00:23:08,080 --> 00:23:09,800
+jacatones. Hace poco sí que se hizo uno
+
+292
+00:23:09,800 --> 00:23:34,020
+Para visualizar el transporte, los medios de transporte y cómo están afectando todo lo nuevo, o sea, bicicletas, monopatines y demás. Y sí que se hacen hackatones y sí que hay laboratorios, hay uno, pero ese ya está en Madrid, que es Media Lab, que allí sí que se hacen muchísimas más cosas. Aquí se hacen, ¿eh? Aquí se hacen.
+
+293
+00:23:34,020 --> 00:23:36,720
+Ese es el ejemplo que yo tengo
+
+294
+00:23:36,720 --> 00:23:38,180
+El Media Lab Prado
+
+295
+00:23:38,180 --> 00:23:40,700
+Es referido por mucha gente
+
+296
+00:23:40,700 --> 00:23:41,720
+Como un lugar muy interesante
+
+297
+00:23:41,720 --> 00:23:44,740
+Ustedes hacen esas cosas pero no tienen un laboratorio
+
+298
+00:23:44,740 --> 00:23:45,580
+Tan grande como ese
+
+299
+00:23:45,580 --> 00:23:48,120
+Claro, eso no, eso está en Madrid
+
+300
+00:23:48,120 --> 00:23:50,660
+Y es genial, estaría genial que estuviera aquí
+
+301
+00:23:50,660 --> 00:23:52,340
+Pero igual no todas las ciudades
+
+302
+00:23:52,340 --> 00:23:53,380
+Deberían de tener uno
+
+303
+00:23:53,380 --> 00:23:56,260
+Igual que no tiene que haber un aeropuerto en todas las ciudades
+
+304
+00:23:56,260 --> 00:23:58,320
+No sé, es una opinión muy personal
+
+305
+00:23:58,320 --> 00:23:59,380
+Totalmente
+
+306
+00:23:59,380 --> 00:24:01,720
+Jorge, te agradezco muchísimo
+
+307
+00:24:01,720 --> 00:24:03,180
+Y como a todos los invitados
+
+308
+00:24:03,180 --> 00:24:05,000
+te pregunto, y para mí
+
+309
+00:24:05,000 --> 00:24:07,020
+en este caso esta pregunta es muy importante
+
+310
+00:24:07,020 --> 00:24:09,500
+este podcast se llama Cadena de Datos
+
+311
+00:24:09,500 --> 00:24:11,420
+y me interesa ir encadenando
+
+312
+00:24:11,420 --> 00:24:12,680
+invitados para
+
+313
+00:24:12,680 --> 00:24:15,100
+ir conociendo más de esto
+
+314
+00:24:15,100 --> 00:24:17,320
+¿a qué dos o tres personas vos me
+
+315
+00:24:17,320 --> 00:24:19,220
+recomendas que yo converse para conocer
+
+316
+00:24:19,220 --> 00:24:21,240
+un poco la realidad de Zaragoza
+
+317
+00:24:21,240 --> 00:24:23,080
+y de España en cuanto a datos abiertos?
+
+318
+00:24:23,620 --> 00:24:25,080
+Vale, te voy a decir
+
+319
+00:24:25,080 --> 00:24:26,220
+una más, ¿vale?
+
+320
+00:24:26,860 --> 00:24:29,400
+A ver, Bea Hernández
+
+321
+00:24:29,400 --> 00:24:31,300
+que es una chica que lleva
+
+322
+00:24:31,300 --> 00:24:33,580
+RLadies Madrid que organizan
+
+323
+00:24:33,580 --> 00:24:35,460
+un evento todos los
+
+324
+00:24:35,460 --> 00:24:37,220
+veranos en junio que se llama Call of Data
+
+325
+00:24:37,220 --> 00:24:39,440
+es un evento donde el primer
+
+326
+00:24:39,440 --> 00:24:41,380
+día hay ponencias y el segundo día se hace un
+
+327
+00:24:41,380 --> 00:24:43,160
+hackathon con datasets
+
+328
+00:24:43,160 --> 00:24:45,480
+que te facilitan
+
+329
+00:24:45,480 --> 00:24:47,120
+ONGs, este último año fue
+
+330
+00:24:47,120 --> 00:24:49,460
+creo que era Médicos sin Fronteras
+
+331
+00:24:49,460 --> 00:24:51,340
+luego la gente de
+
+332
+00:24:51,340 --> 00:24:52,400
+Cibio que
+
+333
+00:24:52,400 --> 00:24:54,920
+es una organización
+
+334
+00:24:54,920 --> 00:24:57,280
+David Cabo y
+
+335
+00:24:57,280 --> 00:24:59,420
+demás, es uno de los referentes
+
+336
+00:24:59,420 --> 00:25:00,460
+para mí
+
+337
+00:25:00,460 --> 00:25:03,040
+gran equipo. Luego la gente
+
+338
+00:25:03,040 --> 00:25:04,940
+de Populate que son Álvaro
+
+339
+00:25:04,940 --> 00:25:06,860
+y Fernando que tienen un
+
+340
+00:25:06,860 --> 00:25:08,180
+producto que se llama Gobierto
+
+341
+00:25:08,180 --> 00:25:09,120
+para
+
+342
+00:25:09,120 --> 00:25:12,740
+procesos participativos
+
+343
+00:25:12,740 --> 00:25:15,040
+para implementar en ayuntamientos que es genial
+
+344
+00:25:15,040 --> 00:25:16,700
+que es un producto
+
+345
+00:25:16,700 --> 00:25:18,860
+genial sobre todo cuando ves
+
+346
+00:25:18,860 --> 00:25:20,740
+lo que se hace muchas veces a nivel de
+
+347
+00:25:20,740 --> 00:25:22,580
+ayuntamiento. Luego está
+
+348
+00:25:22,580 --> 00:25:24,540
+Pablo que es de CIECO de
+
+349
+00:25:24,540 --> 00:25:26,480
+Tipi Ciudadano que es lo que he hablado antes
+
+350
+00:25:26,480 --> 00:25:28,700
+que es el que fiscaliza
+
+351
+00:25:28,700 --> 00:25:34,020
+lo que se hace a nivel estatal y por último y ahí te dejo que si no es mucho
+
+352
+00:25:34,020 --> 00:25:38,420
+trabajo estaría alberto lavarga que es un concepto que ha estado en los dos lados
+
+353
+00:25:38,420 --> 00:25:43,280
+ha estado en el lado de la política como concejal de participación ciudadana y ha
+
+354
+00:25:43,280 --> 00:25:49,020
+estado involucrado en el lado activista bueno tomo nota de todo jorge
+
+355
+00:25:49,020 --> 00:25:54,100
+muchísimas gracias muchísimas gracias a ti andrés
+

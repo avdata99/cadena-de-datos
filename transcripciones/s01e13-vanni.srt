@@ -1,0 +1,2052 @@
+1
+00:00:00,000 --> 00:00:18,760
+Cadena de datos, episodio número 13. En el día de hoy nos acompaña María José Bani. Ella es archivera de la provincia de Santa Fe, pero además de ser archivera tiene muchísimos conocimientos en el mundo de los datos abiertos y la tecnología y en la intersección que hay entre los archivos y los datos.
+
+2
+00:00:18,760 --> 00:00:23,660
+Es activista, participa de cuanto evento hay
+
+3
+00:00:23,660 --> 00:00:25,480
+Y tiene una opinión muy interesante
+
+4
+00:00:25,480 --> 00:00:26,780
+Por eso es la convocatoria de hoy
+
+5
+00:00:26,780 --> 00:00:28,540
+Muy buenas tardes María José
+
+6
+00:00:28,540 --> 00:00:31,340
+Muchas gracias por aceptar la invitación
+
+7
+00:00:31,340 --> 00:00:33,300
+Buenas tardes Andrés
+
+8
+00:00:33,300 --> 00:00:35,440
+Y gracias a vos por hacer la invitación
+
+9
+00:00:35,440 --> 00:00:38,240
+Porque esto de conectar archivos y datos abiertos
+
+10
+00:00:38,240 --> 00:00:38,980
+No es fácil
+
+11
+00:00:38,980 --> 00:00:41,220
+No, no solamente no es fácil
+
+12
+00:00:41,220 --> 00:00:43,200
+Sino que me parece que todo lo que estamos
+
+13
+00:00:43,200 --> 00:00:44,940
+En el mundo de los datos abiertos
+
+14
+00:00:44,940 --> 00:00:49,460
+En una entrevista anterior
+
+15
+00:00:49,460 --> 00:00:52,140
+Y de distintas formas
+
+16
+00:00:52,140 --> 00:00:54,200
+Varias personas lo dicen todo el tiempo
+
+17
+00:00:54,200 --> 00:00:56,120
+El mundo de datos abiertos
+
+18
+00:00:56,120 --> 00:00:57,560
+Y gobierno abierto no es lo mismo
+
+19
+00:00:57,560 --> 00:00:59,920
+Como aclarándonos a los que estamos más
+
+20
+00:00:59,920 --> 00:01:01,080
+En la parte técnica de los datos
+
+21
+00:01:01,080 --> 00:01:02,300
+Que no inventamos nada
+
+22
+00:01:02,300 --> 00:01:04,520
+Y yo creo que con vos pasa un poco lo mismo
+
+23
+00:01:04,520 --> 00:01:08,120
+Los archiveros trabajan con datos
+
+24
+00:01:08,120 --> 00:01:09,700
+Con información, con documentos
+
+25
+00:01:09,700 --> 00:01:10,820
+Desde hace muchísimo tiempo
+
+26
+00:01:10,820 --> 00:01:12,460
+Y el mundo de los datos abiertos
+
+27
+00:01:12,460 --> 00:01:15,560
+viene un poco sin querer a llevarse por delante de todo esto.
+
+28
+00:01:15,640 --> 00:01:18,860
+Pero antes de que nos metamos en cómo se cruzan estos mundos,
+
+29
+00:01:19,260 --> 00:01:23,580
+te quería preguntar, ¿en qué momento o cuándo empezaste vos a mirar,
+
+30
+00:01:23,660 --> 00:01:26,020
+además de los archivos, el mundo de los datos abiertos?
+
+31
+00:01:26,080 --> 00:01:28,820
+¿En qué momento te acercaste y empezaste a ver que había una conexión?
+
+32
+00:01:29,920 --> 00:01:34,720
+Fue un poco por necesidad, porque el mundo de los archivos
+
+33
+00:01:34,720 --> 00:01:38,180
+estaba bastante en declive y sigue estándolo.
+
+34
+00:01:39,080 --> 00:01:41,900
+Y por cuestiones profesionales y laborales,
+
+35
+00:01:42,460 --> 00:01:46,780
+me hallaba en una disyuntiva, había empezado a estudiar administración,
+
+36
+00:01:46,980 --> 00:01:49,360
+había dejado archivística y había empezado administración,
+
+37
+00:01:50,120 --> 00:01:53,860
+y decidí optar por gobierno abierto y datos abiertos
+
+38
+00:01:53,860 --> 00:01:57,900
+como una forma de darle continuidad a lo que sé de archivos
+
+39
+00:01:57,900 --> 00:02:01,340
+y para conectarlo, como vos decís, con las tecnologías
+
+40
+00:02:01,340 --> 00:02:03,600
+y con lo que estuve haciendo todos estos años.
+
+41
+00:02:03,600 --> 00:02:09,280
+Pero ya te digo, más por necesidad personal que por una necesidad
+
+42
+00:02:09,280 --> 00:02:11,660
+que el medio
+
+43
+00:02:11,660 --> 00:02:13,140
+me requiriera
+
+44
+00:02:13,140 --> 00:02:16,040
+y no fue mala la idea
+
+45
+00:02:16,040 --> 00:02:17,260
+porque
+
+46
+00:02:17,260 --> 00:02:19,420
+a medida que fue pasando el tiempo
+
+47
+00:02:19,420 --> 00:02:20,660
+esto fue hace unos años
+
+48
+00:02:20,660 --> 00:02:22,660
+a medida que fue pasando el tiempo
+
+49
+00:02:22,660 --> 00:02:24,600
+si bien yo no me dedico a proyectos
+
+50
+00:02:24,600 --> 00:02:25,660
+de datos abiertos
+
+51
+00:02:25,660 --> 00:02:29,000
+lo que hago es conectar estos dos mundos
+
+52
+00:02:29,000 --> 00:02:29,960
+de forma
+
+53
+00:02:29,960 --> 00:02:31,340
+como hobby
+
+54
+00:02:31,340 --> 00:02:34,260
+te cuento un ejemplo para ir
+
+55
+00:02:34,260 --> 00:02:36,660
+introduciéndonos en esta conexión
+
+56
+00:02:36,660 --> 00:02:37,980
+que hay y que me parece muy importante
+
+57
+00:02:37,980 --> 00:02:39,080
+que todos empecemos a mirar
+
+58
+00:02:39,080 --> 00:02:42,440
+este podcast se graba con motivo
+
+59
+00:02:42,440 --> 00:02:44,320
+de escribir algo parecido a un ensayo
+
+60
+00:02:44,320 --> 00:02:46,460
+un libro sobre política y datos abiertos
+
+61
+00:02:46,460 --> 00:02:48,260
+y lo que me pasa es cuando empiezo a buscar
+
+62
+00:02:48,260 --> 00:02:50,380
+la historia de los
+
+63
+00:02:50,380 --> 00:02:52,000
+datos abiertos
+
+64
+00:02:52,000 --> 00:02:54,380
+veo que todos los proyectos
+
+65
+00:02:54,380 --> 00:02:56,460
+de los años 2010, 2012, 2013
+
+66
+00:02:56,460 --> 00:02:58,600
+prácticamente en la web no existe
+
+67
+00:02:58,600 --> 00:03:00,500
+y tengo la sensación
+
+68
+00:03:00,500 --> 00:03:02,660
+de que no están en ningún lado y que desaparecieron
+
+69
+00:03:02,660 --> 00:03:04,400
+para siempre, si bien eso
+
+70
+00:03:04,400 --> 00:03:06,160
+en algún momento va a ser trabajo
+
+71
+00:03:06,160 --> 00:03:08,380
+de un historiador
+
+72
+00:03:08,380 --> 00:03:23,920
+¿Hay algún enfoque de la archivología para que los proyectos que sean web o para que el mundo de internet empiece a seleccionar qué y cómo tiene que guardar? ¿Existe eso o la web no es algo que se estudie dentro de la archivología?
+
+73
+00:03:24,920 --> 00:03:35,020
+Es que se va a estudiar porque vamos a llegar a un momento en que eso va a ser la forma de estudiar las instituciones y cómo se presentaban ante la sociedad. El problema es que no van a encontrar mucho.
+
+74
+00:03:35,020 --> 00:03:38,100
+y ahí viene el problema
+
+75
+00:03:38,100 --> 00:03:40,340
+si las instituciones gestionaban mal
+
+76
+00:03:40,340 --> 00:03:41,760
+su memoria institucional
+
+77
+00:03:41,760 --> 00:03:43,360
+y su identidad
+
+78
+00:03:43,360 --> 00:03:45,900
+digamos como organización
+
+79
+00:03:45,900 --> 00:03:47,940
+en cuanto a lo que guardaban o no guardaban
+
+80
+00:03:47,940 --> 00:03:49,940
+en archivos papel, mucho peor
+
+81
+00:03:49,940 --> 00:03:51,480
+va a ser con lo digital
+
+82
+00:03:51,480 --> 00:03:54,060
+y si vos trabajaras
+
+83
+00:03:54,060 --> 00:03:55,300
+adentro de
+
+84
+00:03:55,300 --> 00:03:56,980
+de una, bueno
+
+85
+00:03:56,980 --> 00:03:59,120
+me parece que vos trabajas
+
+86
+00:03:59,120 --> 00:04:01,180
+en el archivo de memoria de la provincia de Santa Fe
+
+87
+00:04:01,180 --> 00:04:03,940
+no, ya no, trabajé muchos años
+
+88
+00:04:03,940 --> 00:04:05,940
+Ahora sí hay un archivo jurisdiccional.
+
+89
+00:04:06,640 --> 00:04:13,940
+Perfecto. Si yo que trabajo en Córdoba te quiero contratar, digo, mira, estamos haciendo un portal de datos abierto, estamos...
+
+90
+00:04:13,940 --> 00:04:15,040
+¿Hola?
+
+91
+00:04:15,940 --> 00:04:24,720
+¿Tenés algo para recomendarle a los gobiernos para que empiecen a pensar cómo conservar parte de su historia online?
+
+92
+00:04:25,140 --> 00:04:30,640
+¿Hay algo hoy que un archivero pueda recomendarle a un gobierno, aunque sea para que tenga en cuenta cuando va a publicar cosas?
+
+93
+00:04:30,640 --> 00:04:59,520
+Es que lo más importante es que lo vea como una gestión integral de la información que produce, que recopila y que muestra a la sociedad. No tanto en qué formato, no tanto en qué sistema, sino más que nada verlo como, si yo fui cambiando de página web, si fui cambiando de membretes, si fui cambiando de logo, si fui cambiando de frases con las que usaba para comunicarme, ¿cómo decido guardar esa comunicación? Eso es una visión estratégica de las instituciones.
+
+94
+00:04:59,520 --> 00:05:02,080
+al punto de que en otros países
+
+95
+00:05:02,080 --> 00:05:04,260
+esto se hace de manera natural
+
+96
+00:05:04,260 --> 00:05:06,280
+pero también tiene que ver
+
+97
+00:05:06,280 --> 00:05:08,240
+con lo que viene pasando con los archivos
+
+98
+00:05:08,240 --> 00:05:10,360
+y lo que es la generación
+
+99
+00:05:10,360 --> 00:05:12,320
+de documentación dentro del Estado
+
+100
+00:05:12,320 --> 00:05:14,440
+y de las organizaciones civiles
+
+101
+00:05:14,440 --> 00:05:16,260
+también, no hablemos solamente del Estado
+
+102
+00:05:16,260 --> 00:05:18,420
+Esa es mi pregunta
+
+103
+00:05:18,420 --> 00:05:18,960
+a continuación
+
+104
+00:05:18,960 --> 00:05:21,960
+si en otros lugares del mundo
+
+105
+00:05:21,960 --> 00:05:23,220
+esto es tenido en cuenta
+
+106
+00:05:23,220 --> 00:05:25,640
+y si efectivamente
+
+107
+00:05:25,640 --> 00:05:27,180
+nosotros tenemos un problema
+
+108
+00:05:27,180 --> 00:05:28,880
+en otros lugares del mundo
+
+109
+00:05:28,880 --> 00:05:30,920
+ya hay una política de conservación
+
+110
+00:05:30,920 --> 00:05:32,740
+de este tipo de documentos
+
+111
+00:05:32,740 --> 00:05:34,240
+y acá no lo tenemos
+
+112
+00:05:34,240 --> 00:05:36,120
+Claro, yo estuve estudiando
+
+113
+00:05:36,120 --> 00:05:38,880
+escuchando varios de los podcasts anteriores
+
+114
+00:05:38,880 --> 00:05:40,800
+y muchos mencionan a otros
+
+115
+00:05:40,800 --> 00:05:42,960
+países o otras ciudades importantes del mundo
+
+116
+00:05:42,960 --> 00:05:44,940
+como los ejemplos
+
+117
+00:05:44,940 --> 00:05:46,640
+que tomaron a la hora de empezar
+
+118
+00:05:46,640 --> 00:05:48,100
+a trabajar con datos
+
+119
+00:05:48,100 --> 00:05:50,620
+y al mirar esos lugares
+
+120
+00:05:50,620 --> 00:05:52,640
+lo que no se dan cuenta es que atrás
+
+121
+00:05:52,640 --> 00:05:54,840
+hay un background de sistemas de gestión
+
+122
+00:05:54,840 --> 00:05:56,320
+de información, de archivos
+
+123
+00:05:56,320 --> 00:05:58,780
+que tienen en algunos
+
+124
+00:05:58,780 --> 00:06:00,920
+casos miles de años, en otros un poco menos
+
+125
+00:06:00,920 --> 00:06:02,680
+pero que a la vez son más
+
+126
+00:06:02,680 --> 00:06:04,060
+modernos también
+
+127
+00:06:04,060 --> 00:06:06,780
+y eso estaba atrás de los datos
+
+128
+00:06:06,780 --> 00:06:08,820
+abiertos y de los gobiernos abiertos y de sus
+
+129
+00:06:08,820 --> 00:06:10,660
+páginas web, es decir, ya había
+
+130
+00:06:10,660 --> 00:06:13,180
+un envión de qué guardaban
+
+131
+00:06:13,180 --> 00:06:14,780
+o no guardaban para mostrar
+
+132
+00:06:14,780 --> 00:06:16,900
+lo que hacen. La página
+
+133
+00:06:16,900 --> 00:06:18,820
+web no es distinto a un afiche
+
+134
+00:06:18,820 --> 00:06:20,900
+no es distinto, a lo mejor
+
+135
+00:06:20,900 --> 00:06:22,900
+digamos la forma interactiva
+
+136
+00:06:22,900 --> 00:06:25,120
+ahora que hay sistemas
+
+137
+00:06:25,120 --> 00:06:26,980
+que son en línea y demás
+
+138
+00:06:26,980 --> 00:06:28,520
+pero no cambia
+
+139
+00:06:28,520 --> 00:06:33,920
+en cuanto a la función, lo que antes sucedía con un afiche que se ponía en la calle,
+
+140
+00:06:34,100 --> 00:06:39,460
+con un papelito que te daban para que conozcas una determinada organización.
+
+141
+00:06:39,600 --> 00:06:42,880
+O sea, lo que tenemos que pensar es eso, que a pesar de que, digamos,
+
+142
+00:06:43,120 --> 00:06:46,760
+parezca una moda lo de los datos abiertos, en realidad es otra forma de ver
+
+143
+00:06:46,760 --> 00:06:49,420
+lo mismo que ya se estaba haciendo.
+
+144
+00:06:50,100 --> 00:06:53,180
+Exacto. Y te pongo un ejemplo más concreto.
+
+145
+00:06:53,180 --> 00:07:18,300
+Nosotros en Argentina tenemos un sistema de gestión electrónica de documentos en un sistema informático que primero se usó en la ciudad de Buenos Aires, desde 2016, si no me equivoco, se llevó a nivel nacional con el equipo de gobierno actual, y ese sistema se está ofreciendo, entiendo que ustedes en Santa Fe, nosotros en Córdoba y muchos lugares de Argentina lo están empezando a usar.
+
+146
+00:07:18,300 --> 00:07:44,060
+Ese sistema en el cual hay decretos presidenciales y un montón de archivos importantes, tiene un background como nosotros necesitaremos para la conservación histórica de estos documentos, o sea, la asunción de Macri o de los diputados, los documentos formales que ahora ya se están gestionando a través de este sistema, están conectados con el Archivo Histórico Nacional, ¿cuál es el link? ¿Cómo funciona eso?
+
+147
+00:07:44,060 --> 00:07:45,660
+No, mal funciona.
+
+148
+00:07:46,180 --> 00:07:46,860
+No funciona.
+
+149
+00:07:47,400 --> 00:07:55,100
+Y no, porque el Archivo de la Nación está haciendo intentos de conectar con modernización.
+
+150
+00:07:55,780 --> 00:07:58,460
+Y bueno, en algunos puntos los logran y en otros para nada.
+
+151
+00:07:58,920 --> 00:08:03,080
+Lo que se hizo con GD fue una terapia de shock, de implementación.
+
+152
+00:08:03,340 --> 00:08:09,740
+En vez de reformular todos los trámites administrativos e ir pasando paulatinamente a digital,
+
+153
+00:08:09,740 --> 00:08:30,880
+se hizo de golpe y con un solo sistema que obviamente no fue diseñado por archiveros, ni por gestores de documentos, ni por ninguna de esas profesiones, sino más que nada por, creo que viene algo del rubro de los seguros, una cuestión así, es más, hasta visualmente es retrogrado.
+
+154
+00:08:30,880 --> 00:08:55,880
+pero bueno, digamos, es una forma que eligió este gobierno para manejar los documentos, se le está pidiendo que se le vayan haciendo cambios para que puedan servir a futuro, por ahora no está funcionando correctamente, muchos de los lugares que lo aplican tienen que generar planillas paralelas para la gestión de los metadatos y lo que está muy en duda es la conservación a futuro.
+
+155
+00:08:55,880 --> 00:09:08,720
+No nos olvidemos que es un sistema privativo y que de mantenimiento, algo así, tengo una cifra, que tiene casi 100 millones de pesos de mantenimiento por año.
+
+156
+00:09:09,160 --> 00:09:10,160
+Son unos pesitos.
+
+157
+00:09:10,640 --> 00:09:19,280
+Son unos pesitos. Y acá viene a destruir un poco el argumento de que ahorra o que genera menos daño al medio ambiente.
+
+158
+00:09:19,280 --> 00:09:19,960
+Al ambiente.
+
+159
+00:09:19,960 --> 00:09:23,680
+Sí, eso es un tema con el que los archiveros tenemos que luchar
+
+160
+00:09:23,680 --> 00:09:26,180
+Porque lo primero que quieren hacer es tirar el papel por eso
+
+161
+00:09:26,180 --> 00:09:30,580
+Claro, la despapelización puede sonar bien
+
+162
+00:09:30,580 --> 00:09:33,640
+Pero si no viene acompañada una gestión documental interesante
+
+163
+00:09:33,640 --> 00:09:35,700
+Puede generar un problema
+
+164
+00:09:35,700 --> 00:09:38,200
+O sea, podemos tener muchos datos abiertos hoy
+
+165
+00:09:38,200 --> 00:09:39,260
+Muy lindos, muy jugosos
+
+166
+00:09:39,260 --> 00:09:41,020
+Pero de acá a dos años, cinco años
+
+167
+00:09:41,020 --> 00:09:43,060
+Capaz que esos datos no existen más
+
+168
+00:09:43,060 --> 00:09:43,620
+Voy con dos cosas
+
+169
+00:09:43,620 --> 00:09:47,160
+Una, primero, para garantizar a futuro esos datos
+
+170
+00:09:47,160 --> 00:09:55,580
+la mayoría de la bibliografía o de la normativa, y después de eso quería recordarles un poco que existe ya normativa internacional sobre el tema,
+
+171
+00:09:55,760 --> 00:10:02,560
+pero se busca que mantengan la autenticidad, la fiabilidad, la integridad y la disponibilidad futuro.
+
+172
+00:10:03,020 --> 00:10:11,280
+Hoy ni vos ni nadie, ningún informático me puede garantizar que de acá a 10 años esos documentos van a ser accesibles,
+
+173
+00:10:11,280 --> 00:10:18,820
+si no se hace algo desde el diseño, desde el principio para tratar de mantenerlo, ¿se entiende?
+
+174
+00:10:19,200 --> 00:10:25,380
+Entonces eso hace que nos dé mucha más inseguridad, sobre todo nosotros que sabemos del tema
+
+175
+00:10:25,380 --> 00:10:30,680
+como vos decís, si vos vas a buscar una página web y ya no existe porque la institución no pagó más el servidor
+
+176
+00:10:30,680 --> 00:10:35,640
+porque la cambiaron y se olvidaron de guardar el sitio anterior
+
+177
+00:10:35,640 --> 00:10:58,280
+O sea, no funciona, al no funcionarnos la concepción del sistema integral, es muy difícil que podamos pensar que esos documentos se van a guardar a futuro, los que hagan falta, obviamente, en archivística hay una etapa que se llama evaluación y que es donde se va decidiendo, digamos, de ser posible desde el inicio,
+
+178
+00:10:58,280 --> 00:11:06,020
+qué documentos son los que van a servir para el futuro, para mostrar cómo era la sociedad de ese momento
+
+179
+00:11:06,020 --> 00:11:12,280
+y qué documentos se pueden descartar, o porque ya esa información está en otro documento
+
+180
+00:11:12,280 --> 00:11:15,360
+o porque es información irrelevante o lo que...
+
+181
+00:11:15,360 --> 00:11:19,280
+Eso que me mencionas es lo que se llama ciclo vital de los documentos.
+
+182
+00:11:20,040 --> 00:11:25,280
+Tiene que ver con el ciclo vital de los documentos y, digamos, una de las personas a las que tendrías que haber entrevistado
+
+183
+00:11:25,800 --> 00:11:26,820
+sería tu papá.
+
+184
+00:11:26,820 --> 00:11:28,140
+Sí, ya no se puede.
+
+185
+00:11:28,280 --> 00:11:48,420
+Ya no se puede, pero podemos hacer la entrevista igual con lo que escribió, porque él era un especialista en el ciclo vital de los documentos, que es una forma de modelizar la gestión del documento desde que inicia, modelizar el flujo, desde que inicia hasta que se destruye o se conserva para siempre.
+
+186
+00:11:48,420 --> 00:12:09,080
+Y acá tengo la mala noticia para los dateros y es que lo que generan y lo que manejan los data sets, las planillas de Excel y todo lo que necesitan para generar sus visualizaciones son documentos y son documentos archivísticos porque responden a la función que están cumpliendo en ese momento.
+
+187
+00:12:09,080 --> 00:12:23,300
+Es decir, un especialista en datos quiere generar una visualización sobre transporte. Va y busca fuentes primarias, secundarias, lo que consiga. Hasta incluso un dataset ya que se le dan.
+
+188
+00:12:23,300 --> 00:12:40,140
+Si ese dataset no es auténtico, fiable, si no está otorgado en una situación válida, es decir, no te lo dieron por atrás al dataset, no oficialmente, todo eso tiene que tener esas fuentes que ocupa.
+
+189
+00:12:40,140 --> 00:13:07,580
+Pero la visualización que genera, las planillas que generan, los documentos que generan, son documentos que generó cumpliendo su función de productor de datos o de visualizador o de periodista. Entonces, eso tampoco se está viendo y por eso, digamos, choca ver que desaparecen las páginas de datos abiertos porque no las ven como documentos. Cuando uno se los dice, les agarra, no, pero esto no es burocracia.
+
+190
+00:13:07,580 --> 00:13:10,760
+Esto es mucho más cool que eso
+
+191
+00:13:10,760 --> 00:13:13,060
+Claro, es revistoso
+
+192
+00:13:13,060 --> 00:13:14,980
+Entonces una de las formas
+
+193
+00:13:14,980 --> 00:13:16,420
+En chiste que encontré
+
+194
+00:13:16,420 --> 00:13:17,880
+Para no decir que soy archivera
+
+195
+00:13:17,880 --> 00:13:21,200
+Que sería la relación
+
+196
+00:13:21,200 --> 00:13:22,300
+Con un archivo histórico
+
+197
+00:13:22,300 --> 00:13:23,960
+Que a todo esto no me gustan
+
+198
+00:13:23,960 --> 00:13:26,400
+No me interesa trabajar en archivo histórico
+
+199
+00:13:26,400 --> 00:13:28,840
+Yo digo archivistoso
+
+200
+00:13:28,840 --> 00:13:30,320
+Porque archivistoso implica
+
+201
+00:13:30,320 --> 00:13:31,720
+Que se muestra
+
+202
+00:13:31,720 --> 00:13:34,100
+En los archivos que no muestran
+
+203
+00:13:34,100 --> 00:13:35,800
+Lo que guardan
+
+204
+00:13:35,800 --> 00:13:39,460
+es decir, que no están pensados para ofrecerles a los usuarios
+
+205
+00:13:39,460 --> 00:13:43,220
+la información o los documentos que conservan, no existen.
+
+206
+00:13:44,460 --> 00:13:47,840
+Entonces, para los dateros, mala noticia,
+
+207
+00:13:48,120 --> 00:13:51,060
+lo que generan y lo que manejan son documentos.
+
+208
+00:13:51,480 --> 00:13:56,640
+Bien, y por lo tanto, pueden llegar a ser archivos
+
+209
+00:13:56,640 --> 00:14:02,960
+o deberían ser contemplados o dentro del proceso de producción
+
+210
+00:14:02,960 --> 00:14:05,260
+ser mirados, aunque sea por gente que entienda
+
+211
+00:14:05,260 --> 00:14:06,580
+que tiene archivos
+
+212
+00:14:06,580 --> 00:14:09,580
+hablamos del GDE
+
+213
+00:14:09,580 --> 00:14:11,000
+del sistema argentino
+
+214
+00:14:11,000 --> 00:14:13,060
+y que se va a usar en muchas provincias y ciudades
+
+215
+00:14:13,060 --> 00:14:14,640
+y yo estoy pensando en
+
+216
+00:14:14,640 --> 00:14:16,160
+qué otras opciones hay
+
+217
+00:14:16,160 --> 00:14:18,680
+porque no sé si
+
+218
+00:14:18,680 --> 00:14:21,020
+este sistema no tiene en cuenta
+
+219
+00:14:21,020 --> 00:14:23,500
+a la conservación de los archivos
+
+220
+00:14:23,500 --> 00:14:25,280
+pero ¿existen otros que sí?
+
+221
+00:14:25,500 --> 00:14:27,360
+o sea, ¿tenemos algún ejemplo cerca sin irnos
+
+222
+00:14:27,360 --> 00:14:29,020
+muy lejos a decir, mira qué lindo lo que hacen
+
+223
+00:14:29,020 --> 00:14:31,420
+en tal lugar en donde abren datos
+
+224
+00:14:31,420 --> 00:14:33,340
+hacen todo esto, pero entienden
+
+225
+00:14:33,340 --> 00:14:35,320
+la concepción de documento
+
+226
+00:14:35,320 --> 00:14:37,580
+y lo hacen bien.
+
+227
+00:14:37,720 --> 00:14:39,640
+¿Hay algún ejemplo? ¿Alguien quiere inspirarse?
+
+228
+00:14:39,720 --> 00:14:40,920
+¿Alguien a quien preguntarle esto?
+
+229
+00:14:42,080 --> 00:14:43,500
+Y los mismos países que
+
+230
+00:14:43,500 --> 00:14:45,480
+miran para ver las páginas de datos abiertos
+
+231
+00:14:45,480 --> 00:14:47,480
+son los que gestionan su documentación
+
+232
+00:14:47,480 --> 00:14:49,380
+ya hace rato en forma digital
+
+233
+00:14:49,380 --> 00:14:51,280
+y salvo
+
+234
+00:14:51,280 --> 00:14:52,480
+algunos repudios
+
+235
+00:14:52,480 --> 00:14:55,420
+ocasionales, por ejemplo, filtraciones de datos
+
+236
+00:14:55,420 --> 00:14:57,100
+de, por ejemplo,
+
+237
+00:14:57,560 --> 00:14:58,860
+legajos médicos
+
+238
+00:14:58,860 --> 00:15:03,720
+o información de tarjetas de crédito, cada tanto esas cosas se escuchan.
+
+239
+00:15:04,220 --> 00:15:09,060
+Pero en general los países de Europa y de Estados Unidos, Australia,
+
+240
+00:15:09,200 --> 00:15:15,580
+Australia tiene muy buen manejo en gestión documental, Inglaterra, Alemania,
+
+241
+00:15:16,240 --> 00:15:19,320
+pero no se trata solamente de decir el nombre de un software,
+
+242
+00:15:19,800 --> 00:15:24,720
+porque lo que les pasa a la gente cuando les instalan un software de gestión documental
+
+243
+00:15:24,720 --> 00:15:26,220
+es que no saben qué cargar.
+
+244
+00:15:26,220 --> 00:15:29,840
+Digamos, a vos te pueden instalar un super software
+
+245
+00:15:29,840 --> 00:15:30,900
+Pero el software hay que
+
+246
+00:15:30,900 --> 00:15:33,440
+Primero diseñarlo estructuralmente
+
+247
+00:15:33,440 --> 00:15:35,880
+Es decir, decirle qué oficinas tiene
+
+248
+00:15:35,880 --> 00:15:37,940
+Por dónde van a pasar los documentos
+
+249
+00:15:37,940 --> 00:15:39,720
+Qué tipo de documentos se producen
+
+250
+00:15:39,720 --> 00:15:41,780
+Y después ir cargándole
+
+251
+00:15:41,780 --> 00:15:43,720
+Las funciones que realiza la institución
+
+252
+00:15:43,720 --> 00:15:45,600
+Para saber qué documentos son
+
+253
+00:15:45,600 --> 00:15:47,260
+De cada función y quién es
+
+254
+00:15:47,260 --> 00:15:48,160
+Por dónde pasan
+
+255
+00:15:48,160 --> 00:15:50,900
+Es decir, eso en otros lugares ya está súper resuelto
+
+256
+00:15:50,900 --> 00:15:51,920
+Por eso a nosotros
+
+257
+00:15:51,920 --> 00:15:54,580
+No, no, lo vemos muy lejos
+
+258
+00:15:54,580 --> 00:16:23,400
+Es muy fácil después sacar datos de documentos que vos ya tenés seriados, conservados, que no guardás documentos de más, o sea, es mucho más fácil. A nosotros nos va a llevar bastante. El problema va a ser si en el medio tenemos alguna crisis de guarda, porque ahora con esto de que se están generando proyectos de digitalización a mansalva y se descarta el papel, yo no sé a futuro qué va a pasar.
+
+259
+00:16:24,580 --> 00:16:48,680
+Bien. Tengo una pregunta ya más de tu compromiso político. Si te llama mañana el gobernador de Santa Fe, Lifsheet, si no me equivoco se llama así, y te dice, quiero que sea mi directora de archivos y datos, no sé, alguna cosa para arreglar este problema. ¿Aceptarías un cargo político?
+
+260
+00:16:48,680 --> 00:16:51,920
+te metiste en un mereje
+
+261
+00:16:51,920 --> 00:16:54,240
+porque resulta
+
+262
+00:16:54,240 --> 00:16:55,780
+que soy empleada
+
+263
+00:16:55,780 --> 00:16:57,200
+de plantas en la provincia
+
+264
+00:16:57,200 --> 00:16:58,340
+más de 20
+
+265
+00:16:58,340 --> 00:17:01,760
+pasé por todos
+
+266
+00:17:01,760 --> 00:17:03,980
+esos archivos que te dije y hace unos años
+
+267
+00:17:03,980 --> 00:17:05,680
+tomé la decisión de presentarme
+
+268
+00:17:05,680 --> 00:17:07,860
+al concurso del sistema provincial de archivos
+
+269
+00:17:07,860 --> 00:17:08,800
+muy bueno
+
+270
+00:17:08,800 --> 00:17:11,760
+pues el concurso
+
+271
+00:17:11,760 --> 00:17:13,680
+lo dieron de baja conmigo solita
+
+272
+00:17:13,680 --> 00:17:15,580
+de candidata
+
+273
+00:17:15,580 --> 00:17:17,900
+y lo dieron de baja
+
+274
+00:17:17,900 --> 00:17:19,520
+Y bueno, y dejaron a una persona tarde
+
+275
+00:17:19,520 --> 00:17:21,660
+A la vez
+
+276
+00:17:21,660 --> 00:17:23,000
+Eso te iba a decir, a la vez
+
+277
+00:17:23,000 --> 00:17:24,900
+Eso es el sistema provincial de archivos
+
+278
+00:17:24,900 --> 00:17:27,100
+Es decir, que está descabezado
+
+279
+00:17:27,100 --> 00:17:28,860
+Olvidado allá en un rincón
+
+280
+00:17:28,860 --> 00:17:30,480
+Y encima se le cayó el distrito
+
+281
+00:17:30,480 --> 00:17:33,120
+Imaginate la relación que tiene con los archivos
+
+282
+00:17:33,120 --> 00:17:35,500
+De la provincia, nula acá
+
+283
+00:17:35,500 --> 00:17:38,520
+Y el departamento de gobierno abierto
+
+284
+00:17:38,520 --> 00:17:40,560
+La dirección y todo el área
+
+285
+00:17:40,560 --> 00:17:42,480
+No maneja
+
+286
+00:17:42,480 --> 00:17:44,560
+La conexión con los archivos
+
+287
+00:17:44,560 --> 00:17:46,580
+Lo que van haciendo es van viendo
+
+288
+00:17:46,580 --> 00:17:48,900
+con qué ministerio pueden gestionar
+
+289
+00:17:48,900 --> 00:17:50,900
+alguna apertura de datos
+
+290
+00:17:50,900 --> 00:17:52,460
+en particular, y hacen eso.
+
+291
+00:17:52,840 --> 00:17:54,840
+Que esto también lo escuché en varias de las
+
+292
+00:17:54,840 --> 00:17:55,520
+entrevistas,
+
+293
+00:17:56,320 --> 00:17:58,720
+como que está llegando a un punto en que esto
+
+294
+00:17:58,720 --> 00:18:00,460
+ya no se acepta más, digamos.
+
+295
+00:18:01,000 --> 00:18:02,820
+La apertura de datos suelta.
+
+296
+00:18:03,960 --> 00:18:04,280
+Claro.
+
+297
+00:18:05,000 --> 00:18:07,520
+Y es lo que se ve
+
+298
+00:18:07,520 --> 00:18:08,780
+en nuestro portal, por ejemplo.
+
+299
+00:18:08,920 --> 00:18:10,160
+Nuestro portal de datos tiene
+
+300
+00:18:10,160 --> 00:18:13,000
+algunos datasets, que en número pueden parecer
+
+301
+00:18:13,000 --> 00:18:14,840
+súper importantes, pero
+
+302
+00:18:14,840 --> 00:18:16,260
+cuando uno los mira por área,
+
+303
+00:18:16,580 --> 00:18:22,380
+son muy sueltos y no son indicativos de las funciones de los ministerios.
+
+304
+00:18:23,180 --> 00:18:27,480
+Entonces, ahí te das cuenta que, digamos, no es el reflejo,
+
+305
+00:18:28,480 --> 00:18:35,340
+eso no es gobierno abierto para nada, y de datos abiertos tiene dudosa similitud, digamos.
+
+306
+00:18:35,540 --> 00:18:39,440
+Para hacerlo, y es una forma de transparencia activa,
+
+307
+00:18:41,000 --> 00:18:46,440
+cada ministerio tendría que contarle a los ciudadanos
+
+308
+00:18:46,440 --> 00:18:49,520
+¿qué hace y con qué documentos lo hace?
+
+309
+00:18:49,980 --> 00:18:53,640
+Entonces las personas podrían decidir qué pedir.
+
+310
+00:18:54,060 --> 00:18:56,960
+Más si son especialistas, pero así no sean especialistas,
+
+311
+00:18:57,120 --> 00:18:58,780
+sean usuarios interesados nada más.
+
+312
+00:18:59,620 --> 00:19:02,560
+Si uno no conoce qué produce el Ministerio de Educación,
+
+313
+00:19:02,960 --> 00:19:03,860
+no sabe qué pedir.
+
+314
+00:19:04,280 --> 00:19:07,080
+Y cuando pide, corre el riesgo de que le digan que no existe
+
+315
+00:19:07,080 --> 00:19:07,800
+o que no está.
+
+316
+00:19:08,400 --> 00:19:12,840
+Un buen inventario o índice general o algo por el estilo
+
+317
+00:19:12,840 --> 00:19:13,580
+vendría bien.
+
+318
+00:19:13,580 --> 00:19:34,320
+Eso se empezó, mirad, te hablo, vine de los 80, el archivo de la provincia empezó con una base en FOC de sistema de información documental, hasta el nombre de la comunidad, y era un sistema que contaba los inventarios que tenían los distintos ministerios y de cuáles iba siendo Descartes y demás.
+
+319
+00:19:34,320 --> 00:19:53,940
+Era un intento de gestionar información estática en ese momento sobre la producción documental. Eso hubiera sido fantástico en ese momento, pero quedó en el olvido. En un momento hubo un intento de pasarlo a web y descentralizado y quedó en un cambio de gestión.
+
+320
+00:19:53,940 --> 00:20:11,960
+Bien. Te pregunto entonces un poco, me vengo imaginando la respuesta, pero tu percepción es que la transparencia es algo que está de moda y más vinculado al marketing de los gobiernos que algo consistente y con volumen que se va a quedar y va a durar mucho tiempo. ¿Cómo lo ves?
+
+321
+00:20:11,960 --> 00:20:20,760
+Yo lo decía así nomás y resulta que existe la palabra en los congresos de datos abiertos.
+
+322
+00:20:20,800 --> 00:20:22,620
+Perdón, que se cortó. ¿Cuál palabra?
+
+323
+00:20:22,620 --> 00:20:24,120
+Open Washing
+
+324
+00:20:24,120 --> 00:20:25,440
+Ah, sí, sí
+
+325
+00:20:25,440 --> 00:20:28,300
+Bueno, pero digamos, viene a describir un poco
+
+326
+00:20:28,300 --> 00:20:30,220
+Lo que yo siento
+
+327
+00:20:30,220 --> 00:20:31,200
+Con este tema
+
+328
+00:20:31,200 --> 00:20:34,520
+Nada más que ahora lo están diciendo y lo están escribiendo un poco más
+
+329
+00:20:34,520 --> 00:20:35,940
+En el último
+
+330
+00:20:35,940 --> 00:20:38,380
+En la última conferencia de datos abiertos
+
+331
+00:20:38,380 --> 00:20:39,360
+Hubo un panel
+
+332
+00:20:39,360 --> 00:20:41,520
+Pero también recuerdo
+
+333
+00:20:41,520 --> 00:20:43,480
+En el que se juntan tres o cuatro personas
+
+334
+00:20:43,480 --> 00:20:45,580
+Nada más a intentar
+
+335
+00:20:45,580 --> 00:20:47,220
+Dilucidar esto como sigue
+
+336
+00:20:47,220 --> 00:20:49,820
+Pero me parece que
+
+337
+00:20:49,820 --> 00:20:51,560
+Una de las conferencias
+
+338
+00:20:51,560 --> 00:20:57,560
+de este evento, fue muy importante porque preguntaba si los datos abiertos
+
+339
+00:20:57,560 --> 00:20:59,320
+estaban muertos o estaban vivos.
+
+340
+00:21:00,780 --> 00:21:04,640
+Y todos, sí, están vivos, claro, era un evento de datos abiertos,
+
+341
+00:21:04,720 --> 00:21:05,820
+que iba a decir que están muertos.
+
+342
+00:21:06,600 --> 00:21:09,920
+Y a mí lo que me pareció, y en ese momento tuve la oportunidad de decirlo,
+
+343
+00:21:09,980 --> 00:21:13,300
+es que no es que están muertos o vivos, que están encarcelados.
+
+344
+00:21:14,420 --> 00:21:19,520
+Con esta de publicar una cierta cantidad, de publicar datos vistosos,
+
+345
+00:21:19,520 --> 00:21:30,260
+de un círculo de dateros que los tienen como captados, sin ofender a nadie, por favor, porque a mí no hay problema, a todos.
+
+346
+00:21:32,360 --> 00:21:44,380
+Entonces, digamos, en esa endogamia que se genera entre las instituciones civiles y las oficiales, me parece que están un poco encerrados los datos abiertos a ese círculo,
+
+347
+00:21:44,380 --> 00:21:51,340
+y que la solución solamente la vamos a ver cuando los gobiernos publiquen datos que los puedan comprometer.
+
+348
+00:21:52,460 --> 00:21:56,200
+Y esto lo estoy viendo en un único lugar hasta ahora, que es Nariño.
+
+349
+00:21:57,020 --> 00:22:04,060
+Obviamente no lo conozco personalmente, pero en la oportunidad que tuvimos de hablar con Javier Arteaga y demás,
+
+350
+00:22:04,360 --> 00:22:11,080
+lo que notamos, y aparte estuvimos muy específicas en las preguntas, éramos varias archiveras y lo atosigamos, pobre,
+
+351
+00:22:11,080 --> 00:22:34,720
+Lo que descubrimos es que en el fondo tiene una muy buena gestora documental, una profesional que está desde hace años instalada allá y me parece que ese es el secreto de su éxito, aparte de la participación ciudadana, que lograron involucrar al ciudadano en la gestión de ese gobierno abierto.
+
+352
+00:22:34,720 --> 00:22:47,820
+Y bueno, en el fondo me parece que es la solución, digamos. Si uno no gestiona adecuadamente los documentos de los ciudadanos, mucho menos le va a dar datos que le interesen.
+
+353
+00:22:47,820 --> 00:22:49,380
+medio como
+
+354
+00:22:49,380 --> 00:22:51,240
+obvio
+
+355
+00:22:51,240 --> 00:22:54,900
+si te convocan
+
+356
+00:22:54,900 --> 00:22:56,500
+a una consultoría cualquiera
+
+357
+00:22:56,500 --> 00:22:58,560
+de los gobiernos
+
+358
+00:22:58,560 --> 00:23:00,620
+de Argentina y te piden
+
+359
+00:23:00,620 --> 00:23:02,400
+que le des más o menos rápido
+
+360
+00:23:02,400 --> 00:23:04,780
+uno o dos consejos importantes
+
+361
+00:23:04,780 --> 00:23:06,540
+como para empezar a mejorar
+
+362
+00:23:06,540 --> 00:23:08,660
+la realidad de los datos vinculados
+
+363
+00:23:08,660 --> 00:23:09,980
+a los archivos y de los datos en general
+
+364
+00:23:09,980 --> 00:23:12,980
+¿qué cosa te gustaría recomendarles a los funcionarios?
+
+365
+00:23:13,620 --> 00:23:14,760
+tú sabes que tengo la suerte
+
+366
+00:23:14,760 --> 00:23:16,760
+de que me llaman mucho y me preguntan
+
+367
+00:23:16,760 --> 00:23:18,620
+mucho, y soy
+
+368
+00:23:18,620 --> 00:23:19,460
+muy sincera
+
+369
+00:23:19,460 --> 00:23:22,600
+y en la fórmula de Nariño está también
+
+370
+00:23:22,600 --> 00:23:24,880
+sin voluntad política no se avanza
+
+371
+00:23:24,880 --> 00:23:25,480
+en este tema
+
+372
+00:23:25,480 --> 00:23:28,420
+con solo el afán de decir
+
+373
+00:23:28,420 --> 00:23:30,620
+voy a mejorar, voy a publicar
+
+374
+00:23:30,620 --> 00:23:32,760
+no se avanza, esto tiene que
+
+375
+00:23:32,760 --> 00:23:34,720
+ser la voluntad política de la más alta
+
+376
+00:23:34,720 --> 00:23:36,400
+esfera, y lo digo porque
+
+377
+00:23:36,400 --> 00:23:37,980
+es lo que nos pasa en Santa Fe
+
+378
+00:23:37,980 --> 00:23:40,280
+no hay una conexión entre
+
+379
+00:23:40,280 --> 00:23:42,660
+la voluntad política
+
+380
+00:23:42,660 --> 00:23:44,520
+y las personas que tienen que llevar
+
+381
+00:23:44,520 --> 00:23:46,560
+adelante todas esas
+
+382
+00:23:46,560 --> 00:23:52,040
+cuestiones de gobierno abierto. Entonces, ¿qué pasa? En la página del gobierno de Santa Fe no están
+
+383
+00:23:52,040 --> 00:23:56,980
+publicadas todas las normativas, todos los decretos, todas las resoluciones y demás. Entonces, no hay
+
+384
+00:23:56,980 --> 00:24:02,480
+un gobierno abierto posible. Entonces, ¿qué les digo a las personas cuando me consultan? Que primero
+
+385
+00:24:02,480 --> 00:24:08,180
+tienen que estar publicados todo lo que en realidad es la transparencia activa, todos los datos que a
+
+386
+00:24:08,180 --> 00:24:14,320
+la sociedad le hagan falta para conocer a la institución. Por ahí se empieza. Y eso que parece
+
+387
+00:24:14,320 --> 00:24:16,300
+una pavada les cuesta horrores
+
+388
+00:24:16,300 --> 00:24:17,860
+horrores, horrores
+
+389
+00:24:17,860 --> 00:24:20,200
+y hace poco, bueno, el tema de las declaraciones
+
+390
+00:24:20,200 --> 00:24:22,600
+juradas, los currículum
+
+391
+00:24:22,600 --> 00:24:23,720
+de los funcionarios
+
+392
+00:24:23,720 --> 00:24:25,660
+todas esas cuestiones que parecen
+
+393
+00:24:25,660 --> 00:24:28,140
+ay, cómo no lo vas a publicar, eso les cuesta
+
+394
+00:24:28,140 --> 00:24:29,900
+horrores, y después saber
+
+395
+00:24:29,900 --> 00:24:31,860
+que lo que quieren invertir
+
+396
+00:24:31,860 --> 00:24:33,300
+en digitalizar
+
+397
+00:24:33,300 --> 00:24:36,160
+lo tienen que, digamos, invertir
+
+398
+00:24:36,160 --> 00:24:37,800
+antes en gestionar
+
+399
+00:24:37,800 --> 00:24:39,080
+lo que tengan de papel
+
+400
+00:24:39,080 --> 00:24:41,740
+antes de largarse a la digitalización
+
+401
+00:24:41,740 --> 00:24:43,500
+eso es fundamental
+
+402
+00:24:43,500 --> 00:24:45,580
+Porque la primer consulta es
+
+403
+00:24:45,580 --> 00:24:46,940
+¿Cómo hago para digitalizar?
+
+404
+00:24:47,380 --> 00:24:48,860
+Y no se trata de eso
+
+405
+00:24:48,860 --> 00:24:51,160
+Bien, no es solamente escanear papel
+
+406
+00:24:51,160 --> 00:24:53,500
+Y ponerlo en una carpeta
+
+407
+00:24:53,500 --> 00:24:54,860
+Y listo, está digitalizado
+
+408
+00:24:54,860 --> 00:24:57,500
+Sino que tiene que haber una gestión documental previa
+
+409
+00:24:57,500 --> 00:24:57,940
+Me parece
+
+410
+00:24:57,940 --> 00:25:01,400
+Lamentablemente es lo que hicieron un montón de gobiernos
+
+411
+00:25:01,400 --> 00:25:02,600
+Sí, sí, sí, sí
+
+412
+00:25:02,600 --> 00:25:03,980
+Y se pierden muchas cosas
+
+413
+00:25:03,980 --> 00:25:06,260
+Ya con las chicas, con las otras activeras
+
+414
+00:25:06,260 --> 00:25:09,300
+Habíamos pensado en preparar una consultoría
+
+415
+00:25:09,300 --> 00:25:11,500
+Para futuro, para recuperar estos desastres
+
+416
+00:25:11,500 --> 00:25:12,440
+Bueno
+
+417
+00:25:12,440 --> 00:25:33,340
+No va a haber forma aparte, o sea, la única forma es, imagínate vos levantás un PDF, tenemos un ejemplo en la página de Santa Fe, que es lo que más circulo, pero se les ocurrió digitalizar un informe judicial, toda una causa judicial sobre un problema del Banco Provincia.
+
+418
+00:25:33,340 --> 00:25:35,420
+Esa es la causa
+
+419
+00:25:35,420 --> 00:25:37,180
+Entonces uno entra en transparencia
+
+420
+00:25:37,180 --> 00:25:39,460
+Y encuentra 3 o 4 ítems
+
+421
+00:25:39,460 --> 00:25:41,380
+De la dirección de transparencia
+
+422
+00:25:41,380 --> 00:25:43,140
+Y informe causa no ver
+
+423
+00:25:43,140 --> 00:25:46,200
+Un dato suelto
+
+424
+00:25:46,200 --> 00:25:46,940
+Desconectado
+
+425
+00:25:46,940 --> 00:25:50,220
+Es peor, es una carpeta de PDF
+
+426
+00:25:50,220 --> 00:25:52,480
+Sueltos
+
+427
+00:25:52,480 --> 00:25:53,700
+Sin explicación
+
+428
+00:25:53,700 --> 00:25:56,000
+Y cuando vos entras a los PDF
+
+429
+00:25:56,000 --> 00:25:57,920
+Juro que para mi es como
+
+430
+00:25:57,920 --> 00:25:59,960
+La alargación máxima
+
+431
+00:25:59,960 --> 00:26:01,760
+El documento PDF
+
+432
+00:26:01,760 --> 00:26:03,320
+está titulado
+
+433
+00:26:03,320 --> 00:26:04,580
+para el director
+
+434
+00:26:04,580 --> 00:26:07,860
+así, así como te lo digo
+
+435
+00:26:07,860 --> 00:26:09,780
+este es el metadato del documento
+
+436
+00:26:09,780 --> 00:26:11,940
+imagínate dentro de unos
+
+437
+00:26:11,940 --> 00:26:13,940
+años, esa súper
+
+438
+00:26:13,940 --> 00:26:15,940
+desclasificación, ¿qué va a
+
+439
+00:26:15,940 --> 00:26:16,700
+significar?
+
+440
+00:26:18,020 --> 00:26:19,840
+Sí, va a ser muy difícil
+
+441
+00:26:19,840 --> 00:26:22,280
+y usaste una palabra hace un ratito que me encantó
+
+442
+00:26:22,280 --> 00:26:23,480
+dijiste la palabra
+
+443
+00:26:23,480 --> 00:26:25,580
+endogamia y este
+
+444
+00:26:25,580 --> 00:26:28,080
+podcast se llama Cadena Datos
+
+445
+00:26:28,080 --> 00:26:29,740
+porque yo quiero ir encadenando invitados
+
+446
+00:26:29,740 --> 00:26:31,620
+justamente para salir de la endogamia
+
+447
+00:26:31,620 --> 00:26:33,380
+en la que de alguna manera estamos
+
+448
+00:26:33,380 --> 00:26:36,000
+los que vamos siempre a los eventos de datos abiertos
+
+449
+00:26:36,000 --> 00:26:38,060
+nos conocemos, nos queremos muchísimo
+
+450
+00:26:38,060 --> 00:26:40,000
+y toda la cosa, pero quiero salir de San Dogami
+
+451
+00:26:40,000 --> 00:26:42,160
+entonces te tengo que despedir
+
+452
+00:26:42,160 --> 00:26:43,840
+agradeciéndote y pidiéndote que
+
+453
+00:26:43,840 --> 00:26:45,720
+para salir de San Dogami me recomiende
+
+454
+00:26:45,720 --> 00:26:47,920
+dos o tres personas que me ayuden
+
+455
+00:26:47,920 --> 00:26:49,080
+a avanzar en el camino
+
+456
+00:26:49,080 --> 00:26:51,980
+de aprender en el mundo de los datos abiertos
+
+457
+00:26:51,980 --> 00:26:54,180
+y en este caso supongo que me va a sugerir
+
+458
+00:26:54,180 --> 00:26:55,800
+gente que entienda de archivos
+
+459
+00:26:55,800 --> 00:26:58,320
+y que me ayuda a conocer un poco más
+
+460
+00:26:58,320 --> 00:26:59,900
+Bueno, antes que nada
+
+461
+00:26:59,900 --> 00:27:03,120
+al Leo Martínez
+
+462
+00:27:03,120 --> 00:27:05,140
+que es mi informático de cabecera
+
+463
+00:27:05,140 --> 00:27:06,900
+está en agenda, sí
+
+464
+00:27:06,900 --> 00:27:09,340
+me imaginaba
+
+465
+00:27:09,340 --> 00:27:12,240
+que es el que en realidad
+
+466
+00:27:12,240 --> 00:27:14,940
+dentro de la informática aprendió a manejarse
+
+467
+00:27:14,940 --> 00:27:15,880
+también con archivos
+
+468
+00:27:15,880 --> 00:27:19,160
+y es un activista del software libre
+
+469
+00:27:19,160 --> 00:27:20,280
+y trabaja en gobierno
+
+470
+00:27:20,280 --> 00:27:22,540
+eso no dije
+
+471
+00:27:22,540 --> 00:27:23,800
+que un poco me crié
+
+472
+00:27:23,800 --> 00:27:25,720
+hace más de 20 años que estamos juntos
+
+473
+00:27:25,720 --> 00:27:28,880
+y un poco me crié con la cultura del software libre
+
+474
+00:27:28,880 --> 00:27:30,740
+Y eso también me ayudó bastante
+
+475
+00:27:30,740 --> 00:27:33,460
+Si tienen oportunidad de visitar
+
+476
+00:27:33,460 --> 00:27:35,560
+La página del archivo de la provincia
+
+477
+00:27:35,560 --> 00:27:37,800
+Que me ayudó a hacerla él en su momento
+
+478
+00:27:37,800 --> 00:27:39,080
+Y la programé yo
+
+479
+00:27:39,080 --> 00:27:41,560
+Que estaba hecha en HTML
+
+480
+00:27:41,560 --> 00:27:43,580
+Plano, año 2001
+
+481
+00:27:43,580 --> 00:27:45,540
+Era muy difícil
+
+482
+00:27:45,540 --> 00:27:47,360
+De bajar información en esa época
+
+483
+00:27:47,360 --> 00:27:49,740
+Todavía estás vigente, o sea, date cuenta
+
+484
+00:27:49,740 --> 00:27:51,540
+Lo mal que estamos
+
+485
+00:27:51,540 --> 00:27:52,320
+Bueno, él es uno
+
+486
+00:27:52,320 --> 00:27:55,320
+Pac Linares, que es Andrés Pac Linares
+
+487
+00:27:55,320 --> 00:27:56,720
+Del Archivo General de la Nación
+
+488
+00:27:56,720 --> 00:27:58,580
+Por esto que veníamos hablando de hoy
+
+489
+00:27:58,580 --> 00:27:59,740
+Que es el enlace
+
+490
+00:27:59,740 --> 00:28:02,460
+Entre Archivo General de la Nación
+
+491
+00:28:02,460 --> 00:28:03,840
+Y Ministerio de Modernización
+
+492
+00:28:03,840 --> 00:28:04,980
+Hace lo que puede
+
+493
+00:28:04,980 --> 00:28:07,520
+No se puede hacer maravillas
+
+494
+00:28:07,520 --> 00:28:09,480
+Tampoco una persona
+
+495
+00:28:09,480 --> 00:28:11,520
+Y otra persona que no es de acá
+
+496
+00:28:11,520 --> 00:28:14,300
+Que me pareció muy interesante su visión
+
+497
+00:28:14,300 --> 00:28:16,380
+Y que tu papá
+
+498
+00:28:16,380 --> 00:28:18,460
+Hubiera seguramente
+
+499
+00:28:18,460 --> 00:28:20,100
+Capaz que se conociera en algún momento
+
+500
+00:28:20,100 --> 00:28:22,320
+Que es Luis Casella
+
+501
+00:28:22,320 --> 00:28:23,420
+Y Serra
+
+502
+00:28:23,420 --> 00:28:25,340
+Que es de Girona
+
+503
+00:28:25,340 --> 00:28:28,020
+Barcelona está muy avanzada en estos temas
+
+504
+00:28:28,020 --> 00:28:31,720
+en la zona de Cataluña, así que también es muy interesante
+
+505
+00:28:31,720 --> 00:28:34,220
+para analizar qué están haciendo.
+
+506
+00:28:34,660 --> 00:28:38,760
+Ellos tienen la cadena de protección documental
+
+507
+00:28:38,760 --> 00:28:41,020
+para garantizar la vigencia a largo plazo.
+
+508
+00:28:41,600 --> 00:28:44,700
+Bueno, me gustó cómo suena, así que lo voy a llamar
+
+509
+00:28:44,700 --> 00:28:47,340
+y se lo voy a preguntar en alguna próxima emisión.
+
+510
+00:28:47,900 --> 00:28:49,700
+Un millón de gracias, María José.
+
+511
+00:28:50,320 --> 00:28:51,180
+Gracias a vos.
+
+512
+00:28:51,620 --> 00:28:51,940
+Chao.
+
+513
+00:28:52,180 --> 00:28:52,580
+Chao, chao.
+

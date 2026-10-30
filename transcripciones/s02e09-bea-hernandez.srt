@@ -1,0 +1,2132 @@
+1
+00:00:02,860 --> 00:00:26,800
+Cadena de datos, episodio número 33. De este lado Andrés Vázquez desde Córdoba en Argentina. Hoy tengo el gusto de que me acompañe Beatriz Hernández desde España. Beatriz es Data Scientist en el Olympic Channel. Es además coorganizadora de R-Ladies Madrid y tiene un grado de matemáticas por la Universidad Complutense de Madrid. Muy buenas tardes Beatriz, ¿cómo estás?
+
+2
+00:00:27,700 --> 00:00:28,420
+Hola, ¿qué tal?
+
+3
+00:00:29,160 --> 00:00:29,960
+Muy bien.
+
+4
+00:00:30,500 --> 00:00:35,440
+La primera pregunta que tengo es, veo que tenés un grado en matemática
+
+5
+00:00:35,440 --> 00:00:39,100
+y veo que te estás desempeñando como científica de datos en este momento
+
+6
+00:00:39,100 --> 00:00:43,180
+y quería preguntarte cómo es ese paso desde estudiar matemáticas
+
+7
+00:00:43,180 --> 00:00:49,000
+hasta aplicar la ciencia de datos, me imagino, mediante algún lenguaje de programación.
+
+8
+00:00:49,600 --> 00:00:53,380
+¿Vos lo ves como un paso, es algo natural? ¿Cómo fue esa migración?
+
+9
+00:00:53,380 --> 00:00:56,340
+Bueno, para mí
+
+10
+00:00:56,340 --> 00:00:57,820
+en mi caso creo que
+
+11
+00:00:57,820 --> 00:00:59,740
+no fue tanto buscado
+
+12
+00:00:59,740 --> 00:01:02,100
+sino que por trabajo
+
+13
+00:01:02,100 --> 00:01:04,100
+acabé
+
+14
+00:01:04,100 --> 00:01:04,460
+un poco
+
+15
+00:01:04,460 --> 00:01:07,760
+en los datos
+
+16
+00:01:07,760 --> 00:01:09,840
+porque todavía no, mi primer trabajo
+
+17
+00:01:09,840 --> 00:01:11,840
+no se trataba de ser
+
+18
+00:01:11,840 --> 00:01:12,680
+científico de datos
+
+19
+00:01:12,680 --> 00:01:15,940
+pero sí que es verdad
+
+20
+00:01:15,940 --> 00:01:17,820
+que bueno
+
+21
+00:01:17,820 --> 00:01:19,680
+cuando yo empecé a trabajar tampoco estaba
+
+22
+00:01:19,680 --> 00:01:20,620
+tan extendido
+
+23
+00:01:20,620 --> 00:01:22,440
+este campo
+
+24
+00:01:22,440 --> 00:01:23,900
+al menos aquí en España
+
+25
+00:01:23,900 --> 00:01:26,580
+y sí que ya había roles
+
+26
+00:01:26,580 --> 00:01:28,600
+pero todavía no eran tan
+
+27
+00:01:28,600 --> 00:01:30,500
+famosos ni se estudiaba
+
+28
+00:01:30,500 --> 00:01:32,520
+sobre ello, ahora hay grados específicos
+
+29
+00:01:32,520 --> 00:01:33,920
+y tal, pero
+
+30
+00:01:33,920 --> 00:01:35,920
+sí que es verdad que
+
+31
+00:01:35,920 --> 00:01:38,320
+cuando empecé a trabajar en ABA
+
+32
+00:01:38,320 --> 00:01:40,740
+el departamento
+
+33
+00:01:40,740 --> 00:01:42,360
+de tecnología que se llamaba
+
+34
+00:01:42,360 --> 00:01:44,640
+en ese momento era de datos efectivamente
+
+35
+00:01:44,640 --> 00:01:46,620
+Bien, y tú viste que
+
+36
+00:01:46,620 --> 00:01:48,000
+imagino que en tu carrera
+
+37
+00:01:48,000 --> 00:01:50,180
+de grado de matemáticas
+
+38
+00:01:50,180 --> 00:01:52,540
+no necesariamente profundizas mucho
+
+39
+00:01:52,540 --> 00:01:54,620
+en la programación, tuviste que elegir
+
+40
+00:01:54,620 --> 00:01:56,500
+un lenguaje de programación o una forma
+
+41
+00:01:56,500 --> 00:01:58,420
+de analizar datos desde cero
+
+42
+00:01:58,420 --> 00:02:00,580
+eso lo elegiste vos, te lo eligieron en la
+
+43
+00:02:00,580 --> 00:02:02,560
+empresa, ¿cómo fue esa elección?
+
+44
+00:02:03,400 --> 00:02:03,980
+Bueno, yo
+
+45
+00:02:03,980 --> 00:02:06,540
+trabajé
+
+46
+00:02:06,540 --> 00:02:08,460
+con las herramientas que había en ese momento
+
+47
+00:02:08,460 --> 00:02:10,260
+yo empecé como
+
+48
+00:02:10,260 --> 00:02:11,240
+becaria
+
+49
+00:02:11,240 --> 00:02:14,440
+y seguí el trabajo de mis compañeros
+
+50
+00:02:14,440 --> 00:02:16,300
+en este caso fue
+
+51
+00:02:16,300 --> 00:02:17,360
+R y Python
+
+52
+00:02:17,360 --> 00:02:19,900
+y un poco de también
+
+53
+00:02:19,900 --> 00:02:27,520
+toque un poco de VBA, no, VBA se llama, es el lenguaje de programación de las herramientas de Office
+
+54
+00:02:27,520 --> 00:02:38,000
+y la verdad es que, claro, era realmente lo que se usaba o lo que más extendido está para analizar datos
+
+55
+00:02:38,000 --> 00:02:39,800
+y para trabajar con ellos.
+
+56
+00:02:40,180 --> 00:02:44,800
+Exacto, y tuviste que aprender por tu cuenta desde cero, hiciste algún curso especial para eso
+
+57
+00:02:44,800 --> 00:02:46,680
+o con lo que sabías de matemática
+
+58
+00:02:46,680 --> 00:02:48,880
+más lo que leíste de cómo programar
+
+59
+00:02:48,880 --> 00:02:50,000
+te fue suficiente
+
+60
+00:02:50,000 --> 00:02:52,880
+bueno, para eso lo estudié la carrera
+
+61
+00:02:52,880 --> 00:02:54,800
+un poquito, la verdad es que a mí no me gustaba mucho
+
+62
+00:02:54,800 --> 00:02:55,840
+programar, en la carrera
+
+63
+00:02:55,840 --> 00:02:57,920
+pues se da otro tipo de cosas
+
+64
+00:02:57,920 --> 00:03:00,680
+y toda la parte de análisis
+
+65
+00:03:00,680 --> 00:03:02,640
+de datos sí que la tuve que aprender luego
+
+66
+00:03:02,640 --> 00:03:03,960
+y
+
+67
+00:03:03,960 --> 00:03:06,580
+en R igual, eso
+
+68
+00:03:06,580 --> 00:03:08,480
+bueno, pues cuando
+
+69
+00:03:08,480 --> 00:03:10,480
+sabes programar un poquito pues ya con
+
+70
+00:03:10,480 --> 00:03:12,760
+un cursillo para hacer
+
+71
+00:03:12,760 --> 00:03:14,520
+con un cursillo de estos
+
+72
+00:03:14,520 --> 00:03:16,400
+online o lo que sea para saber la
+
+73
+00:03:16,400 --> 00:03:18,540
+sintaxis, en mi caso
+
+74
+00:03:18,540 --> 00:03:20,220
+fue suficiente, así que es verdad que
+
+75
+00:03:20,220 --> 00:03:22,080
+luego para cosas más avanzadas
+
+76
+00:03:22,080 --> 00:03:23,820
+pues he hecho muchos
+
+77
+00:03:23,820 --> 00:03:26,620
+cursos, me he mirado muchos tutoriales
+
+78
+00:03:26,620 --> 00:03:27,740
+código, etcétera, etcétera
+
+79
+00:03:27,740 --> 00:03:30,080
+Bien, hay
+
+80
+00:03:30,080 --> 00:03:31,980
+gente que está en otros
+
+81
+00:03:31,980 --> 00:03:34,280
+oficios como vos en la
+
+82
+00:03:34,280 --> 00:03:36,320
+matemática o economista o gente
+
+83
+00:03:36,320 --> 00:03:38,400
+de otros rubros, sociólogos
+
+84
+00:03:38,400 --> 00:03:40,300
+que están pasándose a la
+
+85
+00:03:40,300 --> 00:03:42,300
+ciencia de datos, ¿cuál es tu
+
+86
+00:03:42,300 --> 00:03:43,900
+consejo para ellos?
+
+87
+00:03:43,900 --> 00:03:46,100
+que está bien que es el camino a seguir
+
+88
+00:03:46,100 --> 00:03:47,940
+que hay un gran futuro
+
+89
+00:03:47,940 --> 00:03:49,680
+que se meta
+
+90
+00:03:49,680 --> 00:03:53,960
+a ver yo creo que hay muchos puestos
+
+91
+00:03:53,960 --> 00:03:55,120
+y si que es verdad que
+
+92
+00:03:55,120 --> 00:03:58,040
+es un campo muy
+
+93
+00:03:58,040 --> 00:03:59,920
+amplio entonces pues
+
+94
+00:03:59,920 --> 00:04:02,000
+si te gusta un poco más programar pues tienes la
+
+95
+00:04:02,000 --> 00:04:02,820
+parte de
+
+96
+00:04:02,820 --> 00:04:05,920
+de modelos y todas esas cosas
+
+97
+00:04:05,920 --> 00:04:07,960
+si te gusta más un poco
+
+98
+00:04:07,960 --> 00:04:10,400
+el business pues tienes la parte de business analytics
+
+99
+00:04:10,400 --> 00:04:12,040
+entonces yo
+
+100
+00:04:12,040 --> 00:04:13,280
+creo que si que hay
+
+101
+00:04:13,280 --> 00:04:16,160
+O sea, que sí que
+
+102
+00:04:16,160 --> 00:04:18,360
+Tienes un campo muy amplio
+
+103
+00:04:18,360 --> 00:04:20,500
+Para que haya algo que te guste
+
+104
+00:04:21,580 --> 00:04:24,640
+¿Aconsejarlo o no?
+
+105
+00:04:24,860 --> 00:04:26,700
+Pues eso es lo mismo
+
+106
+00:04:26,700 --> 00:04:27,780
+De siempre, si te gusta
+
+107
+00:04:27,780 --> 00:04:29,060
+Yo sí lo aconsejo
+
+108
+00:04:29,060 --> 00:04:32,520
+Pero vamos
+
+109
+00:04:32,520 --> 00:04:34,380
+Al final es un trabajo como todos
+
+110
+00:04:34,380 --> 00:04:36,460
+Y he visto
+
+111
+00:04:36,460 --> 00:04:38,360
+A gente que se ha pasado de un lado
+
+112
+00:04:38,360 --> 00:04:40,420
+A otro y de los datos
+
+113
+00:04:40,420 --> 00:04:42,380
+Se ha pasado luego a hacer
+
+114
+00:04:42,380 --> 00:04:43,280
+otro tipo de cosas
+
+115
+00:04:43,280 --> 00:04:46,400
+sí que es verdad que ahora mismo
+
+116
+00:04:46,400 --> 00:04:47,940
+hay mucho trabajo, entonces
+
+117
+00:04:47,940 --> 00:04:49,560
+pues bueno, con que
+
+118
+00:04:49,560 --> 00:04:52,320
+con que tengas un mínimo
+
+119
+00:04:52,320 --> 00:04:54,180
+de interés, pues
+
+120
+00:04:54,180 --> 00:04:56,360
+el trabajo te viene
+
+121
+00:04:56,360 --> 00:04:58,200
+bastante asegurado, al menos
+
+122
+00:04:58,200 --> 00:05:00,380
+te hablo un poco de
+
+123
+00:05:00,380 --> 00:05:02,380
+de España
+
+124
+00:05:03,060 --> 00:05:05,800
+no sé muy bien
+
+125
+00:05:05,800 --> 00:05:07,800
+bueno, Estados Unidos también
+
+126
+00:05:07,800 --> 00:05:08,600
+pero
+
+127
+00:05:08,600 --> 00:05:11,940
+no sé muy bien decirte en otros países
+
+128
+00:05:11,940 --> 00:05:13,680
+Bien, perfecto
+
+129
+00:05:13,680 --> 00:05:16,720
+En este camino de empezar a trabajar con datos
+
+130
+00:05:16,720 --> 00:05:18,280
+¿Te tocó encontrarte
+
+131
+00:05:18,280 --> 00:05:21,460
+Con datos públicos de gobiernos?
+
+132
+00:05:23,700 --> 00:05:25,040
+Yo, o sea
+
+133
+00:05:25,040 --> 00:05:26,920
+Cuando he estado trabajando en la empresa
+
+134
+00:05:26,920 --> 00:05:29,320
+Siempre he trabajado con datos privados
+
+135
+00:05:29,320 --> 00:05:30,320
+Bien
+
+136
+00:05:30,320 --> 00:05:31,820
+Tampoco
+
+137
+00:05:31,820 --> 00:05:34,920
+Nunca he trabajado para una consultora
+
+138
+00:05:34,920 --> 00:05:37,060
+Que son los que más aprovechan
+
+139
+00:05:37,060 --> 00:05:37,820
+De este tipo de datos
+
+140
+00:05:37,820 --> 00:05:39,360
+Porque tienen proyectos muy distintos
+
+141
+00:05:39,360 --> 00:05:43,040
+pero sí que es verdad que por mi cuenta
+
+142
+00:05:43,040 --> 00:05:44,500
+pues alguna cosa ha hecho
+
+143
+00:05:44,500 --> 00:05:46,760
+pero ha sido un mini proyectos míos
+
+144
+00:05:46,760 --> 00:05:47,440
+que
+
+145
+00:05:47,440 --> 00:05:50,420
+¿y qué te parece
+
+146
+00:05:50,420 --> 00:05:53,080
+la vez que te encontraste con datos públicos?
+
+147
+00:05:53,180 --> 00:05:53,920
+¿qué te pareció
+
+148
+00:05:53,920 --> 00:05:57,060
+muy distinto a los privados? ¿qué te pareció la calidad?
+
+149
+00:05:57,260 --> 00:05:59,480
+¿cómo fue ese encuentro con los datos públicos?
+
+150
+00:06:01,640 --> 00:06:01,940
+bueno
+
+151
+00:06:01,940 --> 00:06:03,100
+hay de todo
+
+152
+00:06:03,100 --> 00:06:08,260
+a ver
+
+153
+00:06:08,260 --> 00:06:09,100
+yo sí que
+
+154
+00:06:09,100 --> 00:06:11,180
+sí que tuve una época
+
+155
+00:06:11,180 --> 00:06:12,920
+que estuve mirando mucho
+
+156
+00:06:12,920 --> 00:06:15,200
+tiempo los datos de
+
+157
+00:06:15,200 --> 00:06:16,620
+la Comunidad de Madrid
+
+158
+00:06:16,620 --> 00:06:18,920
+en ese momento pues
+
+159
+00:06:18,920 --> 00:06:20,940
+había algunos que funcionaban mejor que otros
+
+160
+00:06:20,940 --> 00:06:22,700
+por ejemplo el de calidad del aire
+
+161
+00:06:22,700 --> 00:06:26,420
+no sé muy bien por qué
+
+162
+00:06:26,420 --> 00:06:27,860
+porque es algo
+
+163
+00:06:27,860 --> 00:06:31,020
+que se recoge de forma muy automática
+
+164
+00:06:31,020 --> 00:06:32,120
+o cosas así
+
+165
+00:06:32,120 --> 00:06:34,440
+entonces están bastante bien
+
+166
+00:06:34,440 --> 00:06:35,680
+bastante bien te hablo
+
+167
+00:06:35,680 --> 00:06:38,180
+de archivos
+
+168
+00:06:38,180 --> 00:06:41,400
+elegibles, nada de PDFs
+
+169
+00:06:41,400 --> 00:06:43,080
+entonces bien, hasta ahí bien
+
+170
+00:06:43,080 --> 00:06:44,920
+luego es verdad que
+
+171
+00:06:44,920 --> 00:06:47,060
+cambias de una versión a otra
+
+172
+00:06:47,060 --> 00:06:49,060
+te desaparecen columnas y tal
+
+173
+00:06:49,060 --> 00:06:50,600
+si miras otro tipo de datos
+
+174
+00:06:50,600 --> 00:06:52,600
+de otro
+
+175
+00:06:52,600 --> 00:06:55,080
+campo pues sí que te puedes encontrar
+
+176
+00:06:55,080 --> 00:06:56,400
+con cosas más complicadas
+
+177
+00:06:56,400 --> 00:06:58,760
+y menos actualizadas
+
+178
+00:06:58,760 --> 00:06:59,500
+y bueno
+
+179
+00:06:59,500 --> 00:07:03,200
+depende de quién lleve
+
+180
+00:07:03,200 --> 00:07:04,420
+en cada momento
+
+181
+00:07:04,420 --> 00:07:07,240
+cada uno de los
+
+182
+00:07:07,240 --> 00:07:11,060
+datasets. Perfecto, Beatriz, hace un rato
+
+183
+00:07:11,060 --> 00:07:15,100
+dijiste que las oportunidades de trabajo eran muchas y veo, estuve viendo un poco
+
+184
+00:07:15,100 --> 00:07:19,080
+el trabajo de Olympic Channel y dentro de las cosas que vi, vi que para Tokio
+
+185
+00:07:19,080 --> 00:07:22,920
+2020 están preparando muchos trabajos que inclusive tienen muchas
+
+186
+00:07:22,920 --> 00:07:26,940
+búsquedas abiertas laborales para
+
+187
+00:07:26,940 --> 00:07:30,220
+ciencia de datos. Te quería consultar
+
+188
+00:07:30,220 --> 00:07:35,280
+porque me llamó mucho la atención que el Olympic Channel, me imagino, te pregunto
+
+189
+00:07:35,280 --> 00:07:37,200
+¿Es algo oficial del Comité Olímpico?
+
+190
+00:07:39,440 --> 00:07:42,980
+Sí, realmente es una empresa.
+
+191
+00:07:44,340 --> 00:07:49,660
+El Comité Olímpico Internacional es una organización, no es una empresa.
+
+192
+00:07:49,660 --> 00:07:56,520
+Es una organización, creo que sin ánimo de lucro, no lo sé muy bien en este momento,
+
+193
+00:07:56,720 --> 00:07:59,500
+pero creo que es una organización seguro.
+
+194
+00:08:00,120 --> 00:08:03,920
+Y entonces se apoya en varias empresas, tiene varias empresas que están asociadas
+
+195
+00:08:03,920 --> 00:08:07,600
+y una de ellas es el Olympic Channel, efectivamente.
+
+196
+00:08:10,040 --> 00:08:15,820
+Nosotros, por nuestra parte, es como si estuvieses trabajando en un periódico, ¿no?
+
+197
+00:08:15,820 --> 00:08:23,780
+Entonces, están allí los periodistas, redactores, si miras la página olympicchannel.com,
+
+198
+00:08:23,880 --> 00:08:28,860
+pues son noticias, se cubren los juegos, se cubren distintos campeonatos.
+
+199
+00:08:30,080 --> 00:08:33,700
+Bien, ¿y qué fuentes de datos usan ahí? Me da mucha curiosidad.
+
+200
+00:08:33,700 --> 00:08:37,360
+con qué fuente y para qué audiencia
+
+201
+00:08:37,360 --> 00:08:39,360
+la audiencia de ustedes son los deportistas
+
+202
+00:08:39,360 --> 00:08:41,420
+son los países
+
+203
+00:08:41,420 --> 00:08:42,640
+que participan de las olimpiadas
+
+204
+00:08:42,640 --> 00:08:45,160
+cuáles son las audiencias y cuáles son las fuentes
+
+205
+00:08:45,160 --> 00:08:47,080
+de datos, lo que se pueda contar
+
+206
+00:08:47,080 --> 00:08:49,080
+no, como te comentaba
+
+207
+00:08:49,080 --> 00:08:50,480
+es como un periódico
+
+208
+00:08:50,480 --> 00:08:51,340
+entonces nuestro
+
+209
+00:08:51,340 --> 00:08:54,480
+cliente, no se va a llamarlo
+
+210
+00:08:54,480 --> 00:08:56,520
+nuestra audiencia principal es
+
+211
+00:08:56,520 --> 00:08:57,480
+el público
+
+212
+00:08:57,480 --> 00:09:00,720
+nosotros intentamos llegar
+
+213
+00:09:00,720 --> 00:09:02,200
+a la mayor gente posible
+
+214
+00:09:02,200 --> 00:09:04,700
+en noticias de deportes
+
+215
+00:09:04,700 --> 00:09:08,540
+¿y para eso usan
+
+216
+00:09:08,540 --> 00:09:10,860
+datos de estadísticas deportivas?
+
+217
+00:09:11,980 --> 00:09:12,800
+nosotros utilizamos
+
+218
+00:09:12,800 --> 00:09:13,980
+datos propios solo
+
+219
+00:09:13,980 --> 00:09:18,660
+las estadísticas deportivas
+
+220
+00:09:18,660 --> 00:09:20,580
+son datos que tienen
+
+221
+00:09:20,580 --> 00:09:22,980
+las federaciones, son datos propios de las federaciones
+
+222
+00:09:22,980 --> 00:09:24,460
+algunos los recogen y algunos no
+
+223
+00:09:24,460 --> 00:09:26,220
+por ejemplo en el fútbol y en el baloncesto
+
+224
+00:09:26,220 --> 00:09:27,840
+eso está
+
+225
+00:09:27,840 --> 00:09:30,480
+está muy muy
+
+226
+00:09:30,480 --> 00:09:32,560
+trabajado, en otros deportes no tanto
+
+227
+00:09:32,560 --> 00:09:34,000
+porque son más minoritarios
+
+228
+00:09:34,000 --> 00:09:35,820
+pero esos son datos de
+
+229
+00:09:35,820 --> 00:09:38,240
+federaciones, equipos
+
+230
+00:09:38,240 --> 00:09:40,260
+cada uno de su deporte
+
+231
+00:09:40,260 --> 00:09:41,220
+del que sea
+
+232
+00:09:41,220 --> 00:09:43,680
+y nosotros no tenemos
+
+233
+00:09:43,680 --> 00:09:44,360
+salvo
+
+234
+00:09:44,360 --> 00:09:48,240
+la relación
+
+235
+00:09:48,240 --> 00:09:49,940
+laboral que tenemos con las federaciones
+
+236
+00:09:49,940 --> 00:09:51,940
+nosotros no tenemos datos
+
+237
+00:09:51,940 --> 00:09:52,960
+de ese tipo porque
+
+238
+00:09:52,960 --> 00:09:55,060
+no es nuestro
+
+239
+00:09:55,060 --> 00:09:57,880
+campo de
+
+240
+00:09:57,880 --> 00:09:58,260
+trabajo
+
+241
+00:09:58,260 --> 00:10:02,060
+Perfecto, perfecto
+
+242
+00:10:02,060 --> 00:10:05,460
+Datos públicos entonces tampoco usan
+
+243
+00:10:05,460 --> 00:10:07,780
+Usan solamente datos de ustedes con la finalidad
+
+244
+00:10:07,780 --> 00:10:09,440
+De alimentar la audiencia de la página web
+
+245
+00:10:09,440 --> 00:10:10,600
+Efectivamente
+
+246
+00:10:10,600 --> 00:10:12,660
+Bien, veo
+
+247
+00:10:12,660 --> 00:10:14,820
+La parte que más me interesa
+
+248
+00:10:14,820 --> 00:10:16,920
+De tu perfil es tu trabajo con
+
+249
+00:10:16,920 --> 00:10:18,060
+RLadies Madrid
+
+250
+00:10:18,060 --> 00:10:21,120
+Estuve leyendo un poco y me encontré
+
+251
+00:10:21,120 --> 00:10:22,800
+Una definición que me pareció muy linda
+
+252
+00:10:22,800 --> 00:10:24,760
+Y es que trabajan para aumentar
+
+253
+00:10:24,760 --> 00:10:26,820
+La diversidad
+
+254
+00:10:26,820 --> 00:10:28,640
+en la tecnología técnica.
+
+255
+00:10:29,060 --> 00:10:31,620
+Te quiero preguntar, ¿cómo ven ustedes la realidad actual?
+
+256
+00:10:31,760 --> 00:10:34,440
+¿Por qué es necesario aumentar la diversidad?
+
+257
+00:10:34,540 --> 00:10:35,220
+¿Qué problemas hay?
+
+258
+00:10:37,500 --> 00:10:44,260
+Bueno, me alegra decir que, o quiero pensar que desde mi punto de vista cada vez menos,
+
+259
+00:10:44,520 --> 00:10:45,480
+pero todavía los hay.
+
+260
+00:10:47,540 --> 00:10:56,660
+Realmente, en su momento, cuando empezamos, teníamos una serie de estadísticas,
+
+261
+00:10:56,660 --> 00:11:00,320
+de ponentes en conferencias
+
+262
+00:11:00,320 --> 00:11:01,820
+y ese tipo de cosas
+
+263
+00:11:01,820 --> 00:11:05,820
+y la verdad es que era muy desesperado
+
+264
+00:11:05,820 --> 00:11:06,980
+no sé cómo decirlo
+
+265
+00:11:06,980 --> 00:11:09,340
+era muy triste
+
+266
+00:11:09,340 --> 00:11:12,660
+el ver ese tipo de cosas
+
+267
+00:11:12,660 --> 00:11:15,800
+porque no es que no haya mujeres en tecnología
+
+268
+00:11:15,800 --> 00:11:18,680
+sino que no son visibles
+
+269
+00:11:18,680 --> 00:11:22,440
+o sus carreras son muy cortas
+
+270
+00:11:22,440 --> 00:11:49,380
+Entonces, lo que reduce bastante el número. Entonces, nuestro trabajo empezó siendo un poco ese, el poder dar visibilidad, el poder ayudar a mujeres a no solo ser buenas y bien y reconocidas en su trabajo,
+
+271
+00:11:49,380 --> 00:11:52,620
+sino visibles dentro de la comunidad.
+
+272
+00:11:54,840 --> 00:12:06,860
+Bien. ¿Y en la agenda de ustedes está el trabajo de capacitación para mujeres que quieran comenzar a trabajar con la ciencia de datos o es más amplio?
+
+273
+00:12:08,340 --> 00:12:18,000
+Bueno, nosotros cada chapter, o como lo llamamos nosotros, realmente es un poco libre de elegir ese tipo de cosas.
+
+274
+00:12:18,000 --> 00:12:26,300
+Nosotros hemos hecho muchos talleres de iniciación AR
+
+275
+00:12:26,300 --> 00:12:29,880
+También hemos hecho muchos talleres de otro tipo de paquetes
+
+276
+00:12:29,880 --> 00:12:35,140
+Sí que hay, por ejemplo, hay grupos que hacen mentorías
+
+277
+00:12:35,140 --> 00:12:42,840
+Y eso depende un poco de cómo esté el grupo en ese momento
+
+278
+00:12:42,840 --> 00:12:45,100
+Si hay gente suficiente o si no
+
+279
+00:12:45,100 --> 00:12:56,240
+Al final R es un... dentro de lo que son los lenguajes mayoritarios de programación es un poco minoritario.
+
+280
+00:12:56,240 --> 00:13:09,000
+Entonces los grupos son pequeños y sí que es verdad que no es lo mismo que atender a esto que atender, por ejemplo, a PyLadies o algo así donde hay muchísima más gente interesada.
+
+281
+00:13:09,000 --> 00:13:15,000
+O sea, nosotros, eso, desde Madrid sí que hemos hecho ese tipo de cosas
+
+282
+00:13:15,000 --> 00:13:22,260
+y siempre, siempre hemos animado a empresas a que vengan a ofrecer,
+
+283
+00:13:23,760 --> 00:13:29,000
+pues a anunciar sus puestos de trabajo por si acaso alguien está interesada.
+
+284
+00:13:30,720 --> 00:13:36,440
+Bien. ¿Y te parece que funciona que el mundo de la tecnología y de la ciencia de datos
+
+285
+00:13:36,440 --> 00:13:39,260
+está finalmente mejorando
+
+286
+00:13:39,260 --> 00:13:41,660
+esa brecha o esa falta de diversidad
+
+287
+00:13:41,660 --> 00:13:43,120
+¿estamos avanzando?
+
+288
+00:13:44,260 --> 00:13:45,400
+Yo creo que sí
+
+289
+00:13:45,400 --> 00:13:45,820
+porque
+
+290
+00:13:45,820 --> 00:13:49,800
+ya es un problema muy visible
+
+291
+00:13:49,800 --> 00:13:51,200
+es
+
+292
+00:13:51,200 --> 00:13:54,040
+un poco
+
+293
+00:13:54,040 --> 00:13:55,860
+the elephant in the room
+
+294
+00:13:55,860 --> 00:13:58,180
+ya todo el mundo
+
+295
+00:13:58,180 --> 00:13:58,900
+se da cuenta
+
+296
+00:13:58,900 --> 00:14:02,060
+o la mayoría de la gente vamos a decir
+
+297
+00:14:02,060 --> 00:14:03,380
+entonces
+
+298
+00:14:03,380 --> 00:14:06,060
+aunque es un
+
+299
+00:14:06,060 --> 00:14:23,800
+Realmente es un problema que acarrea muchas más cosas porque la opresión de la mujer al final es mucho más amplia que solo en la tecnología, pero sí que es verdad que ya por lo menos se reconoce como problema.
+
+300
+00:14:23,800 --> 00:14:26,780
+ya hay mucha gente trabajando en estos
+
+301
+00:14:26,780 --> 00:14:28,960
+grupos, comunidades dentro de las empresas
+
+302
+00:14:28,960 --> 00:14:31,260
+hay propios grupos
+
+303
+00:14:31,260 --> 00:14:33,200
+de diversidad
+
+304
+00:14:33,200 --> 00:14:36,580
+y creo que eso
+
+305
+00:14:36,580 --> 00:14:38,420
+es el principio
+
+306
+00:14:38,420 --> 00:14:40,140
+de
+
+307
+00:14:40,140 --> 00:14:42,060
+poco a poco
+
+308
+00:14:42,060 --> 00:14:44,240
+poder llegar a una igualdad
+
+309
+00:14:44,240 --> 00:14:45,880
+que es lo que se espera de esto
+
+310
+00:14:45,880 --> 00:14:48,280
+exacto
+
+311
+00:14:48,280 --> 00:14:50,500
+te quiero preguntar
+
+312
+00:14:50,500 --> 00:14:52,340
+por qué elegiste
+
+313
+00:14:52,340 --> 00:14:54,220
+R, me dijiste que conociste R, Python
+
+314
+00:14:54,220 --> 00:14:55,440
+y algunas otras cosas
+
+315
+00:14:55,440 --> 00:14:58,160
+te quería preguntar por qué lo elegiste, ¿qué te gusta?
+
+316
+00:15:01,690 --> 00:15:02,690
+Pues la verdad
+
+317
+00:15:02,690 --> 00:15:03,170
+es que a mí
+
+318
+00:15:03,170 --> 00:15:06,350
+me resulta bastante agradable
+
+319
+00:15:06,350 --> 00:15:08,150
+sobre todo
+
+320
+00:15:08,150 --> 00:15:09,450
+a la hora de
+
+321
+00:15:09,450 --> 00:15:11,870
+exploraciones de datos
+
+322
+00:15:11,870 --> 00:15:16,050
+gráficos
+
+323
+00:15:16,050 --> 00:15:18,430
+este tipo de cosas, no tanto
+
+324
+00:15:18,430 --> 00:15:20,650
+ya para cosas de software
+
+325
+00:15:20,650 --> 00:15:22,390
+propiamente dichas como
+
+326
+00:15:22,390 --> 00:15:24,230
+sean modelos o
+
+327
+00:15:24,230 --> 00:15:27,150
+streamings o cosas así que me parece
+
+328
+00:15:27,150 --> 00:15:28,510
+mucho más cómodo Python pero
+
+329
+00:15:28,510 --> 00:15:31,210
+R sí que me parece
+
+330
+00:15:31,210 --> 00:15:32,750
+muy cómodo para
+
+331
+00:15:32,750 --> 00:15:35,290
+trabajar en general con los datos
+
+332
+00:15:35,290 --> 00:15:38,670
+desde exploraciones
+
+333
+00:15:38,670 --> 00:15:41,230
+a gráficos
+
+334
+00:15:42,150 --> 00:15:43,530
+a manejo
+
+335
+00:15:43,530 --> 00:15:45,570
+de datos, a modificaciones
+
+336
+00:15:45,570 --> 00:15:47,430
+ETLs, me parece
+
+337
+00:15:47,430 --> 00:15:49,230
+súper cómodo
+
+338
+00:15:49,990 --> 00:15:50,550
+y
+
+339
+00:15:50,550 --> 00:15:52,970
+la verdad es que está
+
+340
+00:15:52,970 --> 00:15:55,350
+es bastante completo
+
+341
+00:15:55,350 --> 00:15:56,530
+para ese tipo de cosas
+
+342
+00:15:56,530 --> 00:15:59,110
+Perfecto, y cuando
+
+343
+00:15:59,110 --> 00:16:01,070
+hacen talleres y cuando
+
+344
+00:16:01,070 --> 00:16:03,110
+hacen prácticas o cuando hacen trabajo
+
+345
+00:16:03,110 --> 00:16:05,150
+con R, ¿qué tipo de
+
+346
+00:16:05,150 --> 00:16:07,370
+datos eligen habitualmente? ¿Eligen datos públicos
+
+347
+00:16:07,370 --> 00:16:07,850
+o eligen
+
+348
+00:16:07,850 --> 00:16:10,770
+datos en general?
+
+349
+00:16:11,010 --> 00:16:13,270
+¿Queréis saber cómo orientan las búsquedas
+
+350
+00:16:13,270 --> 00:16:14,750
+cuando van a dar un taller
+
+351
+00:16:14,750 --> 00:16:15,710
+de R?
+
+352
+00:16:17,090 --> 00:16:19,650
+Pues muchas veces son datos públicos
+
+353
+00:16:19,650 --> 00:16:20,550
+hay varios
+
+354
+00:16:20,550 --> 00:16:43,590
+Por ejemplo, ahora hay muchas fuentes de datos que no solo son públicas, sino que son abiertas y están mejor estructuradas que lo que son los datos de gobierno, que son, por ejemplo, Kaggle o Data.org o sitios así, o el propio GitHub incluso,
+
+355
+00:16:43,590 --> 00:16:47,290
+que ya contienen
+
+356
+00:16:47,290 --> 00:16:49,590
+eso, el propio dataset
+
+357
+00:16:49,590 --> 00:16:51,650
+y está más o menos
+
+358
+00:16:51,650 --> 00:16:53,010
+limpio y está
+
+359
+00:16:53,010 --> 00:16:55,190
+listo para trabajar
+
+360
+00:16:55,190 --> 00:16:56,370
+digamoslo así
+
+361
+00:16:56,370 --> 00:16:58,770
+y entonces ese tipo
+
+362
+00:16:58,770 --> 00:17:01,530
+de fuentes son
+
+363
+00:17:01,530 --> 00:17:03,550
+muy útiles, hay de todo
+
+364
+00:17:03,550 --> 00:17:05,290
+desde incluso
+
+365
+00:17:05,290 --> 00:17:06,950
+si quisieses
+
+366
+00:17:06,950 --> 00:17:09,610
+incluso mirar alguna clase
+
+367
+00:17:09,610 --> 00:17:11,550
+de script, allí los tienen subidos
+
+368
+00:17:11,550 --> 00:17:13,450
+también, la gente la verdad
+
+369
+00:17:13,450 --> 00:17:14,250
+es que
+
+370
+00:17:14,250 --> 00:17:16,970
+es fantástico
+
+371
+00:17:16,970 --> 00:17:19,470
+y la gente sube sus propios
+
+372
+00:17:19,470 --> 00:17:21,090
+scripts con sus análisis o
+
+373
+00:17:21,090 --> 00:17:23,510
+una meta concreta que ellos tengan
+
+374
+00:17:23,510 --> 00:17:24,430
+entonces
+
+375
+00:17:24,430 --> 00:17:27,350
+ese tipo de fuentes están muy bien, mejor
+
+376
+00:17:27,350 --> 00:17:28,090
+que incluso
+
+377
+00:17:28,090 --> 00:17:31,310
+ir a datos de gobierno que pueden ser muy
+
+378
+00:17:31,310 --> 00:17:33,550
+interesantes, pero está el trabajo previo
+
+379
+00:17:33,550 --> 00:17:35,370
+de mirar a ver si
+
+380
+00:17:35,370 --> 00:17:36,970
+están bien o cuántos faltan
+
+381
+00:17:36,970 --> 00:17:38,030
+etcétera
+
+382
+00:17:38,030 --> 00:17:42,210
+¿te tocó alguna vez
+
+383
+00:17:42,210 --> 00:17:44,830
+interactuar con un funcionario
+
+384
+00:17:44,830 --> 00:17:46,990
+de áreas de datos de los gobiernos
+
+385
+00:17:46,990 --> 00:17:49,010
+ya sea de Madrid, de España o de algún otro lugar
+
+386
+00:17:49,010 --> 00:17:50,590
+ya sea para pedirles datos
+
+387
+00:17:50,590 --> 00:17:52,190
+o para preguntarles algo acerca de un dato
+
+388
+00:17:52,190 --> 00:17:54,790
+o lo que fuera, ¿tenes relación
+
+389
+00:17:54,790 --> 00:17:56,990
+con los funcionarios públicos
+
+390
+00:17:56,990 --> 00:17:57,950
+que trabajan con datos?
+
+391
+00:17:59,870 --> 00:18:00,950
+Coincidí con
+
+392
+00:18:00,950 --> 00:18:03,150
+ellos en un
+
+393
+00:18:03,150 --> 00:18:04,470
+meetup, bueno, con ellos
+
+394
+00:18:04,470 --> 00:18:07,010
+con un señor que venía en representación
+
+395
+00:18:07,010 --> 00:18:07,890
+de
+
+396
+00:18:07,890 --> 00:18:10,930
+en este caso era del Ayuntamiento de Madrid
+
+397
+00:18:10,930 --> 00:18:12,290
+y
+
+398
+00:18:12,290 --> 00:18:21,430
+Y la verdad es que fue hace varios años y tenía muchas ganas de seguir mejorando.
+
+399
+00:18:21,430 --> 00:18:30,510
+El tío veía las dificultades que tenían dentro de las distintas áreas de gobierno para poder hacer unos datos realmente accesibles.
+
+400
+00:18:32,070 --> 00:18:37,510
+Y en general se le veía con ganas de mejorar.
+
+401
+00:18:38,250 --> 00:18:41,030
+Esto ya te digo, fue hace unos años, entonces fue el gobierno anterior.
+
+402
+00:18:41,030 --> 00:18:42,870
+ahora mismo no sé cómo está la cosa
+
+403
+00:18:42,870 --> 00:18:47,910
+pero sí, la verdad es que en ese momento
+
+404
+00:18:47,910 --> 00:18:50,130
+todo parecía
+
+405
+00:18:50,130 --> 00:18:51,990
+que iba como muy hacia adelante
+
+406
+00:18:51,990 --> 00:18:53,890
+Bien
+
+407
+00:18:53,890 --> 00:18:55,590
+y si el día de mañana
+
+408
+00:18:55,590 --> 00:18:57,690
+el gobierno de Madrid o el gobierno de España
+
+409
+00:18:57,690 --> 00:18:59,570
+te convocaran a ejercer
+
+410
+00:18:59,570 --> 00:19:01,930
+una función de gobierno
+
+411
+00:19:01,930 --> 00:19:03,790
+para impulsar la agenda
+
+412
+00:19:03,790 --> 00:19:04,990
+que a vos te parezca
+
+413
+00:19:04,990 --> 00:19:08,010
+bien, ya sea para aumentar la diversidad
+
+414
+00:19:08,010 --> 00:19:09,750
+o para liberar mejores datos
+
+415
+00:19:09,750 --> 00:19:11,590
+o para trabajar con las unidades
+
+416
+00:19:11,590 --> 00:19:13,690
+¿te gustaría trabajar adentro de un gobierno?
+
+417
+00:19:16,630 --> 00:19:18,370
+no me lo he hecho nunca
+
+418
+00:19:18,370 --> 00:19:23,390
+pues yo creo que sí, no me parecería mal
+
+419
+00:19:23,390 --> 00:19:26,570
+entiendo que
+
+420
+00:19:26,570 --> 00:19:29,030
+que al final
+
+421
+00:19:29,030 --> 00:19:31,550
+pues si ya es difícil en una empresa grande
+
+422
+00:19:31,550 --> 00:19:34,030
+hacer este tipo de cosas, que hay un interés
+
+423
+00:19:34,030 --> 00:19:34,810
+realmente
+
+424
+00:19:34,810 --> 00:19:37,810
+de dinero
+
+425
+00:19:37,810 --> 00:19:40,330
+entiendo que en un gobierno puede ser
+
+426
+00:19:40,330 --> 00:19:41,970
+muy desesperante, pero
+
+427
+00:19:41,970 --> 00:19:44,570
+yo creo
+
+428
+00:19:44,570 --> 00:19:44,750
+que
+
+429
+00:19:44,750 --> 00:19:47,730
+si te ofrecen
+
+430
+00:19:47,730 --> 00:19:49,470
+un puesto
+
+431
+00:19:49,470 --> 00:19:53,350
+o que hay
+
+432
+00:19:53,350 --> 00:19:55,010
+ese espacio
+
+433
+00:19:55,010 --> 00:19:56,450
+para hacer este tipo de cosas
+
+434
+00:19:56,450 --> 00:19:59,030
+creo que sí estaría bien
+
+435
+00:19:59,030 --> 00:19:59,610
+aprovecharlo
+
+436
+00:19:59,610 --> 00:20:02,810
+no me parecería para nada
+
+437
+00:20:02,810 --> 00:20:04,850
+un mal
+
+438
+00:20:04,850 --> 00:20:05,430
+trabajo
+
+439
+00:20:05,430 --> 00:20:32,500
+Bien, bien. En relación a España, he escuchado ya muchas veces muchos casos interesantes de Sibio. No sé si los conoces. Quería preguntarte si hay comunidades o grupos trabajando con datos públicos que consigan desarrollar productos o herramientas que tengan algún impacto o alguna visibilidad.
+
+440
+00:20:32,500 --> 00:20:35,040
+si conoces Cibio y si conoces
+
+441
+00:20:35,040 --> 00:20:36,960
+a otros ejemplos de gente
+
+442
+00:20:36,960 --> 00:20:38,840
+que esté usando datos para tener impacto
+
+443
+00:20:38,840 --> 00:20:39,640
+en la sociedad
+
+444
+00:20:39,640 --> 00:20:42,080
+yo Cibio se lo conozco
+
+445
+00:20:42,080 --> 00:20:44,980
+la verdad es que es un periódico
+
+446
+00:20:44,980 --> 00:20:45,640
+fantástico
+
+447
+00:20:45,640 --> 00:20:48,460
+y se dedica a una investigación
+
+448
+00:20:48,460 --> 00:20:51,060
+muy muy
+
+449
+00:20:51,060 --> 00:20:53,120
+rigurosa y la verdad es que
+
+450
+00:20:53,120 --> 00:20:54,600
+bueno yo estoy
+
+451
+00:20:54,600 --> 00:20:56,120
+en este caso estoy
+
+452
+00:20:56,120 --> 00:20:58,840
+suscrita a los
+
+453
+00:20:58,840 --> 00:21:00,940
+artículos y eso y los leo todos y la verdad es que
+
+454
+00:21:00,940 --> 00:21:02,860
+son fantásticos
+
+455
+00:21:02,860 --> 00:21:04,560
+no es un periódico para nada normal
+
+456
+00:21:04,560 --> 00:21:08,760
+sobre otros periódicos
+
+457
+00:21:08,760 --> 00:21:09,920
+que están haciendo cosas así
+
+458
+00:21:09,920 --> 00:21:11,640
+otras empresas
+
+459
+00:21:11,640 --> 00:21:15,060
+la verdad es que
+
+460
+00:21:15,060 --> 00:21:16,840
+no se me viene ninguna mente
+
+461
+00:21:16,840 --> 00:21:18,160
+que esté dedicada
+
+462
+00:21:18,160 --> 00:21:19,620
+bueno, está Gobierto
+
+463
+00:21:19,620 --> 00:21:22,840
+déjame buscarlo
+
+464
+00:21:22,840 --> 00:21:27,500
+Gobierto.es
+
+465
+00:21:27,500 --> 00:21:28,920
+que tienen
+
+466
+00:21:28,920 --> 00:21:30,260
+también
+
+467
+00:21:30,260 --> 00:21:33,600
+cosas de
+
+468
+00:21:33,600 --> 00:21:36,500
+de agenda, de gastos públicos
+
+469
+00:21:36,500 --> 00:21:38,260
+y cosas así, que la verdad es que
+
+470
+00:21:38,260 --> 00:21:40,340
+hacía mucho que no lo visitaba, pero mira
+
+471
+00:21:40,340 --> 00:21:41,220
+me acabo de acordar
+
+472
+00:21:41,220 --> 00:21:44,120
+y sí que me gusta, no son
+
+473
+00:21:44,120 --> 00:21:45,900
+las investigaciones tan
+
+474
+00:21:45,900 --> 00:21:47,580
+tan, sabes
+
+475
+00:21:47,580 --> 00:21:50,260
+no son realmente periodismo de investigación
+
+476
+00:21:50,260 --> 00:21:52,320
+pero hacen cosas con datos
+
+477
+00:21:52,320 --> 00:21:54,420
+abiertos de gobierno y la verdad es que
+
+478
+00:21:54,420 --> 00:21:56,020
+con la dificultad que tienen
+
+479
+00:21:56,020 --> 00:21:56,880
+ya tienen mérito
+
+480
+00:21:56,880 --> 00:21:59,900
+y luego sí que es verdad que
+
+481
+00:21:59,900 --> 00:22:21,420
+Pero muchos periódicos, como la mayoría de los periódicos grandes, cuando salen cosas muy, muy grandes, por ejemplo, datos de Hacienda y cosas así, que todos los años salen y sale la gente morosa y eso siempre, todos los años.
+
+482
+00:22:23,980 --> 00:22:28,140
+Eso sí que ellos suelen trabajar con esos datos también.
+
+483
+00:22:35,060 --> 00:22:43,260
+Te quería preguntar cuál es tu percepción con respecto al uso de los gobiernos internamente para la toma de decisiones.
+
+484
+00:22:43,260 --> 00:22:50,380
+Me parece que muchas empresas están empezando a ver el valor de los datos y a tratar de explotarlo y están invirtiendo muchísima plata en eso.
+
+485
+00:22:51,100 --> 00:23:01,100
+Te quería preguntar, en tu opinión, si te parece que los gobiernos también están viendo el valor de los datos y sacándole el máximo provecho que se puede hoy.
+
+486
+00:23:01,100 --> 00:23:05,760
+yo no lo creo
+
+487
+00:23:05,760 --> 00:23:07,840
+partiendo del hecho de que
+
+488
+00:23:07,840 --> 00:23:10,220
+yo no los uso de forma profesional
+
+489
+00:23:10,220 --> 00:23:12,280
+y para mi son una herramienta
+
+490
+00:23:12,280 --> 00:23:13,740
+de juguete más que otra cosa
+
+491
+00:23:13,740 --> 00:23:15,700
+o de interés
+
+492
+00:23:15,700 --> 00:23:18,080
+particular, mejor dicho
+
+493
+00:23:18,080 --> 00:23:21,940
+yo no creo que
+
+494
+00:23:21,940 --> 00:23:26,200
+ellos estén haciendo todo lo que se podría hacer
+
+495
+00:23:26,200 --> 00:23:27,520
+al final
+
+496
+00:23:27,520 --> 00:23:30,440
+no hay
+
+497
+00:23:30,440 --> 00:23:56,540
+Y es una cuestión primero de transparencia y segundo también de poner dinero para algo que no te va a aportar a ti ningún beneficio directo porque al final todo el hecho de subir datos, ponerlos en abierto, en estructuras, bien hechas, no sé qué, todo eso cuesta dinero.
+
+498
+00:23:56,540 --> 00:23:59,220
+al menos es una persona trabajando
+
+499
+00:23:59,220 --> 00:24:01,280
+que ya es dinero
+
+500
+00:24:01,280 --> 00:24:02,200
+entonces
+
+501
+00:24:02,200 --> 00:24:05,080
+yo creo que no hay un interés real
+
+502
+00:24:05,080 --> 00:24:07,160
+sino más
+
+503
+00:24:07,160 --> 00:24:08,400
+en el interés de la ciudadanía
+
+504
+00:24:08,400 --> 00:24:09,960
+y que cada uno
+
+505
+00:24:09,960 --> 00:24:13,040
+depende de lo comprometido que esté con la transparencia
+
+506
+00:24:13,040 --> 00:24:15,380
+así va a haber
+
+507
+00:24:15,380 --> 00:24:17,240
+más o menos interés
+
+508
+00:24:17,240 --> 00:24:21,740
+bien, perfecto
+
+509
+00:24:21,740 --> 00:24:23,800
+clarísimo, la última pregunta
+
+510
+00:24:23,800 --> 00:24:24,260
+Bea
+
+511
+00:24:24,260 --> 00:24:27,380
+te agradezco muchísimo por el tiempo
+
+512
+00:24:27,380 --> 00:24:29,440
+la última pregunta es para todos los invitados
+
+513
+00:24:29,440 --> 00:24:31,700
+igual, te quería preguntar
+
+514
+00:24:31,700 --> 00:24:33,560
+sugerencias de personas
+
+515
+00:24:33,560 --> 00:24:35,320
+a las cuales entrevistar
+
+516
+00:24:35,320 --> 00:24:37,440
+para conocer más
+
+517
+00:24:37,440 --> 00:24:39,520
+del mundo de los datos y sobre todo
+
+518
+00:24:39,520 --> 00:24:41,300
+de los datos abiertos
+
+519
+00:24:41,300 --> 00:24:43,400
+¿a quiénes me podrías recomendar para
+
+520
+00:24:43,400 --> 00:24:45,280
+conversar? Ah, bueno, claro
+
+521
+00:24:45,280 --> 00:24:46,460
+pues
+
+522
+00:24:46,460 --> 00:24:49,520
+a David de Tibio
+
+523
+00:24:49,520 --> 00:24:51,460
+sí que te lo recomiendo, a lo mejor es una
+
+524
+00:24:51,460 --> 00:24:52,720
+persona un poco ocupada pero
+
+525
+00:24:52,720 --> 00:24:54,860
+pero
+
+526
+00:24:54,860 --> 00:24:56,700
+es muy interesante
+
+527
+00:24:56,700 --> 00:25:23,080
+Y luego, fíjate, ahora que me he acordado de esto de gobierno, Fernando, que es uno de los que lleva la plataforma, él sabe muchísimo de este tipo de datos, básicamente, porque él se dedica a ponerlos en una estructura consumible, etcétera, etcétera, entonces es muy interesante.
+
+528
+00:25:23,080 --> 00:25:26,640
+perfecto, entonces agendo
+
+529
+00:25:26,640 --> 00:25:28,660
+a David y a Fernando
+
+530
+00:25:28,660 --> 00:25:30,500
+a ver si puedo conversar con ellos
+
+531
+00:25:30,500 --> 00:25:32,800
+te agradezco muchísimo
+
+532
+00:25:32,800 --> 00:25:34,060
+Beatriz por tu tiempo
+
+533
+00:25:34,060 --> 00:25:35,700
+nada, claro, un placer
+

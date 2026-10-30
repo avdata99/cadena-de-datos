@@ -1,0 +1,4468 @@
+1
+00:00:02,130 --> 00:00:07,270
+Cadena de datos, segunda temporada. De este lado Andrés Vázquez desde Córdoba en Argentina.
+
+2
+00:00:08,010 --> 00:00:10,930
+Del otro lado me acompaña hoy Facundo Barrio Nuevo.
+
+3
+00:00:11,570 --> 00:00:16,910
+Facundo es director general de Gobierno Abierto, Acceso a la Información Pública, Estadísticas y Censos.
+
+4
+00:00:17,550 --> 00:00:22,350
+Antes trabajó como economista en el Ministerio de Finanzas de la Provincia de Córdoba, entre otros trabajos,
+
+5
+00:00:22,410 --> 00:00:25,390
+y es licenciado en Economía por la Universidad Nacional de Córdoba.
+
+6
+00:00:25,490 --> 00:00:26,930
+Hola Facundo, buenas tardes, ¿cómo estás?
+
+7
+00:00:27,770 --> 00:00:30,870
+Hola Andrés, buenas tardes. Muchas gracias por la invitación.
+
+8
+00:00:30,870 --> 00:00:33,710
+Bueno, muchas gracias a vos
+
+9
+00:00:33,710 --> 00:00:36,270
+Tengo que hacer una aclaración para los que nos escuchan
+
+10
+00:00:36,270 --> 00:00:41,890
+Y es que durante los tres años que trabajé en el gobierno de la Municipalidad de Córdoba
+
+11
+00:00:41,890 --> 00:00:43,490
+Como director de Sistema de Información
+
+12
+00:00:43,490 --> 00:00:45,310
+Facundo estuvo al lado mío
+
+13
+00:00:45,310 --> 00:00:49,050
+Así que es un entrevistado de los que más conozco
+
+14
+00:00:49,050 --> 00:00:52,110
+Y con los que fue un gran, gran, gran, gran gusto trabajar
+
+15
+00:00:52,110 --> 00:00:55,090
+Así que arranco con la primera pregunta, Facundo
+
+16
+00:00:55,090 --> 00:00:56,450
+Dale, Andrés
+
+17
+00:00:56,450 --> 00:01:00,430
+Estuve viendo tu perfil y veo que sos economista
+
+18
+00:01:00,430 --> 00:01:02,710
+y actualmente te veo muy metido
+
+19
+00:01:02,710 --> 00:01:04,730
+en el mundo de los datos abiertos, acceso a la información
+
+20
+00:01:04,730 --> 00:01:06,870
+pública y demás. ¿Cómo es
+
+21
+00:01:06,870 --> 00:01:08,970
+ese traspaso? ¿Con qué proyecto
+
+22
+00:01:08,970 --> 00:01:10,730
+te, en el caso que
+
+23
+00:01:10,730 --> 00:01:12,650
+lo consideres una migración, te mueves de la
+
+24
+00:01:12,650 --> 00:01:14,750
+economía a la transparencia?
+
+25
+00:01:17,370 --> 00:01:18,390
+Bueno Andrés, bueno
+
+26
+00:01:18,390 --> 00:01:21,130
+gracias por la invitación
+
+27
+00:01:21,130 --> 00:01:22,690
+nuevamente, me parece que
+
+28
+00:01:22,690 --> 00:01:24,530
+sí, trabajamos muy juntos
+
+29
+00:01:24,530 --> 00:01:26,610
+estaría bueno contar a tu audiencia
+
+30
+00:01:26,610 --> 00:01:28,990
+que el lugar es muy chiquito y que estamos literalmente
+
+31
+00:01:28,990 --> 00:01:29,610
+muy juntos
+
+32
+00:01:29,610 --> 00:01:32,130
+Por falta de espacio
+
+33
+00:01:32,130 --> 00:01:34,590
+Por falta de espacio, fundamentalmente
+
+34
+00:01:34,590 --> 00:01:36,850
+Con sus pros y sus contras
+
+35
+00:01:36,850 --> 00:01:41,890
+Yo empecé a tomar conocimiento
+
+36
+00:01:41,890 --> 00:01:44,490
+Sobre la transparencia
+
+37
+00:01:44,490 --> 00:01:47,730
+Cuando estuve en la experiencia laboral
+
+38
+00:01:47,730 --> 00:01:50,110
+Que tuve en el Ministerio de Finanzas
+
+39
+00:01:50,110 --> 00:01:54,290
+Del gobierno de la provincia de Córdoba
+
+40
+00:01:54,290 --> 00:01:56,790
+Yo estaba en un área de transparencia fiscal
+
+41
+00:01:56,790 --> 00:01:58,510
+De coordinación fiscal
+
+42
+00:01:58,510 --> 00:02:05,870
+en donde elaboramos muchos informes y mucha información que se mandaba a Nación y a otros lugares.
+
+43
+00:02:06,230 --> 00:02:08,010
+Esa información terminaba siendo publicada.
+
+44
+00:02:08,890 --> 00:02:19,810
+Entonces, ahí empecé a tomar contacto incipientemente con lo que significaba la transparencia.
+
+45
+00:02:20,350 --> 00:02:25,410
+Y había un portal ciudadano donde se explicaban algunos números un poco más bajado a tierra,
+
+46
+00:02:25,410 --> 00:02:30,170
+que por ahí muchas veces pasa con el ambiente económico
+
+47
+00:02:30,170 --> 00:02:34,190
+que mucha información está muy técnica
+
+48
+00:02:34,190 --> 00:02:37,770
+está expresada de una manera muy técnica
+
+49
+00:02:37,770 --> 00:02:41,650
+muchas veces porque no se piensa
+
+50
+00:02:41,650 --> 00:02:45,070
+o no se tiene en consideración
+
+51
+00:02:45,070 --> 00:02:49,190
+que el perfil que lo puede leer no es solamente un perfil técnico
+
+52
+00:02:49,190 --> 00:02:53,150
+que en realidad hay mucha gente, muchas de ellas no técnicas
+
+53
+00:02:53,150 --> 00:02:54,770
+que quieren absorber
+
+54
+00:02:54,770 --> 00:02:56,850
+cierto tipo de información.
+
+55
+00:02:58,170 --> 00:02:59,470
+Entonces, se empezaron
+
+56
+00:02:59,470 --> 00:03:00,910
+a dar algunas cuestiones
+
+57
+00:03:00,910 --> 00:03:02,830
+como había un portal de transparente
+
+58
+00:03:02,830 --> 00:03:04,350
+donde se expresaban algunos datos.
+
+59
+00:03:05,730 --> 00:03:07,430
+La verdad que en esa experiencia
+
+60
+00:03:07,430 --> 00:03:08,130
+que tuve yo
+
+61
+00:03:08,130 --> 00:03:10,810
+no se hablaba mucho
+
+62
+00:03:10,810 --> 00:03:12,350
+de datos abiertos.
+
+63
+00:03:12,690 --> 00:03:13,970
+Estaba más concentrado
+
+64
+00:03:13,970 --> 00:03:15,730
+como en el primer eslabón,
+
+65
+00:03:15,770 --> 00:03:17,630
+como en el eslabón
+
+66
+00:03:17,630 --> 00:03:18,770
+de la publicación,
+
+67
+00:03:18,890 --> 00:03:20,810
+de la publicación exigible.
+
+68
+00:03:20,810 --> 00:03:24,270
+no tanto en los formatos abiertos
+
+69
+00:03:24,270 --> 00:03:25,330
+y por ahí
+
+70
+00:03:25,330 --> 00:03:26,770
+lo que le siguió
+
+71
+00:03:26,770 --> 00:03:29,970
+en materia de transparencia
+
+72
+00:03:29,970 --> 00:03:31,270
+que si lo tomamos
+
+73
+00:03:31,270 --> 00:03:33,730
+muy en serio
+
+74
+00:03:33,730 --> 00:03:36,610
+en lo que vino
+
+75
+00:03:36,610 --> 00:03:37,590
+en los años
+
+76
+00:03:37,590 --> 00:03:39,290
+de la municipalidad
+
+77
+00:03:39,290 --> 00:03:40,910
+que seguramente quedaron
+
+78
+00:03:40,910 --> 00:03:43,010
+muchísimas cosas
+
+79
+00:03:43,010 --> 00:03:44,450
+en el camino
+
+80
+00:03:44,450 --> 00:03:46,510
+este año nosotros
+
+81
+00:03:46,510 --> 00:03:48,410
+cuando vos estabas más o menos
+
+82
+00:03:48,410 --> 00:03:49,530
+en abril, mayo
+
+83
+00:03:49,530 --> 00:03:51,190
+Empezamos a ver
+
+84
+00:03:51,190 --> 00:03:53,310
+Qué proyectos estaban más avanzados
+
+85
+00:03:53,310 --> 00:03:55,850
+Y qué proyectos estaban no tan avanzados
+
+86
+00:03:55,850 --> 00:03:57,070
+Y la verdad que
+
+87
+00:03:57,070 --> 00:03:58,450
+Tratamos de frenar
+
+88
+00:03:58,450 --> 00:04:01,130
+Y de concentrarnos en los que podíamos culminar
+
+89
+00:04:01,130 --> 00:04:02,390
+Y en el resto
+
+90
+00:04:02,390 --> 00:04:04,870
+Dejarlos documentados
+
+91
+00:04:04,870 --> 00:04:06,910
+Dejarlos como un avance
+
+92
+00:04:06,910 --> 00:04:07,450
+Muchas veces
+
+93
+00:04:07,450 --> 00:04:11,130
+Yo estoy seguro de que muchos de esos proyectos
+
+94
+00:04:11,130 --> 00:04:12,770
+Van a ser continuados
+
+95
+00:04:12,770 --> 00:04:14,410
+El año que entra
+
+96
+00:04:14,410 --> 00:04:17,470
+Y seguramente van a haber ideas nuevas
+
+97
+00:04:17,470 --> 00:04:19,090
+Para los que no están en Córdoba
+
+98
+00:04:19,090 --> 00:04:23,410
+es bueno decir que el 10 de diciembre termina una gestión de un color político
+
+99
+00:04:23,410 --> 00:04:29,810
+y empieza otra distinta y comentá esto porque están en plena etapa de traspaso
+
+100
+00:04:29,810 --> 00:04:32,590
+con los nuevos equipos técnicos del gobierno que viene.
+
+101
+00:04:32,970 --> 00:04:36,890
+Dijiste algo súper interesante que es que tu primera experiencia con datos abiertos
+
+102
+00:04:36,890 --> 00:04:43,050
+fue con datos muy técnicos de economía y la idea de esta entrevista
+
+103
+00:04:43,050 --> 00:04:46,890
+es pasar por algunos proyectos que tuviste la oportunidad de desarrollar
+
+104
+00:04:46,890 --> 00:04:48,810
+en la Municipalidad de Córdoba
+
+105
+00:04:48,810 --> 00:04:51,190
+y el primero que tengo en lista es el presupuesto abierto
+
+106
+00:04:51,190 --> 00:04:53,170
+que es un intento de resolver
+
+107
+00:04:53,170 --> 00:04:55,250
+todo eso que comentaste, que eran datos
+
+108
+00:04:55,250 --> 00:04:57,070
+muy técnicos, especialmente para
+
+109
+00:04:57,070 --> 00:04:58,470
+un público particular
+
+110
+00:04:58,470 --> 00:05:01,410
+y el presupuesto abierto de la ciudad de Córdoba
+
+111
+00:05:01,410 --> 00:05:03,490
+es uno de los pocos presupuestos abiertos
+
+112
+00:05:03,490 --> 00:05:05,230
+en Argentina, hay algunos pero
+
+113
+00:05:05,230 --> 00:05:07,150
+no son muchos, quería
+
+114
+00:05:07,150 --> 00:05:09,370
+preguntarte cómo empieza
+
+115
+00:05:09,370 --> 00:05:10,730
+eso, porque me imagino que
+
+116
+00:05:10,730 --> 00:05:13,230
+así como en la provincia, en la ciudad
+
+117
+00:05:13,230 --> 00:05:15,150
+cuando uno piensa presupuesto
+
+118
+00:05:15,150 --> 00:05:24,530
+piensa en un archivo PDF o de 300 páginas, ¿cómo arrancas con esos datos feos y llegas a lo que hoy se puede ver
+
+119
+00:05:24,530 --> 00:05:28,150
+como presupuesto abierto en la Universidad de Córdoba, que tiene visualizaciones, datos abiertos,
+
+120
+00:05:28,270 --> 00:05:33,350
+formato de reutilizar, hay un montón de cosas bonitas, ¿cómo fue, cómo empezó y cómo se desarrolló ese proyecto?
+
+121
+00:05:34,270 --> 00:05:40,970
+Bueno, originalmente porque cuando estaba en la provincia yo empecé, me metí mucho en el tema de presupuesto
+
+122
+00:05:40,970 --> 00:05:43,410
+Porque entre algunas de las tareas que realizamos
+
+123
+00:05:43,410 --> 00:05:45,890
+Realizamos los mensajes de elevación anual
+
+124
+00:05:45,890 --> 00:05:47,170
+Cuando se elaboraba un presupuesto
+
+125
+00:05:47,170 --> 00:05:50,050
+O sea, trabajamos mucho con ese documento
+
+126
+00:05:50,050 --> 00:05:51,770
+Y con ese
+
+127
+00:05:51,770 --> 00:05:53,790
+Con ese proceso contable
+
+128
+00:05:53,790 --> 00:05:55,730
+Tan importante que es presupuestar
+
+129
+00:05:55,730 --> 00:05:56,570
+Un año
+
+130
+00:05:56,570 --> 00:05:58,930
+De gestión
+
+131
+00:05:58,930 --> 00:06:00,870
+Que en ambientes
+
+132
+00:06:00,870 --> 00:06:02,990
+Inflacionarios por ahí, que es como
+
+133
+00:06:02,990 --> 00:06:05,950
+Como el que estamos transitando en Argentina hace bastantes años
+
+134
+00:06:05,950 --> 00:06:07,550
+Adquiere
+
+135
+00:06:07,550 --> 00:06:10,410
+Otra relevancia
+
+136
+00:06:10,410 --> 00:06:21,630
+Me parece que el presupuesto hay que trabajarlo de otra manera para que siga siendo esa herramienta tan importante que lo tienen todos los organismos, las empresas.
+
+137
+00:06:23,630 --> 00:06:27,410
+Por eso nosotros arrancamos con ese dato técnico.
+
+138
+00:06:28,450 --> 00:06:34,930
+La verdad, nosotros queríamos elaborar una herramienta que ya teniendo los datos,
+
+139
+00:06:34,930 --> 00:06:41,270
+Me parece que eso es importante porque muchas veces uno cuando empieza a trabajar en un proyecto
+
+140
+00:06:41,270 --> 00:06:44,970
+o quiere desarrollar una herramienta que satisfaga ciertas necesidades,
+
+141
+00:06:46,070 --> 00:06:50,130
+se empieza a analizar cuál es la fuente de esa herramienta.
+
+142
+00:06:50,230 --> 00:06:53,170
+En este caso la fuente ya existía, los datos ya existían,
+
+143
+00:06:53,870 --> 00:06:58,330
+originalmente estaban en PDF y nosotros el primer paso que hicimos fue digitalizarlo,
+
+144
+00:06:58,490 --> 00:07:03,310
+ponerlo en Excel, en un CCB, abrirlo un poquito más
+
+145
+00:07:03,310 --> 00:07:05,590
+y entonces la información para explicarlos
+
+146
+00:07:05,590 --> 00:07:07,310
+ya estaba casi masticada
+
+147
+00:07:07,310 --> 00:07:08,610
+simplemente había que tomarla
+
+148
+00:07:08,610 --> 00:07:11,210
+y empezar a ver cómo la interpretamos
+
+149
+00:07:11,210 --> 00:07:12,990
+cómo la interpreto yo
+
+150
+00:07:12,990 --> 00:07:14,570
+y cómo la interpreta quien
+
+151
+00:07:14,570 --> 00:07:16,970
+no es un economista, quien no es un contador
+
+152
+00:07:16,970 --> 00:07:19,270
+o quien no tiene alguna profesión
+
+153
+00:07:19,270 --> 00:07:20,770
+de esa índole
+
+154
+00:07:20,770 --> 00:07:23,030
+entonces cada vez que íbamos avanzando un poco
+
+155
+00:07:23,030 --> 00:07:24,090
+en la explicación
+
+156
+00:07:24,090 --> 00:07:26,930
+me acuerdo que yo iba consultando
+
+157
+00:07:26,930 --> 00:07:28,650
+y le iba preguntando a gente
+
+158
+00:07:28,650 --> 00:07:30,530
+que era de otro palo
+
+159
+00:07:30,530 --> 00:07:31,950
+que tenía otra profesión
+
+160
+00:07:31,950 --> 00:07:33,250
+se va entendiendo
+
+161
+00:07:33,250 --> 00:07:36,250
+y se va comprendiendo qué significaban
+
+162
+00:07:36,250 --> 00:07:38,090
+los ingresos corrientes, qué significaban
+
+163
+00:07:38,090 --> 00:07:39,870
+los ingresos de capital, por qué
+
+164
+00:07:39,870 --> 00:07:41,930
+hay ciertos ingresos que el municipio
+
+165
+00:07:41,930 --> 00:07:43,110
+tiene que gastar
+
+166
+00:07:43,110 --> 00:07:46,130
+en cierta área, en cierta temática
+
+167
+00:07:46,130 --> 00:07:47,950
+y que no es de libre disponibilidad
+
+168
+00:07:47,950 --> 00:07:49,850
+cuáles son los ingresos genuinos
+
+169
+00:07:49,850 --> 00:07:51,570
+que tiene el municipio y cuáles son los ingresos
+
+170
+00:07:51,570 --> 00:07:53,670
+que no dependen del municipio
+
+171
+00:07:53,670 --> 00:07:55,770
+y por qué era eso tan
+
+172
+00:07:55,770 --> 00:07:59,430
+nombrado
+
+173
+00:07:59,430 --> 00:08:01,490
+y tan difícil de explicar que es la
+
+174
+00:08:01,490 --> 00:08:03,130
+coparticipación y cómo se
+
+175
+00:08:03,130 --> 00:08:05,850
+y por qué la nación
+
+176
+00:08:05,850 --> 00:08:07,550
+recauda plata que después termina
+
+177
+00:08:07,550 --> 00:08:09,010
+tomando provincia y termina pasando
+
+178
+00:08:09,010 --> 00:08:11,570
+al municipio cuando se recaudó
+
+179
+00:08:11,570 --> 00:08:13,090
+quizás dentro del ejido
+
+180
+00:08:13,090 --> 00:08:15,750
+originalmente dentro del ejido municipal
+
+181
+00:08:15,750 --> 00:08:17,230
+hay algunas explicaciones
+
+182
+00:08:17,230 --> 00:08:19,530
+y la idea fue hacer eso, fue hacer una herramienta
+
+183
+00:08:19,530 --> 00:08:20,330
+que...
+
+184
+00:08:20,330 --> 00:08:21,610
+Muchos metadatos
+
+185
+00:08:21,610 --> 00:08:25,490
+Al lado de cada
+
+186
+00:08:25,490 --> 00:08:27,450
+dato abierto y fácil
+
+187
+00:08:27,450 --> 00:08:28,730
+de descargar
+
+188
+00:08:28,730 --> 00:08:31,350
+te tomaste el trabajo de hacer
+
+189
+00:08:31,350 --> 00:08:33,010
+una explicación más para
+
+190
+00:08:33,010 --> 00:08:35,170
+el ciudadano no economista
+
+191
+00:08:35,170 --> 00:08:37,730
+que lo miraba y muchas visualizaciones
+
+192
+00:08:37,730 --> 00:08:38,110
+como
+
+193
+00:08:38,110 --> 00:08:41,890
+herramienta
+
+194
+00:08:41,890 --> 00:08:43,430
+y llevo
+
+195
+00:08:43,430 --> 00:08:45,390
+a otro proyecto que para mí
+
+196
+00:08:45,390 --> 00:08:47,530
+fue muy interesante y fue algo que
+
+197
+00:08:47,530 --> 00:08:49,510
+pudiste hacer funcionar o
+
+198
+00:08:49,510 --> 00:08:50,890
+pudiste disponible bastante rápido
+
+199
+00:08:50,890 --> 00:08:53,270
+además de ser el director de gobierno abierto
+
+200
+00:08:53,270 --> 00:08:55,690
+sos director de acceso a la información pública
+
+201
+00:08:55,690 --> 00:08:57,870
+sos parte
+
+202
+00:08:57,870 --> 00:08:59,670
+con la ciudad de Córdoba
+
+203
+00:08:59,670 --> 00:09:00,310
+de una red
+
+204
+00:09:00,310 --> 00:09:02,670
+de acceso a la información pública
+
+205
+00:09:02,670 --> 00:09:05,270
+cuando llegaste
+
+206
+00:09:05,270 --> 00:09:07,490
+¿cómo era pedir un pedido
+
+207
+00:09:07,490 --> 00:09:09,150
+de acceso a la información pública en Córdoba
+
+208
+00:09:09,150 --> 00:09:10,090
+y cómo es hoy?
+
+209
+00:09:11,410 --> 00:09:11,750
+a ver
+
+210
+00:09:11,750 --> 00:09:14,130
+es cierto, Córdoba
+
+211
+00:09:14,130 --> 00:09:17,310
+tiene ordenanza de acceso a la información pública
+
+212
+00:09:17,310 --> 00:09:18,470
+desde el año 2002
+
+213
+00:09:18,470 --> 00:09:20,870
+y recién en el año 2012
+
+214
+00:09:20,870 --> 00:09:22,870
+abrió
+
+215
+00:09:22,870 --> 00:09:24,970
+una oficina y puso un personal
+
+216
+00:09:24,970 --> 00:09:27,490
+a cargo de eso, o sea, tiene autoridad de aplicación
+
+217
+00:09:27,490 --> 00:09:29,010
+que es un dato
+
+218
+00:09:29,010 --> 00:09:31,050
+no menor, porque sucede
+
+219
+00:09:31,050 --> 00:09:31,510
+hoy
+
+220
+00:09:31,510 --> 00:09:35,330
+en otros municipios, en otros organismos
+
+221
+00:09:35,330 --> 00:09:37,170
+públicos, en donde
+
+222
+00:09:37,170 --> 00:09:39,310
+tienen ley
+
+223
+00:09:39,310 --> 00:09:41,030
+pero no tienen autoridad de
+
+224
+00:09:41,030 --> 00:09:43,070
+aplicación, me parece que esa es
+
+225
+00:09:43,070 --> 00:09:45,490
+una gran diferencia, es como
+
+226
+00:09:45,490 --> 00:09:46,910
+es como tener
+
+227
+00:09:46,910 --> 00:09:49,210
+querer cocinar y que falten
+
+228
+00:09:49,210 --> 00:09:51,510
+los pedancillos
+
+229
+00:09:51,510 --> 00:09:52,890
+para hacer la comida
+
+230
+00:09:52,890 --> 00:09:54,870
+es como que tiene que estar todo
+
+231
+00:09:54,870 --> 00:09:56,690
+entonces, la ciudad de Córdoba
+
+232
+00:09:56,690 --> 00:09:57,730
+tuvo 10 años
+
+233
+00:09:57,730 --> 00:10:01,390
+con una pata que le faltaba
+
+234
+00:10:01,390 --> 00:10:02,150
+que fue esa oficina
+
+235
+00:10:02,150 --> 00:10:04,830
+entonces en el año 2012 se crea esa oficina
+
+236
+00:10:04,830 --> 00:10:07,370
+y empieza a funcionar
+
+237
+00:10:07,370 --> 00:10:07,950
+de manera
+
+238
+00:10:07,950 --> 00:10:10,570
+intuitiva
+
+239
+00:10:10,570 --> 00:10:11,850
+y de manera presencial
+
+240
+00:10:11,850 --> 00:10:14,730
+la gente tenía que ir
+
+241
+00:10:14,730 --> 00:10:17,510
+llenar un formulario particular
+
+242
+00:10:17,510 --> 00:10:19,050
+hacer un mes
+
+243
+00:10:19,050 --> 00:10:19,670
+a la entrada
+
+244
+00:10:19,670 --> 00:10:23,010
+y después volver a ir
+
+245
+00:10:23,010 --> 00:10:24,370
+una semana o 10 días después
+
+246
+00:10:24,370 --> 00:10:25,910
+a ver si había alguna respuesta
+
+247
+00:10:25,910 --> 00:10:48,550
+Sí, exactamente. ¿Cómo se realizan y cómo se realizaban? Y seguramente algunas cosas todavía siguen funcionando otros trámites, otra interacción entre la sociedad y el municipio, es presencial. Me parece que es como el paso número uno, pero estamos en el año 2019, próximo al año 2020, y me parece que es un paso que quedó muy atrás.
+
+248
+00:10:48,550 --> 00:11:14,090
+Cuando la solución ni siquiera es muy innovadora, es abrir una ventanilla o abrir un espacio digital que tenga la misma validez, que tenga la misma responsabilidad para la municipalidad, la misma obligación de tratar un pedido hecho de manera física o hecho de una manera digital.
+
+249
+00:11:14,090 --> 00:11:16,550
+Por ahí muchos miedos
+
+250
+00:11:16,550 --> 00:11:18,210
+A veces la barrera por la cual no se queda
+
+251
+00:11:18,210 --> 00:11:19,550
+Abrir las cosas digitales
+
+252
+00:11:19,550 --> 00:11:22,670
+Es o por miedo, o por una ignorancia
+
+253
+00:11:22,670 --> 00:11:25,110
+O por un supuesto
+
+254
+00:11:25,110 --> 00:11:27,230
+Que termina no siendo real
+
+255
+00:11:27,230 --> 00:11:28,290
+¿A qué voy con esto?
+
+256
+00:11:28,770 --> 00:11:30,110
+Quizás el municipio pensaba
+
+257
+00:11:30,110 --> 00:11:32,410
+O quienes manejaban, o la política interna
+
+258
+00:11:32,410 --> 00:11:33,670
+Era, si yo lo abro digital
+
+259
+00:11:33,670 --> 00:11:35,050
+En vez de recibir
+
+260
+00:11:35,050 --> 00:11:38,130
+100 pedidos por año, voy a recibir
+
+261
+00:11:38,130 --> 00:11:39,650
+100.000
+
+262
+00:11:39,650 --> 00:11:41,910
+¿Y cómo fue ese número?
+
+263
+00:11:42,590 --> 00:11:43,450
+¿Cómo fue?
+
+264
+00:11:43,450 --> 00:11:50,770
+¿Tenés estadística de la gestión anterior o más o menos cómo era cuando empezaste y cómo era cuando se abrió un formulario online
+
+265
+00:11:50,770 --> 00:11:54,570
+que la gente del celular pide información dejando solamente su email?
+
+266
+00:11:55,550 --> 00:12:02,690
+Mira, internamente yo no tengo estadística de cómo funcionaron los primeros cuatro años de la oficina.
+
+267
+00:12:03,350 --> 00:12:09,990
+Me costó mucho conseguir ese dato cuando yo tomé la oficina, que Marcelo me dice te vas a hacer cargo de esto también.
+
+268
+00:12:09,990 --> 00:12:12,310
+lo que primero quise saber es cómo funcionaba
+
+269
+00:12:12,310 --> 00:12:13,970
+y la verdad que me costó mucho internamente
+
+270
+00:12:13,970 --> 00:12:16,490
+para lo que no lo conozco
+
+271
+00:12:16,490 --> 00:12:18,370
+nombrás a Marcelo, es Marcelo Coasar
+
+272
+00:12:18,370 --> 00:12:20,250
+Secretario de Modernización de la Ciudad de Colombia
+
+273
+00:12:20,250 --> 00:12:21,070
+listo, seguimos
+
+274
+00:12:21,070 --> 00:12:22,630
+nuestro jefe
+
+275
+00:12:22,630 --> 00:12:25,090
+bueno, entonces
+
+276
+00:12:25,090 --> 00:12:28,430
+en ese momento yo quise saber cómo funcionaba
+
+277
+00:12:28,430 --> 00:12:29,150
+y no pude
+
+278
+00:12:29,150 --> 00:12:30,990
+o no me fue fácil
+
+279
+00:12:30,990 --> 00:12:32,170
+y la verdad que cuando
+
+280
+00:12:32,170 --> 00:12:33,890
+en un municipio
+
+281
+00:12:33,890 --> 00:12:36,250
+o en el sector público muchas veces
+
+282
+00:12:36,250 --> 00:12:38,790
+hablo de Argentina
+
+283
+00:12:38,790 --> 00:12:42,950
+cuando hay procesos que son muy lentos
+
+284
+00:12:42,950 --> 00:12:44,130
+y que tienen muchas trabas
+
+285
+00:12:44,130 --> 00:12:47,010
+y a veces es mejor arrancar de cero
+
+286
+00:12:47,010 --> 00:12:48,330
+y yo lo que hice en ese momento fue
+
+287
+00:12:48,330 --> 00:12:50,390
+listo, no puedo conseguir esta información
+
+288
+00:12:50,390 --> 00:12:51,850
+arranco de cero ya rápido
+
+289
+00:12:51,850 --> 00:12:54,690
+porque el ritmo muchas veces lo demanda
+
+290
+00:12:54,690 --> 00:12:56,370
+la agenda política
+
+291
+00:12:56,370 --> 00:12:58,850
+y a veces no hay mucho tiempo
+
+292
+00:12:58,850 --> 00:13:00,910
+como para tener esos grandes debates
+
+293
+00:13:00,910 --> 00:13:02,030
+esos grandes feedback
+
+294
+00:13:02,030 --> 00:13:03,850
+y esos grandes consensos
+
+295
+00:13:03,850 --> 00:13:05,010
+como para que tengas esa información
+
+296
+00:13:05,010 --> 00:13:06,330
+lo que yo arranque es ciego
+
+297
+00:13:06,330 --> 00:13:07,650
+no sé cómo funcionaba antes
+
+298
+00:13:07,650 --> 00:13:10,010
+si puedo saber cómo funcionaba
+
+299
+00:13:10,010 --> 00:13:11,090
+desde el consuelo de Tomé
+
+300
+00:13:11,090 --> 00:13:14,010
+las cosas que se hicieron que anduvo bien y que anduvo mal
+
+301
+00:13:14,010 --> 00:13:16,130
+porque es un área que tiene
+
+302
+00:13:16,130 --> 00:13:17,950
+grandes facetas
+
+303
+00:13:17,950 --> 00:13:19,010
+para seguir avanzando
+
+304
+00:13:19,010 --> 00:13:21,750
+eso me interesa, debe haber muchos gobiernos
+
+305
+00:13:21,750 --> 00:13:24,250
+que están pensando si abrir o no una oficina
+
+306
+00:13:24,250 --> 00:13:25,550
+y si ponerla o no online
+
+307
+00:13:25,550 --> 00:13:28,230
+me interesa eso, voy a decir que hay cosas que andan bien y cosas que andan mal
+
+308
+00:13:28,230 --> 00:13:31,650
+primero te quería preguntar con respecto a la cantidad
+
+309
+00:13:31,650 --> 00:13:33,610
+¿se incrementó muchísimo la cantidad
+
+310
+00:13:33,610 --> 00:13:36,070
+de pedidos desde que el formulario es online?
+
+311
+00:13:36,070 --> 00:13:39,090
+Nosotros teníamos
+
+312
+00:13:39,090 --> 00:13:42,410
+Alrededor de
+
+313
+00:13:42,410 --> 00:13:44,850
+80, 90 pedidos físicos
+
+314
+00:13:44,850 --> 00:13:47,290
+¿De cuántas personas diferentes?
+
+315
+00:13:48,490 --> 00:13:50,050
+Porque no son 80 personas
+
+316
+00:13:50,050 --> 00:13:52,170
+No, no, no
+
+317
+00:13:52,170 --> 00:13:54,070
+Son 10 personas, 5
+
+318
+00:13:54,070 --> 00:13:55,950
+¿Hay alguna?
+
+319
+00:13:56,710 --> 00:13:58,350
+Mira, tenés detectado
+
+320
+00:13:58,350 --> 00:13:59,730
+Siempre tenés un porcentaje
+
+321
+00:13:59,730 --> 00:14:01,210
+Que en la Ciudad de Córdoba
+
+322
+00:14:01,210 --> 00:14:02,390
+Yo te podré decir
+
+323
+00:14:02,390 --> 00:14:05,490
+Pueden ser 10 o 15 personas
+
+324
+00:14:05,490 --> 00:14:08,570
+que son pedidores compulsivos
+
+325
+00:14:08,570 --> 00:14:09,330
+que son personas que
+
+326
+00:14:09,330 --> 00:14:12,350
+de 300 pedidos anuales
+
+327
+00:14:12,350 --> 00:14:14,030
+que recibe la oficina
+
+328
+00:14:14,030 --> 00:14:15,610
+120 la hace una sola persona
+
+329
+00:14:15,610 --> 00:14:17,570
+80 la hace otra
+
+330
+00:14:17,570 --> 00:14:19,330
+y el resto, el resto no
+
+331
+00:14:19,330 --> 00:14:21,270
+el resto son a veces
+
+332
+00:14:21,270 --> 00:14:23,270
+personas que hacen 2 o 3 pedidos
+
+333
+00:14:23,270 --> 00:14:25,130
+y otros te encontrás con
+
+334
+00:14:25,130 --> 00:14:27,030
+personas que hacen pedidos puntuales
+
+335
+00:14:27,030 --> 00:14:29,290
+y se acercan una vez al municipio
+
+336
+00:14:29,290 --> 00:14:30,850
+y después no hacen otro pedido
+
+337
+00:14:30,850 --> 00:14:33,950
+o no son recurrentes
+
+338
+00:14:33,950 --> 00:14:34,410
+por lo menos
+
+339
+00:14:34,410 --> 00:14:37,550
+Pero sí, tenés algunas
+
+340
+00:14:37,550 --> 00:14:40,190
+Algunas organizaciones
+
+341
+00:14:40,190 --> 00:14:41,790
+Sí, sí, sí
+
+342
+00:14:41,790 --> 00:14:43,150
+Con toda la validez del mundo
+
+343
+00:14:43,150 --> 00:14:45,970
+Usan muchísimo la herramienta
+
+344
+00:14:45,970 --> 00:14:47,270
+Me ibas a contar
+
+345
+00:14:47,270 --> 00:14:49,690
+Qué cosas buenas y qué cosas malas tuvo esto
+
+346
+00:14:49,690 --> 00:14:51,510
+A ver
+
+347
+00:14:51,510 --> 00:14:53,350
+Lo bueno fue que
+
+348
+00:14:53,350 --> 00:14:54,490
+Pudimos
+
+349
+00:14:54,490 --> 00:14:56,970
+Entablar una relación
+
+350
+00:14:56,970 --> 00:14:59,970
+Con el ciudadano sin la necesidad de vernos la cara
+
+351
+00:14:59,970 --> 00:15:01,750
+No porque sea
+
+352
+00:15:01,750 --> 00:15:02,730
+Algo que cueste
+
+353
+00:15:02,730 --> 00:15:07,090
+sino porque al que más le cuesta es al ciudadano
+
+354
+00:15:07,090 --> 00:15:12,370
+la ciudad de Córdoba es una ciudad grande en extensión geográfica
+
+355
+00:15:12,370 --> 00:15:17,070
+casi es un cuadrado de 24 kilómetros de lado
+
+356
+00:15:17,070 --> 00:15:19,890
+tenemos 576 kilómetros cuadrados
+
+357
+00:15:19,890 --> 00:15:26,550
+entonces hay recorridos que son muy largos para venir al centro del municipio
+
+358
+00:15:26,550 --> 00:15:30,310
+como para hacer un periodo de acceso a la información pública
+
+359
+00:15:30,310 --> 00:15:46,450
+Entonces, eso me parece que fue una gran mejora. Se hicieron mejoras internas que por ahí el ciudadano no ve, que son muchas y que muchas veces no hay el espacio para comentarlas, pero la gestión interna del pedido, cómo se mueve, si bien puede ser mejorada todavía aún más, se mejoró bastante.
+
+360
+00:15:46,450 --> 00:15:48,410
+el municipio
+
+361
+00:15:48,410 --> 00:15:51,210
+y el sector público en sí está acostumbrado a
+
+362
+00:15:51,210 --> 00:15:53,090
+a mover papeles, a mover
+
+363
+00:15:53,090 --> 00:15:54,610
+memos, a mover expedientes
+
+364
+00:15:54,610 --> 00:15:56,950
+a mover un aparato burocrático
+
+365
+00:15:56,950 --> 00:15:58,510
+que hace
+
+366
+00:15:58,510 --> 00:16:00,690
+más lento un trámite
+
+367
+00:16:00,690 --> 00:16:03,230
+y muchas veces
+
+368
+00:16:03,230 --> 00:16:04,750
+moverlo digitalmente
+
+369
+00:16:04,750 --> 00:16:07,370
+cuando igual tenés que tener un respaldo físico
+
+370
+00:16:07,370 --> 00:16:09,070
+muchas veces la firma final
+
+371
+00:16:09,070 --> 00:16:10,490
+de quien autoriza una respuesta
+
+372
+00:16:10,490 --> 00:16:12,490
+pero el resto se lo mueve
+
+373
+00:16:12,490 --> 00:16:14,590
+de manera ágil, yo empecé
+
+374
+00:16:14,590 --> 00:16:17,110
+yo tomé contacto con representantes
+
+375
+00:16:17,110 --> 00:16:18,490
+de cada área en donde yo
+
+376
+00:16:18,490 --> 00:16:20,250
+fui muy cercano a ellos
+
+377
+00:16:20,250 --> 00:16:22,670
+y con un correo, con una llamada
+
+378
+00:16:22,670 --> 00:16:24,750
+o con un whatsapp avisaba que estaban pidiendo
+
+379
+00:16:24,750 --> 00:16:26,230
+esto, que estaban pidiendo lo otro
+
+380
+00:16:26,230 --> 00:16:28,870
+Algunas personas
+
+381
+00:16:28,870 --> 00:16:30,910
+con más predisposición y otra con menos
+
+382
+00:16:30,910 --> 00:16:31,570
+me imagino
+
+383
+00:16:31,570 --> 00:16:34,110
+Seguro, seguro, siempre
+
+384
+00:16:34,110 --> 00:16:36,570
+creo que la gran barrera, a ver, creo que la
+
+385
+00:16:36,570 --> 00:16:38,910
+tecnología y la modernización
+
+386
+00:16:38,910 --> 00:16:39,970
+en el sector público
+
+387
+00:16:39,970 --> 00:16:41,210
+es
+
+388
+00:16:41,210 --> 00:16:43,710
+muy útil
+
+389
+00:16:43,710 --> 00:16:45,750
+y muchas veces no es lo más complejo
+
+390
+00:16:45,750 --> 00:16:48,110
+de alcanzar ni de superar
+
+391
+00:16:48,110 --> 00:16:50,570
+creo que la mayor dificultad
+
+392
+00:16:50,570 --> 00:16:52,070
+está en la cuestión
+
+393
+00:16:52,070 --> 00:16:54,270
+cultural, está en esa
+
+394
+00:16:54,270 --> 00:16:55,150
+cuestión humana
+
+395
+00:16:55,150 --> 00:16:58,330
+que toma este cambio tecnológico
+
+396
+00:16:58,330 --> 00:16:59,750
+y se adhiere
+
+397
+00:16:59,750 --> 00:17:01,810
+y coopera y quiere que no
+
+398
+00:17:01,810 --> 00:17:03,290
+y me parece que eso es algo
+
+399
+00:17:03,290 --> 00:17:06,030
+es un proceso largo que hay que entender
+
+400
+00:17:06,030 --> 00:17:08,050
+me parece que lo importante es que hay que entender
+
+401
+00:17:08,050 --> 00:17:09,950
+de que hay ciertas cosas
+
+402
+00:17:09,950 --> 00:17:11,910
+que no se logran cambiar
+
+403
+00:17:11,910 --> 00:17:14,290
+radicalmente en 1, 2, 3 años
+
+404
+00:17:14,290 --> 00:17:15,930
+pero sí hay que entender
+
+405
+00:17:15,930 --> 00:17:17,710
+que el proceso que vas a hacer
+
+406
+00:17:17,710 --> 00:17:19,230
+en 1, 2, 3 o 4 años
+
+407
+00:17:19,230 --> 00:17:21,870
+es tan importante como el último eslabón
+
+408
+00:17:21,870 --> 00:17:23,850
+que lo vas a realizar una gestión de acá
+
+409
+00:17:23,850 --> 00:17:24,590
+20 años
+
+410
+00:17:24,590 --> 00:17:28,230
+porque esos son los cambios que se llevan a cabo
+
+411
+00:17:28,230 --> 00:17:30,390
+en un proceso
+
+412
+00:17:30,390 --> 00:17:31,750
+si falta un eslabón
+
+413
+00:17:31,750 --> 00:17:34,230
+se rompe la cadena
+
+414
+00:17:34,230 --> 00:17:36,370
+y no quiere decir que porque vos no vas a hacer
+
+415
+00:17:36,370 --> 00:17:38,130
+toda la cadena, no es importante
+
+416
+00:17:38,130 --> 00:17:39,890
+se empezó y dimos
+
+417
+00:17:39,890 --> 00:18:08,390
+Dimos un primer paso, plantamos un primer eslabón en muchas cosas, eso no quiere decir que no haya críticas, que no haya autocríticas y que no haya cuestiones por mejorar, pero hay que entender que ese primer eslabón es tan importante como el que sigue y como el último, porque en algún momento vas a llegar a tener ese ideal de cómo funciona esa información pública, transparencia, procesos internos que muchas veces el ciudadano conoce y muchas veces no conoce.
+
+418
+00:18:09,890 --> 00:18:11,850
+A mí, por ejemplo, muchas veces...
+
+419
+00:18:11,850 --> 00:18:12,530
+Sí, decime.
+
+420
+00:18:12,810 --> 00:18:13,870
+No, no, decime, decime.
+
+421
+00:18:14,590 --> 00:18:19,610
+No, por ejemplo, nosotros fuimos muy abiertos a recibir, a contestar correos,
+
+422
+00:18:19,770 --> 00:18:20,990
+redes sociales, Twitter.
+
+423
+00:18:21,610 --> 00:18:22,770
+Vos hacés testigo muchas veces.
+
+424
+00:18:23,470 --> 00:18:25,090
+Sí, sí, que la gente no podía creer.
+
+425
+00:18:25,590 --> 00:18:28,790
+Hemos llamado por teléfono a ciudadanos que nos dejaban el número
+
+426
+00:18:28,790 --> 00:18:32,050
+y no creían que nosotros éramos de la Municipalidad de Córdoba.
+
+427
+00:18:32,050 --> 00:18:32,390
+¿El cual?
+
+428
+00:18:33,170 --> 00:18:34,810
+Lo mismo con los mails, sí.
+
+429
+00:18:35,290 --> 00:18:39,210
+Sí, y hay veces que te preguntaban...
+
+430
+00:18:39,210 --> 00:18:42,930
+a ver, ¿por qué me subís un balance contable escaneado
+
+431
+00:18:42,930 --> 00:18:44,810
+y no me pones el Excel si lo tenés ahí?
+
+432
+00:18:44,850 --> 00:18:46,730
+¿Y cómo le explico que yo no tengo el Excel acá?
+
+433
+00:18:47,110 --> 00:18:49,610
+De que no es una decisión política de que tengo el Excel,
+
+434
+00:18:49,770 --> 00:18:51,270
+lo escaneo y te lo subo.
+
+435
+00:18:51,790 --> 00:18:54,970
+Que el sistema informativo que producí ese balance
+
+436
+00:18:54,970 --> 00:18:57,830
+era tan viejo, o es tan viejo, o es tan viejo,
+
+437
+00:18:57,830 --> 00:19:00,230
+porque ahora, de hecho, este año ya se cambia el sistema
+
+438
+00:19:00,230 --> 00:19:01,550
+de administración financiera,
+
+439
+00:19:02,210 --> 00:19:05,830
+que si te lo imprimí en Excel te lo hará con un montón de errores,
+
+440
+00:19:05,950 --> 00:19:08,950
+que no se podían correr un riesgo de publicar un balance contable
+
+441
+00:19:08,950 --> 00:19:10,370
+con error, entonces te lo
+
+442
+00:19:10,370 --> 00:19:11,890
+tiraban en PDF
+
+443
+00:19:11,890 --> 00:19:14,610
+entonces no teníamos otra cosa que subir
+
+444
+00:19:14,610 --> 00:19:16,730
+el PDF, no porque teníamos el Excel
+
+445
+00:19:16,730 --> 00:19:18,550
+y ocultábamos el Excel porque
+
+446
+00:19:18,550 --> 00:19:20,810
+es cierto que en los primeros
+
+447
+00:19:20,810 --> 00:19:22,570
+pasos había gente que no quería
+
+448
+00:19:22,570 --> 00:19:24,530
+publicar un Excel y prefería un PDF
+
+449
+00:19:24,530 --> 00:19:26,790
+o un CSV no, porque pensaba
+
+450
+00:19:26,790 --> 00:19:28,050
+que al PDF
+
+451
+00:19:28,050 --> 00:19:30,590
+no se modificaba y al Excel la gente
+
+452
+00:19:30,590 --> 00:19:32,630
+le puede cambiar los números con la computadora
+
+453
+00:19:32,630 --> 00:19:34,370
+es cierto que, pero bueno
+
+454
+00:19:34,370 --> 00:19:36,490
+son etapas principiantes
+
+455
+00:19:36,490 --> 00:19:38,530
+de la ignorancia por ahí
+
+456
+00:19:38,530 --> 00:19:41,410
+que educando y que capacitando
+
+457
+00:19:41,410 --> 00:19:43,650
+vas superando
+
+458
+00:19:43,650 --> 00:19:45,230
+en algunas
+
+459
+00:19:45,230 --> 00:19:47,350
+partes de unas secciones muy rápidas
+
+460
+00:19:47,350 --> 00:19:49,030
+y en otras un poco más lentas, como todo.
+
+461
+00:19:49,790 --> 00:19:51,170
+Dijiste algo muy valioso
+
+462
+00:19:51,170 --> 00:19:53,470
+y es que percibís
+
+463
+00:19:53,470 --> 00:19:55,370
+que lo que
+
+464
+00:19:55,370 --> 00:19:57,330
+estás haciendo y lo que está haciendo
+
+465
+00:19:57,330 --> 00:19:59,470
+el equipo de modernización es parte de un proceso
+
+466
+00:19:59,470 --> 00:20:01,470
+más largo que excede las gestiones.
+
+467
+00:20:02,170 --> 00:20:03,350
+Me gusta mucho que tengas
+
+468
+00:20:03,350 --> 00:20:05,170
+esa mirada y entiendo
+
+469
+00:20:05,170 --> 00:20:06,950
+que está siendo parte
+
+470
+00:20:06,950 --> 00:20:09,930
+de una transición
+
+471
+00:20:09,930 --> 00:20:11,870
+y me imagino
+
+472
+00:20:11,870 --> 00:20:13,430
+que es interesante ver
+
+473
+00:20:13,430 --> 00:20:15,730
+cómo alguien más se va a apropiar
+
+474
+00:20:15,730 --> 00:20:17,650
+de esto
+
+475
+00:20:17,650 --> 00:20:19,310
+que hiciste, ¿tienes la sensación
+
+476
+00:20:19,310 --> 00:20:21,710
+de que esto se va a continuar
+
+477
+00:20:21,710 --> 00:20:23,730
+de que lo que viene
+
+478
+00:20:23,730 --> 00:20:24,470
+se va a poder mejorar?
+
+479
+00:20:25,470 --> 00:20:27,610
+Sí, sí, sí, tengo la sensación
+
+480
+00:20:27,610 --> 00:20:28,490
+me lo han dicho
+
+481
+00:20:28,490 --> 00:20:30,870
+yo estuve presente
+
+482
+00:20:30,870 --> 00:20:33,190
+en las cuatro reuniones
+
+483
+00:20:33,190 --> 00:20:35,750
+a ver, en esta transición
+
+484
+00:20:35,750 --> 00:20:38,010
+que la municipal está teniendo
+
+485
+00:20:38,010 --> 00:20:39,970
+una primera experiencia con una ordenanza
+
+486
+00:20:39,970 --> 00:20:41,410
+que se sancionó en el año 2016
+
+487
+00:20:41,410 --> 00:20:43,810
+creo, en donde
+
+488
+00:20:43,810 --> 00:20:45,830
+regula que hay una comisión formada
+
+489
+00:20:45,830 --> 00:20:47,970
+por funcionarios de la actual gestión
+
+490
+00:20:47,970 --> 00:20:49,470
+funcionarios de la nueva gestión
+
+491
+00:20:49,470 --> 00:20:51,870
+donde deben trabajar juntos para compartir
+
+492
+00:20:51,870 --> 00:20:54,010
+información, algo tan importante
+
+493
+00:20:54,010 --> 00:20:55,090
+Eso es clave
+
+494
+00:20:55,090 --> 00:20:58,050
+hay una normativa que le exige
+
+495
+00:20:58,050 --> 00:20:59,610
+a la gestión que se va
+
+496
+00:20:59,610 --> 00:21:01,650
+que le tiene que dar los datos a la gestión que viene
+
+497
+00:21:01,650 --> 00:21:03,770
+los datos en el centro
+
+498
+00:21:03,770 --> 00:21:05,670
+de la transferencia
+
+499
+00:21:05,670 --> 00:21:07,710
+del poder, me parece súper interesante
+
+500
+00:21:07,710 --> 00:21:09,910
+eso. Exactamente
+
+501
+00:21:09,910 --> 00:21:11,230
+es la primera experiencia
+
+502
+00:21:11,230 --> 00:21:13,410
+seguramente como cualquier cosa
+
+503
+00:21:13,410 --> 00:21:15,370
+con las transiciones
+
+504
+00:21:15,370 --> 00:21:17,910
+y con los traspasos se va a ir mejorando
+
+505
+00:21:17,910 --> 00:21:19,770
+se va a ir
+
+506
+00:21:19,770 --> 00:21:21,830
+haciendo más detalle y más robusta
+
+507
+00:21:21,830 --> 00:21:23,810
+esta normativa y la práctica
+
+508
+00:21:23,810 --> 00:21:26,170
+a mí me tocó estar en cuatro reuniones
+
+509
+00:21:26,170 --> 00:21:27,050
+con la
+
+510
+00:21:27,050 --> 00:21:30,210
+nueva área de modernización
+
+511
+00:21:30,210 --> 00:21:33,450
+en la actual en donde hemos
+
+512
+00:21:33,450 --> 00:21:35,570
+intercambiado y hemos tratado de responder
+
+513
+00:21:35,570 --> 00:21:37,010
+todas esas cosas que
+
+514
+00:21:37,010 --> 00:21:39,030
+la nueva gestión preguntó
+
+515
+00:21:39,030 --> 00:21:41,690
+en el cual se muestra curiosa y que muchas veces
+
+516
+00:21:41,690 --> 00:21:43,230
+desconoce hasta
+
+517
+00:21:43,230 --> 00:21:45,230
+quién se tiene que hacer cargo
+
+518
+00:21:45,230 --> 00:21:46,330
+de estos temas
+
+519
+00:21:46,330 --> 00:21:48,650
+y me parece que yo ahí
+
+520
+00:21:48,650 --> 00:21:51,530
+absorbí o presento
+
+521
+00:21:51,530 --> 00:21:53,130
+o por lo menos es la imprenta
+
+522
+00:21:53,130 --> 00:21:54,250
+que me viene quedando
+
+523
+00:21:54,250 --> 00:21:57,270
+de que todos los temas que nosotros
+
+524
+00:21:57,270 --> 00:21:58,070
+iniciamos
+
+525
+00:21:58,070 --> 00:22:00,870
+se van a continuar
+
+526
+00:22:00,870 --> 00:22:02,910
+o en su mayoría, me lo han dicho
+
+527
+00:22:02,910 --> 00:22:05,410
+en las mismas reuniones
+
+528
+00:22:05,410 --> 00:22:09,590
+me parece que eso es súper importante
+
+529
+00:22:09,590 --> 00:22:12,270
+para cerrar el tema de acceso a la información pública
+
+530
+00:22:12,270 --> 00:22:13,370
+me queda la pregunta de
+
+531
+00:22:13,370 --> 00:22:16,030
+hay una red en Argentina de gobiernos
+
+532
+00:22:16,030 --> 00:22:17,550
+que tienen acceso a la información pública
+
+533
+00:22:17,550 --> 00:22:18,630
+sos parte de esa red
+
+534
+00:22:18,630 --> 00:22:21,410
+quería preguntarte cómo está Córdoba
+
+535
+00:22:21,410 --> 00:22:22,890
+dentro de Argentina en esa red
+
+536
+00:22:22,890 --> 00:22:25,710
+qué acciones tiene
+
+537
+00:22:25,710 --> 00:22:27,090
+esa red tiene mucho trabajo
+
+538
+00:22:27,090 --> 00:22:29,490
+todo está lleno de oficinas de acceso
+
+539
+00:22:29,490 --> 00:22:31,190
+a la información pública y todo funciona bien
+
+540
+00:22:31,190 --> 00:22:33,530
+cómo es Córdoba y cómo es
+
+541
+00:22:33,530 --> 00:22:35,090
+Argentina en esa red
+
+542
+00:22:35,410 --> 00:22:39,370
+Te cuento, a ver, hay una red de transparencia latinoamericana
+
+543
+00:22:39,370 --> 00:22:41,390
+en la cual Argentina forma parte
+
+544
+00:22:41,390 --> 00:22:47,570
+y la red de acceso federal de información pública
+
+545
+00:22:47,570 --> 00:22:51,250
+nace en el año 2014, en donde se juntaron algunos municipios,
+
+546
+00:22:51,310 --> 00:22:53,710
+algunos organismos, eran muy poquitos, creo que eran 7 u 8,
+
+547
+00:22:54,470 --> 00:22:56,870
+en donde eran organismos, como te dije,
+
+548
+00:22:56,870 --> 00:22:59,210
+que tenían ley de acceso a información pública
+
+549
+00:22:59,210 --> 00:23:03,010
+y tenían oficina a cargo, o sea, tenían autoridad de aplicación.
+
+550
+00:23:03,010 --> 00:23:05,530
+aquellos organismos que tenían ley
+
+551
+00:23:05,530 --> 00:23:07,550
+pero que no tenían oficina a cargo
+
+552
+00:23:07,550 --> 00:23:08,990
+no podían pertenecer
+
+553
+00:23:08,990 --> 00:23:11,470
+y la verdad que
+
+554
+00:23:11,470 --> 00:23:12,730
+año a año fue
+
+555
+00:23:12,730 --> 00:23:15,390
+avanzando, es una red que tiene
+
+556
+00:23:15,390 --> 00:23:17,350
+dos o tres encuentros anuales
+
+557
+00:23:17,350 --> 00:23:20,010
+¿Cuántos gobiernos
+
+558
+00:23:20,010 --> 00:23:21,750
+hay? ¿Hay 50, 20, 10?
+
+559
+00:23:22,190 --> 00:23:23,510
+No, no, no, actualmente
+
+560
+00:23:23,510 --> 00:23:25,390
+debe haber entre 22 y 24
+
+561
+00:23:25,390 --> 00:23:27,550
+entre organismos
+
+562
+00:23:27,550 --> 00:23:29,850
+nacionales, municipales
+
+563
+00:23:29,850 --> 00:23:31,510
+provinciales
+
+564
+00:23:31,510 --> 00:23:34,010
+en un momento estuvo
+
+565
+00:23:34,010 --> 00:23:35,750
+o está, la verdad que yo hace mucho
+
+566
+00:23:35,750 --> 00:23:37,130
+no lo veo, pero cuando yo arranqué
+
+567
+00:23:37,130 --> 00:23:38,870
+estuvo la UBA
+
+568
+00:23:38,870 --> 00:23:41,230
+la Universidad de Buenos Aires
+
+569
+00:23:41,230 --> 00:23:42,270
+también presente ahí
+
+570
+00:23:42,270 --> 00:23:45,730
+me parece que eso es importante
+
+571
+00:23:45,730 --> 00:23:47,790
+lo de la red federal, muchas veces
+
+572
+00:23:47,790 --> 00:23:49,650
+Nación se comunica
+
+573
+00:23:49,650 --> 00:23:51,630
+con provincias, esperando que
+
+574
+00:23:51,630 --> 00:23:53,510
+provincias se comuniquen con municipios
+
+575
+00:23:53,510 --> 00:23:55,090
+a veces no pasa
+
+576
+00:23:55,090 --> 00:23:57,730
+entonces que haya un espacio
+
+577
+00:23:57,730 --> 00:23:59,590
+en donde, federal, en donde
+
+578
+00:23:59,590 --> 00:24:01,990
+seas municipio, seas organismo
+
+579
+00:24:01,990 --> 00:24:03,810
+seas provincia, seas nación
+
+580
+00:24:03,810 --> 00:24:05,990
+podés pertenecer, tenés derecho
+
+581
+00:24:05,990 --> 00:24:08,290
+ahora con el nuevo estatuto
+
+582
+00:24:08,290 --> 00:24:09,510
+tenés derecho a voto
+
+583
+00:24:09,510 --> 00:24:11,850
+tenés un espacio en donde
+
+584
+00:24:11,850 --> 00:24:13,610
+poder compartir tus experiencias
+
+585
+00:24:13,610 --> 00:24:16,070
+y en donde poder escuchar experiencias ajenas
+
+586
+00:24:16,070 --> 00:24:17,870
+y en donde poder pertenecer a una comisión
+
+587
+00:24:17,870 --> 00:24:19,770
+que trabaja porque hacemos
+
+588
+00:24:19,770 --> 00:24:22,130
+cosas, la red este último año
+
+589
+00:24:22,130 --> 00:24:23,890
+hizo un informe
+
+590
+00:24:23,890 --> 00:24:25,870
+que lo debe estar lanzando en muy poco
+
+591
+00:24:25,870 --> 00:24:27,670
+tiempo, en donde hizo una investigación
+
+592
+00:24:27,670 --> 00:24:30,510
+para todo el país, a ver cómo estaba
+
+593
+00:24:30,510 --> 00:24:34,090
+cada organismo, cada municipio, cada provincia
+
+594
+00:24:34,090 --> 00:24:36,750
+con respecto a la ley de acceso a información pública
+
+595
+00:24:36,750 --> 00:24:39,890
+a cómo es su ordenanza, a cómo es su ley en el caso
+
+596
+00:24:39,890 --> 00:24:42,970
+de los gobiernos provinciales y así tiene una autoridad
+
+597
+00:24:42,970 --> 00:24:46,030
+de aplicación y a qué políticas realiza cada autoridad
+
+598
+00:24:46,030 --> 00:24:48,870
+de aplicación. Es un informe bastante lindo que
+
+599
+00:24:48,870 --> 00:24:51,950
+la Ciudad de Córdoba participó un poco
+
+600
+00:24:51,950 --> 00:24:54,970
+en la atomización de esos datos, en la visualización de los mismos
+
+601
+00:24:54,970 --> 00:24:56,770
+me parece que antes de fin de año
+
+602
+00:24:56,770 --> 00:24:58,290
+la Render lo va a poder tener
+
+603
+00:24:58,290 --> 00:25:00,750
+publicado, me parece un informe
+
+604
+00:25:00,750 --> 00:25:02,230
+bastante interesante
+
+605
+00:25:02,230 --> 00:25:04,230
+bueno
+
+606
+00:25:04,230 --> 00:25:06,110
+y eso
+
+607
+00:25:06,110 --> 00:25:07,630
+perfecto
+
+608
+00:25:07,630 --> 00:25:09,650
+no, no, no, está
+
+609
+00:25:09,650 --> 00:25:13,110
+si te olvidas lo agregamos
+
+610
+00:25:13,110 --> 00:25:13,530
+después
+
+611
+00:25:13,530 --> 00:25:16,990
+como responsable de la dirección
+
+612
+00:25:16,990 --> 00:25:17,950
+de gobierno abierto
+
+613
+00:25:17,950 --> 00:25:19,450
+estás a cargo
+
+614
+00:25:19,450 --> 00:25:23,290
+de la parte de datos abiertos
+
+615
+00:25:23,290 --> 00:25:24,910
+y digamos que
+
+616
+00:25:24,910 --> 00:25:27,710
+me consta que ha habido una preocupación
+
+617
+00:25:27,710 --> 00:25:29,790
+permanente porque los datos sean reutilizables
+
+618
+00:25:29,790 --> 00:25:31,190
+sean fáciles de entender
+
+619
+00:25:31,190 --> 00:25:33,210
+y que sean la mayor cantidad posible
+
+620
+00:25:33,210 --> 00:25:34,350
+y demás. Ahora, eso
+
+621
+00:25:34,350 --> 00:25:37,450
+de los datos para afuera, de los datos
+
+622
+00:25:37,450 --> 00:25:38,330
+para adentro
+
+623
+00:25:38,330 --> 00:25:41,350
+¿los datos sirven
+
+624
+00:25:41,350 --> 00:25:43,610
+para la gestión interna? ¿Se usan
+
+625
+00:25:43,610 --> 00:25:45,490
+o no se usan? ¿Para qué se tienen que usar adentro
+
+626
+00:25:45,490 --> 00:25:46,210
+del municipio?
+
+627
+00:25:47,390 --> 00:25:48,670
+Nosotros empezamos
+
+628
+00:25:48,670 --> 00:25:51,970
+el área diseñándolo y pensándolo
+
+629
+00:25:51,970 --> 00:25:53,410
+anclado a la
+
+630
+00:25:53,410 --> 00:25:54,190
+transparencia.
+
+631
+00:25:56,050 --> 00:25:57,490
+Y me parece que esa fue nuestra bandera
+
+632
+00:25:57,490 --> 00:25:59,350
+por cuatro años. Nosotros cada vez que
+
+633
+00:25:59,350 --> 00:26:00,870
+tocábamos la puerta de un área nueva
+
+634
+00:26:00,870 --> 00:26:03,290
+veníamos con la banderita chiquita que era la
+
+635
+00:26:03,290 --> 00:26:05,190
+transparencia, buscando los datos para
+
+636
+00:26:05,190 --> 00:26:07,350
+publicar. Poco a poco el área
+
+637
+00:26:07,350 --> 00:26:08,710
+cuando ya fuimos
+
+638
+00:26:08,710 --> 00:26:11,690
+recolectando muchos datos, el portal empezó a crecer
+
+639
+00:26:11,690 --> 00:26:13,510
+de manera exponencial.
+
+640
+00:26:14,270 --> 00:26:15,470
+Cambiamos el portal en el
+
+641
+00:26:15,470 --> 00:26:17,370
+medio porque entendimos que el portal
+
+642
+00:26:17,370 --> 00:26:19,090
+debía ser pensado y diseñado
+
+643
+00:26:19,090 --> 00:26:21,390
+no por un portal de cuatro años, sino
+
+644
+00:26:21,390 --> 00:26:23,350
+por un portal de veinte, por un portal
+
+645
+00:26:23,350 --> 00:26:26,770
+que en algún momento se debería descentralizar
+
+646
+00:26:26,770 --> 00:26:32,270
+porque hoy está en su mayor porcentaje manejado y gestionado
+
+647
+00:26:32,270 --> 00:26:35,850
+por el área de modernización, pero está construido y permite
+
+648
+00:26:35,850 --> 00:26:41,770
+que se descentralice cuando crezca más de lo que creció hasta ahora.
+
+649
+00:26:42,550 --> 00:26:49,110
+Y en algún punto empezamos a meternos por demandas
+
+650
+00:26:49,110 --> 00:26:50,270
+que nos llegaban
+
+651
+00:26:50,270 --> 00:26:53,030
+en ciertas áreas
+
+652
+00:26:53,030 --> 00:26:54,690
+y en cierta temática y empezamos
+
+653
+00:26:54,690 --> 00:26:57,290
+no solamente a trabajar en la transparencia
+
+654
+00:26:57,290 --> 00:26:58,850
+y en el gobierno abierto para afuera
+
+655
+00:26:58,850 --> 00:27:01,070
+sino empezar en el gobierno abierto para adentro
+
+656
+00:27:01,070 --> 00:27:03,230
+nos empezamos
+
+657
+00:27:03,230 --> 00:27:04,830
+a encontrar muchas veces en la situación
+
+658
+00:27:04,830 --> 00:27:05,890
+de analizar datos
+
+659
+00:27:05,890 --> 00:27:08,810
+de analizar datos para la utilidad
+
+660
+00:27:08,810 --> 00:27:10,970
+interna que puede
+
+661
+00:27:10,970 --> 00:27:13,470
+o no desencadenar
+
+662
+00:27:13,470 --> 00:27:15,350
+en una información que sea transparente
+
+663
+00:27:15,350 --> 00:27:16,790
+pero no necesariamente
+
+664
+00:27:16,790 --> 00:27:19,250
+nosotros hemos hecho análisis de datos
+
+665
+00:27:19,250 --> 00:27:21,430
+que tienen que ver desde reclamos
+
+666
+00:27:21,430 --> 00:27:23,210
+o tienen que ver
+
+667
+00:27:23,210 --> 00:27:24,530
+con el área de transporte
+
+668
+00:27:24,530 --> 00:27:26,990
+en todos esos
+
+669
+00:27:26,990 --> 00:27:30,890
+y en algunas áreas
+
+670
+00:27:30,890 --> 00:27:32,990
+hemos querido avanzar, avanzamos un poco
+
+671
+00:27:32,990 --> 00:27:34,990
+y ya tuvimos que
+
+672
+00:27:34,990 --> 00:27:36,730
+poner el freno por una cuestión
+
+673
+00:27:36,730 --> 00:27:38,190
+y los funcionarios
+
+674
+00:27:38,190 --> 00:27:39,870
+los funcionarios
+
+675
+00:27:39,870 --> 00:27:42,150
+consumen internamente
+
+676
+00:27:42,150 --> 00:27:44,290
+consumen datos para tomar decisiones
+
+677
+00:27:44,290 --> 00:27:46,730
+en qué medida, poco, mucho, más o menos
+
+678
+00:27:46,730 --> 00:27:49,570
+A mí me parece que eso
+
+679
+00:27:49,570 --> 00:27:51,350
+Depende mucho del área
+
+680
+00:27:51,350 --> 00:27:53,270
+De la visión del funcionario a cargo
+
+681
+00:27:53,270 --> 00:27:55,910
+Los empleados muchas veces
+
+682
+00:27:55,910 --> 00:27:57,750
+Si consumen datos
+
+683
+00:27:57,750 --> 00:27:59,570
+Porque los empleados
+
+684
+00:27:59,570 --> 00:28:00,850
+Que están hace mucho más tiempo
+
+685
+00:28:00,850 --> 00:28:02,290
+Que 4 o 8 años
+
+686
+00:28:02,290 --> 00:28:04,890
+Están acostumbrados
+
+687
+00:28:04,890 --> 00:28:06,330
+Que cuando tienen que pedirle un dato
+
+688
+00:28:06,330 --> 00:28:08,250
+A otra área, a otra secretaria
+
+689
+00:28:08,250 --> 00:28:10,630
+Que muchas veces se comportan como secretaria
+
+690
+00:28:10,630 --> 00:28:12,030
+Como república independiente
+
+691
+00:28:12,030 --> 00:28:14,050
+Tienen que llamar a alguien
+
+692
+00:28:14,050 --> 00:28:15,790
+A un conocido
+
+693
+00:28:15,790 --> 00:28:17,770
+pedirle el favor, que le peste el dato
+
+694
+00:28:17,770 --> 00:28:18,690
+si se ha conocido
+
+695
+00:28:18,690 --> 00:28:20,370
+hay todo un tráfico de datos
+
+696
+00:28:20,370 --> 00:28:22,130
+muchísimo
+
+697
+00:28:22,130 --> 00:28:26,650
+dale dale
+
+698
+00:28:26,650 --> 00:28:27,190
+no, no
+
+699
+00:28:27,190 --> 00:28:30,010
+muchas veces cuando vos agarrás ese dato
+
+700
+00:28:30,010 --> 00:28:32,010
+que es de manejo interno
+
+701
+00:28:32,010 --> 00:28:33,470
+y lo subís al portal
+
+702
+00:28:33,470 --> 00:28:35,990
+cortás ese hilo interno
+
+703
+00:28:35,990 --> 00:28:38,170
+de Juan le pide el dato
+
+704
+00:28:38,170 --> 00:28:38,710
+a Pedro
+
+705
+00:28:38,710 --> 00:28:41,250
+cerrar el equivoco
+
+706
+00:28:41,250 --> 00:28:43,290
+sí, sí
+
+707
+00:28:43,290 --> 00:28:45,450
+es feo la palabra cerrar el equivoco
+
+708
+00:28:45,450 --> 00:28:47,770
+en un país con tanta crisis
+
+709
+00:28:47,770 --> 00:28:48,910
+que están cerrando tantas negocios
+
+710
+00:28:48,910 --> 00:28:51,550
+pero sí, sí, sí
+
+711
+00:28:51,550 --> 00:28:54,130
+sí, sí
+
+712
+00:28:54,130 --> 00:28:55,430
+y los funcionarios
+
+713
+00:28:55,430 --> 00:28:58,410
+hay áreas que la verdad
+
+714
+00:28:58,410 --> 00:29:00,210
+que no han consultado mucho y han utilizado
+
+715
+00:29:00,210 --> 00:29:02,110
+muchas cosas y otras áreas que no
+
+716
+00:29:02,110 --> 00:29:03,870
+y otras áreas en las cuales le hemos dado mucho
+
+717
+00:29:03,870 --> 00:29:05,910
+y la verdad que uno presente
+
+718
+00:29:05,910 --> 00:29:07,010
+o uno no siente
+
+719
+00:29:07,010 --> 00:29:09,150
+que lo están utilizando como
+
+720
+00:29:09,150 --> 00:29:10,410
+a mí me gustaría
+
+721
+00:29:10,410 --> 00:29:14,230
+en esto de abrir
+
+722
+00:29:14,230 --> 00:29:16,110
+portales de datos que un poco se ha puesto
+
+723
+00:29:16,110 --> 00:29:17,510
+de moda en los últimos años
+
+724
+00:29:17,510 --> 00:29:19,690
+me imagino que
+
+725
+00:29:19,690 --> 00:29:22,050
+me consta que has viajado muchísimo
+
+726
+00:29:22,050 --> 00:29:24,250
+a eventos en todo el país, muchas veces
+
+727
+00:29:24,250 --> 00:29:25,670
+decenas de veces
+
+728
+00:29:25,670 --> 00:29:28,230
+y te habré tocado encontrarte
+
+729
+00:29:28,230 --> 00:29:30,370
+con casos donde la transparencia
+
+730
+00:29:30,370 --> 00:29:32,170
+es una herramienta sincera
+
+731
+00:29:32,170 --> 00:29:34,230
+y profunda y otras en lo que es
+
+732
+00:29:34,230 --> 00:29:36,570
+algo más de marketing y más superficial
+
+733
+00:29:36,570 --> 00:29:37,890
+te quería preguntar
+
+734
+00:29:37,890 --> 00:29:40,130
+¿cómo diferencias vos cuando una propuesta
+
+735
+00:29:40,130 --> 00:29:41,990
+o qué cosas te gustan
+
+736
+00:29:41,990 --> 00:29:44,130
+qué cosas valoras cuando un gobierno
+
+737
+00:29:44,130 --> 00:29:46,690
+abre datos y qué cosas no te gustan
+
+738
+00:29:46,690 --> 00:29:48,330
+a ver
+
+739
+00:29:48,330 --> 00:29:50,910
+hace poco
+
+740
+00:29:50,910 --> 00:29:52,570
+se armó un hilo en un tweet
+
+741
+00:29:52,570 --> 00:29:54,850
+me acuerdo
+
+742
+00:29:54,850 --> 00:29:56,910
+que yo dije, hemos ido a muchos eventos
+
+743
+00:29:56,910 --> 00:29:59,210
+como vos dijiste, en esos eventos
+
+744
+00:29:59,210 --> 00:30:00,650
+uno se pone en ese lugar
+
+745
+00:30:00,650 --> 00:30:02,430
+y es parte de eso, y va y cuenta
+
+746
+00:30:02,430 --> 00:30:04,890
+todo lo que hizo
+
+747
+00:30:04,890 --> 00:30:06,770
+y vos te vas dando cuenta
+
+748
+00:30:06,770 --> 00:30:08,510
+que muchas veces los discursos se parecen
+
+749
+00:30:08,510 --> 00:30:09,230
+demasiados
+
+750
+00:30:09,230 --> 00:30:12,990
+y que nadie cuenta las cosas que no le salieron
+
+751
+00:30:12,990 --> 00:30:15,510
+a mí me interesaría mucho, yo me quedé con ese gusto
+
+752
+00:30:15,510 --> 00:30:17,470
+de, las experiencias que más me gustaría
+
+753
+00:30:17,470 --> 00:30:19,310
+conocer son aquellos proyectos que no
+
+754
+00:30:19,310 --> 00:30:21,470
+han visto la luz por algún motivo
+
+755
+00:30:21,470 --> 00:30:23,550
+u otro, porque nosotros
+
+756
+00:30:23,550 --> 00:30:25,650
+tenemos quizás más proyectos
+
+757
+00:30:25,650 --> 00:30:27,330
+que no han visto la luz de los que han visto la luz
+
+758
+00:30:27,330 --> 00:30:29,450
+y hay un porqué, y hay
+
+759
+00:30:29,450 --> 00:30:31,510
+un motivo, y me parece súper
+
+760
+00:30:31,510 --> 00:30:33,530
+rico indagar en eso
+
+761
+00:30:33,530 --> 00:30:35,470
+porque en la materia
+
+762
+00:30:35,470 --> 00:30:37,230
+de transparencia todos los municipios
+
+763
+00:30:37,230 --> 00:30:39,350
+y todos los gobiernos van más o menos por el mismo
+
+764
+00:30:39,350 --> 00:30:39,750
+lado
+
+765
+00:30:39,750 --> 00:30:42,970
+o porque nos copiemos
+
+766
+00:30:42,970 --> 00:30:49,250
+o porque todo más o menos fluye naturalmente para un sentido.
+
+767
+00:30:50,570 --> 00:30:55,230
+Entonces, por ahí respondiendo un poco más detallado lo que vos me preguntas,
+
+768
+00:30:56,150 --> 00:31:01,510
+me parece que uno va viendo quién tiene la bandera un poco más arriba
+
+769
+00:31:01,510 --> 00:31:07,590
+y un poco más media gasta en aquellos lugares que hacen cosas un poquito más jugadas.
+
+770
+00:31:08,090 --> 00:31:12,790
+En aquellos municipios que hacen, o gobiernos, o organismos,
+
+771
+00:31:12,970 --> 00:31:14,610
+en donde la transparencia le ha
+
+772
+00:31:14,610 --> 00:31:17,030
+le ha devuelto muchas veces una cachetada
+
+773
+00:31:17,030 --> 00:31:18,510
+y han seguido igual
+
+774
+00:31:18,510 --> 00:31:21,790
+a la Ciudad de Corona
+
+775
+00:31:21,790 --> 00:31:22,650
+en estos cuatro años
+
+776
+00:31:22,650 --> 00:31:25,270
+le han llovido cachetadas muchas veces
+
+777
+00:31:25,270 --> 00:31:26,730
+y hemos continuado
+
+778
+00:31:26,730 --> 00:31:28,430
+y me parece que
+
+779
+00:31:28,430 --> 00:31:32,250
+puede ser un indicador
+
+780
+00:31:32,250 --> 00:31:33,870
+más o menos intuitivo
+
+781
+00:31:33,870 --> 00:31:36,010
+de decir quién tiene un poco
+
+782
+00:31:36,010 --> 00:31:38,470
+quién se la juega un poco más con la transparencia
+
+783
+00:31:38,470 --> 00:31:39,730
+hago la autocrítica
+
+784
+00:31:39,730 --> 00:31:40,910
+y creo que la Ciudad de Córdoba
+
+785
+00:31:40,910 --> 00:31:42,090
+por ello mucho más a fondo
+
+786
+00:31:42,090 --> 00:31:44,130
+en algunos temas puntualmente
+
+787
+00:31:44,130 --> 00:31:46,710
+pero también uno entiende que esto es un proceso
+
+788
+00:31:46,710 --> 00:31:48,990
+y que en ese proceso
+
+789
+00:31:48,990 --> 00:31:50,970
+es un poco
+
+790
+00:31:50,970 --> 00:31:53,090
+como evangelizar y lograr consenso
+
+791
+00:31:53,090 --> 00:31:54,690
+muchas veces con muchas personas
+
+792
+00:31:54,690 --> 00:31:57,030
+y con mucha estructura y hay que cambiar esa forma
+
+793
+00:31:57,030 --> 00:31:58,730
+de pensar y que
+
+794
+00:31:58,730 --> 00:32:00,790
+visto como hablamos al inicio que esto es parte
+
+795
+00:32:00,790 --> 00:32:02,710
+de un proceso, seguramente las
+
+796
+00:32:02,710 --> 00:32:04,630
+cachetadas que nos comemos ahora, si se
+
+797
+00:32:04,630 --> 00:32:06,770
+continúa por el mismo camino, van a
+
+798
+00:32:06,770 --> 00:32:08,730
+volver otras cachetadas nuevas y está
+
+799
+00:32:08,730 --> 00:32:10,250
+bien ahí que hay que continuar
+
+800
+00:32:10,250 --> 00:32:12,450
+y en algún momento la ciudad de Córdoba se va a haber comido
+
+801
+00:32:12,450 --> 00:32:14,190
+todas las cachetadas que se tienen que haber comido
+
+802
+00:32:14,190 --> 00:32:16,530
+y ya va a haber un nuevo haber natural
+
+803
+00:32:16,530 --> 00:32:18,710
+abrir un dato
+
+804
+00:32:18,710 --> 00:32:20,890
+un recibo de sueldo
+
+805
+00:32:20,890 --> 00:32:22,630
+de los empleados públicos
+
+806
+00:32:22,630 --> 00:32:24,390
+a un desagradado completo
+
+807
+00:32:24,390 --> 00:32:26,230
+o publicar un dato de pauta
+
+808
+00:32:26,230 --> 00:32:28,190
+no va a hacer ruido y a nadie le va a hacer ruido
+
+809
+00:32:28,190 --> 00:32:29,470
+adentro ni afuera
+
+810
+00:32:29,470 --> 00:32:32,410
+o son esos datos que siempre cuestan
+
+811
+00:32:32,410 --> 00:32:32,950
+por ahí
+
+812
+00:32:32,950 --> 00:32:36,550
+manipular, concretar
+
+813
+00:32:36,550 --> 00:32:38,090
+conseguir adentro
+
+814
+00:32:38,090 --> 00:32:40,450
+Porque nosotros, estando dentro de la organización
+
+815
+00:32:40,450 --> 00:32:42,390
+Y teniendo un área transversal a otras
+
+816
+00:32:42,390 --> 00:32:44,090
+No es que
+
+817
+00:32:44,090 --> 00:32:46,070
+No es que nos era fácil conseguir
+
+818
+00:32:46,070 --> 00:32:47,330
+Cierta información
+
+819
+00:32:47,330 --> 00:32:49,050
+No, para nada
+
+820
+00:32:49,050 --> 00:32:52,470
+Te voy a conectar esto con algo que dijiste antes
+
+821
+00:32:52,470 --> 00:32:53,990
+Me estás diciendo que a veces
+
+822
+00:32:53,990 --> 00:32:56,230
+Es difícil
+
+823
+00:32:56,230 --> 00:32:58,370
+Publicar un dato
+
+824
+00:32:58,370 --> 00:32:59,630
+A veces genera problemas
+
+825
+00:32:59,630 --> 00:33:01,610
+Y me hablaste hace un rato de que
+
+826
+00:33:01,610 --> 00:33:04,570
+Había una normativa de acceso a la información pública
+
+827
+00:33:04,570 --> 00:33:06,890
+Que estaba vigente pero que no estaba funcionando
+
+828
+00:33:06,890 --> 00:33:23,550
+Te conecto esas dos cosas y te pregunto, más allá de la oficina de acceso a la información pública que tiene una normativa que lo sustenta, todas las otras cosas que se pudieron transparentar con un poco de buena voluntad y de decisión, pero que el día de mañana se podrían apagar.
+
+829
+00:33:23,550 --> 00:33:39,890
+Te quería preguntar cómo estamos de normativa para forzar a que la transparencia sea una cosa que siga como política de Estado y no dependa de la buena voluntad. ¿Tenemos una buena normativa para esto? ¿Para que todo esto se continúe y se mejore?
+
+830
+00:33:39,890 --> 00:33:42,630
+A ver, la Ciudad de Córdoba
+
+831
+00:33:42,630 --> 00:33:44,810
+por lo menos en el relevamiento
+
+832
+00:33:44,810 --> 00:33:47,090
+que hicimos al inicio
+
+833
+00:33:47,090 --> 00:33:48,330
+tiene normativas
+
+834
+00:33:48,330 --> 00:33:51,050
+algunas muy buenas como la normativa
+
+835
+00:33:51,050 --> 00:33:52,870
+del sistema estadístico
+
+836
+00:33:52,870 --> 00:33:54,870
+de la Ciudad de Córdoba
+
+837
+00:33:54,870 --> 00:33:57,870
+en donde le da la potestad
+
+838
+00:33:57,870 --> 00:33:59,530
+a quien maneje las estadísticas
+
+839
+00:33:59,530 --> 00:34:01,370
+de tener un representante en cada área
+
+840
+00:34:01,370 --> 00:34:02,630
+y de exigir información
+
+841
+00:34:02,630 --> 00:34:04,490
+para el manejo de estadísticas
+
+842
+00:34:04,490 --> 00:34:06,830
+y para su posterior publicación
+
+843
+00:34:06,830 --> 00:34:09,110
+que fueron como
+
+844
+00:34:09,110 --> 00:34:11,250
+los primeros pasos dentro del
+
+845
+00:34:11,250 --> 00:34:13,330
+gobierno abierto sin que se nació en el gobierno abierto
+
+846
+00:34:13,330 --> 00:34:13,670
+en esa
+
+847
+00:34:13,670 --> 00:34:17,170
+¿y tenemos una ordenanza de gobierno
+
+848
+00:34:17,170 --> 00:34:19,250
+abierto grande, bonita
+
+849
+00:34:19,250 --> 00:34:19,970
+o todavía no?
+
+850
+00:34:20,790 --> 00:34:22,670
+no tenemos una ordenanza de
+
+851
+00:34:22,670 --> 00:34:24,190
+gobierno abierto
+
+852
+00:34:24,190 --> 00:34:25,590
+pues siempre
+
+853
+00:34:25,590 --> 00:34:29,110
+da fe vos que hemos hablado
+
+854
+00:34:29,110 --> 00:34:30,950
+del año 2016 de que en algún momento
+
+855
+00:34:30,950 --> 00:34:32,610
+debíamos trabajar en una ordenanza
+
+856
+00:34:32,610 --> 00:34:34,850
+hemos abierto archivos de drive creo que
+
+857
+00:34:34,850 --> 00:34:37,230
+como 10 y hemos empezado a escribir ordenanza
+
+858
+00:34:37,230 --> 00:34:58,370
+Hemos investigado otras ordenanzas. Actualmente, sacando la ley estadística del sistema estadístico de Córdoba, las ordenanzas de acceso a la información pública y el plan de metas que está por ordenanza del año 2014, no hay una ordenanza ya pública de lo que es gobierno abierto.
+
+859
+00:34:58,370 --> 00:35:18,550
+Sí se escribió y se está dejando un proyecto de ordenanza en donde se mencionan estos conceptos nuevos que la verdad que hasta el año 2019, por lo menos en un proyecto de ordenanza, no se habían mencionado, en donde se habla de datos abiertos, en donde se habla de datos de género,
+
+860
+00:35:18,550 --> 00:35:19,230
+en donde se habla
+
+861
+00:35:19,230 --> 00:35:22,150
+se menciona
+
+862
+00:35:22,150 --> 00:35:23,610
+asegurar el dato
+
+863
+00:35:23,610 --> 00:35:26,270
+para que nadie lo pueda
+
+864
+00:35:26,270 --> 00:35:27,730
+modificar en un futuro
+
+865
+00:35:27,730 --> 00:35:29,430
+utilizando la tecnología de blockchain
+
+866
+00:35:29,430 --> 00:35:31,050
+se mencionan
+
+867
+00:35:31,050 --> 00:35:34,410
+un sinónimo de datos
+
+868
+00:35:34,410 --> 00:35:36,650
+está trabajando para terminar
+
+869
+00:35:36,650 --> 00:35:38,970
+la gestión con una normativa potente
+
+870
+00:35:38,970 --> 00:35:40,570
+que sustente y le dé
+
+871
+00:35:40,570 --> 00:35:41,910
+continuidad a todo lo que están haciendo
+
+872
+00:35:41,910 --> 00:35:43,150
+eso es una excelente noticia
+
+873
+00:35:43,150 --> 00:35:46,610
+y incluso que el día de mañana
+
+874
+00:35:46,610 --> 00:35:48,950
+pueda ser mejorada
+
+875
+00:35:48,950 --> 00:35:49,930
+y pueda ser
+
+876
+00:35:49,930 --> 00:35:52,430
+superada, porque me parece que
+
+877
+00:35:52,430 --> 00:35:54,730
+es la idea
+
+878
+00:35:54,730 --> 00:35:56,410
+pero se hizo demasiado
+
+879
+00:35:56,410 --> 00:35:58,570
+a veces
+
+880
+00:35:58,570 --> 00:35:59,870
+nosotros nos hemos preguntado
+
+881
+00:35:59,870 --> 00:36:02,230
+y lo hemos hablado mucho con vos, incluso hemos
+
+882
+00:36:02,230 --> 00:36:03,690
+sentido muchas veces
+
+883
+00:36:03,690 --> 00:36:06,530
+vos tenés dos caminos cuando hacéis gestión
+
+884
+00:36:06,530 --> 00:36:08,090
+y estás en un área de modernización
+
+885
+00:36:08,090 --> 00:36:10,530
+y el relojito en cuenta
+
+886
+00:36:10,530 --> 00:36:11,930
+regresiva arranca el día uno
+
+887
+00:36:11,930 --> 00:36:14,290
+nosotros físicamente lo tuvimos
+
+888
+00:36:14,290 --> 00:36:15,330
+ahí en un monitor atrás
+
+889
+00:36:15,330 --> 00:36:18,390
+Vos puedes
+
+890
+00:36:18,390 --> 00:36:20,010
+Normar y hacer
+
+891
+00:36:20,010 --> 00:36:21,550
+O hacer y normar
+
+892
+00:36:21,550 --> 00:36:24,670
+Algunas cosas se normaron y se hicieron
+
+893
+00:36:24,670 --> 00:36:26,610
+Y en otras cosas hicimos
+
+894
+00:36:26,610 --> 00:36:29,350
+Y algunas quedaron sin normar
+
+895
+00:36:29,350 --> 00:36:30,350
+Y otras como esta
+
+896
+00:36:30,350 --> 00:36:31,570
+Que estamos hablando recién
+
+897
+00:36:31,570 --> 00:36:34,890
+Trabajamos posteriormente a hacer
+
+898
+00:36:34,890 --> 00:36:37,590
+Pero bueno
+
+899
+00:36:37,590 --> 00:36:39,790
+Son caminos
+
+900
+00:36:39,790 --> 00:36:41,610
+Nosotros que hicimos
+
+901
+00:36:41,610 --> 00:36:44,770
+Había una locomotora ahí
+
+902
+00:36:44,770 --> 00:36:47,350
+que fue Marcelo, me sacó el sombrero
+
+903
+00:36:47,350 --> 00:36:49,250
+y lo reconozco, de que siempre
+
+904
+00:36:49,250 --> 00:36:51,170
+empujó y empujó
+
+905
+00:36:51,170 --> 00:36:52,930
+a todo su equipo a
+
+906
+00:36:52,930 --> 00:36:55,150
+moverse rápido
+
+907
+00:36:55,150 --> 00:36:57,130
+y a construir
+
+908
+00:36:57,130 --> 00:37:00,690
+y a publicar
+
+909
+00:37:00,690 --> 00:37:02,190
+y a lanzar
+
+910
+00:37:02,190 --> 00:37:05,010
+y bueno, esa un poco
+
+911
+00:37:05,010 --> 00:37:06,810
+fue la dinámica de los cuatro años
+
+912
+00:37:06,810 --> 00:37:07,890
+que yo a ese lo siento
+
+913
+00:37:07,890 --> 00:37:10,290
+lo siento ocho o lo siento diez
+
+914
+00:37:10,290 --> 00:37:12,370
+no por lo cansado de la camina
+
+915
+00:37:12,370 --> 00:37:14,330
+sino porque ha pasado mucho
+
+916
+00:37:14,330 --> 00:37:15,910
+mucha agua por ese río
+
+917
+00:37:15,910 --> 00:37:17,610
+y la verdad que a veces en un mes
+
+918
+00:37:17,610 --> 00:37:19,190
+pasaban muchísimas cosas
+
+919
+00:37:19,190 --> 00:37:21,170
+me parece lo rico
+
+920
+00:37:21,170 --> 00:37:23,430
+que yo me llevo en lo personal
+
+921
+00:37:23,430 --> 00:37:25,910
+y que implicó
+
+922
+00:37:25,910 --> 00:37:27,890
+que Facundo de Renuevo
+
+923
+00:37:27,890 --> 00:37:28,730
+en el año 2019
+
+924
+00:37:28,730 --> 00:37:31,550
+está muy lejos al que era en el año 2016
+
+925
+00:37:31,550 --> 00:37:33,070
+gracias a eso
+
+926
+00:37:33,070 --> 00:37:35,450
+me quedan dos preguntas
+
+927
+00:37:35,450 --> 00:37:37,410
+una, atendiendo
+
+928
+00:37:37,410 --> 00:37:39,150
+a lo que vos dijiste
+
+929
+00:37:39,150 --> 00:37:41,050
+que tenés mucha razón, te quería preguntar
+
+930
+00:37:41,050 --> 00:37:42,810
+qué fue lo que te salió peor
+
+931
+00:37:42,810 --> 00:37:44,590
+Vos decís que nunca contamos
+
+932
+00:37:44,590 --> 00:37:45,890
+Siempre decimos todo lo bonito
+
+933
+00:37:45,890 --> 00:37:48,950
+¿Qué fue lo que te salió mal?
+
+934
+00:37:49,050 --> 00:37:49,950
+¿Lo que no te gustó?
+
+935
+00:37:50,090 --> 00:37:53,250
+¿Con qué espina te vas a ir de esta gestión?
+
+936
+00:37:54,450 --> 00:37:56,350
+¿Con qué espina me voy a ir de esta gestión?
+
+937
+00:37:56,630 --> 00:37:57,970
+De todas las que tengas
+
+938
+00:37:57,970 --> 00:37:59,850
+Elegí una o dos
+
+939
+00:37:59,850 --> 00:38:02,630
+No, yo creo que
+
+940
+00:38:02,630 --> 00:38:03,510
+Siempre
+
+941
+00:38:03,510 --> 00:38:04,330
+A ver
+
+942
+00:38:04,330 --> 00:38:07,350
+Hemos avanzado mucho
+
+943
+00:38:07,350 --> 00:38:09,970
+En algunos temas que me interesaron
+
+944
+00:38:09,970 --> 00:38:11,230
+Muchísimo avanzar
+
+945
+00:38:11,230 --> 00:38:14,550
+por ejemplo en el área de transporte
+
+946
+00:38:14,550 --> 00:38:15,370
+de hecho hasta
+
+947
+00:38:15,370 --> 00:38:18,110
+me di cuenta que el transporte
+
+948
+00:38:18,110 --> 00:38:20,170
+me gusta, que analizar esos datos
+
+949
+00:38:20,170 --> 00:38:21,670
+es súper importante
+
+950
+00:38:21,670 --> 00:38:24,310
+cosa que nunca me había preguntado
+
+951
+00:38:24,310 --> 00:38:25,530
+y me parece que
+
+952
+00:38:25,530 --> 00:38:27,670
+nosotros
+
+953
+00:38:27,670 --> 00:38:30,330
+podíamos hacer lo mismo
+
+954
+00:38:30,330 --> 00:38:31,670
+con otro gran tema
+
+955
+00:38:31,670 --> 00:38:32,570
+y me parece
+
+956
+00:38:32,570 --> 00:38:35,770
+súper importante
+
+957
+00:38:35,770 --> 00:38:37,470
+que es el tema
+
+958
+00:38:37,470 --> 00:38:39,510
+de los residuos
+
+959
+00:38:39,510 --> 00:38:42,290
+que es el tema de la higiene urbana
+
+960
+00:38:42,290 --> 00:38:44,330
+tener datos, poder controlar
+
+961
+00:38:44,330 --> 00:38:45,650
+poder mejorarlo
+
+962
+00:38:45,650 --> 00:38:48,090
+aplicar ciencia ahí adentro
+
+963
+00:38:48,090 --> 00:38:50,710
+para optimizarlo
+
+964
+00:38:50,710 --> 00:38:51,110
+bueno
+
+965
+00:38:51,110 --> 00:38:53,870
+hacer lo mismo que hicimos con el transporte
+
+966
+00:38:53,870 --> 00:38:56,210
+hacerlo con el residuo urbano
+
+967
+00:38:56,210 --> 00:38:58,370
+y me parece que están dadas las condiciones
+
+968
+00:38:58,370 --> 00:39:00,110
+como para avanzar, pasa que el transporte
+
+969
+00:39:00,110 --> 00:39:01,990
+fue un ida y vuelta
+
+970
+00:39:01,990 --> 00:39:04,270
+yo creo que un poco más de un año
+
+971
+00:39:04,270 --> 00:39:05,390
+y a veces
+
+972
+00:39:05,390 --> 00:39:07,090
+tuvimos cuatro
+
+973
+00:39:07,090 --> 00:39:09,370
+y ya no se puede continuar
+
+974
+00:39:09,370 --> 00:39:10,810
+pero me parece que la próxima gestión
+
+975
+00:39:10,810 --> 00:39:13,290
+si se quiere meter en eso
+
+976
+00:39:13,290 --> 00:39:14,870
+igual que como nosotros hicimos
+
+977
+00:39:14,870 --> 00:39:16,610
+con el transporte, es una cuestión
+
+978
+00:39:16,610 --> 00:39:18,730
+de crítica y tiempo
+
+979
+00:39:18,730 --> 00:39:21,530
+bueno, la última
+
+980
+00:39:21,530 --> 00:39:23,170
+Facundo, la pregunta es igual
+
+981
+00:39:23,170 --> 00:39:23,950
+para todos, la última
+
+982
+00:39:23,950 --> 00:39:27,230
+el nombre de este podcast de Cadena de Datos
+
+983
+00:39:27,230 --> 00:39:29,450
+porque la idea es que los invitados me sugieran
+
+984
+00:39:29,450 --> 00:39:31,250
+otros invitados nuevos
+
+985
+00:39:31,250 --> 00:39:32,390
+que se van encadenando
+
+986
+00:39:32,390 --> 00:39:35,030
+¿a qué dos o tres personas vos me sugerís que
+
+987
+00:39:35,030 --> 00:39:35,510
+entreviste?
+
+988
+00:39:37,910 --> 00:39:38,350
+eh
+
+989
+00:39:39,370 --> 00:39:40,670
+¿Te puedo sugerir cualquier persona?
+
+990
+00:39:40,950 --> 00:39:42,230
+Por supuesto
+
+991
+00:39:42,230 --> 00:39:45,850
+Yo no creo que alguien infaltable
+
+992
+00:39:45,850 --> 00:39:47,310
+Porque te va a dar otra visión
+
+993
+00:39:47,310 --> 00:39:50,190
+Es como lo que a mí me falta
+
+994
+00:39:50,190 --> 00:39:52,590
+Porque no lo tengo prácticamente
+
+995
+00:39:52,590 --> 00:39:56,650
+Me parece que Marcelo
+
+996
+00:39:56,650 --> 00:39:58,870
+Puede ser una de esas
+
+997
+00:39:58,870 --> 00:40:00,030
+¿Por qué?
+
+998
+00:40:00,570 --> 00:40:01,150
+Sí, ¿por qué?
+
+999
+00:40:01,150 --> 00:40:01,450
+Porque
+
+1000
+00:40:01,450 --> 00:40:05,350
+Marcelo es un tipo
+
+1001
+00:40:05,350 --> 00:40:07,370
+Que trajo muchas ideas
+
+1002
+00:40:07,370 --> 00:40:09,090
+Que nosotros ni siquiera
+
+1003
+00:40:09,090 --> 00:40:11,230
+lo teníamos en la cabeza, yo me acuerdo que él fue
+
+1004
+00:40:11,230 --> 00:40:13,430
+el que abrió la puerta y dijo hay que trabajar en blockchain
+
+1005
+00:40:13,430 --> 00:40:15,130
+y yo googleé blockchain
+
+1006
+00:40:15,130 --> 00:40:16,350
+entonces
+
+1007
+00:40:16,350 --> 00:40:19,450
+me parece
+
+1008
+00:40:19,450 --> 00:40:20,950
+interesante porque él tiene la visión
+
+1009
+00:40:20,950 --> 00:40:22,070
+política
+
+1010
+00:40:22,070 --> 00:40:25,010
+y la verdad que yo no sé si él
+
+1011
+00:40:25,010 --> 00:40:26,670
+todo lo planificó de arriba
+
+1012
+00:40:26,670 --> 00:40:29,170
+o las cosas se fueron dando o un poco y un poco
+
+1013
+00:40:29,170 --> 00:40:31,350
+habría que preguntárselo
+
+1014
+00:40:31,350 --> 00:40:33,210
+la verdad que nunca se lo pregunté
+
+1015
+00:40:33,210 --> 00:40:35,190
+¿por qué te llamaba a vos? ¿por qué me llamaba a mí?
+
+1016
+00:40:37,470 --> 00:40:38,710
+esa visión
+
+1017
+00:40:38,710 --> 00:40:40,550
+muy política, pero
+
+1018
+00:40:40,550 --> 00:40:42,830
+que estuvo muy cerca de lo técnico
+
+1019
+00:40:42,830 --> 00:40:43,910
+porque nosotros en el equipo
+
+1020
+00:40:43,910 --> 00:40:46,090
+la verdad que éramos todos unos técnicos
+
+1021
+00:40:46,090 --> 00:40:48,650
+vos, yo, Juli, Laura
+
+1022
+00:40:48,650 --> 00:40:50,710
+los chicos
+
+1023
+00:40:50,710 --> 00:40:52,510
+todos éramos técnicos
+
+1024
+00:40:52,510 --> 00:40:56,610
+y Marcelo no es una persona técnica
+
+1025
+00:40:56,610 --> 00:40:58,390
+pero se acopló
+
+1026
+00:40:58,390 --> 00:41:00,050
+me parece que te puede dar una visión
+
+1027
+00:41:00,050 --> 00:41:02,570
+muy partidaria, nosotros fuimos
+
+1028
+00:41:02,570 --> 00:41:03,450
+parte de una mesa
+
+1029
+00:41:03,450 --> 00:41:06,730
+politizada en cuanto a las
+
+1030
+00:41:06,730 --> 00:41:08,550
+ideas, pero nada partidaria
+
+1031
+00:41:08,550 --> 00:41:10,330
+y muy técnica. Exactamente.
+
+1032
+00:41:10,430 --> 00:41:12,670
+Me parece que ese puede ser una visión interesante
+
+1033
+00:41:12,670 --> 00:41:14,390
+y escogí bien las preguntas
+
+1034
+00:41:14,390 --> 00:41:15,690
+para hacer porque estaría bueno
+
+1035
+00:41:15,690 --> 00:41:18,390
+Habla mucho
+
+1036
+00:41:18,390 --> 00:41:20,430
+Marcelo. Creo que le meto dos preguntas
+
+1037
+00:41:20,430 --> 00:41:21,030
+en media hora.
+
+1038
+00:41:24,630 --> 00:41:26,470
+¿Alguien más te parece interesante
+
+1039
+00:41:26,470 --> 00:41:27,770
+invitar?
+
+1040
+00:41:33,490 --> 00:41:34,950
+¿Alguien de la red de acciones
+
+1041
+00:41:34,950 --> 00:41:37,130
+de información pública que sea destacable?
+
+1042
+00:41:37,310 --> 00:41:38,750
+¿Alguien de otros portales?
+
+1043
+00:41:39,750 --> 00:41:40,750
+A mí me...
+
+1044
+00:41:40,750 --> 00:41:50,550
+Sí, con respecto a acceso de información pública, me gustaría que por ahí hables con Guadalupe López,
+
+1045
+00:41:50,550 --> 00:41:58,390
+que es del gobierno de la provincia de Buenos Aires,
+
+1046
+00:41:59,250 --> 00:42:07,030
+que me parece una persona súper interesante, que te pueda hablar de acceso como ninguna.
+
+1047
+00:42:07,030 --> 00:42:10,550
+y me parece que
+
+1048
+00:42:10,550 --> 00:42:13,470
+ella fue la presidenta
+
+1049
+00:42:13,470 --> 00:42:15,250
+de la red de asesores de información pública
+
+1050
+00:42:15,250 --> 00:42:17,210
+hasta este año
+
+1051
+00:42:17,210 --> 00:42:18,310
+que este año va a haber un cambio
+
+1052
+00:42:18,310 --> 00:42:22,210
+y después
+
+1053
+00:42:22,210 --> 00:42:24,310
+yo te pondría
+
+1054
+00:42:24,310 --> 00:42:26,430
+algún vecino
+
+1055
+00:42:26,430 --> 00:42:29,170
+que me haya preguntado
+
+1056
+00:42:29,170 --> 00:42:30,730
+mucho y que muchas veces
+
+1057
+00:42:30,730 --> 00:42:32,070
+mis respuestas no lo
+
+1058
+00:42:32,070 --> 00:42:33,630
+satisfacían
+
+1059
+00:42:33,630 --> 00:42:36,250
+o no le eran suficiente
+
+1060
+00:42:36,250 --> 00:42:37,810
+algún vecino inquieto
+
+1061
+00:42:37,810 --> 00:42:40,750
+alguno de los que te hacían muchos pedidos
+
+1062
+00:42:40,750 --> 00:42:42,490
+de acceso a la información pública
+
+1063
+00:42:42,490 --> 00:42:43,870
+si, si
+
+1064
+00:42:43,870 --> 00:42:45,470
+querés tirar un nombre
+
+1065
+00:42:45,470 --> 00:42:47,670
+no, a ver
+
+1066
+00:42:47,670 --> 00:42:50,510
+a ver, me acuerdo
+
+1067
+00:42:50,510 --> 00:42:52,650
+hay dos, por ejemplo
+
+1068
+00:42:52,650 --> 00:42:54,130
+Copta, Federico Copta
+
+1069
+00:42:54,130 --> 00:42:55,710
+es una persona que me ha hecho pedidos
+
+1070
+00:42:55,710 --> 00:42:58,590
+y que yo muchas veces no he podido responder
+
+1071
+00:42:58,590 --> 00:43:00,350
+pero no porque no he querido
+
+1072
+00:43:00,350 --> 00:43:00,950
+sino porque
+
+1073
+00:43:00,950 --> 00:43:04,230
+a veces se me complicaba encontrar
+
+1074
+00:43:04,230 --> 00:43:06,210
+cierto tipo de información
+
+1075
+00:43:06,210 --> 00:43:08,570
+a una información y se la respondía bien
+
+1076
+00:43:08,570 --> 00:43:09,850
+y él me respondía
+
+1077
+00:43:09,850 --> 00:43:12,310
+porque es una persona, no nos hemos conocido
+
+1078
+00:43:12,310 --> 00:43:13,630
+mucho, pero me parece que es una persona
+
+1079
+00:43:13,630 --> 00:43:15,330
+de altura
+
+1080
+00:43:15,330 --> 00:43:17,830
+y otras veces no la...
+
+1081
+00:43:17,830 --> 00:43:19,430
+Es una cosa importante de Córdoba
+
+1082
+00:43:19,430 --> 00:43:21,790
+Y otro puede ser
+
+1083
+00:43:21,790 --> 00:43:23,670
+Gastón Ávila
+
+1084
+00:43:23,670 --> 00:43:25,710
+que también ha hecho preguntas siempre
+
+1085
+00:43:25,710 --> 00:43:27,730
+muy certeras
+
+1086
+00:43:27,730 --> 00:43:28,550
+en preguntar
+
+1087
+00:43:28,550 --> 00:43:33,270
+Sí, en lo que más costaba
+
+1088
+00:43:33,270 --> 00:43:35,150
+y bueno
+
+1089
+00:43:35,150 --> 00:43:54,750
+Me parece importante tener esa visión crítica del otro lado, porque yo los he escuchado a todos, a veces no los puedo responder como ellos han querido, no es que nunca se les ha respondido nada, se les ha respondido mucho, pero a otras veces les ha costado mucho, y me parece que siempre hay una explicación.
+
+1090
+00:43:54,750 --> 00:43:58,350
+valoro y destaco
+
+1091
+00:43:58,350 --> 00:44:00,110
+la verdad que no me había pasado nunca hasta ahora
+
+1092
+00:44:00,110 --> 00:44:01,910
+que un invitado
+
+1093
+00:44:01,910 --> 00:44:03,210
+que tiene que
+
+1094
+00:44:03,210 --> 00:44:05,970
+estar en la vereda del frente
+
+1095
+00:44:05,970 --> 00:44:07,570
+por decirlo de alguna forma
+
+1096
+00:44:07,570 --> 00:44:08,890
+o detrás del escritorio
+
+1097
+00:44:08,890 --> 00:44:11,750
+con vecinos que le cuestionan
+
+1098
+00:44:11,750 --> 00:44:14,270
+cuando la transparencia parece que falta
+
+1099
+00:44:14,270 --> 00:44:15,910
+valoro mucho
+
+1100
+00:44:15,910 --> 00:44:17,270
+que te acuerdes de ellos
+
+1101
+00:44:17,270 --> 00:44:19,550
+para que se escuche la otra cara de la moneda
+
+1102
+00:44:19,550 --> 00:44:20,970
+está bueno eso, me gusta
+
+1103
+00:44:20,970 --> 00:44:23,890
+y con esto cerramos Facu
+
+1104
+00:44:23,890 --> 00:44:26,010
+te agradezco muchísimo y de deseo
+
+1105
+00:44:26,010 --> 00:44:27,730
+que tengas el mejor cierre de gestión, te quedan
+
+1106
+00:44:27,730 --> 00:44:29,830
+deben tener ustedes, contamos para los
+
+1107
+00:44:29,830 --> 00:44:31,390
+oyentes, había
+
+1108
+00:44:31,390 --> 00:44:33,850
+una pantalla donde teníamos
+
+1109
+00:44:33,850 --> 00:44:35,890
+una visualización segundero
+
+1110
+00:44:35,890 --> 00:44:37,970
+en cuenta regresiva hasta el último día
+
+1111
+00:44:37,970 --> 00:44:39,890
+de gestión y la usamos mucho
+
+1112
+00:44:39,890 --> 00:44:41,510
+tiempo, ese contador
+
+1113
+00:44:41,510 --> 00:44:43,970
+debe tener 32, 33
+
+1114
+00:44:43,970 --> 00:44:45,850
+días ahora, así que te deseo el mejor
+
+1115
+00:44:45,850 --> 00:44:47,990
+cierre de gestión, muchas gracias
+
+1116
+00:44:47,990 --> 00:44:49,790
+Muchas gracias Andrés
+
+1117
+00:44:49,790 --> 00:44:51,850
+gracias por la invitación, abrazo
+

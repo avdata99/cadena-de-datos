@@ -1,0 +1,3664 @@
+1
+00:00:00,000 --> 00:00:05,640
+Cadena de datos, episodio número 37. De este lado, Andrés Vázquez desde Córdoba, en Argentina.
+
+2
+00:00:06,280 --> 00:00:12,820
+Hoy me acompaña Janina Bellini Saibén. Entiendo que es de La Pampa, en Argentina también.
+
+3
+00:00:13,060 --> 00:00:18,880
+Janina es licenciada en sistemas de información y magíster en explotación de datos y gestión de conocimiento.
+
+4
+00:00:19,540 --> 00:00:24,400
+Es investigadora en el INTA, el Instituto Nacional de Tecnología Agropecuaria, en Argentina.
+
+5
+00:00:24,400 --> 00:00:34,800
+También es cofundadora y organizadora en múltiples espacios colaborativos como Meta Docencia, Art Ladies y Latin Air, entre muchísimos otros.
+
+6
+00:00:35,040 --> 00:00:37,180
+Buenas tardes Janina, muchas gracias por participar.
+
+7
+00:00:38,860 --> 00:00:43,940
+Hola Andrés, muchísimas gracias por la invitación en este espacio.
+
+8
+00:00:43,940 --> 00:00:47,860
+Bueno, empiezo por la primera pregunta con la que empiezo en general.
+
+9
+00:00:47,860 --> 00:00:52,400
+quería apelar a tu memoria y preguntarte si recordas
+
+10
+00:00:52,400 --> 00:00:57,200
+cuál fue tu primer contacto con datos abiertos del sector público
+
+11
+00:00:57,200 --> 00:00:58,780
+¿te acordás cuando fue la primera vez?
+
+12
+00:01:01,710 --> 00:01:05,450
+bueno, yo trabajo en el sector público desde el año 98
+
+13
+00:01:05,450 --> 00:01:07,970
+que fue cuando entré al INTA
+
+14
+00:01:07,970 --> 00:01:11,750
+y parte de mi trabajo justamente era
+
+15
+00:01:11,750 --> 00:01:16,210
+ordenar información de la institución
+
+16
+00:01:16,210 --> 00:01:18,890
+y publicarla en una página web
+
+17
+00:01:18,890 --> 00:01:26,490
+Así que, si vamos a hablar en un sentido amplio de los datos abiertos,
+
+18
+00:01:27,390 --> 00:01:30,390
+ese sería mi primer contacto.
+
+19
+00:01:30,390 --> 00:01:31,310
+En ese momento...
+
+20
+00:01:31,310 --> 00:01:33,150
+Digo amplio por lo... Perdón.
+
+21
+00:01:33,330 --> 00:01:34,490
+No, no, seguí, seguí, por favor.
+
+22
+00:01:35,490 --> 00:01:39,810
+No, no, digo amplio porque, bueno, en veintipico de años,
+
+23
+00:01:39,990 --> 00:01:41,550
+si te hablamos del 98 ahora,
+
+24
+00:01:42,090 --> 00:01:46,190
+el concepto de lo que es datos abiertos ha ido evolucionando.
+
+25
+00:01:46,910 --> 00:01:49,690
+Tal vez si lo analizamos ahora no sé qué tan abiertos eran,
+
+26
+00:01:49,850 --> 00:01:53,290
+pero por lo menos estaban disponibles en un lugar para descargarlos.
+
+27
+00:01:53,510 --> 00:01:55,590
+Bien, perfecto.
+
+28
+00:01:56,110 --> 00:01:58,530
+En el INTA, para la gente que no lo conozca,
+
+29
+00:01:59,250 --> 00:02:00,970
+antes de preguntarte más cosas sobre el INTA,
+
+30
+00:02:01,530 --> 00:02:05,110
+quería pedirte que describas brevemente qué es el INTA
+
+31
+00:02:05,110 --> 00:02:06,330
+y con quiénes trabajan ustedes.
+
+32
+00:02:08,520 --> 00:02:13,040
+Bueno, el INTA significa Instituto Nacional de Tecnología Agropecuaria,
+
+33
+00:02:13,760 --> 00:02:17,220
+es una institución de investigación y desarrollo,
+
+34
+00:02:17,500 --> 00:02:43,480
+También tiene con el mismo peso una parte muy importante de transferencia y extensión, así que lo que nosotros hacemos es desarrollar tecnología orientada al sector agropecuario y eso es desde el productor que está en el campo, que está en la chacra, pasando por todos los actores de la cadena, el contratista, las compañías que prestan servicios, la comercialización.
+
+35
+00:02:43,480 --> 00:02:46,160
+el sector agropecuario es una
+
+36
+00:02:46,160 --> 00:02:48,520
+actividad económica muy importante
+
+37
+00:02:48,520 --> 00:02:50,000
+en Argentina
+
+38
+00:02:50,000 --> 00:02:52,580
+y el INTA lo intenta
+
+39
+00:02:52,580 --> 00:02:54,400
+acompañar desde hace
+
+40
+00:02:54,400 --> 00:02:55,780
+más de 60 años
+
+41
+00:02:55,780 --> 00:02:57,880
+hay
+
+42
+00:02:57,880 --> 00:03:00,040
+profesiones, por supuesto
+
+43
+00:03:00,040 --> 00:03:02,780
+agrónomos y veterinarios son las más tradicionales
+
+44
+00:03:02,780 --> 00:03:04,580
+pero hay biólogos, ecólogos
+
+45
+00:03:04,580 --> 00:03:06,640
+cursólogos, informáticos
+
+46
+00:03:06,640 --> 00:03:08,300
+psicopedagogos
+
+47
+00:03:08,300 --> 00:03:09,040
+economistas
+
+48
+00:03:09,040 --> 00:03:12,260
+hay mucha gente que viene
+
+49
+00:03:12,260 --> 00:03:14,180
+también de las ciencias sociales
+
+50
+00:03:14,180 --> 00:03:16,200
+por todo el trabajo de transferencia
+
+51
+00:03:16,200 --> 00:03:18,020
+y extensión que también se
+
+52
+00:03:18,020 --> 00:03:19,300
+realiza
+
+53
+00:03:19,300 --> 00:03:22,280
+y es una institución muy linda
+
+54
+00:03:22,280 --> 00:03:23,440
+para trabajar
+
+55
+00:03:23,440 --> 00:03:26,280
+Entonces, ustedes generan conocimiento
+
+56
+00:03:26,280 --> 00:03:28,480
+trabajan con datos
+
+57
+00:03:28,480 --> 00:03:30,160
+y abren todo eso para que toda esta
+
+58
+00:03:30,160 --> 00:03:31,940
+comunidad que vos mencionas
+
+59
+00:03:31,940 --> 00:03:33,360
+le saque provecho
+
+60
+00:03:33,360 --> 00:03:36,440
+básicamente el INTA trabaja en esa línea
+
+61
+00:03:36,440 --> 00:03:38,980
+Sí, sí, el INTA
+
+62
+00:03:38,980 --> 00:03:40,120
+los que estamos
+
+63
+00:03:40,120 --> 00:03:42,700
+en la parte de información
+
+64
+00:03:42,700 --> 00:03:44,600
+y de datos, sí, el INTE
+
+65
+00:03:44,600 --> 00:03:46,880
+también hace maquinaria
+
+66
+00:03:46,880 --> 00:03:48,860
+por ejemplo, o hace
+
+67
+00:03:48,860 --> 00:03:50,600
+semillas nuevas, cultivares nuevos
+
+68
+00:03:50,600 --> 00:03:52,340
+o desarrolla vacunas
+
+69
+00:03:52,340 --> 00:03:54,520
+o desarrolla, no sé,
+
+70
+00:03:54,640 --> 00:03:56,720
+en Anguil, en La Pampa, que es donde yo estoy
+
+71
+00:03:56,720 --> 00:03:58,360
+se generó una
+
+72
+00:03:58,360 --> 00:04:00,680
+nueva raza de ovejas que no existía
+
+73
+00:04:00,680 --> 00:04:01,240
+por ejemplo
+
+74
+00:04:01,240 --> 00:04:04,480
+ayudamos a la CONAE
+
+75
+00:04:04,480 --> 00:04:05,600
+con sus satélites
+
+76
+00:04:05,600 --> 00:04:08,780
+hacemos desarrollo de software
+
+77
+00:04:08,780 --> 00:04:23,100
+El INTA es un abanico bastante grande, el que abarca, y por eso es interesante también las actividades que se llevan adelante.
+
+78
+00:04:23,100 --> 00:04:40,360
+Y en eso, obviamente, los datos, la información, cómo los almacenamos, cómo los compartimos, cómo los procesamos, cómo calculamos con eso, es una parte muy importante y es cada vez una actividad que se usa más.
+
+79
+00:04:40,360 --> 00:04:57,700
+Estuve buscando un poco sobre datos que abre el INTA y encontré algunas cosas como la plataforma GeoINTA, encontré también una sección del INTA en el DAC y TAR, que es Datos Primarios de Acceso Abierto de la Ciencia y la Tecnología Argentina.
+
+80
+00:04:57,700 --> 00:05:10,560
+No encontré al INTA en el portal nacional datos.gov.ar. Es como que veo que hay muchos datos, pero no estoy seguro si hay una política única de apertura o está centralizado.
+
+81
+00:05:10,740 --> 00:05:21,160
+Vos, ¿cómo describirías, en el caso que tengas conocimiento, la política de apertura de datos del INTA? ¿Ustedes abren todo? ¿Abre más o menos? ¿Cómo lo ves vos desde adentro?
+
+82
+00:05:21,160 --> 00:05:39,200
+Bueno, hay como diferentes tipos de información que se abren y hay como diferentes sitios web a los cuales se puede ir a buscar esa información.
+
+83
+00:05:41,780 --> 00:05:52,240
+Geointa es la ID del INTA, tiene ya 15 años, fue anterior a IDERA, que es la ID de Argentina.
+
+84
+00:05:52,760 --> 00:06:12,940
+Y ahí se abren todos los que son datos que tengan algún componente espacial o georreferenciado. Y se pueden descargar a tu computadora, los podés consumir desde interoperabilidad, desde un web service.
+
+85
+00:06:12,940 --> 00:06:21,860
+Exacto, exacto. Así que eso con lo que tiene que ver con información georreferenciada, digamos.
+
+86
+00:06:22,740 --> 00:06:31,660
+Después hay otro sitio web que es el repositorio Intagobar, donde ahí están disponibles con una licencia,
+
+87
+00:06:32,320 --> 00:06:38,540
+una Creative Commons con atribución y en algunas cosas no comercial, todos los que son publicaciones.
+
+88
+00:06:38,540 --> 00:07:04,620
+Entonces, todos los que son los libros, los boletines técnicos, todo lo que el INTA publica como resultado de sus investigaciones, las tesis, está todo ahí para poder descargarse y utilizarse. Obviamente curado por los bibliotecarios del INTA en bases de datos que se utilizan internacionalmente en ese sentido, y eso es parte de estos sistemas nacionales de información.
+
+89
+00:07:04,620 --> 00:07:16,440
+En ese mismo repositorio se están empezando a subir datos crudos de conjuntos de datos que ya tienen un inicio y un fin.
+
+90
+00:07:16,920 --> 00:07:25,500
+Hay muchas cosas en las que el INTA recolecta información, que son las redes de datos estratégicos, que no paran nunca.
+
+91
+00:07:25,500 --> 00:07:34,720
+Por ejemplo, hay otro sistema que se llama siga.inta.gov.ar, que es el que tiene toda la información de los datos agrometeorológicos.
+
+92
+00:07:35,340 --> 00:07:44,540
+Entonces, todas las estaciones convencionales y automáticas que el INTA tiene en el país, vos entras en ese sistema, te podés descargar todos los datos crudios,
+
+93
+00:07:44,540 --> 00:07:50,620
+con paso diario de toda la historia, desde que se puso la primera estación,
+
+94
+00:07:51,580 --> 00:07:57,840
+o bien podés utilizar la interfaz de sistemas ya con cálculos, con pronósticos,
+
+95
+00:07:58,000 --> 00:08:00,560
+siempre orientado a muchas cosas del sector agropecuario.
+
+96
+00:08:01,180 --> 00:08:04,420
+A su vez, esos sistemas, por ejemplo, esa información,
+
+97
+00:08:04,800 --> 00:08:10,080
+se le provee de forma también de sistema a sistema al Servicio Meteorológico Nacional.
+
+98
+00:08:11,300 --> 00:08:14,220
+En Radar Intagobar está la información de los radares,
+
+99
+00:08:14,540 --> 00:08:17,880
+ahora estamos trabajando para poner
+
+100
+00:08:17,880 --> 00:08:19,920
+el dato más crudo
+
+101
+00:08:19,920 --> 00:08:21,780
+de los radares disponibles, que no sea solo
+
+102
+00:08:21,780 --> 00:08:24,160
+la imagen y los productos
+
+103
+00:08:24,160 --> 00:08:25,280
+ya procesados
+
+104
+00:08:25,280 --> 00:08:31,780
+y sí, después
+
+105
+00:08:31,780 --> 00:08:34,080
+dependiendo de los proyectos
+
+106
+00:08:34,080 --> 00:08:34,760
+y las redes
+
+107
+00:08:34,760 --> 00:08:36,300
+¿cómo?
+
+108
+00:08:36,560 --> 00:08:38,760
+no, no, que es muchísimo, que estás pensando en más cosas
+
+109
+00:08:38,760 --> 00:08:40,920
+y yo no sé qué más se puede publicar
+
+110
+00:08:40,920 --> 00:08:42,560
+pero me parece genial todo lo que me contesta
+
+111
+00:08:42,560 --> 00:08:45,700
+sí, después hay
+
+112
+00:08:45,700 --> 00:08:49,580
+alguna parte que hasta que la investigación no está terminada
+
+113
+00:08:49,580 --> 00:08:53,820
+no se puede difundir, porque es parte del proceso
+
+114
+00:08:53,820 --> 00:08:57,580
+de investigación. Después, por ejemplo, otro sitio web
+
+115
+00:08:57,580 --> 00:09:01,540
+es el CEPA, cepa.inta.gov.ar, tiene muchos productos
+
+116
+00:09:01,540 --> 00:09:05,500
+que tienen que ver con imágenes satelitales, porque el INTA tiene antenas para
+
+117
+00:09:05,500 --> 00:09:10,040
+descargar las imágenes y se generan productos de vuelta orientados al sector agropecuario.
+
+118
+00:09:10,480 --> 00:09:13,380
+Entonces, por ejemplo, focos de incendio, inundaciones,
+
+119
+00:09:13,380 --> 00:09:15,200
+granizos
+
+120
+00:09:15,200 --> 00:09:17,580
+cuando estuvieron los volcanes
+
+121
+00:09:17,580 --> 00:09:19,200
+y teníamos el tema de cenizas
+
+122
+00:09:19,200 --> 00:09:21,360
+mucho de lo que se procesaba
+
+123
+00:09:21,360 --> 00:09:23,300
+con imágenes satelitales se publica ahí
+
+124
+00:09:23,300 --> 00:09:26,520
+así que hay
+
+125
+00:09:26,520 --> 00:09:29,360
+la institución trabaja en tantas
+
+126
+00:09:29,360 --> 00:09:31,340
+cosas que hay
+
+127
+00:09:31,340 --> 00:09:32,400
+mucho disponible
+
+128
+00:09:32,400 --> 00:09:35,360
+y yo creo que podríamos poner aún más
+
+129
+00:09:35,360 --> 00:09:37,420
+exacto, esa era
+
+130
+00:09:37,420 --> 00:09:39,200
+mi siguiente pregunta por lo que me contas
+
+131
+00:09:39,200 --> 00:09:41,480
+está claro que ustedes trabajan
+
+132
+00:09:41,480 --> 00:09:44,740
+para producir datos de información y conocimiento
+
+133
+00:09:44,740 --> 00:09:49,180
+para que se le saque valor y supongo que el sector productivo
+
+134
+00:09:49,180 --> 00:09:50,900
+produzca más y produzca mejor.
+
+135
+00:09:51,160 --> 00:09:53,000
+¿Hay algún dato que vos conozcas que diga
+
+136
+00:09:53,000 --> 00:09:54,720
+me gustaría que publiquemos esto,
+
+137
+00:09:54,840 --> 00:09:58,240
+me gustaría que hagamos aquello para mejorar todavía más
+
+138
+00:09:58,240 --> 00:09:59,760
+esta política de apertura de datos?
+
+139
+00:10:01,610 --> 00:10:04,030
+Sí, yo creo que tenemos que evolucionar
+
+140
+00:10:04,030 --> 00:10:07,970
+del sistema web de consulta
+
+141
+00:10:07,970 --> 00:10:12,390
+a poner disponible más APIs,
+
+142
+00:10:12,730 --> 00:10:15,470
+más formas de consultarlo de sistema a sistema
+
+143
+00:10:15,470 --> 00:10:19,650
+y con el armado de librerías
+
+144
+00:10:19,650 --> 00:10:21,970
+que también pongan disponibles esos datos,
+
+145
+00:10:22,290 --> 00:10:23,610
+por ejemplo, paquetes de R.
+
+146
+00:10:24,610 --> 00:10:26,350
+Estamos trabajando en algo de eso
+
+147
+00:10:26,350 --> 00:10:28,890
+con todo lo que son los datos de suelos
+
+148
+00:10:28,890 --> 00:10:30,230
+y los datos de clima,
+
+149
+00:10:31,090 --> 00:10:34,850
+porque eso permite que otras personas
+
+150
+00:10:34,850 --> 00:10:37,430
+tomen nuestros datos crudos y le agreguen valor.
+
+151
+00:10:37,430 --> 00:10:40,610
+es muy difícil
+
+152
+00:10:40,610 --> 00:10:42,830
+primero que nos alcance
+
+153
+00:10:42,830 --> 00:10:44,610
+el tiempo para poder hacer
+
+154
+00:10:44,610 --> 00:10:46,510
+todo el agregado de valor que se le podría hacer
+
+155
+00:10:46,510 --> 00:10:47,530
+a la información que tenemos
+
+156
+00:10:47,530 --> 00:10:50,130
+y después que se nos puedan ocurrir
+
+157
+00:10:50,130 --> 00:10:52,590
+todas las cosas en las cuales uno podría usar
+
+158
+00:10:52,590 --> 00:10:53,190
+esos datos
+
+159
+00:10:53,190 --> 00:10:56,530
+es como si yo
+
+160
+00:10:56,530 --> 00:10:58,410
+los libero va a haber gente que va a hacer cosas
+
+161
+00:10:58,410 --> 00:11:00,670
+que a nosotros nunca se nos hubiesen ocurrido
+
+162
+00:11:00,670 --> 00:11:02,450
+lo que uno
+
+163
+00:11:02,450 --> 00:11:04,310
+tiene que hacer en ese sentido es que
+
+164
+00:11:04,310 --> 00:11:05,490
+además del dato
+
+165
+00:11:05,490 --> 00:11:07,390
+tiene que ser
+
+166
+00:11:07,390 --> 00:11:09,130
+claro con respecto a la
+
+167
+00:11:09,130 --> 00:11:10,690
+metadata de esa información
+
+168
+00:11:10,690 --> 00:11:13,190
+¿cuándo lo generé? ¿cómo lo
+
+169
+00:11:13,190 --> 00:11:15,050
+junté? ¿con qué instrumento?
+
+170
+00:11:15,410 --> 00:11:17,270
+¿qué tipo de error tengo? para que
+
+171
+00:11:17,270 --> 00:11:19,230
+el usuario ese que lo
+
+172
+00:11:19,230 --> 00:11:21,250
+vaya a usar, que tampoco me lo
+
+173
+00:11:21,250 --> 00:11:23,030
+puedo imaginar todo, tengo
+
+174
+00:11:23,030 --> 00:11:24,410
+algunos usuarios definidos, pero
+
+175
+00:11:24,410 --> 00:11:27,150
+un periodista
+
+176
+00:11:27,150 --> 00:11:29,070
+un estudiante, alguien que
+
+177
+00:11:29,070 --> 00:11:30,510
+venga del lado de la medicina
+
+178
+00:11:30,510 --> 00:11:32,530
+por ahí no son cuestiones
+
+179
+00:11:32,530 --> 00:11:35,030
+siempre es mucho más
+
+180
+00:11:35,030 --> 00:11:39,510
+sencillo pensar en el agrónomo, en el productor, en quien comercializa, presta algún servicio al
+
+181
+00:11:39,510 --> 00:11:47,050
+sector, pero hay muchos otros usuarios que pueden aparecer con esa información del contexto de los
+
+182
+00:11:47,050 --> 00:11:52,970
+datos, pueda tomar la decisión si ese dato le sirve para el fin que lo quiere usar o no. Eso es
+
+183
+00:11:52,970 --> 00:11:59,170
+un concepto que por ahí a la hora de liberar los datos no es suficiente con publicarlos en una web
+
+184
+00:11:59,170 --> 00:12:04,450
+y componerlos en un formato que sea leíble y que sea utilizable,
+
+185
+00:12:04,530 --> 00:12:08,550
+sino que también tengo que dar información sobre ese dato, ¿no?
+
+186
+00:12:08,630 --> 00:12:09,230
+Esa metadata.
+
+187
+00:12:09,530 --> 00:12:09,930
+Exacto.
+
+188
+00:12:12,350 --> 00:12:15,070
+Te iba a preguntar si tenés contacto con esa comunidad,
+
+189
+00:12:15,250 --> 00:12:17,250
+si hay un ida y vuelta entre la gente que lo usa,
+
+190
+00:12:17,330 --> 00:12:19,510
+si le piden cosas, si hay un espacio,
+
+191
+00:12:19,510 --> 00:12:24,490
+porque me da la sensación que contás algo que tiene un nivel técnico alto
+
+192
+00:12:24,490 --> 00:12:28,550
+y me pasó a mí personalmente y conozco casos en donde el gobierno
+
+193
+00:12:28,550 --> 00:12:30,510
+hace un esfuerzo por técnicamente subir
+
+194
+00:12:30,510 --> 00:12:32,490
+mucho la vara y que del lado
+
+195
+00:12:32,490 --> 00:12:34,870
+del ecosistema de usuarios, de los consumidores
+
+196
+00:12:34,870 --> 00:12:36,470
+no estén preparados para toda
+
+197
+00:12:36,470 --> 00:12:38,210
+esa tecnología y a veces simplemente
+
+198
+00:12:38,210 --> 00:12:40,210
+conversando se resuelve. ¿Tienen
+
+199
+00:12:40,210 --> 00:12:42,210
+ustedes espacios de vuelta
+
+200
+00:12:42,210 --> 00:12:44,570
+o comunicación con esa comunidad? ¿La conocen
+
+201
+00:12:44,570 --> 00:12:47,680
+bien? Sí, nosotros
+
+202
+00:12:47,680 --> 00:12:51,820
+ahí habría
+
+203
+00:12:51,820 --> 00:12:52,940
+como dos tipos
+
+204
+00:12:52,940 --> 00:12:55,680
+vamos a hacerlo, sí, dos o tres tipos de
+
+205
+00:12:55,680 --> 00:12:57,720
+usuarios. Nosotros tenemos un usuario
+
+206
+00:12:57,720 --> 00:12:59,740
+que es la propia comunidad científica
+
+207
+00:12:59,740 --> 00:13:03,660
+otros investigadores y otras instituciones que hacen ciencia
+
+208
+00:13:03,660 --> 00:13:05,980
+que necesitan usar nuestros datos
+
+209
+00:13:05,980 --> 00:13:09,640
+después tenemos la parte productiva
+
+210
+00:13:09,640 --> 00:13:11,860
+que pueden ser las asociaciones de productores
+
+211
+00:13:11,860 --> 00:13:14,980
+que también a veces tienen su parte de investigación y desarrollo
+
+212
+00:13:14,980 --> 00:13:18,440
+la parte privada
+
+213
+00:13:18,440 --> 00:13:22,380
+y cada uno tiene diferentes tipos de necesidades
+
+214
+00:13:22,380 --> 00:13:25,600
+lo que sí es
+
+215
+00:13:25,600 --> 00:13:28,660
+que si yo genero una infraestructura
+
+216
+00:13:28,660 --> 00:13:34,060
+en la cual no se depende de tener que mandarle un mail a una persona
+
+217
+00:13:34,060 --> 00:13:37,460
+para pedirle los datos, sino que yo los puedo acceder
+
+218
+00:13:37,460 --> 00:13:39,500
+sin necesidad de un contacto humano,
+
+219
+00:13:40,300 --> 00:13:42,240
+le va a facilitar la vida a cualquiera.
+
+220
+00:13:42,880 --> 00:13:47,120
+Después va a haber más o menos necesidades de nivel técnico.
+
+221
+00:13:47,120 --> 00:13:51,200
+Si yo hago lo de geointa y están las APIs,
+
+222
+00:13:51,300 --> 00:13:55,360
+el WFS o el WMS, que son los web services que están para consultar,
+
+223
+00:13:56,100 --> 00:13:58,400
+lo va a usar quien sepa consultar eso.
+
+224
+00:13:58,660 --> 00:14:00,040
+lo va a usar un desarrollador
+
+225
+00:14:00,040 --> 00:14:02,840
+quien sepa usar un
+
+226
+00:14:02,840 --> 00:14:04,500
+software de escritorio como Cushis
+
+227
+00:14:04,500 --> 00:14:06,040
+que tiene esa posibilidad
+
+228
+00:14:06,040 --> 00:14:08,840
+pero si yo no
+
+229
+00:14:08,840 --> 00:14:10,820
+tengo el web service disponible
+
+230
+00:14:10,820 --> 00:14:12,940
+me tenés que mandar un mail y pedirme
+
+231
+00:14:12,940 --> 00:14:14,580
+el shape y yo tengo que ver
+
+232
+00:14:14,580 --> 00:14:15,940
+dónde está y te lo tengo que mandar
+
+233
+00:14:15,940 --> 00:14:17,920
+y es un poco como
+
+234
+00:14:17,920 --> 00:14:20,260
+en esta época
+
+235
+00:14:20,260 --> 00:14:21,680
+es como un pecado
+
+236
+00:14:21,680 --> 00:14:24,580
+yo creo que lo podemos
+
+237
+00:14:24,580 --> 00:14:25,240
+hacer mejor
+
+238
+00:14:25,240 --> 00:14:30,780
+Sí, uno no tiene por qué generar
+
+239
+00:14:30,780 --> 00:14:33,200
+Una infraestructura monstruosa
+
+240
+00:14:33,200 --> 00:14:34,760
+Innecesaria
+
+241
+00:14:34,760 --> 00:14:36,540
+Pero hay cierto piso
+
+242
+00:14:36,540 --> 00:14:38,960
+Si vamos a poder hablar
+
+243
+00:14:38,960 --> 00:14:40,520
+De cómo acceder
+
+244
+00:14:40,520 --> 00:14:43,180
+Que deberíamos poder llegar
+
+245
+00:14:43,180 --> 00:14:46,240
+O sea, yo me siento bien
+
+246
+00:14:46,240 --> 00:14:48,000
+Cuando el dato puede ser accedido
+
+247
+00:14:48,000 --> 00:14:50,060
+Sin necesidad de una intervención
+
+248
+00:14:50,060 --> 00:14:51,860
+De una persona
+
+249
+00:14:51,860 --> 00:14:53,060
+Del otro lado
+
+250
+00:14:53,060 --> 00:14:54,100
+Así que no tengan que conocer
+
+251
+00:14:54,100 --> 00:14:55,940
+o ser amigo de alguien del INTA para acceder
+
+252
+00:14:55,940 --> 00:14:57,980
+al dato, digámoslo. Mil por ciento
+
+253
+00:14:57,980 --> 00:14:59,600
+de acuerdo con eso. Mil por ciento
+
+254
+00:14:59,600 --> 00:15:02,120
+de acuerdo
+
+255
+00:15:02,120 --> 00:15:03,800
+con eso. Te quería preguntar si usted
+
+256
+00:15:03,800 --> 00:15:05,780
+tiene métricas y más o menos saben
+
+257
+00:15:05,780 --> 00:15:07,960
+qué se usa
+
+258
+00:15:07,960 --> 00:15:09,980
+más, qué se usa menos. ¿Es algo
+
+259
+00:15:09,980 --> 00:15:10,760
+que tienen también?
+
+260
+00:15:12,140 --> 00:15:13,600
+Sí, lamentablemente
+
+261
+00:15:13,600 --> 00:15:16,120
+yo no las tengo porque no manejo
+
+262
+00:15:16,120 --> 00:15:17,540
+las plataformas.
+
+263
+00:15:18,460 --> 00:15:19,400
+El INTA tiene
+
+264
+00:15:19,400 --> 00:15:21,960
+lo que se conoce como INTA Central
+
+265
+00:15:21,960 --> 00:15:23,900
+que está en Buenos Aires, que es una
+
+266
+00:15:23,900 --> 00:15:28,160
+y tiene una dirección de sistemas de información, comunicación y calidad
+
+267
+00:15:28,160 --> 00:15:31,860
+que maneja muchos de estos repositorios centralizados.
+
+268
+00:15:32,180 --> 00:15:36,660
+En el caso específico de Geointa es diferente porque tenemos 11 nodos
+
+269
+00:15:36,660 --> 00:15:40,400
+en diferentes provincias y después se ve hacia el usuario final
+
+270
+00:15:40,400 --> 00:15:42,160
+como si fuera un solo sistema.
+
+271
+00:15:42,780 --> 00:15:45,880
+Entonces ahí yo, por ejemplo, tengo a cargo el de La Pampa,
+
+272
+00:15:45,880 --> 00:15:50,220
+entonces ahí cargo la información de La Pampa y puedo tener estadísticas
+
+273
+00:15:50,220 --> 00:15:52,300
+de mi sitio, pero todo lo que es
+
+274
+00:15:52,300 --> 00:15:54,040
+a nivel nacional se tiene ahí en la dirección
+
+275
+00:15:54,040 --> 00:15:56,240
+si se pide está disponible
+
+276
+00:15:56,240 --> 00:15:58,200
+digamos, pero no tengo esos datos
+
+277
+00:15:58,200 --> 00:15:59,160
+yo en este momento
+
+278
+00:15:59,160 --> 00:16:02,380
+Estuve viendo
+
+279
+00:16:02,380 --> 00:16:03,940
+tu perfil de GitHub
+
+280
+00:16:03,940 --> 00:16:06,160
+me alegró ver que estaba
+
+281
+00:16:06,160 --> 00:16:07,820
+todo pintado de colores
+
+282
+00:16:07,820 --> 00:16:10,040
+veo que sos muy participativa
+
+283
+00:16:10,040 --> 00:16:11,740
+en muchas cosas variadas
+
+284
+00:16:11,740 --> 00:16:13,340
+y me sorprendí un poco
+
+285
+00:16:13,340 --> 00:16:15,440
+para bien ver que
+
+286
+00:16:15,440 --> 00:16:18,380
+vi tres organizaciones de GitHub
+
+287
+00:16:18,380 --> 00:16:20,200
+una se llama Interradar
+
+288
+00:16:20,200 --> 00:16:22,420
+GeoINTA y INTA Suelos
+
+289
+00:16:22,420 --> 00:16:23,720
+estabas en las tres
+
+290
+00:16:23,720 --> 00:16:26,020
+pero me da la sensación que no hay
+
+291
+00:16:26,020 --> 00:16:27,760
+continuidad en los proyectos ahí
+
+292
+00:16:27,760 --> 00:16:30,040
+y me imagino que no es una política
+
+293
+00:16:30,040 --> 00:16:32,040
+oficial del INTA que todo el software que hagan
+
+294
+00:16:32,040 --> 00:16:33,680
+y todos los instrumentos sean libres
+
+295
+00:16:33,680 --> 00:16:35,760
+pero si te vi a vos y a otros integrantes del INTA
+
+296
+00:16:35,760 --> 00:16:37,960
+participando ahí, ¿cómo describirías
+
+297
+00:16:37,960 --> 00:16:39,800
+vos la relación de INTA con el software libre
+
+298
+00:16:39,800 --> 00:16:41,660
+en cuanto a los trabajos que hacen ustedes?
+
+299
+00:16:41,660 --> 00:16:44,120
+¿hay alguna política oficial con respecto a eso?
+
+300
+00:16:47,090 --> 00:16:49,250
+ahí hay que separar lo que es
+
+301
+00:16:49,250 --> 00:16:50,890
+la parte más administrativa
+
+302
+00:16:50,890 --> 00:16:52,050
+de la institución
+
+303
+00:16:52,050 --> 00:16:54,910
+que en general son
+
+304
+00:16:54,910 --> 00:16:57,130
+políticas que vienen dadas por los ministerios
+
+305
+00:16:57,130 --> 00:16:58,730
+el INTA depende del
+
+306
+00:16:58,730 --> 00:17:01,110
+Ministerio de Agricultura
+
+307
+00:17:01,110 --> 00:17:04,710
+así que hay muchos sistemas
+
+308
+00:17:04,710 --> 00:17:06,550
+que son de uso obligatorio
+
+309
+00:17:06,550 --> 00:17:08,490
+y que ni siquiera dependen de esta dirección
+
+310
+00:17:08,490 --> 00:17:10,510
+entonces yo por ejemplo todo lo que es de trámite
+
+311
+00:17:10,510 --> 00:17:12,690
+hay que usar un sistema que se llama GDE
+
+312
+00:17:12,690 --> 00:17:14,650
+y no hay opción ahí
+
+313
+00:17:14,650 --> 00:17:16,450
+y no sé en qué está hecho sinceramente
+
+314
+00:17:16,450 --> 00:17:18,790
+después hay una serie
+
+315
+00:17:18,790 --> 00:17:20,390
+de sistemas que son de oficina
+
+316
+00:17:20,390 --> 00:17:23,210
+y ahí también se siguen normativas
+
+317
+00:17:23,210 --> 00:17:25,470
+más nacionales
+
+318
+00:17:25,470 --> 00:17:27,190
+así que ahí hay
+
+319
+00:17:27,190 --> 00:17:29,210
+Windows y hay Word
+
+320
+00:17:29,210 --> 00:17:31,010
+y Office, hay Microsoft
+
+321
+00:17:31,010 --> 00:17:32,210
+pura diversión
+
+322
+00:17:32,210 --> 00:17:32,890
+y después
+
+323
+00:17:32,890 --> 00:17:35,590
+y después está
+
+324
+00:17:35,590 --> 00:17:38,630
+lo que desarrollamos los investigadores
+
+325
+00:17:38,630 --> 00:17:39,930
+esa es la parte que me interesa
+
+326
+00:17:39,930 --> 00:17:42,970
+y ahí el software libre
+
+327
+00:17:42,970 --> 00:17:44,250
+es el rey
+
+328
+00:17:44,250 --> 00:17:46,170
+Geointa es todo software libre por ejemplo
+
+329
+00:17:46,170 --> 00:17:50,210
+y hay mucho
+
+330
+00:17:50,210 --> 00:17:52,110
+R y mucho Python
+
+331
+00:17:52,110 --> 00:17:54,010
+dependiendo de lo que
+
+332
+00:17:54,010 --> 00:17:55,970
+vos estés desarrollando o usando
+
+333
+00:17:55,970 --> 00:17:58,250
+por ejemplo yo trabajo con radares meteorológicos
+
+334
+00:17:58,250 --> 00:17:59,470
+y en ese
+
+335
+00:17:59,470 --> 00:18:02,050
+ahí hay muchas librerías ya armadas
+
+336
+00:18:02,050 --> 00:18:03,190
+en Python que son
+
+337
+00:18:03,190 --> 00:18:05,330
+muy útiles
+
+338
+00:18:05,330 --> 00:18:07,230
+mi tesis de maestría fue
+
+339
+00:18:07,230 --> 00:18:09,870
+justamente generar un modelo para granizo
+
+340
+00:18:09,870 --> 00:18:11,870
+para el radar, la hice completa en Python
+
+341
+00:18:11,870 --> 00:18:14,030
+y después hay mucho de R
+
+342
+00:18:14,030 --> 00:18:15,570
+porque todo lo que es
+
+343
+00:18:15,570 --> 00:18:17,790
+modelado, visualización
+
+344
+00:18:17,790 --> 00:18:19,750
+y comunicación de
+
+345
+00:18:19,750 --> 00:18:21,170
+contenidos en R
+
+346
+00:18:21,170 --> 00:18:24,050
+está muy lindo y es muy
+
+347
+00:18:24,050 --> 00:18:25,970
+sencillo de utilizar y alguien que
+
+348
+00:18:25,970 --> 00:18:27,850
+no viene del palo de la informática
+
+349
+00:18:27,850 --> 00:18:29,830
+en la curva de aprendizaje
+
+350
+00:18:29,830 --> 00:18:31,330
+es rapidísima
+
+351
+00:18:31,330 --> 00:18:34,250
+así que estamos generando
+
+352
+00:18:34,250 --> 00:18:35,870
+muchos paquetes, lo que es
+
+353
+00:18:35,870 --> 00:18:37,190
+el de suelos que has visto
+
+354
+00:18:37,190 --> 00:18:39,570
+es el Sysinta que es un sistema que está
+
+355
+00:18:39,570 --> 00:18:40,470
+funcionando
+
+356
+00:18:40,470 --> 00:18:43,830
+eso sí está todo desarrollado
+
+357
+00:18:43,830 --> 00:18:44,470
+en software libre
+
+358
+00:18:44,470 --> 00:18:47,690
+y lo que estamos haciendo ahora es un paquete
+
+359
+00:18:47,690 --> 00:18:49,330
+de R para poder usar esos datos
+
+360
+00:18:49,330 --> 00:18:52,950
+y procesarlos desde R.
+
+361
+00:18:53,110 --> 00:18:57,130
+Estamos haciendo lo mismo con lo de agrometeorología,
+
+362
+00:18:57,310 --> 00:18:58,210
+el paquete se llama Agromet,
+
+363
+00:18:58,550 --> 00:19:02,310
+y vas a poder descargar los datos de INTA
+
+364
+00:19:02,310 --> 00:19:05,090
+y ya hay una serie de funciones que te generan
+
+365
+00:19:05,090 --> 00:19:10,210
+los índices que más se usan, mapea, genera informes
+
+366
+00:19:10,210 --> 00:19:14,050
+y todo atrás tiene su paper científico
+
+367
+00:19:14,050 --> 00:19:16,990
+que justifica ese cálculo o ese índice
+
+368
+00:19:16,990 --> 00:19:18,470
+o esa forma de hacer el mapa.
+
+369
+00:19:19,330 --> 00:19:24,150
+También estamos trabajando con la gente de Fundación Sadowski
+
+370
+00:19:24,150 --> 00:19:28,270
+para poner todos los datos de los radares en Palenque
+
+371
+00:19:28,270 --> 00:19:30,690
+y que se puedan consumir desde ahí.
+
+372
+00:19:33,370 --> 00:19:38,370
+Y bueno, sí, lo que es el uso de GitHub,
+
+373
+00:19:39,650 --> 00:19:42,470
+o sea, control de versiones nosotros veníamos usando antes,
+
+374
+00:19:42,790 --> 00:19:46,590
+interno, no tiene mucho sentido hoy existiendo esta plataforma,
+
+375
+00:19:46,590 --> 00:19:48,470
+o sea GitHub o GitLab
+
+376
+00:19:48,470 --> 00:19:50,750
+y nada
+
+377
+00:19:50,750 --> 00:19:52,950
+pero es como se debe trabajar
+
+378
+00:19:52,950 --> 00:19:54,390
+permite la discusión
+
+379
+00:19:54,390 --> 00:19:56,570
+todas las decisiones que uno toma quedan registradas
+
+380
+00:19:56,570 --> 00:19:58,570
+ahí, entonces si se mete
+
+381
+00:19:58,570 --> 00:19:59,790
+alguien nuevo en el equipo
+
+382
+00:19:59,790 --> 00:20:01,850
+y dice, che, ¿por qué no hacemos esto?
+
+383
+00:20:01,910 --> 00:20:03,810
+bueno, mira acá, acá está la discusión y acá está
+
+384
+00:20:03,810 --> 00:20:05,710
+por qué decidimos hacer esto o esto otro
+
+385
+00:20:05,710 --> 00:20:08,170
+tenés un plan
+
+386
+00:20:08,170 --> 00:20:09,770
+con todos los issues
+
+387
+00:20:09,770 --> 00:20:11,410
+qué es lo que te está faltando hacer
+
+388
+00:20:11,410 --> 00:20:13,970
+podés priorizar, podés asignar
+
+389
+00:20:13,970 --> 00:20:16,270
+podés pedir revisión, queda todo registrado
+
+390
+00:20:16,270 --> 00:20:17,710
+queda toda la historia disponible
+
+391
+00:20:17,710 --> 00:20:19,890
+y si
+
+392
+00:20:19,890 --> 00:20:22,170
+la idea por lo menos con los paquetes
+
+393
+00:20:22,170 --> 00:20:23,750
+de ERES ya les agregamos
+
+394
+00:20:23,750 --> 00:20:25,910
+la licencia, el código de conducta
+
+395
+00:20:25,910 --> 00:20:27,490
+el código de cómo contribuir
+
+396
+00:20:27,490 --> 00:20:29,090
+esperemos que la comunidad
+
+397
+00:20:29,090 --> 00:20:31,550
+se sume y
+
+398
+00:20:31,550 --> 00:20:34,050
+sería genial empezar a tener contribuciones
+
+399
+00:20:34,050 --> 00:20:36,370
+para mejorar nuestros propios paquetes
+
+400
+00:20:36,370 --> 00:20:38,170
+Exacto, me gusta
+
+401
+00:20:38,170 --> 00:20:40,150
+mucho todo esto que contaste, invitamos a todos
+
+402
+00:20:40,150 --> 00:20:42,010
+los funcionarios técnicos
+
+403
+00:20:42,010 --> 00:20:44,030
+del Estado Nacional a que sigan esto mismo
+
+404
+00:20:44,030 --> 00:20:45,810
+que lo contaste exactamente
+
+405
+00:20:45,810 --> 00:20:48,570
+como lo contaste que me pareció súper interesante
+
+406
+00:20:48,570 --> 00:20:49,670
+te llevo
+
+407
+00:20:49,670 --> 00:20:51,890
+a otra parte
+
+408
+00:20:51,890 --> 00:20:54,090
+de tus actividades habituales
+
+409
+00:20:54,090 --> 00:20:55,470
+que es, tenés una parte
+
+410
+00:20:55,470 --> 00:20:58,030
+de trabajo comunitario gigantesco
+
+411
+00:20:58,030 --> 00:20:59,550
+voy a tratar de resumir
+
+412
+00:20:59,550 --> 00:21:02,030
+algunos capítulos que me parecen interesantes
+
+413
+00:21:02,030 --> 00:21:04,130
+quiero empezar preguntándote
+
+414
+00:21:04,130 --> 00:21:05,990
+algunas cosas sobre ArtLadies
+
+415
+00:21:05,990 --> 00:21:07,150
+pero primero
+
+416
+00:21:07,150 --> 00:21:09,250
+quiero decir algo más y es que
+
+417
+00:21:09,250 --> 00:21:11,070
+vi que sos programadora
+
+418
+00:21:11,070 --> 00:21:13,870
+desde, empezaste a programar desde muy niña
+
+419
+00:21:13,870 --> 00:21:15,930
+en la década del 80, por lo tanto
+
+420
+00:21:15,930 --> 00:21:17,350
+se podría decir
+
+421
+00:21:17,350 --> 00:21:19,150
+que conoces muy bien
+
+422
+00:21:19,150 --> 00:21:20,950
+los espacios técnicos
+
+423
+00:21:20,950 --> 00:21:23,750
+de contacto
+
+424
+00:21:23,750 --> 00:21:24,710
+y de comunicación
+
+425
+00:21:24,710 --> 00:21:26,210
+y de comunidad
+
+426
+00:21:26,210 --> 00:21:29,730
+y yo veo desde hace ya algunos años
+
+427
+00:21:29,730 --> 00:21:31,410
+una explosión muy positiva
+
+428
+00:21:31,410 --> 00:21:33,050
+y muy buena de comunidades
+
+429
+00:21:33,050 --> 00:21:34,890
+principalmente organizadas por mujeres
+
+430
+00:21:34,890 --> 00:21:37,510
+y creo y supongo
+
+431
+00:21:37,510 --> 00:21:39,190
+que esto es tan exitoso
+
+432
+00:21:39,190 --> 00:21:41,350
+porque lo que había antes tenía cosas
+
+433
+00:21:41,350 --> 00:21:43,270
+que no funcionaban para nada bien
+
+434
+00:21:43,270 --> 00:21:46,130
+y que estas nuevas comunidades vienen a corregir.
+
+435
+00:21:46,710 --> 00:21:52,390
+Como miembro de ArtLadies y de todas las otras comunidades,
+
+436
+00:21:52,710 --> 00:21:54,870
+quería preguntarte cómo estamos ahora, estamos mejor.
+
+437
+00:21:55,830 --> 00:21:57,690
+¿Te parece correcto decir que estamos mal
+
+438
+00:21:57,690 --> 00:22:00,030
+y estas nuevas comunidades vienen a corregir algo?
+
+439
+00:22:00,630 --> 00:22:03,110
+¿Cómo te ves ahí? ¿Cómo estamos?
+
+440
+00:22:07,480 --> 00:22:11,140
+Bueno, primero que el hecho de que hayan surgido las comunidades
+
+441
+00:22:11,140 --> 00:22:17,920
+y tengamos ahora un espacio donde muchas personas se sienten seguras,
+
+442
+00:22:18,960 --> 00:22:23,940
+se sienten contenidas, se sienten bien recibidas, que pueden aprender,
+
+443
+00:22:23,940 --> 00:22:28,920
+que ya con eso ya mejora, porque son espacios que antes no estaban.
+
+444
+00:22:29,740 --> 00:22:36,340
+Sentirse acompañada ante ciertas situaciones ya es muchísimo.
+
+445
+00:22:36,340 --> 00:22:39,320
+poder hablar con otra persona
+
+446
+00:22:39,320 --> 00:22:41,380
+y ver que no te pasa solamente
+
+447
+00:22:41,380 --> 00:22:43,440
+a vos, o que alguien te ayude a encontrar
+
+448
+00:22:43,440 --> 00:22:44,320
+una solución
+
+449
+00:22:44,320 --> 00:22:46,280
+ya aporta
+
+450
+00:22:46,280 --> 00:22:48,740
+algo que antes no estaba
+
+451
+00:22:48,740 --> 00:22:51,380
+y por ende en ese sentido estamos mejor
+
+452
+00:22:51,380 --> 00:22:53,400
+creo que tenemos mucho camino
+
+453
+00:22:53,400 --> 00:22:54,900
+por recorrer
+
+454
+00:22:54,900 --> 00:22:57,040
+yo cada vez que hablamos de ArtLadies me pregunto
+
+455
+00:22:57,040 --> 00:22:59,160
+yo digo, bueno, esperemos que dentro de 10 años
+
+456
+00:22:59,160 --> 00:23:01,060
+cerremos ArtLadies porque ya no somos
+
+457
+00:23:01,060 --> 00:23:01,780
+necesarias
+
+458
+00:23:01,780 --> 00:23:04,620
+yo decí, bueno, che, pero
+
+459
+00:23:04,620 --> 00:23:08,600
+¿Por qué necesitas? ¿Cuál es el tema?
+
+460
+00:23:09,580 --> 00:23:12,060
+Bueno, cuando vos entras a un lugar,
+
+461
+00:23:12,940 --> 00:23:16,640
+no sé, yo he ido a los Dev Days de Microsoft,
+
+462
+00:23:16,900 --> 00:23:18,580
+o he ido a conferencias,
+
+463
+00:23:19,680 --> 00:23:21,400
+vos entras, hay mil personas,
+
+464
+00:23:22,540 --> 00:23:24,920
+y te encontrás con diez mujeres.
+
+465
+00:23:25,680 --> 00:23:25,900
+Sí.
+
+466
+00:23:27,340 --> 00:23:30,360
+Entonces, vos mirás y vos no sos parte,
+
+467
+00:23:30,360 --> 00:23:32,560
+o sea, no hay iguales a vos.
+
+468
+00:23:32,560 --> 00:23:34,380
+no seas exagerada
+
+469
+00:23:34,380 --> 00:23:37,240
+y bueno, pero no hay
+
+470
+00:23:37,240 --> 00:23:38,900
+es como si uno va
+
+471
+00:23:38,900 --> 00:23:40,740
+a una conferencia en otro país
+
+472
+00:23:40,740 --> 00:23:43,120
+y todo el mundo te habla en alemán
+
+473
+00:23:43,120 --> 00:23:44,580
+y bueno, te vas a quedar medio afuera
+
+474
+00:23:44,580 --> 00:23:45,540
+si no hablas alemán
+
+475
+00:23:45,540 --> 00:23:48,340
+y si hablas un poquitito, te va a costar
+
+476
+00:23:48,340 --> 00:23:50,720
+igual comunicarte, te vas a perder algunas cosas
+
+477
+00:23:50,720 --> 00:23:52,840
+y en eso
+
+478
+00:23:52,840 --> 00:23:54,920
+están las relaciones, hay gente que va a ser
+
+479
+00:23:54,920 --> 00:23:56,900
+educada y que va a ser
+
+480
+00:23:56,900 --> 00:23:59,020
+se va a comportar de forma
+
+481
+00:23:59,020 --> 00:24:00,420
+adecuada y hay otra gente que no
+
+482
+00:24:00,420 --> 00:24:02,760
+Hay gente que te pregunta, ¿viniste con tu novio?
+
+483
+00:24:04,020 --> 00:24:06,360
+Porque no puede ser que vos técnicamente estés ahí
+
+484
+00:24:06,360 --> 00:24:07,460
+para aprender a programar.
+
+485
+00:24:08,920 --> 00:24:11,860
+Hay otra gente que te va a preguntar cosas inapropiadas
+
+486
+00:24:11,860 --> 00:24:13,840
+y ¿a quién se lo contás?
+
+487
+00:24:14,480 --> 00:24:16,360
+¿Cómo te defendés en eso?
+
+488
+00:24:16,920 --> 00:24:20,060
+Ah, bueno, era un chiste o me entendió mal.
+
+489
+00:24:20,580 --> 00:24:22,840
+Esas cosas lamentablemente pasan.
+
+490
+00:24:22,840 --> 00:24:26,580
+después
+
+491
+00:24:26,580 --> 00:24:28,760
+vos no tenés
+
+492
+00:24:28,760 --> 00:24:30,500
+como modelos
+
+493
+00:24:30,500 --> 00:24:31,840
+los road models
+
+494
+00:24:31,840 --> 00:24:34,320
+todos los que charla son
+
+495
+00:24:34,320 --> 00:24:35,780
+varones
+
+496
+00:24:35,780 --> 00:24:38,640
+blancos, heterosexuales
+
+497
+00:24:38,640 --> 00:24:40,480
+educados
+
+498
+00:24:40,480 --> 00:24:42,260
+entonces
+
+499
+00:24:42,260 --> 00:24:43,500
+¿dónde entro?
+
+500
+00:24:43,500 --> 00:24:44,420
+yo ahí
+
+501
+00:24:44,420 --> 00:24:46,720
+¿dónde entra una mujer
+
+502
+00:24:46,720 --> 00:24:48,360
+de color
+
+503
+00:24:48,360 --> 00:24:51,920
+lesbiana
+
+504
+00:24:51,920 --> 00:24:53,860
+una mujer trans
+
+505
+00:24:53,860 --> 00:24:55,420
+o sea, puede o no puede
+
+506
+00:24:55,420 --> 00:24:57,120
+porque verse
+
+507
+00:24:57,120 --> 00:24:58,600
+que otra persona
+
+508
+00:24:58,600 --> 00:25:01,480
+pudo, otra persona que es
+
+509
+00:25:01,480 --> 00:25:03,420
+igual a mí, me puede dar
+
+510
+00:25:03,420 --> 00:25:04,700
+ánimos a mí si me gustara
+
+511
+00:25:04,700 --> 00:25:07,160
+la carrera en
+
+512
+00:25:07,160 --> 00:25:09,580
+perseguir ese sueño o esa
+
+513
+00:25:09,580 --> 00:25:11,300
+vocación
+
+514
+00:25:11,300 --> 00:25:13,720
+es como muy difícil
+
+515
+00:25:13,720 --> 00:25:15,400
+sí, sí, sí, totalmente
+
+516
+00:25:15,400 --> 00:25:17,340
+claro, y después
+
+517
+00:25:17,340 --> 00:25:19,080
+es hablar estas otras cosas, hay
+
+518
+00:25:19,080 --> 00:25:21,000
+cuestiones, nosotros
+
+519
+00:25:21,000 --> 00:25:22,700
+en Our Ladies hay un canal
+
+520
+00:25:22,700 --> 00:25:24,380
+que es
+
+521
+00:25:24,380 --> 00:25:26,800
+bueno, en inglés es rantídate
+
+522
+00:25:26,800 --> 00:25:28,480
+rant, es como estar enojada
+
+523
+00:25:28,480 --> 00:25:30,620
+y la otra palabra es como un antídoto
+
+524
+00:25:30,620 --> 00:25:32,800
+donde uno cuenta cuando le pasaron
+
+525
+00:25:32,800 --> 00:25:34,780
+cosas que te molestaron
+
+526
+00:25:34,780 --> 00:25:35,940
+o que te hicieron sentir mal
+
+527
+00:25:35,940 --> 00:25:38,200
+y otras cosas que te hicieron sentir bien
+
+528
+00:25:38,200 --> 00:25:40,200
+y en mucho ahí
+
+529
+00:25:40,200 --> 00:25:42,000
+hay mucho, mucho ahí también
+
+530
+00:25:42,000 --> 00:25:43,900
+de la vida diaria como mujer
+
+531
+00:25:43,900 --> 00:25:45,580
+yo soy mamá, tengo dos hijos
+
+532
+00:25:45,580 --> 00:25:48,560
+hay toda una parte de cuando uno se convierte
+
+533
+00:25:48,560 --> 00:25:50,800
+en mamá, el embarazo, el después de tener el bebé
+
+534
+00:25:50,800 --> 00:25:53,340
+el tener que estar amamantando
+
+535
+00:25:53,340 --> 00:25:55,480
+dormir dos horas
+
+536
+00:25:55,480 --> 00:25:55,900
+a la noche
+
+537
+00:25:55,900 --> 00:25:58,980
+y yo tengo a mi marido que me acompaña
+
+538
+00:25:58,980 --> 00:26:00,420
+pero él no vive por todo eso
+
+539
+00:26:00,420 --> 00:26:02,780
+él no tiene el útero, no tuvo la panza y no tiene el pecho
+
+540
+00:26:02,780 --> 00:26:05,280
+para darle la teta al bebé
+
+541
+00:26:05,280 --> 00:26:07,100
+entonces, ¿quién me va a entender
+
+542
+00:26:07,100 --> 00:26:08,620
+mejor que otra mujer
+
+543
+00:26:08,620 --> 00:26:10,220
+que haya pasado por eso?
+
+544
+00:26:10,980 --> 00:26:13,160
+son vivencias
+
+545
+00:26:13,160 --> 00:26:14,900
+y todo eso
+
+546
+00:26:14,900 --> 00:26:16,740
+afecta a tu carrera, porque yo no puedo
+
+547
+00:26:16,740 --> 00:26:18,760
+producir lo mismo, ni como desarrolladora
+
+548
+00:26:18,760 --> 00:26:21,180
+ni como científica en esas situaciones
+
+549
+00:26:21,180 --> 00:26:23,180
+entonces hablar de eso
+
+550
+00:26:23,180 --> 00:26:24,460
+hablarlo con otras personas
+
+551
+00:26:24,460 --> 00:26:27,060
+ver cómo solucionarlo, plantear cuestiones
+
+552
+00:26:27,060 --> 00:26:28,780
+hasta de tener que cambiar los convenios
+
+553
+00:26:28,780 --> 00:26:30,820
+colectivos de trabajo, porque no puede
+
+554
+00:26:30,820 --> 00:26:32,920
+ser que tengamos la poca
+
+555
+00:26:32,920 --> 00:26:34,860
+licencia por maternidad que tenemos o que el varón
+
+556
+00:26:34,860 --> 00:26:36,240
+no tenga lo mismo, si yo
+
+557
+00:26:36,240 --> 00:26:38,520
+a mi marido lo quería al lado y además
+
+558
+00:26:38,520 --> 00:26:40,020
+no necesitaba que estuviera al lado
+
+559
+00:26:40,020 --> 00:26:42,880
+no se puede desentender, era los tres días
+
+560
+00:26:42,880 --> 00:26:44,820
+el que nació el bebé tenía que volver
+
+561
+00:26:44,820 --> 00:26:47,120
+a trabajar, porque se necesita
+
+562
+00:26:47,120 --> 00:26:48,760
+bueno, entonces
+
+563
+00:26:48,760 --> 00:26:50,760
+estos espacios
+
+564
+00:26:50,760 --> 00:26:52,880
+permiten hablar de todas
+
+565
+00:26:52,880 --> 00:26:54,940
+estas cuestiones, permiten darnos cuenta
+
+566
+00:26:54,940 --> 00:26:56,760
+que no nos pasan a nosotras solas
+
+567
+00:26:56,760 --> 00:26:59,060
+y nos permiten buscar soluciones
+
+568
+00:26:59,060 --> 00:26:59,740
+juntas
+
+569
+00:26:59,740 --> 00:27:02,400
+también la otra cuestión es que
+
+570
+00:27:02,400 --> 00:27:05,040
+cuando vos sos de alguno de los grupos
+
+571
+00:27:05,040 --> 00:27:06,680
+minoritarios, esto es
+
+572
+00:27:06,680 --> 00:27:08,780
+esto que yo te digo, mil y hay diez
+
+573
+00:27:08,780 --> 00:27:09,960
+nada más mujeres
+
+574
+00:27:09,960 --> 00:27:13,240
+o hay diez latinas
+
+575
+00:27:13,240 --> 00:27:15,200
+cuando vos sos
+
+576
+00:27:15,200 --> 00:27:16,460
+de los grupos minoritarios
+
+577
+00:27:16,460 --> 00:27:18,660
+en general cuando te toca hablar
+
+578
+00:27:18,660 --> 00:27:21,140
+si vos te equivocás
+
+579
+00:27:21,140 --> 00:27:23,640
+no ves que todas estas son iguales
+
+580
+00:27:23,640 --> 00:27:25,260
+no es que Janina
+
+581
+00:27:25,260 --> 00:27:26,980
+se equivocó, es que ninguna de las mujeres
+
+582
+00:27:26,980 --> 00:27:27,480
+sirve
+
+583
+00:27:27,480 --> 00:27:30,760
+entonces es como que de repente vos tenés
+
+584
+00:27:30,760 --> 00:27:33,000
+todo el peso de representar un género
+
+585
+00:27:33,000 --> 00:27:34,320
+o una raza o un país
+
+586
+00:27:34,320 --> 00:27:38,680
+y cuando vos vas a un lugar
+
+587
+00:27:38,680 --> 00:27:40,780
+cuando vos estás en Art Ladies
+
+588
+00:27:40,780 --> 00:27:43,020
+y vos te sentís en confianza
+
+589
+00:27:43,020 --> 00:27:45,120
+de hacer una pregunta que puede ser tonta
+
+590
+00:27:45,120 --> 00:28:11,180
+Porque nadie te va a decir que mirá lo que está preguntando. Entonces ese sentimiento de acá me puedo equivocar y nadie me va a matar porque me equivoqué, acá puedo preguntar y alguien si lo sabe va a intentar enseñármelo, me lo va a enseñar, me va a ayudar, yo creo que es lo más valioso y por lo que nos gustan tantos estas comunidades y por lo que explotaron tanto.
+
+591
+00:28:11,180 --> 00:28:15,160
+yo creo que viene por ahí
+
+592
+00:28:15,160 --> 00:28:17,100
+es decir, bueno, me puedo equivocar
+
+593
+00:28:17,100 --> 00:28:19,040
+y no pasa nada, puedo no saber
+
+594
+00:28:19,040 --> 00:28:20,620
+y me van a ayudar a aprender
+
+595
+00:28:20,620 --> 00:28:22,960
+y por lo menos a mí, yo entré
+
+596
+00:28:22,960 --> 00:28:24,600
+en el 2017 en estas comunidades
+
+597
+00:28:24,600 --> 00:28:27,240
+y la forma en que me ha ayudado
+
+598
+00:28:27,240 --> 00:28:28,840
+profesional y personalmente
+
+599
+00:28:28,840 --> 00:28:30,560
+es impresionante
+
+600
+00:28:30,560 --> 00:28:32,620
+bien, te llevo
+
+601
+00:28:32,620 --> 00:28:34,680
+siguiendo en esta línea de
+
+602
+00:28:34,680 --> 00:28:36,880
+trabajo colaborativo, hay un
+
+603
+00:28:36,880 --> 00:28:38,620
+proyecto que creo que es uno de los últimos
+
+604
+00:28:38,620 --> 00:28:40,740
+que empezaste y que estuve
+
+605
+00:28:40,740 --> 00:28:42,920
+personalmente viendo uno de los cursitos
+
+606
+00:28:42,920 --> 00:28:44,740
+que vos dictabas y me gustó mucho
+
+607
+00:28:44,740 --> 00:28:46,640
+el proyecto se llama Meta Docencia
+
+608
+00:28:46,640 --> 00:28:48,440
+quería que me cuentes
+
+609
+00:28:48,440 --> 00:28:50,040
+qué es este proyecto y
+
+610
+00:28:50,040 --> 00:28:51,680
+a quiénes apunta
+
+611
+00:28:51,680 --> 00:28:55,120
+Sí, Meta Docencia
+
+612
+00:28:55,120 --> 00:28:57,180
+nace
+
+613
+00:28:57,180 --> 00:28:59,880
+por la pandemia
+
+614
+00:28:59,880 --> 00:29:01,440
+en un primer momento
+
+615
+00:29:01,440 --> 00:29:03,380
+fue una charla de
+
+616
+00:29:03,380 --> 00:29:05,240
+Whatsapp con amigas
+
+617
+00:29:05,240 --> 00:29:07,340
+la oración
+
+618
+00:29:07,340 --> 00:29:09,300
+que creo que la conoces
+
+619
+00:29:09,300 --> 00:29:11,820
+ya estaba
+
+620
+00:29:11,820 --> 00:29:14,940
+preocupada de decir, bueno, ¿cómo hacemos?
+
+621
+00:29:15,100 --> 00:29:16,700
+¿Cómo ayudamos en esta época
+
+622
+00:29:16,700 --> 00:29:17,960
+de pandemia?
+
+623
+00:29:18,960 --> 00:29:19,820
+Y algunas
+
+624
+00:29:19,820 --> 00:29:22,960
+otras personas que estábamos ahí,
+
+625
+00:29:23,580 --> 00:29:24,140
+gente
+
+626
+00:29:24,140 --> 00:29:26,480
+conocida, que son docentes,
+
+627
+00:29:27,000 --> 00:29:29,140
+como estamos en este tema de la tecnología,
+
+628
+00:29:29,560 --> 00:29:30,960
+nos empezaron a preguntar, che, voy a tener
+
+629
+00:29:30,960 --> 00:29:32,660
+que virtualizar las clases, ¿cómo hacemos?
+
+630
+00:29:33,380 --> 00:29:34,940
+Y nace un poco la idea ahí
+
+631
+00:29:34,940 --> 00:29:36,940
+de, como nosotros venimos
+
+632
+00:29:36,940 --> 00:29:39,120
+trabajando de forma online, de forma virtual,
+
+633
+00:29:40,060 --> 00:29:41,000
+las personas que
+
+634
+00:29:41,000 --> 00:29:42,860
+iniciamos con MetaDocencia, somos
+
+635
+00:29:42,860 --> 00:29:45,420
+todos instructores certificados
+
+636
+00:29:45,420 --> 00:29:47,100
+de RStudio y
+
+637
+00:29:47,100 --> 00:29:49,080
+de Carpentries, que es otra
+
+638
+00:29:49,080 --> 00:29:50,740
+comunidad. Carpentries
+
+639
+00:29:50,740 --> 00:29:52,520
+te enseña cómo enseñar
+
+640
+00:29:52,520 --> 00:29:54,800
+y te enseña habilidades
+
+641
+00:29:54,800 --> 00:29:56,860
+de computación para científicos.
+
+642
+00:29:58,760 --> 00:30:00,680
+Y se llama Carpentries como
+
+643
+00:30:00,680 --> 00:30:03,120
+contraposición con un ingeniero
+
+644
+00:30:03,120 --> 00:30:05,080
+de software. Pues no te vas a convertir en un
+
+645
+00:30:05,080 --> 00:30:06,960
+ingeniero de software con estos cursos, pero vas a ser
+
+646
+00:30:06,960 --> 00:30:09,040
+un carpintero de software. Entonces, podés
+
+647
+00:30:09,040 --> 00:30:11,120
+a hacer lo que necesitas para poder seguir
+
+648
+00:30:11,120 --> 00:30:12,900
+haciendo química, física, agronomía, lo que vos
+
+649
+00:30:12,900 --> 00:30:14,880
+investigues. Entonces nos
+
+650
+00:30:14,880 --> 00:30:17,040
+pareció
+
+651
+00:30:17,800 --> 00:30:19,020
+que teniendo
+
+652
+00:30:19,020 --> 00:30:20,920
+ese conocimiento y viendo
+
+653
+00:30:20,920 --> 00:30:22,940
+la necesidad que había, podíamos
+
+654
+00:30:22,940 --> 00:30:25,080
+ayudar a docentes.
+
+655
+00:30:25,460 --> 00:30:26,840
+En un primer momento era para
+
+656
+00:30:26,840 --> 00:30:28,840
+docentes de nivel superior, pero se nos
+
+657
+00:30:28,840 --> 00:30:31,320
+sumaron desde maestras de jardín
+
+658
+00:30:31,320 --> 00:30:33,200
+a todos los niveles que vos te imagines.
+
+659
+00:30:33,940 --> 00:30:34,400
+Dimos
+
+660
+00:30:34,400 --> 00:30:36,820
+cuarenta y pico de cursos durante
+
+661
+00:30:36,820 --> 00:30:38,440
+el 2020
+
+662
+00:30:38,440 --> 00:30:39,920
+todo
+
+663
+00:30:39,920 --> 00:30:43,020
+es gratuito, todo voluntario
+
+664
+00:30:43,020 --> 00:30:46,700
+y lo hacemos porque podemos
+
+665
+00:30:46,700 --> 00:30:48,660
+ayudar, y si vos tenés un
+
+666
+00:30:48,660 --> 00:30:50,340
+conocimiento y podés ayudar
+
+667
+00:30:50,340 --> 00:30:52,480
+hay como una
+
+668
+00:30:52,480 --> 00:30:54,580
+obligación ético-moral
+
+669
+00:30:54,580 --> 00:30:55,720
+de hacerlo, ¿no?
+
+670
+00:30:55,900 --> 00:30:58,640
+Sí, por supuesto, ¿ustedes graban las clases y las
+
+671
+00:30:58,640 --> 00:31:00,060
+dejan disponibles para que cualquiera
+
+672
+00:31:00,060 --> 00:31:00,980
+las vea?
+
+673
+00:31:02,420 --> 00:31:04,660
+Sí, el curso
+
+674
+00:31:04,660 --> 00:31:06,520
+que más dimos es uno que se llama Intro a la
+
+675
+00:31:06,520 --> 00:31:09,500
+para enseñar online
+
+676
+00:31:09,500 --> 00:31:13,540
+ahora lo estamos reacomodando
+
+677
+00:31:13,540 --> 00:31:16,180
+vamos a arrancar de vuelta pronto
+
+678
+00:31:16,180 --> 00:31:18,020
+con los cursos
+
+679
+00:31:18,020 --> 00:31:21,740
+lo mejor es que vos lo tomes de forma presencial
+
+680
+00:31:21,740 --> 00:31:24,800
+porque una de las cosas que tiene el INDEL curso
+
+681
+00:31:24,800 --> 00:31:28,140
+es que vos vivís como estudiante lo que tus estudiantes van a vivir
+
+682
+00:31:28,140 --> 00:31:30,460
+nosotros mostramos herramientas
+
+683
+00:31:30,460 --> 00:31:33,840
+y las herramientas que contamos en el curso las usamos
+
+684
+00:31:33,840 --> 00:31:51,740
+Entonces vos te llevas, además de aprenderlas, te llevas la experiencia de cómo es. Y creo que es una de las cosas que más valor aporta y es lo que más les gusta a todos los docentes que lo han tomado. Le hemos dado este curso a más de 600 docentes de 19 países de habla hispana.
+
+685
+00:31:51,740 --> 00:31:54,960
+así que está grabado
+
+686
+00:31:54,960 --> 00:31:56,640
+están en nuestro canal de YouTube
+
+687
+00:31:56,640 --> 00:31:59,040
+pero yo les recomiendo
+
+688
+00:31:59,040 --> 00:32:01,280
+que si pueden y quieren lo hagan
+
+689
+00:32:01,280 --> 00:32:02,400
+presencial
+
+690
+00:32:02,400 --> 00:32:05,280
+porque es lo que da el plus
+
+691
+00:32:05,280 --> 00:32:06,520
+el curso dura 3 horas
+
+692
+00:32:06,520 --> 00:32:08,000
+ya les digo, es gratuito
+
+693
+00:32:08,000 --> 00:32:10,760
+no se cobra nada
+
+694
+00:32:10,760 --> 00:32:13,320
+con presencial no te refería físicamente
+
+695
+00:32:13,320 --> 00:32:15,860
+sino en tiempo real o en directo
+
+696
+00:32:15,860 --> 00:32:16,620
+a través de la computadora
+
+697
+00:32:16,620 --> 00:32:17,320
+sí, sincrónico
+
+698
+00:32:17,320 --> 00:32:20,320
+que lo hagan sincrónico
+
+699
+00:32:20,320 --> 00:32:22,360
+gracias Andrés
+
+700
+00:32:22,360 --> 00:32:24,660
+les recomendamos a los docentes
+
+701
+00:32:24,660 --> 00:32:27,420
+teniendo yo también alguna experiencia
+
+702
+00:32:27,420 --> 00:32:29,760
+en el mundo de las cosas comunitarias
+
+703
+00:32:29,760 --> 00:32:31,580
+me parece
+
+704
+00:32:31,580 --> 00:32:32,760
+que está bueno cuando
+
+705
+00:32:32,760 --> 00:32:34,080
+más allá de
+
+706
+00:32:34,080 --> 00:32:37,020
+trabajar a Donoren
+
+707
+00:32:37,020 --> 00:32:38,620
+y de colaborar, está bueno
+
+708
+00:32:38,620 --> 00:32:40,620
+una organización me parece que se hace más sólida
+
+709
+00:32:40,620 --> 00:32:43,420
+cuando consigue aportes y financiación
+
+710
+00:32:43,420 --> 00:32:45,300
+quería preguntarte si Meta Docencia
+
+711
+00:32:45,300 --> 00:32:46,680
+más allá de que ustedes no cobren
+
+712
+00:32:46,680 --> 00:32:49,440
+tiene aportes para sostener la página web
+
+713
+00:32:49,440 --> 00:32:51,400
+u otros costos que puedan
+
+714
+00:32:51,400 --> 00:32:53,820
+llegar a tener. ¿Tienen financiación
+
+715
+00:32:53,820 --> 00:32:55,920
+auspiciantes o algo ustedes en Meta Docencia?
+
+716
+00:32:57,400 --> 00:32:58,020
+Sí, nosotros
+
+717
+00:32:58,020 --> 00:32:59,480
+el año pasado
+
+718
+00:32:59,480 --> 00:33:01,560
+bueno, el INTA de mi
+
+719
+00:33:01,560 --> 00:33:03,720
+unidad, de Anguil, de La Pampa
+
+720
+00:33:03,720 --> 00:33:05,520
+apoyó
+
+721
+00:33:05,520 --> 00:33:08,020
+dejándome dedicarle
+
+722
+00:33:08,020 --> 00:33:09,800
+una parte de mi tiempo de INTA
+
+723
+00:33:09,800 --> 00:33:11,160
+a Meta Docencia
+
+724
+00:33:11,160 --> 00:33:13,860
+a su vez capacitamos
+
+725
+00:33:13,860 --> 00:33:15,900
+más de 300 personas de
+
+726
+00:33:15,900 --> 00:33:17,820
+INTA con estos cursos, porque bueno
+
+727
+00:33:17,820 --> 00:33:21,480
+El INTA justamente tiene muchos cursos, charlas, eventos, jornadas,
+
+728
+00:33:21,660 --> 00:33:23,660
+así que era algo que se necesitaba.
+
+729
+00:33:24,380 --> 00:33:29,660
+Después la Open Bioinformatic Foundation le había dado una beca a Laura
+
+730
+00:33:29,660 --> 00:33:35,600
+para viajar y nos permitió reconvertir esa beca para lo que pagamos el Zoom,
+
+731
+00:33:36,000 --> 00:33:40,420
+el dominio de la web y el Calendry, que es la infraestructura mínima
+
+732
+00:33:40,420 --> 00:33:41,900
+para poder organizar los cursos.
+
+733
+00:33:41,900 --> 00:33:45,800
+y ArtLadies nos prestó
+
+734
+00:33:45,800 --> 00:33:46,800
+antes de que nosotros
+
+735
+00:33:46,800 --> 00:33:48,380
+tuviéramos ese dinero para Zoom
+
+736
+00:33:48,380 --> 00:33:49,780
+nos prestaba la cuenta de Zoom
+
+737
+00:33:49,780 --> 00:33:52,360
+para poder hacer los cursos
+
+738
+00:33:52,360 --> 00:33:56,120
+y este año tuvimos la fortuna
+
+739
+00:33:56,120 --> 00:34:00,760
+aplicamos a muchísimos grants internacionales
+
+740
+00:34:00,760 --> 00:34:02,800
+recibimos muchos no
+
+741
+00:34:02,800 --> 00:34:04,580
+pero tuvimos un sí
+
+742
+00:34:04,580 --> 00:34:08,520
+así que hay un fondo internacional
+
+743
+00:34:08,520 --> 00:34:10,280
+que se llama CS&S
+
+744
+00:34:10,280 --> 00:34:12,820
+que tiene que ver con ciencia abierta
+
+745
+00:34:12,820 --> 00:34:14,500
+con ciencia libre
+
+746
+00:34:14,500 --> 00:34:17,360
+que nos dio
+
+747
+00:34:17,360 --> 00:34:19,040
+un grant
+
+748
+00:34:19,040 --> 00:34:20,640
+para poder funcionar
+
+749
+00:34:20,640 --> 00:34:21,420
+hasta mayo
+
+750
+00:34:21,420 --> 00:34:24,640
+con eso lo que vamos a hacer es desarrollar
+
+751
+00:34:24,640 --> 00:34:27,060
+nuevos cursos, vamos a hacer dos cursos
+
+752
+00:34:27,060 --> 00:34:28,620
+que tienen que ver, uno es
+
+753
+00:34:28,620 --> 00:34:30,500
+cómo usar Zoom para enseñar
+
+754
+00:34:30,500 --> 00:34:32,800
+el otro tiene que ver es cómo enseñar
+
+755
+00:34:32,800 --> 00:34:34,480
+a programar y va a tener
+
+756
+00:34:34,480 --> 00:34:36,560
+dos orientaciones, hacia Python
+
+757
+00:34:36,560 --> 00:34:37,660
+y hacia R
+
+758
+00:34:37,660 --> 00:34:41,160
+y relacionado con eso
+
+759
+00:34:41,160 --> 00:34:43,320
+hay un curso que yo ya di en Latin R
+
+760
+00:34:43,320 --> 00:34:44,960
+como un piloto
+
+761
+00:34:44,960 --> 00:34:46,560
+que es el de Lerner
+
+762
+00:34:46,560 --> 00:34:48,460
+que es para hacer tutoriales interactivos
+
+763
+00:34:48,460 --> 00:34:50,920
+para que uno pueda aprender
+
+764
+00:34:50,920 --> 00:34:53,180
+a programar de forma sincrónica
+
+765
+00:34:53,180 --> 00:34:54,160
+o sin el docente
+
+766
+00:34:54,160 --> 00:34:57,480
+ahí presente
+
+767
+00:34:57,480 --> 00:34:59,260
+se puede usar en clases sincrónicas
+
+768
+00:34:59,260 --> 00:35:00,720
+y demás, pero la idea es que
+
+769
+00:35:00,720 --> 00:35:02,460
+el estudiante puede ir haciendo el tutorial
+
+770
+00:35:02,460 --> 00:35:03,500
+a su propio ritmo
+
+771
+00:35:03,500 --> 00:35:05,440
+y cuando puede
+
+772
+00:35:05,440 --> 00:35:24,620
+Ese es el curso que vi yo. Te felicito porque la verdad que estaba súper claro y iba a una velocidad bien interesante para que se entienda todo y la coordinación del video, del trabajo que te he hecho ahí me pareció muy bueno. Así que felicitaciones por ese curso en particular y por todo lo otro también.
+
+773
+00:35:25,840 --> 00:35:27,100
+Bueno, muchas gracias.
+
+774
+00:35:27,100 --> 00:35:55,020
+Tengo un par de preguntas más relacionadas con tu trabajo particular. Primero, destaco y valoro que estés trabajando en el sector público, creo que hace muy bien al sector público que gente como vos esté trabajando ahí, pero también entiendo que el mercado hoy en día de la ciencia de datos y de todo esto que vos también sabes hacer, está explotando en todo el mundo, sobre todo en el hemisferio norte,
+
+775
+00:35:55,020 --> 00:35:57,500
+y me ha tocado ver más de una vez
+
+776
+00:35:57,500 --> 00:35:58,640
+la competencia
+
+777
+00:35:58,640 --> 00:36:01,280
+entre empresas que quieren
+
+778
+00:36:01,280 --> 00:36:03,360
+quedarse con una persona. Te pregunto
+
+779
+00:36:03,360 --> 00:36:04,980
+si, en el caso que
+
+780
+00:36:04,980 --> 00:36:07,300
+capaz que ya te paso, si recibieras
+
+781
+00:36:07,300 --> 00:36:09,380
+una oferta súper interesante para irte a una empresa
+
+782
+00:36:09,380 --> 00:36:10,720
+privada al hemisferio norte
+
+783
+00:36:10,720 --> 00:36:13,240
+¿te irías, dejaría el INTA o es
+
+784
+00:36:13,240 --> 00:36:14,520
+imposible que dejes el INTA? Porque
+
+785
+00:36:14,520 --> 00:36:17,300
+te escuché hablar con una pasión y con un compromiso
+
+786
+00:36:17,300 --> 00:36:19,100
+que me parece difícil, pero es algo
+
+787
+00:36:19,100 --> 00:36:21,100
+en lo que debes pensar. Debes tener
+
+788
+00:36:21,100 --> 00:36:22,820
+colegas que por el mismo
+
+789
+00:36:22,820 --> 00:36:25,380
+trabajo que haces vos o por trabajos inferiores
+
+790
+00:36:25,380 --> 00:36:27,220
+están ganando un monto
+
+791
+00:36:27,220 --> 00:36:28,700
+que parece irreal para mucha gente
+
+792
+00:36:28,700 --> 00:36:30,480
+¿cómo estás vos con eso?
+
+793
+00:36:33,480 --> 00:36:35,120
+me sacaste la ficha Andrés
+
+794
+00:36:35,120 --> 00:36:37,480
+sí, obvio que ya he tenido
+
+795
+00:36:37,480 --> 00:36:39,260
+ya he tenido propuestas
+
+796
+00:36:39,260 --> 00:36:40,800
+durante
+
+797
+00:36:40,800 --> 00:36:43,300
+imagínate, entré en el 98 al INTA
+
+798
+00:36:43,300 --> 00:36:45,500
+así que hace 23 años
+
+799
+00:36:45,500 --> 00:36:46,780
+y estoy trabajando ahí
+
+800
+00:36:46,780 --> 00:36:51,500
+hay como dos o tres
+
+801
+00:36:51,500 --> 00:36:52,560
+cuestiones aquí
+
+802
+00:36:52,560 --> 00:36:55,180
+O sea, ofertas he tenido
+
+803
+00:36:55,180 --> 00:36:57,400
+Y en general
+
+804
+00:36:57,400 --> 00:36:59,600
+He dicho que no
+
+805
+00:36:59,600 --> 00:37:03,260
+Hay dos o tres cosas
+
+806
+00:37:03,260 --> 00:37:05,020
+Uno de mis mentores
+
+807
+00:37:05,020 --> 00:37:06,520
+Andy Cipovich, cordobés
+
+808
+00:37:06,520 --> 00:37:09,400
+Ha sido mi jefe en INTA
+
+809
+00:37:09,400 --> 00:37:11,140
+Durante todo este tiempo
+
+810
+00:37:11,140 --> 00:37:13,240
+Él siempre me dice
+
+811
+00:37:13,240 --> 00:37:14,700
+Uno tiene tres sueldos
+
+812
+00:37:14,700 --> 00:37:17,420
+El del bolsillo, que es el que paga las cuentas
+
+813
+00:37:17,420 --> 00:37:18,200
+Y es importante
+
+814
+00:37:18,200 --> 00:37:21,580
+El del corazón, que es cómo te hace sentir
+
+815
+00:37:21,580 --> 00:37:23,000
+ese trabajo que vos haces
+
+816
+00:37:23,000 --> 00:37:25,280
+y el de la cabeza que es
+
+817
+00:37:25,280 --> 00:37:27,400
+cuánto te gusta
+
+818
+00:37:27,400 --> 00:37:29,420
+cuánto vos aprendés, cuánto te mueve
+
+819
+00:37:29,420 --> 00:37:30,520
+tu zona de confort
+
+820
+00:37:30,520 --> 00:37:33,160
+cuánto vas mejorando
+
+821
+00:37:33,160 --> 00:37:34,200
+por hacer ese trabajo
+
+822
+00:37:34,200 --> 00:37:36,880
+y en mi caso los tres son importantes
+
+823
+00:37:36,880 --> 00:37:39,160
+entonces
+
+824
+00:37:39,160 --> 00:37:41,140
+muchas veces los que estas empresas
+
+825
+00:37:41,140 --> 00:37:42,680
+del exterior me han ofrecido
+
+826
+00:37:42,680 --> 00:37:44,400
+mejorarme mucho el del bolsillo
+
+827
+00:37:44,400 --> 00:37:47,120
+pero me desmejoraban mucho
+
+828
+00:37:47,120 --> 00:37:47,960
+los otros dos
+
+829
+00:37:47,960 --> 00:37:52,760
+Y sí, la diferencia es mucha
+
+830
+00:37:52,760 --> 00:37:57,900
+Ahora también con la cuestión remota
+
+831
+00:37:57,900 --> 00:38:01,720
+Y todo este cambio que hubo este último año
+
+832
+00:38:01,720 --> 00:38:03,500
+Hay muchas más posibilidades
+
+833
+00:38:03,500 --> 00:38:06,080
+Y están abiertos a cosas diferentes
+
+834
+00:38:06,080 --> 00:38:09,700
+Pero tendría que venir una oferta
+
+835
+00:38:09,700 --> 00:38:11,600
+Donde esos tres sueldos
+
+836
+00:38:11,600 --> 00:38:16,080
+Fueran muy, pero muy, pero muy tentadores
+
+837
+00:38:16,080 --> 00:38:18,180
+porque bueno
+
+838
+00:38:18,180 --> 00:38:19,920
+yo creo además
+
+839
+00:38:19,920 --> 00:38:22,300
+que el INTA sí hace una diferencia
+
+840
+00:38:22,300 --> 00:38:24,480
+en nuestro país, yo lo siento así
+
+841
+00:38:24,480 --> 00:38:26,380
+siento que nuestras investigaciones realmente
+
+842
+00:38:26,380 --> 00:38:26,980
+ayudan
+
+843
+00:38:26,980 --> 00:38:30,040
+e investigamos y tratamos temas
+
+844
+00:38:30,040 --> 00:38:32,100
+de la región donde vivimos
+
+845
+00:38:32,100 --> 00:38:34,320
+yo investigo cosas y problemáticas
+
+846
+00:38:34,320 --> 00:38:36,180
+de la pampa, yo la sufro
+
+847
+00:38:36,180 --> 00:38:37,100
+o yo la disfruto
+
+848
+00:38:37,100 --> 00:38:38,720
+entonces
+
+849
+00:38:38,720 --> 00:38:40,600
+bueno, nada
+
+850
+00:38:40,600 --> 00:38:42,940
+¿le llevamos tranquilidad a la gente del INTA
+
+851
+00:38:42,940 --> 00:38:44,920
+de que te van a tener un tiempo más?
+
+852
+00:38:46,080 --> 00:38:50,980
+te lo cambio para el otro lado
+
+853
+00:38:50,980 --> 00:38:52,280
+ahora, te llaman y te dicen
+
+854
+00:38:52,280 --> 00:38:54,500
+queremos que sea directora nacional del INTA
+
+855
+00:38:54,500 --> 00:38:57,040
+o secretaria nacional
+
+856
+00:38:57,040 --> 00:38:59,340
+del área donde el INTA corresponda
+
+857
+00:38:59,340 --> 00:39:00,800
+¿te irías a un cargo
+
+858
+00:39:00,800 --> 00:39:02,720
+político con menos contacto
+
+859
+00:39:02,720 --> 00:39:03,440
+con lo técnico?
+
+860
+00:39:05,380 --> 00:39:06,960
+no, ya me lo han ofrecido
+
+861
+00:39:06,960 --> 00:39:07,360
+también
+
+862
+00:39:07,360 --> 00:39:10,980
+el principal
+
+863
+00:39:10,980 --> 00:39:12,840
+problema de eso es que sí o sí te tenés
+
+864
+00:39:12,840 --> 00:39:13,640
+que ir a Buenos Aires
+
+865
+00:39:13,640 --> 00:39:18,680
+y no le haría eso a mi familia
+
+866
+00:39:18,680 --> 00:39:23,660
+yo acá en La Pampa
+
+867
+00:39:23,660 --> 00:39:26,460
+vamos a la experimental en 15 minutos
+
+868
+00:39:26,460 --> 00:39:29,360
+y tengo mis padres
+
+869
+00:39:29,360 --> 00:39:32,140
+así que mis hijos pueden ver a sus abuelos
+
+870
+00:39:32,140 --> 00:39:33,180
+casi todos los días
+
+871
+00:39:33,180 --> 00:39:35,960
+y su mamá está con ellos
+
+872
+00:39:35,960 --> 00:39:40,460
+y más allá de que a nivel de trabajo
+
+873
+00:39:40,460 --> 00:39:41,680
+tal vez lo técnico
+
+874
+00:39:41,680 --> 00:39:43,860
+bueno, son distintos tipos de trabajo
+
+875
+00:39:43,860 --> 00:39:45,080
+yo he estado en la gestión
+
+876
+00:39:45,080 --> 00:39:47,740
+coordino una red nacional
+
+877
+00:39:47,740 --> 00:39:50,220
+de modelado de agroecosistemas
+
+878
+00:39:50,220 --> 00:39:50,820
+en INTA
+
+879
+00:39:50,820 --> 00:39:54,300
+pero eso lo puedo hacer desde mi lugar
+
+880
+00:39:54,300 --> 00:39:58,000
+las ciudades grandes no son para mí
+
+881
+00:39:58,000 --> 00:40:02,180
+así que
+
+882
+00:40:02,180 --> 00:40:04,260
+sí, ya me lo han ofrecido
+
+883
+00:40:04,260 --> 00:40:05,180
+y ya he dicho que no
+
+884
+00:40:05,180 --> 00:40:07,020
+bueno, bueno
+
+885
+00:40:07,020 --> 00:40:08,920
+última pregunta
+
+886
+00:40:08,920 --> 00:40:10,340
+Janina
+
+887
+00:40:10,340 --> 00:40:12,920
+este podcast se llama Cadena de Datos
+
+888
+00:40:12,920 --> 00:40:14,860
+porque trato de encadenar invitados
+
+889
+00:40:14,860 --> 00:40:16,740
+a partir de la opinión
+
+890
+00:40:16,740 --> 00:40:18,540
+de los entrevistados, que quería preguntarte
+
+891
+00:40:18,540 --> 00:40:20,880
+¿a quién te parecería bien
+
+892
+00:40:20,880 --> 00:40:23,300
+convocar a una entrevista?
+
+893
+00:40:23,380 --> 00:40:24,060
+¿se te ocurre a alguien?
+
+894
+00:40:26,110 --> 00:40:28,330
+Y mucha de la gente que trabaja
+
+895
+00:40:28,330 --> 00:40:29,750
+conmigo en metadocencia
+
+896
+00:40:29,750 --> 00:40:32,490
+Laura Sion, Nicolás
+
+897
+00:40:32,490 --> 00:40:34,790
+Palopoli, Elio Campitelli
+
+898
+00:40:34,790 --> 00:40:35,970
+Paola Corrales
+
+899
+00:40:35,970 --> 00:40:37,550
+son gente que
+
+900
+00:40:37,550 --> 00:40:40,570
+creo que aportarían muchísimo
+
+901
+00:40:40,570 --> 00:40:42,130
+desde sus disciplinas
+
+902
+00:40:42,130 --> 00:40:43,970
+y desde su experiencia de trabajo
+
+903
+00:40:43,970 --> 00:40:45,230
+en comunidades
+
+904
+00:40:45,230 --> 00:40:48,310
+además, bueno, nada, son entrañables
+
+905
+00:40:48,310 --> 00:40:50,290
+amigos y amigas y gente que
+
+906
+00:40:50,290 --> 00:40:51,350
+respeto muchísimo
+
+907
+00:40:51,350 --> 00:40:54,410
+así que ahí ya te tiré cuatro nombres
+
+908
+00:40:54,410 --> 00:40:56,750
+Sí, sí, ya tengo, tengo para entretenerme
+
+909
+00:40:56,750 --> 00:41:00,210
+Sí, cualquiera de ellos
+
+910
+00:41:00,210 --> 00:41:02,450
+sería muy, muy interesante
+
+911
+00:41:02,450 --> 00:41:03,190
+para charlar
+
+912
+00:41:03,190 --> 00:41:05,870
+y para que te cuenten qué hacen
+
+913
+00:41:05,870 --> 00:41:07,070
+y cómo lo hacen
+
+914
+00:41:07,070 --> 00:41:10,170
+Yanina, muchísimas gracias por esta
+
+915
+00:41:10,170 --> 00:41:18,550
+entrevista, nos vemos. Muchas gracias a vos Andrés por la posibilidad, por el espacio y te felicito
+
+916
+00:41:18,550 --> 00:41:21,550
+por generar algo así nuestro de acá. Bueno.
+

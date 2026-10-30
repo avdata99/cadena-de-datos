@@ -1,0 +1,2104 @@
+1
+00:00:00,050 --> 00:00:27,030
+Cadena de datos, segunda temporada, de este lado Andrés Vázquez, hoy específicamente desde la oficina de datos del Ayuntamiento de Barcelona, estoy con Mercedes Figolz Piubó, licenciada en matemáticas por la Universidad de Barcelona, trabajó muchos años en el Instituto Municipal de Informática del Ayuntamiento de Barcelona y actualmente es responsable del servicio Open Data BCN,
+
+2
+00:00:27,030 --> 00:00:31,010
+que es parte de la Oficina de Datos Municipal del Ayuntamiento de Barcelona.
+
+3
+00:00:31,450 --> 00:00:33,250
+Buenos días, Mercedes, ¿cómo estás?
+
+4
+00:00:33,510 --> 00:00:34,250
+Muy buenos días.
+
+5
+00:00:35,070 --> 00:00:37,790
+Bien, vamos directamente con la primera pregunta.
+
+6
+00:00:39,250 --> 00:00:43,190
+Estuve viendo y el portal de datos abiertos de Barcelona existe desde 2011.
+
+7
+00:00:43,610 --> 00:00:47,990
+Quería preguntarle si vos estás desde esos comienzos o empezaste después en esta oficina.
+
+8
+00:00:48,470 --> 00:00:55,290
+Correcto. Primero de todo, muchas gracias por vuestro interés, por no interesaros por nuestro portal.
+
+9
+00:00:55,290 --> 00:01:01,350
+Y a la pregunta, pues no, yo estoy trabajando en este servicio desde el año 2014
+
+10
+00:01:01,350 --> 00:01:06,070
+Perfecto, y por tu perfección veo que soy licenciada en matemáticas
+
+11
+00:01:06,070 --> 00:01:09,730
+¿Cómo es ese paso de estar en las matemáticas a estar en los datos abiertos?
+
+12
+00:01:09,810 --> 00:01:11,890
+¿Cuál fue ese primer proyecto o por qué el cambio?
+
+13
+00:01:12,350 --> 00:01:17,770
+La verdad es que fue totalmente fortuito porque de las matemáticas yo pasé a un instituto municipal de informática
+
+14
+00:01:17,770 --> 00:01:22,330
+en el que se hacía sobre todo programación, análisis de proyectos
+
+15
+00:01:22,330 --> 00:01:27,510
+y luego un poco, pues con el paso de los años te vas moviendo dentro de la organización
+
+16
+00:01:27,510 --> 00:01:33,170
+y fue un poco fortuito que fuera a parar dentro del mundo de los datos abiertos, pero muy contenta de estar aquí.
+
+17
+00:01:33,430 --> 00:01:37,230
+Y tu primer proyecto fue el portal de datos abiertos de Barcelona.
+
+18
+00:01:37,410 --> 00:01:42,270
+Correcto, el portal ya estaba, ya estaba en marcha, porque es una iniciativa del año 2010
+
+19
+00:01:42,270 --> 00:01:48,990
+que se cristalizó en un portal en el año 2011 y realmente un poco fue para cubrir expediente
+
+20
+00:01:48,990 --> 00:01:56,730
+cuando se abrió este portal, se denoten unos cuantos datasets, pero realmente no había, tampoco quizá no había un público
+
+21
+00:01:56,730 --> 00:02:00,170
+que lo utilizara, aunque sí que había un interés por parte del ayuntamiento.
+
+22
+00:02:00,690 --> 00:02:08,770
+Entonces fue a partir del año 2014 que, digamos, otro equipo lo coge y le damos un impulso.
+
+23
+00:02:09,190 --> 00:02:15,810
+Perfecto. Y en ese 2014 que vos empezaste, ¿qué otros gobiernos o qué otros referentes había,
+
+24
+00:02:15,810 --> 00:02:20,790
+¿A quién le copiabas o en quién te inspirabas? ¿Te acordabas en ese momento quiénes estaban?
+
+25
+00:02:21,870 --> 00:02:25,930
+¿Había muchos o era algo de muy pocos ayuntamientos?
+
+26
+00:02:26,070 --> 00:02:35,790
+De hecho, nosotros estábamos, cuando cogimos el portal, estábamos muy centrados en intentar ordenarlo.
+
+27
+00:02:37,010 --> 00:02:45,570
+De hecho, siempre hemos trabajado con hojas de ruta, realizadas conjuntamente con la prestigiosa Escuela de Estudios
+
+28
+00:02:45,570 --> 00:02:52,750
+y ese. Entonces, el primer portal ya se hizo una hoja de ruta, 2011-2015, y de alguna
+
+29
+00:02:52,750 --> 00:03:00,490
+manera se determinaron cuáles eran los datasets que se tenían que publicar. Pero en el 2014
+
+30
+00:03:00,490 --> 00:03:05,810
+ya estábamos viendo que se habían publicado varios de estos datasets, varias de esta
+
+31
+00:03:05,810 --> 00:03:09,990
+información que ya teníamos publicada en la web, en distintas webs del Ayuntamiento
+
+32
+00:03:09,990 --> 00:03:15,450
+de Barcelona, pero que no estaba en formato reutilizable y se había publicado en el portal
+
+33
+00:03:15,450 --> 00:03:22,190
+Open Data. Pero había que dar un paso más. Entonces analizamos lo que había y pensamos
+
+34
+00:03:22,190 --> 00:03:27,690
+que se había hecho una hoja de ruta y que era muy interesante analizar lo que se había
+
+35
+00:03:27,690 --> 00:03:32,770
+hecho, qué había por el mundo en aquel momento y luego ver cómo queríamos que fuera nuestro
+
+36
+00:03:32,770 --> 00:03:35,090
+portal. ¿Y te acuerdas qué había por el mundo en ese momento?
+
+37
+00:03:35,090 --> 00:03:39,330
+Entonces, por el mundo, cuando empezamos a hacer el análisis, estábamos mirando, sobre todo,
+
+38
+00:03:39,830 --> 00:03:41,830
+estábamos mirando América, ¿no?
+
+39
+00:03:41,830 --> 00:03:47,550
+Como referente con Obama y con sus políticas de apertura de datos.
+
+40
+00:03:47,930 --> 00:03:50,030
+Entonces, miramos los principales portales.
+
+41
+00:03:50,490 --> 00:03:53,210
+Estábamos en Boston, San Francisco, Nueva York.
+
+42
+00:03:53,630 --> 00:03:55,830
+También miramos Helsinki a nivel europeo.
+
+43
+00:03:55,990 --> 00:03:59,870
+También miramos el portado de datos de UK.
+
+44
+00:03:59,870 --> 00:04:06,230
+Creo que tomamos muy buenas referencias sin despreciar ni mucho menos a los otros portales
+
+45
+00:04:06,230 --> 00:04:09,770
+porque evidentemente detrás de cada uno sabemos que hay mucho trabajo
+
+46
+00:04:09,770 --> 00:04:12,710
+y a veces no se ve realmente lo que se está haciendo.
+
+47
+00:04:13,310 --> 00:04:17,430
+Vi que me pareció que estamos usando SICAN, la plataforma SICAN.
+
+48
+00:04:17,590 --> 00:04:21,850
+¿Vos formaste parte de esa decisión? ¿Por qué le eligieron? ¿Qué otras opciones había? ¿Te acordás?
+
+49
+00:04:22,450 --> 00:04:23,330
+No, sí que me acuerdo.
+
+50
+00:04:23,330 --> 00:04:41,170
+El portal anterior, este portal que ahora todos los reutilizadores pueden trabajar con él, es fruto de esta segunda hoja de ruta que uno de los puntos, de hecho había 12 puntos, uno de ellos era mejorar las prestaciones de la plataforma.
+
+51
+00:04:41,170 --> 00:05:02,910
+Teníamos una plataforma anterior propia, hecha en .NET, y entonces se había quedado ya como muy encorsetada y muy justa de cara a mantenimiento de los datasets, no de cara a, digamos, quizá a publicación, pero sí a la manera de facilitar el mantenimiento.
+
+52
+00:05:02,910 --> 00:05:11,430
+Entonces hicimos un concurso, sabéis que en la administración pública, para conseguir un producto, hicimos un concurso.
+
+53
+00:05:11,450 --> 00:05:12,310
+Una licitación.
+
+54
+00:05:12,450 --> 00:05:21,170
+Una licitación, correcto. Entonces se presentaron varias empresas y había empresas de Soar propietario y de Soar, en este caso...
+
+55
+00:05:21,170 --> 00:05:22,170
+Sócrata, por ejemplo.
+
+56
+00:05:22,510 --> 00:05:30,330
+Sócrata, correcto, ya que nombrase el producto en concreto. Y también varias de CECAM.
+
+57
+00:05:30,330 --> 00:05:54,470
+De hecho, nosotros en aquel momento, después ha habido un paso más y nuestra comisionada quería trabajar con código libre, una apuesta total al código libre y a la soberanía tecnológica, pero en aquel momento aún no teníamos las directrices cómo redactar un pliego para especificar las cláusulas para el código libre.
+
+58
+00:05:54,470 --> 00:06:05,330
+De hecho, fue también un poco fortuito de que la empresa que ganó puntuación, porque realmente la puntuación, pues ofreció el producto.
+
+59
+00:06:05,950 --> 00:06:07,490
+¿Una empresa local de Barcelona?
+
+60
+00:06:07,710 --> 00:06:13,530
+No, esto está abierto y ganó una empresa que tiene la sede en Valencia.
+
+61
+00:06:14,310 --> 00:06:20,710
+Y también pedíamos en el contrato, aparte de la infraestructura y todo su mantenimiento,
+
+62
+00:06:21,230 --> 00:06:24,110
+estábamos pidiendo también un experto de datos abiertos.
+
+63
+00:06:24,110 --> 00:06:32,110
+Entonces esta empresa hizo una especie de UT y ganó precisamente, la empresa está en Valencia,
+
+64
+00:06:32,790 --> 00:06:34,510
+trabajamos con ellos de forma remota.
+
+65
+00:06:34,890 --> 00:06:35,490
+Sigue estado ahí.
+
+66
+00:06:35,610 --> 00:06:37,070
+Sigue estado ahí, exacto.
+
+67
+00:06:37,210 --> 00:06:43,430
+Entonces todas las sesiones de seguimiento, prácticamente todas, se hacen vía videoconferencia.
+
+68
+00:06:44,210 --> 00:06:49,030
+Y luego también tenemos el experto de datos abiertos en Gijón, que es Martín Álvarez Pinar,
+
+69
+00:06:49,330 --> 00:06:52,010
+que es el director del V3C Consortium en España.
+
+70
+00:06:52,170 --> 00:06:52,730
+Ah, qué bueno.
+
+71
+00:06:52,730 --> 00:06:55,570
+Entonces estamos muy bien asesorados, ¿no?
+
+72
+00:06:55,570 --> 00:06:56,730
+Claro que sí, claro que sí.
+
+73
+00:06:57,710 --> 00:07:02,670
+Concretamente adentro del portal de datos, ¿cuál es el proceso más o menos para que un dato llegue ahí?
+
+74
+00:07:02,790 --> 00:07:06,650
+¿Desde tu oficina pueden pedir a las otras oficinas que abren un dato?
+
+75
+00:07:06,730 --> 00:07:12,290
+¿Las otras oficinas ya tienen políticas propias y saben que tienen que ingresentar su número de datos?
+
+76
+00:07:12,290 --> 00:07:32,570
+No, no. El portal es el punto en el que se publican toda la información del ayuntamiento en formato reutilizable. Es cierto y no es cierto, porque hay algunos portales del ayuntamiento que también publican datos en formato reutilizable.
+
+77
+00:07:33,510 --> 00:07:43,390
+¿Y por qué? Porque nacieron antes que el Open Data, y estamos hablando del geoportal, del Carto BCN, portales con datos, sobre todo geolocalizados.
+
+78
+00:07:43,410 --> 00:07:45,250
+Tienen sus propias políticas de datos abiertos.
+
+79
+00:07:45,250 --> 00:07:54,350
+Sí, pero todo esto tiene que cambiar, porque de hecho uno de los objetivos de la Oficina Municipal de Datos es centralizar todo esto.
+
+80
+00:07:54,750 --> 00:07:57,990
+El concepto universal es Open Data, podía haber sido otro, pero es Open Data.
+
+81
+00:07:57,990 --> 00:08:15,990
+Entonces creemos que quizá también se puede llegar a estos portales para usuarios locales, evidentemente, pero para usuarios de alrededor del mundo, como ocurre que tenemos visitas de todo el mundo en un portal de Open Data Btn, pues es mucho más fácil y creemos además que es sentido común y coherencia.
+
+82
+00:08:15,990 --> 00:08:18,010
+coherencia. Nombraste
+
+83
+00:08:18,010 --> 00:08:19,670
+varias veces formatos reutilizables
+
+84
+00:08:19,670 --> 00:08:21,690
+y me alegra mucho que lo hagas porque
+
+85
+00:08:21,690 --> 00:08:23,910
+tengo una pregunta específica, hay muchos lugares
+
+86
+00:08:23,910 --> 00:08:24,990
+que abren datos y no
+
+87
+00:08:24,990 --> 00:08:27,850
+tienen, en el caso del portal de ustedes se ve muy
+
+88
+00:08:27,850 --> 00:08:29,830
+bien que si entienden y
+
+89
+00:08:29,830 --> 00:08:32,010
+publican en CSV y en un montón de otros formatos
+
+90
+00:08:32,010 --> 00:08:33,810
+te quería preguntar si todavía te pasa que
+
+91
+00:08:33,810 --> 00:08:35,650
+otras oficinas te mandan por ejemplo
+
+92
+00:08:35,650 --> 00:08:37,750
+un mapa en PDF o cosas que no
+
+93
+00:08:37,750 --> 00:08:39,830
+sirven, ¿cómo es la
+
+94
+00:08:39,830 --> 00:08:42,050
+capacitación con los demás para que te manden datos
+
+95
+00:08:42,050 --> 00:08:43,870
+que puedan ser
+
+96
+00:08:43,870 --> 00:08:45,610
+compartidos como reutilizables? A ver
+
+97
+00:08:45,610 --> 00:08:55,610
+Primero de todo, y también un poco a la pregunta anterior, que no había respondido del todo, es que el portal es el punto de publicación en formato reutilizable.
+
+98
+00:08:56,810 --> 00:09:10,070
+Esto hace que los distintos departamentos municipales, que son muchos, somos una organización de unas 12.000 personas, pues haya muchos datos y de muy diversas formas.
+
+99
+00:09:10,970 --> 00:09:15,610
+Entonces, de momento, estamos haciendo una publicación, podríamos decir, un poco por oportunidad.
+
+100
+00:09:16,530 --> 00:09:21,370
+Cuando alguien nos pide un dataset y se puede abrir, se comunica, se puede abrir.
+
+101
+00:09:21,650 --> 00:09:25,030
+Y si tiene esta información, se pone en contacto con el departamento correspondiente
+
+102
+00:09:25,030 --> 00:09:27,350
+y a lo mejor se puede realizar todo el proceso.
+
+103
+00:09:27,450 --> 00:09:31,010
+El proceso normalmente no es fácil, porque realmente, ¿qué estamos haciendo?
+
+104
+00:09:31,010 --> 00:09:35,670
+Siempre decimos que cuando abrimos datos, también estamos organizando un poco la casa,
+
+105
+00:09:35,670 --> 00:09:44,090
+poniendo orden y también quizá depurando, sacando un poco, nosotros internamente, casuísticas
+
+106
+00:09:44,090 --> 00:09:48,730
+que cuando trabajas de manera interna no te habías planteado.
+
+107
+00:09:49,290 --> 00:09:52,750
+Entonces, en el momento que alguien nos pide un dato o que incluso el departamento dice
+
+108
+00:09:52,750 --> 00:09:55,550
+tenemos unos datos, ¿qué tenemos que hacer para publicarlos?
+
+109
+00:09:55,550 --> 00:10:01,910
+Nosotros tenemos un protocolo, un protocolo que tiene unos pasos, es todo un protocolo con muchos pasos,
+
+110
+00:10:01,910 --> 00:10:04,430
+que dice, a ver,
+
+111
+00:10:04,530 --> 00:10:06,250
+identificamos, identificar
+
+112
+00:10:06,250 --> 00:10:08,110
+el recurso, luego
+
+113
+00:10:08,110 --> 00:10:10,590
+sobre este recurso que queremos
+
+114
+00:10:10,590 --> 00:10:12,210
+publicar, qué campos publicaremos,
+
+115
+00:10:12,430 --> 00:10:14,070
+en qué formatos, cuál será
+
+116
+00:10:14,070 --> 00:10:16,630
+lo que llamamos frecuencia de actualización.
+
+117
+00:10:16,630 --> 00:10:17,990
+Exacto. Es importantísimo.
+
+118
+00:10:18,210 --> 00:10:20,470
+No tiene ningún sentido publicar datos
+
+119
+00:10:20,470 --> 00:10:22,690
+y dejarlos ahí cuando realmente se están actualizando
+
+120
+00:10:22,690 --> 00:10:24,270
+cada día, cada semana, cada mes.
+
+121
+00:10:24,830 --> 00:10:26,730
+Sobre qué licencia también
+
+122
+00:10:26,730 --> 00:10:27,710
+abriremos los datos.
+
+123
+00:10:27,730 --> 00:10:30,890
+En este momento sí.
+
+124
+00:10:30,890 --> 00:10:32,970
+Es la mejor, me parece.
+
+125
+00:10:33,610 --> 00:10:41,770
+Creemos que es suficiente que solo pongan la fuente de origen, que es Open Data VPN.
+
+126
+00:10:42,270 --> 00:10:46,310
+Luego también, una vez se ha definido este dataset, ¿cómo se publicará?
+
+127
+00:10:46,630 --> 00:10:48,430
+Es decir, ¿será de actualización manual?
+
+128
+00:10:48,670 --> 00:10:52,710
+Nosotros detrás de esta plataforma tenemos un back office muy completo
+
+129
+00:10:52,710 --> 00:10:59,150
+que permite a cada uno de los usuarios, porque detrás de cada dataset
+
+130
+00:10:59,150 --> 00:11:05,950
+hay un usuario, está identificado, por si nos preguntan, los reutilizadores nos preguntan algo sobre este dataset,
+
+131
+00:11:06,170 --> 00:11:12,130
+sabemos quién puede responder, exacto, con una cierta celeridad, entonces, ¿cómo se publicará?
+
+132
+00:11:12,210 --> 00:11:17,650
+Entonces tenemos formas de publicar de manera automática, más del 50% del portal está automatizado
+
+133
+00:11:17,650 --> 00:11:23,550
+y si tenemos en cuenta que tenemos muchos datasets también de publicación anual, series estadísticas,
+
+134
+00:11:23,550 --> 00:11:29,250
+también datos por ejemplo de accidentes de la guardia urbana o datos por
+
+135
+00:11:29,250 --> 00:11:34,010
+ejemplo también del censo de actividades económicas en el inventario pues si
+
+136
+00:11:34,010 --> 00:11:37,890
+tenemos en cuenta esto casi podemos decir que estamos casi al 100% de
+
+137
+00:11:37,890 --> 00:11:42,150
+automatización del portal o automatización o sin automatizar ya me
+
+138
+00:11:42,150 --> 00:11:44,310
+está respondiendo pronto que sigue justamente quería preguntar cómo es el
+
+139
+00:11:44,310 --> 00:11:48,750
+tema de entiendo que ustedes por ejemplo con el dato de transporte tienen los
+
+140
+00:11:48,750 --> 00:11:53,430
+datos el gtfs que el sistema que se usa para publicar los de transporte es
+
+141
+00:11:53,430 --> 00:11:56,630
+eso ustedes modifican un sistema y automáticamente los que usamos Google Maps,
+
+142
+00:11:56,710 --> 00:12:00,230
+los que venimos acá como turistas, nos enteramos de los cambios de horario
+
+143
+00:12:00,230 --> 00:12:02,390
+o dónde están las paradas y recorridos.
+
+144
+00:12:03,270 --> 00:12:06,730
+Entonces para ustedes es importante, si el back office se lo permite,
+
+145
+00:12:07,310 --> 00:12:11,390
+publican datos en tiempo real, o sea, se modifica en un sistema el dato
+
+146
+00:12:11,390 --> 00:12:13,290
+y casi automáticamente está online.
+
+147
+00:12:13,290 --> 00:12:18,410
+Correcto, tenemos bastantes online, de hecho son quizás los más atractivos
+
+148
+00:12:18,410 --> 00:12:19,990
+para un determinado público.
+
+149
+00:12:19,990 --> 00:12:22,590
+me estabas
+
+150
+00:12:22,590 --> 00:12:24,270
+refiriendo a los datos de transporte
+
+151
+00:12:24,270 --> 00:12:25,590
+en concreto hay una empresa
+
+152
+00:12:25,590 --> 00:12:28,470
+municipal, TMB, que es la que
+
+153
+00:12:28,470 --> 00:12:30,930
+proporciona estos datos, no somos el Ayuntamiento de Barcelona
+
+154
+00:12:30,930 --> 00:12:31,790
+bien, pero usted
+
+155
+00:12:31,790 --> 00:12:34,830
+el portal está publicado, o sea, ustedes toman ese dato y lo publican
+
+156
+00:12:34,830 --> 00:12:36,690
+no, no, estos tienen su propio
+
+157
+00:12:36,690 --> 00:12:38,010
+portal, esto no estamos
+
+158
+00:12:38,010 --> 00:12:40,470
+con TMB no estamos integrados
+
+159
+00:12:40,470 --> 00:12:42,430
+pero sí que tenemos
+
+160
+00:12:42,430 --> 00:12:44,950
+por ejemplo los datos del tráfico de la ciudad de Barcelona
+
+161
+00:12:44,950 --> 00:12:46,630
+los datos de calidad del aire
+
+162
+00:12:46,630 --> 00:12:48,010
+también de la ciudad de Barcelona
+
+163
+00:12:48,010 --> 00:12:49,930
+los datos del BISIS
+
+164
+00:12:49,930 --> 00:12:54,530
+Sabéis que Barcelona ha hecho una apuesta muy importante por todo el tema
+
+165
+00:12:54,530 --> 00:12:58,590
+Entonces tenemos los datos de las estaciones del BISIN
+
+166
+00:12:58,590 --> 00:13:02,290
+Encontré una presentación tuya en internet de 2015
+
+167
+00:13:02,290 --> 00:13:04,590
+Donde contabas cuáles son los datos más visitados
+
+168
+00:13:04,590 --> 00:13:09,010
+Y cómo la comunidad reutilizaba esos datos a través de aplicaciones
+
+169
+00:13:09,010 --> 00:13:12,390
+Vamos a llegar hasta ahí, pero me falta una más con respecto a los formatos de los datos
+
+170
+00:13:12,390 --> 00:13:16,390
+Algo que me pareció muy interesante viendo la lista de formatos en los que publican
+
+171
+00:13:16,390 --> 00:13:19,510
+que usan archivos RDF, que es muy poco frecuente.
+
+172
+00:13:20,030 --> 00:13:24,970
+¿Eso quiere decir que tienen alguna política o algo vinculado a la web semántica
+
+173
+00:13:24,970 --> 00:13:27,130
+y a formatos que van un poco más allá?
+
+174
+00:13:27,550 --> 00:13:30,570
+Quería saber qué me puedes contar de los archivos en ese formato.
+
+175
+00:13:31,330 --> 00:13:35,150
+Puedo contar cosas a favor y cosas no quiero decir en contra.
+
+176
+00:13:36,790 --> 00:13:40,510
+Precisamente que tengamos estos ficheros publicados
+
+177
+00:13:40,510 --> 00:13:43,470
+forman parte del inicio de la apertura del portal
+
+178
+00:13:43,470 --> 00:13:46,190
+porque realmente el asesor
+
+179
+00:13:46,190 --> 00:13:48,270
+es el VST Consortium
+
+180
+00:13:48,270 --> 00:13:49,310
+la fundación de ley
+
+181
+00:13:49,310 --> 00:13:54,590
+y ellos asesoraron para estos
+
+182
+00:13:54,590 --> 00:13:55,210
+ficheros
+
+183
+00:13:55,210 --> 00:13:57,550
+de todas formas, sí que nos hemos dado cuenta
+
+184
+00:13:57,550 --> 00:14:00,210
+que el público reutilizador no para de crecer
+
+185
+00:14:00,210 --> 00:14:02,110
+antes, cuando asociábamos
+
+186
+00:14:02,110 --> 00:14:03,810
+Open Data a desarrolladores
+
+187
+00:14:03,810 --> 00:14:05,610
+a gente que utilizaban para aplicaciones
+
+188
+00:14:05,610 --> 00:14:08,310
+esto ha cambiado, tenemos aquí detrás
+
+189
+00:14:08,310 --> 00:14:10,210
+analistas de datos
+
+190
+00:14:10,210 --> 00:14:11,790
+periodistas de datos, tenemos
+
+191
+00:14:11,790 --> 00:14:13,950
+investigadores, tenemos científicos
+
+192
+00:14:13,950 --> 00:14:16,310
+tenemos otras administraciones
+
+193
+00:14:16,310 --> 00:14:17,850
+tenemos usuarios internos
+
+194
+00:14:17,850 --> 00:14:19,470
+también, muy importante esto
+
+195
+00:14:19,470 --> 00:14:21,330
+entonces, el nivel
+
+196
+00:14:21,330 --> 00:14:23,830
+de formación de cada una de estas personas
+
+197
+00:14:23,830 --> 00:14:25,790
+cambia, ¿cuál es el formato
+
+198
+00:14:25,790 --> 00:14:27,210
+preferido actualmente?
+
+199
+00:14:27,510 --> 00:14:28,090
+es el CSV
+
+200
+00:14:28,090 --> 00:14:29,170
+un CSV
+
+201
+00:14:29,170 --> 00:14:32,030
+para todos los usos
+
+202
+00:14:32,030 --> 00:14:33,870
+para todos los usos, desde que está
+
+203
+00:14:33,870 --> 00:14:34,830
+utilizando código
+
+204
+00:14:34,830 --> 00:14:37,970
+desde que usa Excel y no es programador
+
+205
+00:14:37,970 --> 00:14:39,130
+hasta el lateral
+
+206
+00:14:39,130 --> 00:14:45,190
+Correcto. Nosotros ahora solo estamos publicando como mínimo CSV.
+
+207
+00:14:45,750 --> 00:14:47,990
+Como mínimo CSV.
+
+208
+00:14:47,990 --> 00:14:59,850
+Si además se puede obtener el mismo fichero, el mismo recurso en un formato superior, en RDF, en KML, por ejemplo, en Jotason, pues también.
+
+209
+00:15:00,230 --> 00:15:02,030
+Entonces es de lo que estamos hablando.
+
+210
+00:15:02,030 --> 00:15:18,270
+Tenemos en este momento 432 datasets que van cambiando, que son números de conceptos, pero a la vez esto nos representa más de 2.000 recursos, porque el mismo puede estar en distintos formatos.
+
+211
+00:15:18,270 --> 00:15:20,870
+y además también varios de estos
+
+212
+00:15:20,870 --> 00:15:22,130
+que creemos que es muy importante
+
+213
+00:15:22,130 --> 00:15:24,070
+el tema de las series históricas
+
+214
+00:15:24,070 --> 00:15:25,810
+es muy importante historificar
+
+215
+00:15:25,810 --> 00:15:28,050
+incluso información que se publica
+
+216
+00:15:28,050 --> 00:15:29,310
+semanalmente
+
+217
+00:15:29,310 --> 00:15:31,250
+el arbolado de la ciudad de Barcelona
+
+218
+00:15:31,250 --> 00:15:33,370
+para ver cómo va evolucionando
+
+219
+00:15:33,370 --> 00:15:35,710
+pues cada tres meses historificamos
+
+220
+00:15:35,710 --> 00:15:37,350
+estamos haciendo a la vez
+
+221
+00:15:37,350 --> 00:15:38,350
+todo un trabajo
+
+222
+00:15:38,350 --> 00:15:42,010
+es un tema para la gente que nos escuche
+
+223
+00:15:42,010 --> 00:15:43,810
+y está trabajando, consumiendo
+
+224
+00:15:43,810 --> 00:15:46,150
+escribiendo portales, cuando uno publica datos en tiempo real
+
+225
+00:15:46,150 --> 00:15:47,030
+es genial
+
+226
+00:15:47,030 --> 00:15:49,310
+pero si yo quiero saber cómo estaba la semana pasada
+
+227
+00:15:49,310 --> 00:15:51,510
+alguien tiene que haberlo guardado, hacer un corte
+
+228
+00:15:51,510 --> 00:15:53,410
+en algún momento y hacer una historia, una serie
+
+229
+00:15:53,410 --> 00:15:55,610
+Correcto, así es lo que estamos haciendo
+
+230
+00:15:55,610 --> 00:15:57,210
+precisamente los datos del Bissing
+
+231
+00:15:57,210 --> 00:15:59,450
+son en tiempo real, pero lo estamos acumulando
+
+232
+00:15:59,450 --> 00:16:01,490
+en históricos para que la gente pueda
+
+233
+00:16:01,490 --> 00:16:01,710
+trabajar
+
+234
+00:16:01,710 --> 00:16:05,210
+Bueno, te seguías adelantando las preguntas
+
+235
+00:16:05,210 --> 00:16:06,450
+porque la pregunta que venía era
+
+236
+00:16:06,450 --> 00:16:08,770
+cómo era el ecosistema de usuarios
+
+237
+00:16:08,770 --> 00:16:10,730
+que me lo contaste, así que te agradezco mucho
+
+238
+00:16:10,730 --> 00:16:12,250
+te quería preguntar
+
+239
+00:16:12,250 --> 00:16:14,470
+cómo es tu relación con ese ecosistema
+
+240
+00:16:14,470 --> 00:16:16,750
+hay usuarios incisivos que exigen datos
+
+241
+00:16:16,750 --> 00:16:21,270
+que reclaman mucho, o la comunidad está en paz?
+
+242
+00:16:21,990 --> 00:16:25,590
+No, a ver, yo creo que siempre hemos tenido muy claro
+
+243
+00:16:25,590 --> 00:16:31,230
+que quien está detrás de Open Data eran usuarios especializados,
+
+244
+00:16:31,770 --> 00:16:34,350
+pero también nosotros queremos hacer un paso más,
+
+245
+00:16:34,890 --> 00:16:38,030
+y creo que lo vamos consiguiendo con el portal,
+
+246
+00:16:38,570 --> 00:16:40,890
+es que nuestro portal, por ejemplo, tiene dos visiones,
+
+247
+00:16:40,950 --> 00:16:44,910
+la visión para personal más especializado,
+
+248
+00:16:44,910 --> 00:16:53,890
+y por lo tanto ofrecemos APIs también y también pues digamos una visión más de usuario más básico o medio
+
+249
+00:16:53,890 --> 00:16:59,250
+porque el portal permite pues hacer una previsualización de algunos ficheros, de algunos formatos,
+
+250
+00:16:59,630 --> 00:17:02,410
+representar también sobre un mapa.
+
+251
+00:17:03,030 --> 00:17:04,590
+Hay algunos que tienen vistas listas.
+
+252
+00:17:04,750 --> 00:17:09,410
+Correcto, por ejemplo con el OpenStream Map que es el que estamos utilizando.
+
+253
+00:17:09,410 --> 00:17:13,410
+Entonces con los reutilizadores la manera de...
+
+254
+00:17:13,410 --> 00:17:17,290
+Hay diálogo, hay conversaciones, hay canales.
+
+255
+00:17:17,630 --> 00:17:25,230
+A ver, hay diálogo. Siempre que nos hacen una petición o una consulta, intentamos evidentemente responderla.
+
+256
+00:17:25,810 --> 00:17:33,850
+Entonces nos los vamos encontrando porque en definitiva aún es como todo, es un mundo en el que nos vamos moviendo quizá un poco los mismos.
+
+257
+00:17:33,850 --> 00:17:37,110
+Nos vamos encontrando en distintos eventos, en distintas presentaciones.
+
+258
+00:17:37,110 --> 00:17:54,890
+Entonces, estamos haciendo también esfuerzo para llegar más a ellos y, por ejemplo, esto que antes había comentado, bueno, contigo particularmente, pero la World Data Big Challenge que estamos haciendo con Barcelona y COBE,
+
+259
+00:17:54,890 --> 00:18:03,270
+es un proyecto de apertura también para que los visualizadores, los reutilizadores puedan utilizar datos de nuestro portal
+
+260
+00:18:03,270 --> 00:18:11,810
+o de otros también, pero básicamente estamos potenciando nuestro portal y de alguna manera tener un contacto con nosotros, dejarnos ver sus trabajos.
+
+261
+00:18:11,810 --> 00:18:15,930
+¿Son comparables los datos de COBE con los datos de Barcelona?
+
+262
+00:18:16,230 --> 00:18:22,910
+A mí me pasó que me junté con un jefe de oficina en otros lugares e intentamos en hackatones hacer análisis comparativos
+
+263
+00:18:22,910 --> 00:18:27,190
+y lo que nos pasa es que por ahí nosotros o no usamos un estándar o usamos estándares distintos
+
+264
+00:18:27,190 --> 00:18:32,590
+o no son... ¿Qué se puede conectar entre Barcelona y COBE? ¿Cuál es el objetivo?
+
+265
+00:18:33,490 --> 00:18:41,090
+El objetivo es el básico, estamos todos de acuerdo, es decir, creemos en los datos abiertos,
+
+266
+00:18:41,610 --> 00:18:46,010
+creemos, es decir, cuando hablamos de datos abiertos, no os lo tengo que explicar a vosotros ni mucho menos,
+
+267
+00:18:46,150 --> 00:18:51,750
+pero estamos hablando de beneficios, entonces estos beneficios que decían generación de actividades de impacto social,
+
+268
+00:18:51,750 --> 00:19:00,410
+o generación también de oportunidades de negocio, si ahora le añadimos la transparencia, la eficiencia interna, si nos ordenamos,
+
+269
+00:19:00,770 --> 00:19:09,370
+yo porque tengo que llamar a un departamento, a ver, ¿me puedes proporcionar estos datos? Oye, ve a Open Data, lo tienes publicado, lo tienes actualizado,
+
+270
+00:19:09,590 --> 00:19:16,490
+nos estamos ahorrando todos un montón de trabajo, si trabajamos, y también la generación de actividades de impacto social.
+
+271
+00:19:16,490 --> 00:19:36,670
+En esto estamos de acuerdo. Entonces, ¿qué les ocurre? ¿Qué puntos en común puede haber con COVID? Incluso con otros países, en especial de asiáticos, que nos han venido a ver organizaciones, distintas entidades, de Seúl también.
+
+272
+00:19:36,670 --> 00:19:44,590
+El problema es que ven que la población se está haciendo mayor, por ejemplo,
+
+273
+00:19:44,810 --> 00:19:48,530
+entonces se necesitan muchas soluciones.
+
+274
+00:19:48,770 --> 00:19:50,230
+¿Quién puede dar todas estas soluciones?
+
+275
+00:19:50,650 --> 00:19:55,610
+Entonces, abrir los datos y poner a que la comunidad los mire y proponga ideas.
+
+276
+00:19:56,150 --> 00:19:56,710
+Correcto.
+
+277
+00:19:57,010 --> 00:20:01,090
+Entonces, las necesidades, hay unas que son básicas para todos,
+
+278
+00:20:01,090 --> 00:20:06,270
+pero otras que ves básicamente el problema de cada ciudad.
+
+279
+00:20:06,670 --> 00:20:13,790
+COBE, por ejemplo, que están preocupados por las multitudes, por el tema de los terremotos,
+
+280
+00:20:13,910 --> 00:20:20,230
+qué hacer en momentos que ocurre alguna incidencia natural.
+
+281
+00:20:20,990 --> 00:20:29,450
+Entonces, claro, se refleja los trabajos que hicieron, porque se hizo un concurso en paralelo en Barcelona y en COBE,
+
+282
+00:20:29,530 --> 00:20:34,650
+y luego se expuso aquí dentro de la Smart City Expo, pues reflejaba realmente esta realidad.
+
+283
+00:20:34,650 --> 00:20:38,530
+Los proyectos que hicieron los reutilizadores locales de Barcelona
+
+284
+00:20:38,530 --> 00:20:43,510
+también mostraban cuál era el problema de la ciudad de Barcelona.
+
+285
+00:20:44,050 --> 00:20:46,910
+El movimiento de población entre distintos barrios,
+
+286
+00:20:47,210 --> 00:20:51,110
+centrificación, el envejecimiento de la población.
+
+287
+00:20:51,110 --> 00:20:54,330
+Ahí te llevo porque me parece que esos temas también se tocaron
+
+288
+00:20:54,330 --> 00:20:57,350
+en un evento que a mí me gustó muchísimo
+
+289
+00:20:57,350 --> 00:21:00,890
+porque vi involucrados jóvenes, muy jóvenes y datos abiertos,
+
+290
+00:21:01,330 --> 00:21:04,510
+que fue hace poquito la segunda edición del reto Open Data Barcelona.
+
+291
+00:21:04,650 --> 00:21:09,470
+¿Cómo es que los datos abiertos llegan a los jóvenes? ¿Cómo es ese proyecto? Me pareció súper valioso.
+
+292
+00:21:09,850 --> 00:21:16,250
+Sí, creemos que es un proyecto que estamos haciendo con mucha ilusión, con mucho trabajo, pero creemos que es realmente una apuesta.
+
+293
+00:21:16,910 --> 00:21:26,810
+A ver, este proyecto surge a partir de la puesta en marcha del nuevo portal, que realmente los organizadores empezaron a contactar con nosotros
+
+294
+00:21:26,810 --> 00:21:33,430
+y nos preguntaban, ¿no?, vía, digamos, nuestro canal oficial, tenemos un formulario que realmente...
+
+295
+00:21:33,430 --> 00:21:58,210
+Sí, bueno, hago un pequeño paréntesis, la forma de esta entrevista, yo no conozco a nadie en el gobierno de Barcelona, escribí porque sabía que iba a dejar para aquí una solicitud de reunión y al otro día me respondieron que sí, que me recibían con un Google Calendar indicándome el lugar y la hora, así que yo como usuario aplaudo la forma de responder, así que cierro el paréntesis ahí, por favor.
+
+296
+00:21:58,210 --> 00:22:04,010
+Muchas gracias, es nuestra obligación, queremos, ¿no?, como responsables.
+
+297
+00:22:04,910 --> 00:22:19,590
+Entonces, este proyecto, pues, Repta Barcelona Dadas Obertas, surge a partir de que nos estaban escribiendo, digamos, estudiantes de grado,
+
+298
+00:22:20,090 --> 00:22:25,770
+que hacían unas preguntas que decíamos, quieren trabajar con los datos, pero les falta un poco de base.
+
+299
+00:22:25,770 --> 00:22:33,490
+Entonces, qué pena, ¿no? Porque tendrán que, digamos, primero que suplir este desconocimiento para luego trabajar con los datos.
+
+300
+00:22:34,170 --> 00:22:40,070
+Entonces dijimos, a ver, ¿dónde están? ¿De dónde vienen esta gente? Vienen de las escuelas.
+
+301
+00:22:40,230 --> 00:22:46,650
+Entonces, digamos, el lema, pero que es obvio, es, ¿no? Los futuros reutilizadores están ahora en las escuelas.
+
+302
+00:22:46,790 --> 00:22:50,010
+Vayamos a las escuelas, ¿no? A los centros educativos.
+
+303
+00:22:50,010 --> 00:23:19,370
+Entonces elegimos, bueno, nos pusimos en contacto, porque claro, desde el ayuntamiento evidentemente no tenemos acceso al profesorado, nos pusimos en contacto con el Consorcio de Educación de Barcelona, que gestiona toda esta parte formativa, y también con el CSIDE, que es otro organismo, entonces se lo propusimos y ellos ya habían pensado un poco en el tema de los datos abiertos, porque ya están en otros proyectos como el STEAM, por ejemplo, y dijeron, vale, nos interesaba mucho.
+
+304
+00:23:19,370 --> 00:23:24,770
+Entonces dijimos, vale, pero ¿qué tenemos que hacer? A ver, ¿cuál es, digamos, el formato?
+
+305
+00:23:25,590 --> 00:23:31,370
+A ver, nosotros tenemos datos abiertos, podemos explicar, pero necesitamos a los profesores, necesitamos a profesores implicados.
+
+306
+00:23:31,570 --> 00:23:36,750
+Entonces esto requiere, los profesores en general pueden saber más o menos y también depende de la edad,
+
+307
+00:23:36,970 --> 00:23:42,330
+pero no están acostumbrados a trabajar con datos, conocen un poco de estadística, a lo mejor, hacen estadística.
+
+308
+00:23:43,110 --> 00:23:49,310
+Total, creo que dijimos, vale, vamos a ver si se apuntan a una formación, les vamos a hacer una formación,
+
+309
+00:23:49,370 --> 00:23:52,170
+¿Qué será? Les explicaremos qué es el Open Data, qué es el Open Data.
+
+310
+00:23:52,170 --> 00:23:53,730
+Capositan primero los docentes.
+
+311
+00:23:53,770 --> 00:23:58,470
+Correcto, es lo que estamos haciendo en cada una de estas ediciones.
+
+312
+00:23:59,190 --> 00:24:06,430
+Los profesores de manera voluntaria se apuntan a una formación que luego trasladan a las aulas,
+
+313
+00:24:06,890 --> 00:24:10,010
+hacen unos trabajos, pero ¿qué queríamos con esto?
+
+314
+00:24:10,150 --> 00:24:16,330
+Queríamos dos cosas, primero de todo hacer crecer el ecosistema de reutilizadores,
+
+315
+00:24:16,330 --> 00:24:18,970
+que conozcan los datos y todos sus beneficios.
+
+316
+00:24:19,370 --> 00:24:28,630
+Aparte también, si desde el Ayuntamiento sale esta iniciativa, posicionar Barcelona creemos en una actividad de impacto social muy importante,
+
+317
+00:24:29,130 --> 00:24:34,410
+que es la ayuda a toda esta alfabetización del Open Data.
+
+318
+00:24:34,650 --> 00:24:41,790
+Pero, ¿dónde estaba también? ¿Dónde creemos que está el punto que hace atractivo?
+
+319
+00:24:41,790 --> 00:24:53,010
+Formamos a profesores, forman a los alumnos de una manera ciertamente un poco lúdica, pero muy comprometida.
+
+320
+00:24:53,550 --> 00:25:01,050
+Conocen la ciudad porque están estudiando los datasets de la ciudad, pero luego les damos la oportunidad de presentarlos en un evento público.
+
+321
+00:25:01,170 --> 00:25:04,230
+Y hay un ganador y premios y todo, que a los chicos les gusta.
+
+322
+00:25:04,230 --> 00:25:09,290
+Correcto, entonces la fiesta, es decir, el evento final es una fiesta.
+
+323
+00:25:09,290 --> 00:25:11,350
+los 10 mejores trabajos
+
+324
+00:25:11,350 --> 00:25:13,670
+todos son buenos los trabajos
+
+325
+00:25:13,670 --> 00:25:15,390
+porque partimos de la base
+
+326
+00:25:15,390 --> 00:25:16,850
+que los profesores no conocían
+
+327
+00:25:16,850 --> 00:25:18,130
+que los alumnos tampoco
+
+328
+00:25:18,130 --> 00:25:20,750
+porque tampoco
+
+329
+00:25:20,750 --> 00:25:22,310
+lo incluyen
+
+330
+00:25:22,310 --> 00:25:24,870
+en su día a día
+
+331
+00:25:24,870 --> 00:25:27,610
+no hay una asignatura específica
+
+332
+00:25:27,610 --> 00:25:28,310
+para hacer esto
+
+333
+00:25:28,310 --> 00:25:30,250
+y lo que es interesantísimo
+
+334
+00:25:30,250 --> 00:25:32,910
+es lo que aprenden
+
+335
+00:25:32,910 --> 00:25:34,830
+pero además
+
+336
+00:25:34,830 --> 00:25:37,630
+lo ven como algo de futuro
+
+337
+00:25:37,630 --> 00:25:39,050
+como algo de futuro
+
+338
+00:25:39,050 --> 00:25:41,350
+el que quiera trabajar de esto
+
+339
+00:25:41,350 --> 00:25:42,090
+hay trabajo
+
+340
+00:25:42,090 --> 00:25:44,570
+correcto, solo deciros, y estamos muy orgullosos
+
+341
+00:25:44,570 --> 00:25:46,870
+que de los ganadores del primer reto
+
+342
+00:25:46,870 --> 00:25:48,970
+dos chicas en concreto
+
+343
+00:25:48,970 --> 00:25:51,090
+pues ya están encaminando sus estudios
+
+344
+00:25:51,090 --> 00:25:52,110
+en tema de datos
+
+345
+00:25:52,110 --> 00:25:54,690
+encontramos su vocación
+
+346
+00:25:54,690 --> 00:25:55,630
+a través de este confort
+
+347
+00:25:55,630 --> 00:25:58,210
+es súper valioso
+
+348
+00:25:58,210 --> 00:25:59,010
+exacto
+
+349
+00:25:59,010 --> 00:26:02,570
+cuando entré a su portal de datos estuve viendo
+
+350
+00:26:02,570 --> 00:26:04,130
+un poco de formato y demás
+
+351
+00:26:04,130 --> 00:26:06,350
+y estuve viendo un dato, ya te voy a contar
+
+352
+00:26:06,350 --> 00:26:08,210
+porque me interesa mucho, estoy buscando la nómina
+
+353
+00:26:08,210 --> 00:26:10,250
+de personas que trabajan en el
+
+354
+00:26:10,250 --> 00:26:12,270
+gobierno de Cataluña y encontré que está publicada
+
+355
+00:26:12,270 --> 00:26:14,510
+pero en el lugar del nombre hay un número
+
+356
+00:26:14,510 --> 00:26:16,210
+yo me lo imaginé como una
+
+357
+00:26:16,210 --> 00:26:18,070
+anonimización del dato para
+
+358
+00:26:18,070 --> 00:26:20,110
+proteger, entiendo que
+
+359
+00:26:20,110 --> 00:26:22,110
+posiblemente no sea la oficina tuya pero quería saber
+
+360
+00:26:22,110 --> 00:26:24,430
+si parte del proceso de publicación
+
+361
+00:26:24,430 --> 00:26:26,110
+de datos es ver si algún dato
+
+362
+00:26:26,110 --> 00:26:28,630
+no cumple una normativa de privacidad
+
+363
+00:26:28,630 --> 00:26:30,270
+nosotros confiamos
+
+364
+00:26:30,270 --> 00:26:32,710
+en este caso, confiamos en cada uno de los negocios
+
+365
+00:26:32,710 --> 00:26:34,310
+los negocios, aquí tenemos
+
+366
+00:26:34,310 --> 00:26:36,110
+publicados 432 negocios
+
+367
+00:26:36,110 --> 00:26:42,110
+Entonces, cada uno, realmente quien sabe del negocio es el que entiende las normas.
+
+368
+00:26:42,110 --> 00:26:56,430
+Exacto. Nosotros damos unas pautas de cara a la publicación, de cara a la normalización, por ejemplo, de cara a publicar en el portal, pues estamos publicando CSV separado realmente con comas, tipo UTF-8 también.
+
+369
+00:26:56,430 --> 00:26:59,030
+se siguen una serie
+
+370
+00:26:59,030 --> 00:27:00,770
+intentamos de alguna forma
+
+371
+00:27:00,770 --> 00:27:03,250
+establecer una cierta
+
+372
+00:27:03,250 --> 00:27:04,970
+normalización de los campos
+
+373
+00:27:04,970 --> 00:27:07,010
+con unos nombres para poder hacer
+
+374
+00:27:07,010 --> 00:27:08,930
+en un futuro quizá un poco de la inquietata
+
+375
+00:27:08,930 --> 00:27:10,210
+claro, claro, claro
+
+376
+00:27:10,210 --> 00:27:12,510
+pero es el negocio el que define
+
+377
+00:27:12,510 --> 00:27:14,930
+el que se organice y se hace responsable
+
+378
+00:27:14,930 --> 00:27:17,110
+de cumplir las normativas que haya que cumplir
+
+379
+00:27:17,110 --> 00:27:18,230
+correcto, bien
+
+380
+00:27:18,230 --> 00:27:20,810
+nombraste
+
+381
+00:27:20,810 --> 00:27:22,430
+en algún momento que usaron SICAN
+
+382
+00:27:22,430 --> 00:27:24,130
+que eso fue libre, que tuvieron que aprender
+
+383
+00:27:24,130 --> 00:27:26,370
+también encontré buscando en internet
+
+384
+00:27:26,370 --> 00:27:31,710
+que ustedes tienen una organización y un repositorio público de software libre en Github
+
+385
+00:27:31,710 --> 00:27:34,310
+y tiene más de 60 repositorios, me pareció muy interesante,
+
+386
+00:27:34,450 --> 00:27:38,090
+quería preguntarte si vos, o en tu trabajo anterior en la parte informática,
+
+387
+00:27:38,210 --> 00:27:42,110
+o ahora estás conectado, ¿cuál es la política de software libre de Barcelona si la conoces?
+
+388
+00:27:42,470 --> 00:27:44,750
+A ver, aquí hay unos expertos, ¿vale?
+
+389
+00:27:44,970 --> 00:27:49,050
+Y son en el departamento, precisamente la dirección de desarrollo
+
+390
+00:27:49,050 --> 00:27:52,130
+del Instituto Municipal de Informática que gestionan esto.
+
+391
+00:27:52,130 --> 00:27:54,210
+nuestra relación con el G-Hub
+
+392
+00:27:54,210 --> 00:27:55,870
+es que realmente
+
+393
+00:27:55,870 --> 00:27:57,990
+para construir el portal, todas las
+
+394
+00:27:57,990 --> 00:28:00,050
+prestaciones, realmente estamos
+
+395
+00:28:00,050 --> 00:28:01,590
+cogiendo extensiones
+
+396
+00:28:01,590 --> 00:28:03,550
+de publicada, de G-Hub
+
+397
+00:28:03,550 --> 00:28:05,270
+y vamos construyendo el portal
+
+398
+00:28:05,270 --> 00:28:07,310
+pero nosotros también hemos hecho contribución
+
+399
+00:28:07,310 --> 00:28:10,030
+claro, por eso, en el repositorio veo cosas de ustedes ahí
+
+400
+00:28:10,030 --> 00:28:11,630
+bueno, en concreto de Open Data
+
+401
+00:28:11,630 --> 00:28:12,470
+hemos hecho dos
+
+402
+00:28:12,470 --> 00:28:15,730
+hemos hecho uno en concreto para tener un tema
+
+403
+00:28:15,730 --> 00:28:17,530
+más de visualización y otro
+
+404
+00:28:17,530 --> 00:28:20,370
+para federarnos con el portal datos.gob.es
+
+405
+00:28:20,370 --> 00:28:22,050
+el portal de datos
+
+406
+00:28:22,050 --> 00:28:23,970
+del Estado español que a la vez
+
+407
+00:28:23,970 --> 00:28:26,090
+se federa con el portal europeo
+
+408
+00:28:26,090 --> 00:28:28,550
+necesitábamos las temáticas
+
+409
+00:28:28,550 --> 00:28:30,390
+instalar una extensión
+
+410
+00:28:30,390 --> 00:28:31,990
+que les permitía ser compatibles
+
+411
+00:28:31,990 --> 00:28:33,910
+o federar los datos
+
+412
+00:28:33,910 --> 00:28:36,430
+vi que el gobierno
+
+413
+00:28:36,430 --> 00:28:38,370
+de Cataluña usa Sócrata me pareció
+
+414
+00:28:38,370 --> 00:28:40,270
+eso es una dificultad
+
+415
+00:28:40,270 --> 00:28:42,350
+¿ustedes necesitan integrarse con Cataluña
+
+416
+00:28:42,350 --> 00:28:44,030
+o en el nivel de datos
+
+417
+00:28:44,030 --> 00:28:45,250
+o no, o está en proceso?
+
+418
+00:28:45,250 --> 00:28:45,710
+a ver
+
+419
+00:28:45,710 --> 00:28:49,350
+funcionamos aparte
+
+420
+00:28:49,350 --> 00:28:51,030
+pero sí que tenemos por ejemplo
+
+421
+00:28:51,030 --> 00:28:54,350
+pero en común los datos de lo que se llaman el perfil del contratante,
+
+422
+00:28:54,610 --> 00:28:56,030
+todo el tema de contratos.
+
+423
+00:28:56,630 --> 00:29:03,090
+Entonces, ellos ya se han adaptado, ya nos proporcionan una manera de conectarnos.
+
+424
+00:29:03,210 --> 00:29:05,850
+Hay vías de conexión más allá de lo que parece.
+
+425
+00:29:05,850 --> 00:29:06,530
+Correcto, correcto.
+
+426
+00:29:06,570 --> 00:29:09,710
+Muchos de estos datasets que tenemos, en concreto los de tiempo real,
+
+427
+00:29:09,710 --> 00:29:14,350
+pues la plataforma nos permite distintas maneras de conectarnos.
+
+428
+00:29:14,530 --> 00:29:17,850
+No todo lo tenemos almacenado dentro de nuestra plataforma en el datastore,
+
+429
+00:29:18,130 --> 00:29:20,390
+sino que algunos es vialing, esto sí,
+
+430
+00:29:20,390 --> 00:29:22,150
+a lo mejor tenemos ya link
+
+431
+00:29:22,150 --> 00:29:24,090
+pero hacemos un proceso inmediato
+
+432
+00:29:24,090 --> 00:29:25,910
+para poder luego publicar
+
+433
+00:29:25,910 --> 00:29:28,190
+y aprovechar las propiedades
+
+434
+00:29:28,190 --> 00:29:29,870
+de la plataforma, publicar la API
+
+435
+00:29:29,870 --> 00:29:31,010
+hacer la previsualización
+
+436
+00:29:31,010 --> 00:29:34,030
+los datos van y vienen, no importa que sean diferentes plataformas
+
+437
+00:29:34,030 --> 00:29:34,730
+funcione igual
+
+438
+00:29:34,730 --> 00:29:38,210
+vi uno de los productos de software que me gustó
+
+439
+00:29:38,210 --> 00:29:39,590
+mucho y me generó una duda
+
+440
+00:29:39,590 --> 00:29:42,090
+es Decidin, ustedes usan Decidin
+
+441
+00:29:42,090 --> 00:29:44,290
+Barcelona como una plataforma de participación
+
+442
+00:29:44,290 --> 00:29:45,010
+y opinión ciudadana
+
+443
+00:29:45,010 --> 00:29:48,070
+y entiendo, y yo ya había escuchado mucho
+
+444
+00:29:48,070 --> 00:29:50,350
+de Decidin Madrid que usa la plataforma Consul
+
+445
+00:29:50,350 --> 00:29:53,370
+no son plataformas, las dos son de software libre
+
+446
+00:29:53,370 --> 00:29:55,010
+pero son distintas
+
+447
+00:29:55,010 --> 00:29:57,270
+de aquí somos equipos distintos
+
+448
+00:29:57,270 --> 00:30:00,150
+y no puedo contestar
+
+449
+00:30:00,150 --> 00:30:02,010
+esta pregunta con precisión
+
+450
+00:30:02,010 --> 00:30:02,970
+lo siento
+
+451
+00:30:02,970 --> 00:30:05,950
+no hay problema, una de las preguntas que más me interesa
+
+452
+00:30:05,950 --> 00:30:07,970
+para mí el cliente más importante
+
+453
+00:30:07,970 --> 00:30:09,770
+de los datos es el funcionario
+
+454
+00:30:09,770 --> 00:30:11,350
+público que toma decisiones
+
+455
+00:30:11,350 --> 00:30:13,470
+prestando atención a los datos y tratando
+
+456
+00:30:13,470 --> 00:30:14,630
+de que esa decisión sea la mejor
+
+457
+00:30:14,630 --> 00:30:17,870
+te quería preguntar, vos me hablaste de clientes
+
+458
+00:30:17,870 --> 00:30:18,850
+internos hace un tiempo
+
+459
+00:30:18,850 --> 00:30:27,410
+¿Ese cliente interno es muy fuerte? ¿A usted parece que aquí en Barcelona se usan mucho, poco o muy poco o muchísimo los datos para tomar decisiones?
+
+460
+00:30:28,210 --> 00:30:39,610
+A ver, yo estamos, como he comentado, en la oficina municipal de datos, esta oficina precisamente uno de los objetivos que tiene es agrupar todos los datos,
+
+461
+00:30:39,610 --> 00:30:42,210
+tener conocimiento de todos los datos del ayuntamiento
+
+462
+00:30:42,210 --> 00:30:43,350
+como de una manera integrada
+
+463
+00:30:43,350 --> 00:30:46,230
+y impulsar
+
+464
+00:30:46,230 --> 00:30:47,490
+los proyectos DataTriven
+
+465
+00:30:47,490 --> 00:30:49,510
+precisamente, entonces
+
+466
+00:30:49,510 --> 00:30:51,210
+ya se está haciendo
+
+467
+00:30:51,210 --> 00:30:54,030
+lo que ocurre que está en otras mesas
+
+468
+00:30:54,030 --> 00:30:55,170
+por la de Open Data
+
+469
+00:30:55,170 --> 00:30:58,070
+hay personas que ya están trabajando en ello
+
+470
+00:30:58,070 --> 00:31:00,010
+y creo que solo esto
+
+471
+00:31:00,010 --> 00:31:02,030
+acaba de empezar
+
+472
+00:31:02,030 --> 00:31:04,410
+ya está en marcha pero en los próximos años
+
+473
+00:31:04,410 --> 00:31:06,330
+tendrá un impulso muy importante
+
+474
+00:31:06,330 --> 00:31:07,790
+perfecto, última
+
+475
+00:31:07,790 --> 00:31:10,250
+pregunta
+
+476
+00:31:10,250 --> 00:31:14,510
+he visto propuestas de datos abiertos en todo el mundo
+
+477
+00:31:14,510 --> 00:31:16,150
+y en algunos lugares
+
+478
+00:31:16,150 --> 00:31:18,370
+me da la sensación que es un trabajo
+
+479
+00:31:18,370 --> 00:31:20,010
+muy profundo y serio
+
+480
+00:31:20,010 --> 00:31:22,450
+y en algunos los datos
+
+481
+00:31:22,450 --> 00:31:24,210
+abiertos y la palabra transparencia
+
+482
+00:31:24,210 --> 00:31:25,570
+sobre todo es una linda palabra
+
+483
+00:31:25,570 --> 00:31:28,110
+como de marketing bonito de los gobiernos
+
+484
+00:31:28,110 --> 00:31:30,650
+te quería preguntar si vos ves que es así
+
+485
+00:31:30,650 --> 00:31:32,850
+y como te parece
+
+486
+00:31:32,850 --> 00:31:34,830
+que podemos diferenciar cuando una
+
+487
+00:31:34,830 --> 00:31:36,890
+propuesta es profunda y real
+
+488
+00:31:36,890 --> 00:31:41,950
+y cuando una propuesta es más de marketing o más superficial?
+
+489
+00:31:43,010 --> 00:31:48,890
+A ver, digamos que en el Ayuntamiento de Barcelona, transparencia, no van separados,
+
+490
+00:31:49,050 --> 00:31:52,230
+pero sí que hay una web de transparencia, hay una web de datos abiertos,
+
+491
+00:31:52,230 --> 00:31:58,270
+y que sí que los datos que se publican en una web de transparencia en formato reutilizable
+
+492
+00:31:58,270 --> 00:32:03,830
+se publican en el portal. Vamos al dato único, a una única fuente.
+
+493
+00:32:03,830 --> 00:32:17,050
+Para nosotros, ya he comentado antes, creemos en el Open Data y por lo tanto como uno de los beneficios es la transparencia y vamos a apoyarlo y vamos a continuar.
+
+494
+00:32:17,050 --> 00:32:30,770
+Ahora sabéis que justo este sábado pasado hubo renovación del gobierno municipal, entonces creo que esta línea no la va a cortar, al contrario, sino que seguirá potenciándola como ha dicho.
+
+495
+00:32:30,890 --> 00:32:33,270
+Entonces aquí es una política municipal importante.
+
+496
+00:32:33,270 --> 00:32:46,150
+La política municipal. De hecho, la comisionada anterior, justo de este mandato, realizó lo que se llama el Plan Barcelona-Ciudad Digital,
+
+497
+00:32:46,670 --> 00:32:50,950
+que es la hoja de ruta hacia la soberanía tecnológica.
+
+498
+00:32:50,950 --> 00:33:02,430
+Este plan tiene muchos puntos y se focaliza básicamente en lo que se llama tres ejes,
+
+499
+00:33:02,430 --> 00:33:05,550
+que es ciudad y gobierno, empresas y entidades sociales
+
+500
+00:33:05,550 --> 00:33:07,090
+y ciudadanos
+
+501
+00:33:07,090 --> 00:33:08,750
+en cada uno de ellos
+
+502
+00:33:08,750 --> 00:33:10,310
+pues tienen muchos puntos como
+
+503
+00:33:10,310 --> 00:33:11,950
+a desarrollar
+
+504
+00:33:11,950 --> 00:33:15,350
+y si, la política de datos abiertos
+
+505
+00:33:15,350 --> 00:33:16,870
+va a seguir entonces independientemente
+
+506
+00:33:16,870 --> 00:33:17,970
+es una política de Estado
+
+507
+00:33:17,970 --> 00:33:21,010
+bueno, te quiero agradecer
+
+508
+00:33:21,010 --> 00:33:22,850
+mucho Mercé, no me quiero exceder
+
+509
+00:33:22,850 --> 00:33:23,870
+mucho más en el tiempo
+
+510
+00:33:23,870 --> 00:33:26,610
+las entrevistas siempre terminan
+
+511
+00:33:26,610 --> 00:33:29,090
+además de agradeciendo, preguntándote
+
+512
+00:33:29,090 --> 00:33:31,190
+a qué referentes
+
+513
+00:33:31,190 --> 00:33:36,530
+o a qué personas te parece interesante que este podcast entreviste para continuar conociendo
+
+514
+00:33:36,530 --> 00:33:37,710
+sobre el mundo de datos abiertos.
+
+515
+00:33:37,710 --> 00:33:43,830
+Sí, pues introduciéndose un poco entre España y Europa, a ver, os puedo recomendar Martín
+
+516
+00:33:43,830 --> 00:33:47,590
+Álvarez Espinar, estará encantado de atenderos.
+
+517
+00:33:47,590 --> 00:33:48,590
+Sí, ¿dónde trabaja él?
+
+518
+00:33:48,590 --> 00:33:52,530
+Él está en la Fundación TITIC, es el director del B3C Consortium de España.
+
+519
+00:33:52,530 --> 00:33:54,130
+Ah, es la persona que me nombraste antes.
+
+520
+00:33:54,130 --> 00:33:58,810
+nombrado y luego también no si queréis podemos poneros en contacto con esther
+
+521
+00:33:58,810 --> 00:34:03,490
+hayer que es la forma parte de la comisión de la europea en data porta
+
+522
+00:34:03,490 --> 00:34:09,130
+sería súper interesante y después también ya más a nivel local pues una
+
+523
+00:34:09,130 --> 00:34:15,970
+podemos podríamos hablar con una desagarra no que es analista experto de
+
+524
+00:34:15,970 --> 00:34:21,730
+datos. ¿Recuerdas el nombre de él? Oleger Sagarra. Bueno, lo anotó, lo anotó entonces.
+
+525
+00:34:21,730 --> 00:34:27,490
+Es una empresa drivia. Bueno, muchas gracias, Mercedes. Pues de nada, encantados de haber
+
+526
+00:34:27,490 --> 00:34:33,370
+podido explicar un poco nuestra experiencia aquí en vuestro canal. Vale, gracias.
+

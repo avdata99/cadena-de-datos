@@ -1,0 +1,1640 @@
+1
+00:00:30,190 --> 00:01:00,170
+Paso de datos, episodio número 19, de este lado Andrés Vázquez desde Córdoba en Argentina, del otro lado es un gusto hoy recibir a Fabricio Scrollini, Fabricio es abogado, máster en políticas públicas y doctor en ciencia política y gobierno, actualmente es director ejecutivo de HILDA, la iniciativa latinoamericana de datos abiertos, fue presidente de Datos Uruguay, fue cofundador de Abre la Tami con Datos y es asesor en la Carta Internacional de Datos Abiertos.
+
+2
+00:01:00,190 --> 00:01:06,950
+abiertos. Muy buenas tardes, Fabricio. Muy buenas tardes, ¿cómo estás? Muy bien, muy bien. Me alegra
+
+3
+00:01:06,950 --> 00:01:15,250
+mucho que este podcast tarde, pero seguro haya llegado hasta Uruguay. Tengo, me anoté muchísimas
+
+4
+00:01:15,250 --> 00:01:20,430
+preguntas para hacerte, ojalá que alcancen todas. Primero que todo te pregunto, para los que estamos
+
+5
+00:01:20,430 --> 00:01:25,950
+en Argentina, para muchos de nosotros, vemos en Uruguay un ejemplo, un referente en Latinoamérica
+
+6
+00:01:25,950 --> 00:01:35,590
+¿Cómo lo ves vos más desde adentro de todos los proyectos? ¿Es Uruguay el número uno o dos de Latinoamérica en el mundo de datos abiertos?
+
+7
+00:01:36,510 --> 00:01:49,010
+Uruguay ha hecho un desarrollo temprano de la agenda de datos abiertos, desde, yo me atrevería a decirte, 2009, de las primeras experiencias que hubieron aquí a nivel municipal.
+
+8
+00:01:49,010 --> 00:02:10,650
+Luego a partir de 2010, 2011, con una efervescencia bastante importante. Entonces, desde ese lado y a su vez por otros aspectos que Uruguay tiene, como su tamaño, como el hecho de haber tenido también bastante acumulación en los temas de gobierno electrónico y bastante acumulación también en temas de gobierno digital,
+
+9
+00:02:10,650 --> 00:02:21,490
+hacen que Uruguay tenga hoy una posición interesante en América Latina a la hora de experimentar y usar datos.
+
+10
+00:02:21,490 --> 00:02:31,930
+Como todo, los rankings, los indicadores, a veces no hacen justicia tanto a las cosas buenas que pasan como a cosas que faltarían,
+
+11
+00:02:31,930 --> 00:02:41,430
+Pero creo que a nivel comparado, Uruguay creo que está haciendo las cosas, digamos, de forma bastante consistente
+
+12
+00:02:41,430 --> 00:02:51,130
+Y en ese sentido, yo creo que sí, que puede como ser considerado, no sé si un líder, pero al menos un referente a nivel latinoamericano
+
+13
+00:02:51,130 --> 00:02:57,730
+Y bueno, también ha logrado crecientemente la visibilidad de algunos de sus proyectos a nivel más global
+
+14
+00:02:57,730 --> 00:03:01,410
+Entonces, en ese sentido, creo que sí que Uruguay ha hecho algunas cosas bien también
+
+15
+00:03:01,410 --> 00:03:23,150
+Y me hablabas de los años 2009, 2010 y suena a la prehistoria en el mundo de los datos abiertos. Te quería preguntar, vos concretamente, en qué proyecto, si querés, extenderlo al mundo del gobierno abierto, porque por tu formación seguramente conoces mucho más que datos abiertos. ¿Con qué empezaste vos? ¿Cuál fue tu primer proyecto vinculado a estos temas?
+
+16
+00:03:23,150 --> 00:03:46,650
+A ver, yo, en mi caso particular, yo venía del mundo, siempre tuve como un costado nerd, digamos, por formación, y por otro lado también venía trabajando mucho en los temas de acceso a la información pública, entonces de ese lado venía viendo mucho cómo el gobierno publicaba información, los formatos que utilizaba, la dificultad de trabajar con eso,
+
+17
+00:03:46,650 --> 00:04:11,570
+Y en ese contexto, creo que el primer acercamiento que tuve yo personalmente con estos temas fue lanzando una investigación y a su vez colaborando en el desarrollo del sitio web que se llama queesabes.uy, que está basado en un proyecto británico, en un software que es el Avateli, que hoy está operando en 20 países a nivel comparado,
+
+18
+00:04:11,570 --> 00:04:26,410
+Y que Uruguay fue uno de los primeros países, si no el primero en América Latina, en incorporarlo, y que permitía a los usuarios hacer pedidos de acceso a la información en línea, ¿no? Y esto era novedoso en ese contexto.
+
+19
+00:04:26,670 --> 00:04:29,050
+¿Qué año? ¿Qué año más o menos?
+
+20
+00:04:29,050 --> 00:04:57,950
+Esto es 2010, 2011, que empezamos con ese proceso, creo que el lanzamiento finalmente fue ahí a fines de 2011, principios de 2012, y claro, fue realmente un cambio grande para Uruguay, primero porque en ese momento las autoridades no estaban del todo alineadas con recibir correos de la gente y responderlos, era como una de las cosas más complicadas que había en ese momento.
+
+21
+00:04:57,950 --> 00:05:06,390
+y quiénes eran estas personas que habían puesto un sitio web en línea para hacerle preguntas al gobierno, a ver quiénes se creían que eran, ¿no? Había una sensación así.
+
+22
+00:05:06,390 --> 00:05:20,730
+Y eso motivó algunos cambios en la ley uruguaya, en los decretos, a partir luego de la experiencia propia del portal, que para mí fue una de las experiencias más satisfactorias, que me generó mucha satisfacción,
+
+23
+00:05:20,730 --> 00:05:36,890
+porque en ese momento yo además de investigar estaba participando activamente en este campo, ¿no? Entonces fue como una cosa satisfactoria ver que algunos cambios se lograban a través de que esa tecnología se hacía carne, ¿no? La gente la usaba y hasta el día de hoy la usa, ¿no?
+
+24
+00:05:36,890 --> 00:05:54,490
+Y te sumo un dato que me pareció muy llamativo. Esta base de datos de pedidos de acceso a la información pública, aquesaves.uy, está publicada en el portal oficial de datos abiertos de Uruguay y publicada por la agrupación Data Uruguay.
+
+25
+00:05:54,490 --> 00:06:12,550
+O sea, me pareció primero curioso que el portal de datos abiertos de Uruguay tiene 43 organismos publicando datos, entre ellos la Intendencia de Montevideo, que creo que es el principal aportador de datos, pero está un dato uruguay, o sea, esto no es que se juntara un grupo de amigos a hacer algo y salió más o menos bien.
+
+26
+00:06:12,550 --> 00:06:34,590
+No solamente el gobierno lo apropió, sino que publica los datos de ahí y eso es lo que me parece a mí sorprendente. No sé si hay algún secreto, pero ¿cómo consiguieron ustedes generar esa voluntad política? ¿Esto surge porque el gobierno lo inicia o porque lo inician ustedes y convencen al gobierno de que tome todo esto?
+
+27
+00:06:35,510 --> 00:06:40,230
+Ahí es interesante, o sea, hubo una sinergia finalmente entre el gobierno y la sociedad civil,
+
+28
+00:06:40,730 --> 00:06:44,190
+una vez que era bastante claro, sobre todo con algunas partes del gobierno,
+
+29
+00:06:44,870 --> 00:06:48,330
+partes como las agencias de gobierno electrónico,
+
+30
+00:06:48,630 --> 00:06:53,370
+algunos organismos que eran más progresistas frente a estos temas,
+
+31
+00:06:53,970 --> 00:06:56,770
+dijeron, bueno, esto está par el sol con un dedo, ¿no?
+
+32
+00:06:56,770 --> 00:07:02,330
+O sea, si no hacemos algo al respecto, lo que va a terminar pasando es que la gente no va a terminar confiando en nosotros.
+
+33
+00:07:02,330 --> 00:07:22,150
+Entonces, hubo una rápida interlocución entre los actores que permitió una confianza inicial para poder ir reestructurando estos proyectos, ¿no? Y eso creo que fue algo que es interesante un poco del modo de relacionarse aquí en Uruguay.
+
+34
+00:07:22,150 --> 00:07:37,190
+Creo que en ese contexto también lo que fueron la Alianza para el Gobierno Abierto, la organización en aquel momento de la primera Blatami con Datos, también fueron eventos que fueron como ayudando a construir ese grado de confianza, y luego su formalización, ¿no?
+
+35
+00:07:37,190 --> 00:07:51,070
+O sea, que el hecho de que, por ejemplo, exista un comité de datos abiertos en Uruguay y que ese comité permita luego tener ese tipo de diálogo, una de las discusiones era si, por ejemplo, la sociedad civil podía o no publicar en el portal del gobierno, ¿no?
+
+36
+00:07:51,070 --> 00:07:54,490
+Y qué sentido va a tener en un país tan pequeño tener los portales, ¿verdad?
+
+37
+00:07:54,830 --> 00:08:00,610
+Entonces, ahí rápidamente, digamos, lo que veo, me dijo, bueno, les damos básicamente una entidad más,
+
+38
+00:08:00,710 --> 00:08:04,150
+si ustedes publican lo que quieran, bajo, obviamente, su cuenta y riesgo,
+
+39
+00:08:04,570 --> 00:08:10,990
+que a mí como me tocaba en esos momentos estar en data, fue realmente una negociación muy madura, ¿no?
+
+40
+00:08:11,030 --> 00:08:20,330
+Que yo a veces veo a nivel comparado que eso no se da, y en realidad sí también genera como un vínculo más cooperativo entre los actores, ¿no?
+
+41
+00:08:20,330 --> 00:08:25,250
+Que eso también está bueno, a men de que naturalmente existen diferencias entre gobierno y sociedad,
+
+42
+00:08:25,470 --> 00:08:28,510
+en tanto en los datos que se piden, en cómo se piden esos datos,
+
+43
+00:08:28,730 --> 00:08:32,350
+en lo que el gobierno puede entregar y no puede entregar y ese tipo de cosas, ¿no?
+
+44
+00:08:33,310 --> 00:08:38,670
+Bien, hablabas de las relaciones entre gobierno y sociedad civil
+
+45
+00:08:38,670 --> 00:08:41,170
+y te pregunto si vos darías el salto.
+
+46
+00:08:41,290 --> 00:08:46,870
+Si Tabaré Vázquez te llama mañana y te ofrece ser secretario nacional de datos abiertos
+
+47
+00:08:46,870 --> 00:08:49,250
+o algo por el estilo, ¿es algo que vos harías?
+
+48
+00:08:49,250 --> 00:08:52,050
+viste que interesante, si yo respondo
+
+49
+00:08:52,050 --> 00:08:53,850
+esa pregunta con un sí, mis colegas
+
+50
+00:08:53,850 --> 00:08:56,210
+en Hilda, evidentemente me crucifican
+
+51
+00:08:56,210 --> 00:08:57,350
+¿por qué?
+
+52
+00:08:57,590 --> 00:09:00,030
+pero es malo el gobierno entonces
+
+53
+00:09:00,030 --> 00:09:00,850
+es un lugar malo
+
+54
+00:09:00,850 --> 00:09:03,470
+no porque sea malo, sino porque
+
+55
+00:09:03,470 --> 00:09:06,110
+Hilda se encuentra en un momento bastante peculiar
+
+56
+00:09:06,110 --> 00:09:07,150
+de formalización
+
+57
+00:09:07,150 --> 00:09:09,130
+y arranque y desarrollo
+
+58
+00:09:09,130 --> 00:09:11,050
+entonces por el momento
+
+59
+00:09:11,050 --> 00:09:13,470
+mi futuro está bien anclado en Hilda
+
+60
+00:09:13,470 --> 00:09:14,930
+pero en el largo plazo
+
+61
+00:09:14,930 --> 00:09:17,490
+yo creo que lo que uno aprende
+
+62
+00:09:17,490 --> 00:09:21,830
+esta área y lo que uno ha visto también en el desarrollo de las comunidades que trabajan en
+
+63
+00:09:21,830 --> 00:09:27,830
+datos abiertos, que trabajan en tecnología cívica y que están en este entorno, es que sí hay como
+
+64
+00:09:27,830 --> 00:09:36,350
+una mayor permeabilidad y una mayor capacidad de ponerse en el lugar del otro. Y eso no es raro
+
+65
+00:09:36,350 --> 00:09:41,490
+de ver en otros ambientes de política pública, entonces sí creo que eso es como algo súper
+
+66
+00:09:41,490 --> 00:09:46,610
+positivo. En mi caso particular, en el largo plazo no lo descartaría, digo, creo que hay como
+
+67
+00:09:46,610 --> 00:09:49,050
+también hay momentos
+
+68
+00:09:49,050 --> 00:09:51,110
+en la vida para poder ir aportando
+
+69
+00:09:51,110 --> 00:09:52,930
+de distintos lugares
+
+70
+00:09:52,930 --> 00:09:54,810
+hoy me toca a mí empujar
+
+71
+00:09:54,810 --> 00:09:56,350
+esto de la investigación y de acción
+
+72
+00:09:56,350 --> 00:09:58,530
+y también encontrar
+
+73
+00:09:58,530 --> 00:10:00,990
+contrapartes confiables y serias
+
+74
+00:10:00,990 --> 00:10:02,890
+en los gobiernos para poder avanzar esta gente
+
+75
+00:10:02,890 --> 00:10:03,970
+Bien
+
+76
+00:10:03,970 --> 00:10:06,850
+te leí, te escuché en una entrevista
+
+77
+00:10:06,850 --> 00:10:09,110
+y dijiste algo muy interesante
+
+78
+00:10:09,110 --> 00:10:10,910
+y es que en los grupos
+
+79
+00:10:10,910 --> 00:10:12,210
+en los que estás trabajaban
+
+80
+00:10:12,210 --> 00:10:14,810
+concretamente en la confluencia entre las
+
+81
+00:10:14,810 --> 00:10:16,410
+agendas de datos abiertos
+
+82
+00:10:16,410 --> 00:10:30,910
+y la tecnología cívica y creo que es muy potente porque me da la sensación que en ese camino está generar impacto, conseguir resultados a través de herramientas cívicas vinculadas o basadas en datos abiertos.
+
+83
+00:10:30,910 --> 00:10:49,350
+Te quiero llevar a un ejemplo que me pareció increíble, que es A Tu Servicio. Una plataforma en la que los ciudadanos de Uruguay pueden ver cómo está su cobertura de salud, qué nivel de calidad tiene y demás. Quería que me cuentes, si podés, lo resumido que se pueda, qué es A Tu Servicio.
+
+84
+00:10:49,350 --> 00:11:02,150
+En Uruguay existe un problema y es que todos los febreros las personas pueden elegir entre distintos proveedores de salud solo por ese febrero, ¿verdad?
+
+85
+00:11:02,230 --> 00:11:07,630
+Entonces es el momento en el que vos podés elegir tu proveedor y después te quedaste con él durante todo el año.
+
+86
+00:11:08,010 --> 00:11:10,090
+Hay peculiaridades, pero básicamente es eso.
+
+87
+00:11:10,750 --> 00:11:14,610
+Entonces, básicamente, ¿cómo elegí a la gente? Por publicidad o por el boca a boca.
+
+88
+00:11:14,610 --> 00:11:36,890
+No tenía forma de comparar a estos proveedores que, obviamente, la saturaban de publicidad. Además, había un segundo problema y era que había un mercado de pases medio poco transparente, donde algunos proveedores trataban de robarle a otros con beneficios y algunas otras técnicas no muy nobles, ¿no?
+
+89
+00:11:37,350 --> 00:11:40,630
+Entonces, nosotros hicimos, de hecho, una primera aplicación que se llamó
+
+90
+00:11:40,630 --> 00:11:43,210
+Mercado de Pases, temporada de pases, perdón.
+
+91
+00:11:43,850 --> 00:11:47,290
+Y lo que hacía, básicamente, era justamente jugar con esta idea
+
+92
+00:11:47,290 --> 00:11:52,730
+y empezar a generar un primer ranking de quién era el mejor prestador de salud
+
+93
+00:11:52,730 --> 00:11:54,530
+para tus necesidades.
+
+94
+00:11:55,130 --> 00:11:59,110
+Eso no salió del todo bien, pero, o sea, sí se hizo, sí tuvo muy buena aceptación,
+
+95
+00:11:59,630 --> 00:12:01,290
+pero, bueno, no teníamos todos los datos.
+
+96
+00:12:01,290 --> 00:12:04,510
+Y a partir de una sinergia con el Ministerio de Salud Pública,
+
+97
+00:12:04,510 --> 00:12:08,210
+que sí tenía los datos, decidimos hacer dos cosas.
+
+98
+00:12:08,330 --> 00:12:12,190
+Por un lado desde Data Uruguay empujar básicamente la
+
+99
+00:12:12,190 --> 00:12:13,790
+creación de la aplicación y desde Hilda,
+
+100
+00:12:14,170 --> 00:12:16,990
+yo en ese momento me encontraba en las primeras etapas de Hilda,
+
+101
+00:12:17,190 --> 00:12:20,210
+tratar de apoyar el expedimento para ver qué se obtenía con eso.
+
+102
+00:12:21,430 --> 00:12:25,290
+Y en ese contexto lo que pasó en AtuServicio fue muy interesante
+
+103
+00:12:25,290 --> 00:12:28,850
+porque, por un lado, se logró disponibilizar muchísima
+
+104
+00:12:28,850 --> 00:12:30,190
+información que antes no estaba.
+
+105
+00:12:30,990 --> 00:12:34,370
+Obviamente se descubrieron un montón de anomalías en los datos
+
+106
+00:12:34,370 --> 00:12:38,550
+que derivaron en investigaciones del propio ministerio para mejorar su gestión,
+
+107
+00:12:38,670 --> 00:12:39,510
+eso también estuvo bien.
+
+108
+00:12:40,450 --> 00:12:44,170
+También esto derivó en el segundo o tercer ejercicio de tu servicio
+
+109
+00:12:44,170 --> 00:12:46,430
+en la reducción de algunos costos,
+
+110
+00:12:46,570 --> 00:12:51,190
+algunas mutualistas o proveedores de salud estaban cobrando más de lo que debían,
+
+111
+00:12:51,330 --> 00:12:52,070
+se dieron cuenta.
+
+112
+00:12:53,030 --> 00:12:55,750
+Motivó discusiones acerca de, por ejemplo,
+
+113
+00:12:56,230 --> 00:13:00,270
+dónde y cuándo van las mujeres a parir,
+
+114
+00:13:00,270 --> 00:13:02,770
+que fue toda una discusión enorme acerca de, bueno,
+
+115
+00:13:02,770 --> 00:13:05,050
+qué dicen básicamente los
+
+116
+00:13:05,050 --> 00:13:06,910
+ginecolos en torno a esto, cuáles son
+
+117
+00:13:06,910 --> 00:13:08,950
+las tasas necesarias
+
+118
+00:13:08,950 --> 00:13:10,370
+en cada uno de los proveedores
+
+119
+00:13:10,370 --> 00:13:12,890
+motivó el uso de esta información
+
+120
+00:13:12,890 --> 00:13:14,890
+por parte de la oposición al gobierno para
+
+121
+00:13:14,890 --> 00:13:17,070
+controlarlo e irónicamente también
+
+122
+00:13:17,070 --> 00:13:19,030
+motivó el uso de esta
+
+123
+00:13:19,030 --> 00:13:20,870
+misma herramienta por parte del gobierno
+
+124
+00:13:20,870 --> 00:13:22,590
+para defenderse, todo con datos
+
+125
+00:13:22,590 --> 00:13:25,090
+Muy bueno. Entonces, claro
+
+126
+00:13:25,090 --> 00:13:27,030
+eso para nosotros era como ciencia ficción
+
+127
+00:13:27,030 --> 00:13:28,290
+de lo que era un debate
+
+128
+00:13:28,290 --> 00:13:29,930
+yo te diría
+
+129
+00:13:29,930 --> 00:13:34,690
+engorroso, siempre cargado de ideología y, digamos,
+
+130
+00:13:34,810 --> 00:13:35,890
+a veces de mucha chicana.
+
+131
+00:13:36,470 --> 00:13:40,130
+Bueno, a tu servicio vino a aportar un poco de luz a ese
+
+132
+00:13:40,130 --> 00:13:43,290
+espacio con algunos cambios de comportamiento que se
+
+133
+00:13:43,290 --> 00:13:45,210
+evidenciaron en los actores del sistema,
+
+134
+00:13:45,850 --> 00:13:50,390
+con alguna evidencia inicial que podía ayudar a cosas que se
+
+135
+00:13:50,390 --> 00:13:52,290
+suponía que pasaban con la transparencia,
+
+136
+00:13:52,370 --> 00:13:54,810
+como la baja de precios o la mejora de eficiencia.
+
+137
+00:13:54,810 --> 00:13:56,730
+Pero hay mucho más para hacer.
+
+138
+00:13:56,910 --> 00:13:58,370
+O sea, este fue como, yo te diría,
+
+139
+00:13:58,370 --> 00:14:02,230
+Este datos de servicio fue la primera punta de lanza que
+
+140
+00:14:02,230 --> 00:14:04,270
+permitió tener evidencia de esto.
+
+141
+00:14:05,270 --> 00:14:06,710
+Lo que queda ahora, básicamente,
+
+142
+00:14:07,050 --> 00:14:09,290
+es ver, no tanto a tu servicio en sí mismo,
+
+143
+00:14:09,370 --> 00:14:12,290
+sino este modelo de acción, cómo puede replicarse,
+
+144
+00:14:12,650 --> 00:14:14,730
+tanto en salud como otras áreas, ¿verdad?
+
+145
+00:14:14,730 --> 00:14:18,350
+O sea, creo que ahí está el secreto un poco de dinamizar el
+
+146
+00:14:18,350 --> 00:14:23,010
+uso de los datos para alguna causa o para algún problema
+
+147
+00:14:23,010 --> 00:14:25,630
+específico de la sociedad, donde la transparencia,
+
+148
+00:14:25,710 --> 00:14:28,350
+además, lleve a la gente a poder tomar mejores decisiones.
+
+149
+00:14:28,370 --> 00:14:45,630
+Me imagino que hay muchas organizaciones y mucha gente con ideas buenas como esta, pero después está la dificultad de implementarnos. Además del equipo interesante e interdisciplinario que tienen ustedes, te quería preguntar cómo fue el tema de la financiación, porque me imagino que es clave para esto.
+
+150
+00:14:45,630 --> 00:14:47,630
+entiendo que colaboró con ustedes
+
+151
+00:14:47,630 --> 00:14:49,150
+a Avina y el gobierno
+
+152
+00:14:49,150 --> 00:14:51,610
+no sé si colaboró con dinero, pero también
+
+153
+00:14:51,610 --> 00:14:53,030
+se sumó al equipo. ¿Cómo
+
+154
+00:14:53,030 --> 00:14:55,690
+hace alguien que tiene una idea tan interesante como esta
+
+155
+00:14:55,690 --> 00:14:57,590
+para conseguir financiación? Es fácil,
+
+156
+00:14:57,710 --> 00:14:59,250
+es muy difícil, es imposible.
+
+157
+00:15:00,350 --> 00:15:01,550
+Yo creo que estamos en un momento
+
+158
+00:15:01,550 --> 00:15:03,510
+donde hay madurez para empezar a plantear
+
+159
+00:15:03,510 --> 00:15:05,490
+estos proyectos, tanto
+
+160
+00:15:05,490 --> 00:15:07,470
+a donantes más tradicionales. En ese momento había
+
+161
+00:15:07,470 --> 00:15:09,270
+un fondo, el Fondo Altec, que venía
+
+162
+00:15:09,270 --> 00:15:11,270
+con un apoyo también de la Fundación
+
+163
+00:15:11,270 --> 00:15:13,290
+Omidia y en ese momento Hilda
+
+164
+00:15:13,290 --> 00:15:15,350
+tenía este pequeño fondito para poder
+
+165
+00:15:15,350 --> 00:15:24,410
+contribuir a experimentos, básicamente, ¿no? O sea, a pequeños experimentos, y entonces esto fue muy,
+
+166
+00:15:24,750 --> 00:15:28,350
+y con lo cual no fue un gran proyecto, no fue que tuviera un montón de dinero.
+
+167
+00:15:29,190 --> 00:15:34,070
+Lo que terminó pasando es que en la medida que se demostró su utilidad, el gobierno uruguayo decidió adoptarlo,
+
+168
+00:15:34,070 --> 00:15:40,230
+decidió financiarlo, básicamente, y eso también, particularmente, el Ministerio de Salud Pública,
+
+169
+00:15:40,750 --> 00:15:45,210
+y eso ayudó también a su sostenibilidad. Y hay algunas historias así en América Latina
+
+170
+00:15:45,210 --> 00:15:51,710
+de proyectos que en este caso terminan siendo adoptados por los gobiernos para sostenerlos.
+
+171
+00:15:51,710 --> 00:15:57,890
+En otros casos no, porque el juego de intereses o de oposición de intereses
+
+172
+00:15:57,890 --> 00:16:01,750
+que están en una democracia entre gobierno y sociedad no lo permite,
+
+173
+00:16:02,290 --> 00:16:08,110
+pero creo que hay formas de buscarle la vuelta, tanto con fondos públicos,
+
+174
+00:16:08,270 --> 00:16:11,390
+con fondos de los organismos internacionales tipo el BID, la CAF,
+
+175
+00:16:11,390 --> 00:16:35,570
+Es decir, ahí hay un grupo de gente que posiblemente esté y vaya a seguir haciendo cosas en torno a esto. Hay algunas fundaciones internacionales y fundaciones locales que apoyan esto. Y creo que también hay una cosa que este grupo de tecnólogos, dateros, dateras, algo que está faltando también es traer mucho más especialistas de dominio al campo.
+
+176
+00:16:35,570 --> 00:16:38,730
+es decir, más gente que sepa en salud, más gente que sepa de educación,
+
+177
+00:16:38,730 --> 00:16:46,210
+más gente que sepa del dominio específico, para también ir permeando a otros actores
+
+178
+00:16:46,210 --> 00:16:51,030
+y honestamente a otras fuentes de financiamiento que verían valor en esto
+
+179
+00:16:51,030 --> 00:16:56,910
+y que no se acerquen a veces por el miedo a que esto es algo demasiado técnico
+
+180
+00:16:56,910 --> 00:17:01,950
+y en el fondo en realidad es un cruce de actores con distintas disciplinas,
+
+181
+00:17:01,950 --> 00:17:03,950
+distintos saberes, sí, sin duda
+
+182
+00:17:03,950 --> 00:17:06,030
+hay un elemento técnico fuerte en algunos casos
+
+183
+00:17:06,030 --> 00:17:08,310
+tanto de diseño como de estandarización
+
+184
+00:17:08,310 --> 00:17:09,910
+y de uso de datos y desarrollo
+
+185
+00:17:09,910 --> 00:17:10,790
+pero no lo es todo
+
+186
+00:17:10,790 --> 00:17:13,450
+Y esos grupos de especialistas
+
+187
+00:17:13,450 --> 00:17:15,830
+temáticos, por ejemplo
+
+188
+00:17:15,830 --> 00:17:17,710
+en A Tu Servicio
+
+189
+00:17:17,710 --> 00:17:19,870
+la gente que sabe mucho
+
+190
+00:17:19,870 --> 00:17:21,970
+de salud se puso celosa de que ustedes hicieron
+
+191
+00:17:21,970 --> 00:17:23,790
+esto por ahí, me imagino que si yo trabajo
+
+192
+00:17:23,790 --> 00:17:25,230
+en temas de salud hace 20 años
+
+193
+00:17:25,230 --> 00:17:27,850
+y ustedes que son dateros, nerds
+
+194
+00:17:27,850 --> 00:17:30,050
+o especialistas en políticas públicas
+
+195
+00:17:30,050 --> 00:17:31,930
+me ha pasado a mí varias veces
+
+196
+00:17:31,930 --> 00:17:35,630
+de ver que hay cierto celo entre una parte de la academia
+
+197
+00:17:35,630 --> 00:17:38,650
+y todo esto nuevo como que avasalla el conocimiento
+
+198
+00:17:38,650 --> 00:17:39,630
+que ellos venían haciendo.
+
+199
+00:17:39,750 --> 00:17:41,050
+Me pareció interesante que vos digas eso.
+
+200
+00:17:41,390 --> 00:17:44,570
+¿Ustedes tuvieron algún encuentro con la parte académica
+
+201
+00:17:44,570 --> 00:17:45,990
+en salud, investigadores y demás?
+
+202
+00:17:46,510 --> 00:17:48,330
+Fue al principio un poco duro, sí.
+
+203
+00:17:48,430 --> 00:17:51,930
+Yo reconozco que, sobre todo con los técnicos del ministerio,
+
+204
+00:17:52,630 --> 00:17:55,150
+el desafío fue explicarles que esto iba a pasar,
+
+205
+00:17:55,310 --> 00:17:56,270
+que lo podíamos hacer.
+
+206
+00:17:56,930 --> 00:17:58,990
+Y obviamente quienes están en el dominio,
+
+207
+00:17:59,070 --> 00:18:00,430
+conocen mucho del dominio,
+
+208
+00:18:00,430 --> 00:18:02,330
+muchas veces te dicen
+
+209
+00:18:02,330 --> 00:18:03,910
+no, ustedes no pueden comunicar esto así
+
+210
+00:18:03,910 --> 00:18:06,830
+entonces fíjate
+
+211
+00:18:06,830 --> 00:18:08,990
+y aparece la complejidad
+
+212
+00:18:08,990 --> 00:18:10,050
+del dominio, pero vos
+
+213
+00:18:10,050 --> 00:18:12,610
+que en general venís ajeno a él
+
+214
+00:18:12,610 --> 00:18:14,490
+y que tu misión básicamente es disponibilizar
+
+215
+00:18:14,490 --> 00:18:16,530
+los datos para que la gente pueda resolver
+
+216
+00:18:16,530 --> 00:18:18,510
+un problema, no te interesa tanto
+
+217
+00:18:18,510 --> 00:18:19,630
+esa complejidad del dominio
+
+218
+00:18:19,630 --> 00:18:22,310
+a menos naturalmente que vos
+
+219
+00:18:22,310 --> 00:18:24,330
+tengas como misión cambiar
+
+220
+00:18:24,330 --> 00:18:26,430
+el dominio, que ese es otro tipo de
+
+221
+00:18:26,430 --> 00:18:28,230
+problema, que vos lo querés
+
+222
+00:18:28,230 --> 00:18:30,270
+y sabes que nosotros le vamos a meter tecnología
+
+223
+00:18:30,270 --> 00:18:35,450
+digital de la salud hasta el final, entonces lo que venimos acá es hacer un takeover, no era el caso, ¿no?
+
+224
+00:18:36,390 --> 00:18:42,490
+Entonces, en ese contexto sí es importante establecer confianzas y establecer que hay una lógica disruptiva
+
+225
+00:18:42,490 --> 00:18:47,770
+que está pasando, pero que no es cualquier cosa, es decir, que hay metodología, que hay procesos,
+
+226
+00:18:48,030 --> 00:18:51,410
+y que el producto final, digamos, también es algo de lo que ellos pueden contribuir.
+
+227
+00:18:51,510 --> 00:18:57,270
+Y honestamente, en la primera fase, digamos, yo te diría que no fue tan así con los técnicos del ministerio,
+
+228
+00:18:57,270 --> 00:19:02,590
+en la segunda fase fueron claves para tener muchísima más información y muchísimo más detalle.
+
+229
+00:19:03,410 --> 00:19:10,550
+Entonces, yo creo que también ahí hay una construcción de confianza que hace que si se da bien ese proceso,
+
+230
+00:19:11,030 --> 00:19:16,470
+de ahí la importancia a veces de los procesos de jacatón o de los procesos de diálogo, etcétera,
+
+231
+00:19:16,470 --> 00:19:23,030
+como para generar espacios donde alguna forma de innovación pueda como emerger con la confianza necesaria.
+
+232
+00:19:23,030 --> 00:19:27,240
+Bien, y te quería preguntar con respecto a la tecnología
+
+233
+00:19:27,240 --> 00:19:29,500
+¿La desarrollaron ustedes? ¿Usaron un software libre?
+
+234
+00:19:29,760 --> 00:19:30,800
+¿Liberaron lo que hicieron?
+
+235
+00:19:31,300 --> 00:19:33,600
+Sí, en el caso, en general, digamos, desde Hilda
+
+236
+00:19:33,600 --> 00:19:35,800
+Digamos, todo lo que apoyamos
+
+237
+00:19:35,800 --> 00:19:37,080
+Y también desde Data en su momento
+
+238
+00:19:37,080 --> 00:19:40,260
+Tratamos de que o sea un software libre
+
+239
+00:19:40,260 --> 00:19:41,320
+O esté abierto
+
+240
+00:19:41,320 --> 00:19:43,740
+Tratamos en la medida de lo posible
+
+241
+00:19:43,740 --> 00:19:45,580
+De usar herramientas libres, no siempre nos sale
+
+242
+00:19:45,580 --> 00:19:48,520
+Y tratamos de documentarlo de la manera más digna posible
+
+243
+00:19:48,520 --> 00:19:49,640
+Para que otro lo pueda usar
+
+244
+00:19:49,640 --> 00:19:52,940
+En el GitHub siempre se puede encontrar
+
+245
+00:19:52,940 --> 00:19:56,000
+que lo tenemos hosteado ahí.
+
+246
+00:19:57,100 --> 00:20:00,780
+En general, yo te diría que es un poco el leitmotiv de esto,
+
+247
+00:20:00,900 --> 00:20:04,500
+porque lo que uno espera es que esto sirva de inspiración
+
+248
+00:20:04,500 --> 00:20:07,880
+o potencialmente de reuso para otros.
+
+249
+00:20:07,980 --> 00:20:10,640
+Por ejemplo, el caso a tu servicio ahora se replicó en Colombia,
+
+250
+00:20:11,260 --> 00:20:14,220
+no se usó estrictamente el código original de tu servicio,
+
+251
+00:20:14,220 --> 00:20:18,340
+pero sí se inspiró en ello para poder construir un sistema similar
+
+252
+00:20:18,340 --> 00:20:21,200
+de monitoreo para la alcaldía de Bogotá,
+
+253
+00:20:21,200 --> 00:20:26,000
+que a su vez tiene el desafío de ser un sistema de salud mucho más grande y además con otros incentivos.
+
+254
+00:20:27,480 --> 00:20:32,520
+Entonces, creo que ahí igual de todas maneras la documentación, la publicación del código,
+
+255
+00:20:32,700 --> 00:20:37,760
+la publicación de los datos, permite por un lado, es una señal de que, bueno,
+
+256
+00:20:37,840 --> 00:20:40,220
+todo es verificable y eso siempre es bueno en este campo,
+
+257
+00:20:40,860 --> 00:20:45,980
+y lo otro naturalmente es una señal de, bueno, de que ojalá otros puedan tomar el trabajo y replicarlo.
+
+258
+00:20:46,400 --> 00:20:50,700
+No es muy común eso de tomar el trabajo y replicarlo en tecnología cívica, no siempre se hace,
+
+259
+00:20:51,200 --> 00:20:53,720
+Hay mucha gente que a veces tiene ganas de reinventar la
+
+260
+00:20:53,720 --> 00:20:55,500
+rueda, a veces por muy buenas razones.
+
+261
+00:20:56,760 --> 00:20:58,940
+Y, bueno, eso también hay que respetarlo.
+
+262
+00:20:59,020 --> 00:21:02,180
+Pero si es una forma de inspiración y si además le
+
+263
+00:21:02,180 --> 00:21:04,020
+facilitaría a alguien, siempre es muy bienvenido.
+
+264
+00:21:04,540 --> 00:21:06,260
+Sí, eso me parece interesante.
+
+265
+00:21:06,380 --> 00:21:10,440
+Los programadores preferimos reinvertar la rueda que ponernos
+
+266
+00:21:10,440 --> 00:21:13,480
+a pensar y a leer lo que otro ya pensó.
+
+267
+00:21:13,480 --> 00:21:20,080
+Eso lo tomo como tema, como un punto muy interesante.
+
+268
+00:21:20,080 --> 00:21:48,560
+De lo que me contás recién, me surge lo siguiente y yo siempre tengo la duda de que abrir datos es importante, pero que los datos los miren los funcionarios día a día es mucho más importante. Cuando ustedes abren estos datos empiezan a ver cosas y se empiezan a corregir cosas. Me da la sensación que esto quiere decir que no había nadie mirando al detalle estos datos, que el hecho de que ustedes los abran hizo que mucha más gente los mire y por lo tanto se corrija.
+
+269
+00:21:48,560 --> 00:21:55,880
+No es que se corrigió porque había funcionarios mirándolo y los corrigieron y el proceso de apertura llegó después cuando ya estaba corregido.
+
+270
+00:21:56,240 --> 00:22:02,700
+¿Los funcionarios te parece a vos que miran datos o publican datos en el portal y la gente de afuera sabe más que la de adentro?
+
+271
+00:22:03,260 --> 00:22:08,280
+No, hay una mezcla, porque muchas de las cosas que pasan es que los datos se entienden en un contexto.
+
+272
+00:22:08,500 --> 00:22:14,660
+De ahí la importancia de los metadatos, que lamentablemente no todas las administraciones públicas le dan tanta importancia.
+
+273
+00:22:14,660 --> 00:22:29,100
+Pero generalmente los funcionarios pueden entender mucho más los datos que ellos publican y si se hacen disponibles, o sea, si se ponen a disposición de la ciudadanía, existen más formas de construir, digamos, con ellos.
+
+274
+00:22:29,180 --> 00:22:40,580
+Porque en el fondo lo que construye es el dato liberado, pero también el diálogo con el funcionariado o con, en este caso, los dueños, entre comillas, o quienes gestionan esos datos, ¿no?
+
+275
+00:22:40,580 --> 00:22:52,440
+Entonces, ahí, digamos, creo que el funcionariado tiene una ventaja a veces de ser un insider y de conocer, pero a veces no tiene ni el tiempo ni los incentivos para estar mirando todo el tiempo.
+
+276
+00:22:52,600 --> 00:23:05,740
+Y lo otro que no pasa en toda la administración pública a nivel comparado, es que no siempre nuestro funcionariado y nuestra clase dirigente toma decisiones en base a los datos, que esto es curioso.
+
+277
+00:23:05,740 --> 00:23:24,900
+Es decir, recién ahora hay como una tendencia, yo te diría que viene igual hace 20 años con esta historia de la política basada en la evidencia y todo eso, pero yo te diría que recién hace poco, tal vez 5 o 6 años, estamos diciendo que hay que, bueno, fundamentar mejor las decisiones a algún tipo de dato.
+
+278
+00:23:24,900 --> 00:23:40,560
+Y que las administraciones públicas siguen encontrando el secreto mejor guardado de las administraciones públicas y de muchas empresas, es que muchos de sus datos siguen siendo tablas Excel tiradas en algún servidor, o en algún disco duro de algún ministerio, eso tiene muchísimo valor.
+
+279
+00:23:40,560 --> 00:24:04,880
+Y ahí es donde comienza, si la liberación de datos promueve conectar aún dentro de la propia administración esos baches, yo te diría, o esos pequeños, esas pequeñas partes que no se hablan entre sí, bueno, eso es un gran logro y a veces pasa.
+
+280
+00:24:05,780 --> 00:24:08,060
+Tú me dirías, bueno, pero capaz que lo mejor es conectarla
+
+281
+00:24:08,060 --> 00:24:09,560
+desde adentro para luego liberar.
+
+282
+00:24:10,040 --> 00:24:11,580
+Sí, eso es otro camino posible.
+
+283
+00:24:12,260 --> 00:24:14,700
+Lo que pasa es que siempre tiene que haber algo que dinamice, ¿no?
+
+284
+00:24:14,700 --> 00:24:17,740
+Y el portal, la publicación es algo que ayuda a dinamizar.
+
+285
+00:24:18,460 --> 00:24:20,500
+Si no, como parte de las tareas rutinarias,
+
+286
+00:24:20,500 --> 00:24:24,940
+a menos que las entidades tengan unidades de datos
+
+287
+00:24:24,940 --> 00:24:27,980
+o perfiles muy parecidos a los que ustedes tienen en Córdoba
+
+288
+00:24:27,980 --> 00:24:29,520
+o acá en Montevideo o en Agencia,
+
+289
+00:24:29,920 --> 00:24:31,700
+claro, que son perfiles muy peculiares,
+
+290
+00:24:31,700 --> 00:24:36,380
+no logran como estar en ese monitoreo.
+
+291
+00:24:37,460 --> 00:24:38,100
+Bien.
+
+292
+00:24:39,660 --> 00:24:43,500
+Vos, como conocedor de muchas iniciativas dentro de Latinoamérica,
+
+293
+00:24:44,600 --> 00:24:47,840
+te quería preguntar si lo que ves en esas iniciativas
+
+294
+00:24:47,840 --> 00:24:52,020
+es en algunos casos que al gobierno abierto se lo usa
+
+295
+00:24:52,020 --> 00:24:54,520
+como una oficina de marketing y solamente para mostrar
+
+296
+00:24:54,520 --> 00:24:59,600
+cosas bonitas, o no, o ya maduramos y estamos en otro nivel.
+
+297
+00:24:59,600 --> 00:25:05,400
+te quería preguntar si existe eso y cómo hago yo para diferenciar una propuesta sincera de apertura
+
+298
+00:25:05,400 --> 00:25:07,960
+con una propuesta más marquetinera.
+
+299
+00:25:08,640 --> 00:25:13,100
+Es difícil de evaluar, o sea, hay varios problemas, ¿no?
+
+300
+00:25:13,140 --> 00:25:17,640
+O sea, la alianza para el gobierno abierto, que nosotros, yo personalmente participé mucho en Uruguay
+
+301
+00:25:17,640 --> 00:25:23,160
+al inicio de ella y traté de, junto con mis colegas de la sociedad civil,
+
+302
+00:25:23,260 --> 00:25:27,600
+tratamos de establecer reglas de juego claras a la hora de qué implicaba un plan de acción,
+
+303
+00:25:27,600 --> 00:25:32,760
+cómo se aprobaba, si esto se hacía por decreto, quién lo firmaba.
+
+304
+00:25:33,100 --> 00:25:35,560
+Entonces el plan de acción acá lo firman todos los ministros
+
+305
+00:25:35,560 --> 00:25:39,260
+y es una recomendación de un comité conjunto de gobierno y sociedad civil.
+
+306
+00:25:39,800 --> 00:25:43,580
+A su vez la sociedad civil tiene representantes que se autonomina,
+
+307
+00:25:43,640 --> 00:25:44,800
+no son nominados por el gobierno,
+
+308
+00:25:45,460 --> 00:25:48,940
+y si hay discusiones legítimas en torno a qué incluir o no dentro de ese plan.
+
+309
+00:25:49,520 --> 00:25:52,280
+Entonces hay un tema que cuando uno quiere distinguir
+
+310
+00:25:52,280 --> 00:25:56,160
+qué es un proceso de gobierno abierto en serio versus el que no lo es,
+
+311
+00:25:56,160 --> 00:26:16,000
+Creo que una parte central es, bueno, el diálogo y cómo se toman las decisiones, si se incluyen o no los compromisos dentro de los planes. Ese es un indicador, yo te diría, estructural fuerte. El segundo también tiene que ver con los incentivos que tengan tanto las administraciones como las personas a cargo de este desarrollo de llevar adelante propuestas.
+
+312
+00:26:16,000 --> 00:26:22,240
+y eso también se ve, digamos, conociendo a los servidores públicos, ¿no?
+
+313
+00:26:22,240 --> 00:26:25,980
+Y además, en las áreas de datos, en las áreas de tecnología psíquica,
+
+314
+00:26:26,700 --> 00:26:29,240
+esto es muy tangible, o termina con datos liberados
+
+315
+00:26:29,240 --> 00:26:31,440
+y con algún tipo de herramienta, o no termina, ¿verdad?
+
+316
+00:26:31,580 --> 00:26:36,320
+Entonces, eso también te ayuda un poco a medir
+
+317
+00:26:36,320 --> 00:26:39,020
+si estás frente a un proceso serio o no.
+
+318
+00:26:39,540 --> 00:26:42,000
+Digo, pueden haber naturalmente muchísimas,
+
+319
+00:26:42,240 --> 00:26:45,000
+pueden haber problemas en la liberación de datos,
+
+320
+00:26:45,000 --> 00:26:50,520
+O sea, pueden pasar cosas, pero lo que voy a ir es que vos podés medir los grados de avance
+
+321
+00:26:50,520 --> 00:26:55,020
+y de hecho el barómetro, los índices, etcétera, ayudan un poco a medir eso.
+
+322
+00:26:55,720 --> 00:26:59,400
+Y después en la más, yo te diría, después hay un tema más de cooperación o no cooperación
+
+323
+00:26:59,400 --> 00:27:04,720
+en las administraciones que a veces, algunas administraciones tienen poco miedo a que las critiquen
+
+324
+00:27:04,720 --> 00:27:08,560
+y dicen, sí, vamos, acá tenés los datos o acá tenés la API, conectate y ya sé.
+
+325
+00:27:09,180 --> 00:27:12,800
+Y otras son más cautas, ¿no? Y a veces hay que ir construyendo confianzas y tal.
+
+326
+00:27:13,260 --> 00:27:14,900
+Creo que ahí hay una cuestión.
+
+327
+00:27:15,000 --> 00:27:21,300
+Lo otro que no hay que perder de vista también es que estamos en un momento de la democracia en general
+
+328
+00:27:21,300 --> 00:27:23,940
+un poco peculiar a nivel comparado, ¿no?
+
+329
+00:27:25,180 --> 00:27:30,360
+Entonces, ahí es donde, bueno, si está, ok, todo bien con el gobierno abierto,
+
+330
+00:27:31,180 --> 00:27:38,700
+todo bien con desarrollar aplicaciones, desarrollar estándares, etcétera,
+
+331
+00:27:38,700 --> 00:27:42,900
+la pregunta es cómo esto impacta en los problemas que tenemos que resolver, ¿no?
+
+332
+00:27:42,900 --> 00:28:07,680
+Y ahí hay también algunas discusiones más macro de gobernanza que quienes trabajamos en datos, que quienes trabajamos en lo que es este aspecto de la apertura, tampoco deberíamos como desconocer, ¿no? Entonces, es también poner esto en contexto de forma de decir, ok, yo entiendo que la apertura es fundamental en la medida que ayuda a resolver los problemas y en la medida naturalmente que estos procesos sean legítimos, porque si no estoy abonando a otra cosa, ¿no?
+
+333
+00:28:07,680 --> 00:28:10,140
+Perfecto
+
+334
+00:28:10,140 --> 00:28:13,200
+¿Qué le falta, Fabricio, a ustedes en Uruguay?
+
+335
+00:28:13,320 --> 00:28:14,680
+Si pudieras elegir
+
+336
+00:28:14,680 --> 00:28:16,980
+Que se hagan uno o dos proyectos
+
+337
+00:28:16,980 --> 00:28:18,360
+¿Qué te parece que le falta?
+
+338
+00:28:18,440 --> 00:28:19,800
+¿Qué tiene la agenda en Hilda hoy?
+
+339
+00:28:20,340 --> 00:28:21,180
+¿Qué sigue?
+
+340
+00:28:21,720 --> 00:28:23,900
+Mirá, nosotros creemos que hay varias cosas
+
+341
+00:28:23,900 --> 00:28:25,740
+Desde lo que es la metodología más tradicional
+
+342
+00:28:25,740 --> 00:28:28,060
+De uso de datos y de estandarización
+
+343
+00:28:28,060 --> 00:28:30,280
+Creemos que hay cosas que se tienen que visibilizar
+
+344
+00:28:30,280 --> 00:28:32,720
+Y por eso nosotros venimos remando bastante
+
+345
+00:28:32,720 --> 00:28:34,380
+Este proceso con mis colegas
+
+346
+00:28:34,380 --> 00:28:36,500
+Silvana, Ana y otras colegas
+
+347
+00:28:36,500 --> 00:28:39,240
+que Gabriela, que vienen llevando adelante un esfuerzo grande
+
+348
+00:28:39,240 --> 00:28:43,320
+por empezar a visibilizar los datos de género
+
+349
+00:28:43,320 --> 00:28:46,200
+que a veces, honestamente, nuestras administraciones no recogen.
+
+350
+00:28:46,640 --> 00:28:47,940
+Que esta es una cuestión importante,
+
+351
+00:28:48,020 --> 00:28:51,240
+entender que nosotros liberamos datos de sistemas
+
+352
+00:28:51,240 --> 00:28:54,460
+que fueron diseñados, posiblemente por personas
+
+353
+00:28:54,460 --> 00:28:56,800
+o que bien nunca pensaron que los iban a liberar,
+
+354
+00:28:57,200 --> 00:29:00,400
+o por categorías que pensaron tal vez nuestros abuelos
+
+355
+00:29:00,400 --> 00:29:02,640
+o nuestros padres, ¿no?
+
+356
+00:29:02,640 --> 00:29:05,540
+Entonces, de un mundo que, bueno, que ya no es el actual.
+
+357
+00:29:05,540 --> 00:29:14,340
+Entonces, eso por un lado, por otro lado, o sea, que todo nuestro sistema de datos tiene alguna historia, algún legado, ¿no? Esas categorías surgen de algún lugar.
+
+358
+00:29:15,560 --> 00:29:16,940
+Géneros binarios, por ejemplo.
+
+359
+00:29:17,620 --> 00:29:33,180
+Exacto, por ejemplo, eso. Entonces, bueno, ahí decís, ¿cómo hacemos para empezar a representar esto, no? Y capturar también eso de forma de visibilizarlo y evitar, por otro lado, que esa visibilización lleve a la discriminación, ¿no? Porque también está ese otro problema.
+
+360
+00:29:34,080 --> 00:29:40,360
+Entonces, como que ahí hay un tema que nosotros queremos como aportar a empezar a resolver esto,
+
+361
+00:29:40,680 --> 00:29:46,920
+o más que a resolver, a por un lado visibilizar esto en contexto de problemas como son el femicidio,
+
+362
+00:29:47,040 --> 00:29:52,600
+como la violencia contra la mujer, y explorar de qué manera la visibilización puede ayudar a mejorar
+
+363
+00:29:52,600 --> 00:29:55,740
+el diseño de políticas en torno a esto.
+
+364
+00:29:55,740 --> 00:30:01,960
+Lo otro que se está viniendo con particular efervescencia es la agenda, naturalmente,
+
+365
+00:30:01,960 --> 00:30:06,240
+lo que hoy se conoce como, y me voy a disculpar por el uso de la palabra,
+
+366
+00:30:06,380 --> 00:30:13,120
+inteligencia artificial, que en realidad lo que estamos viendo
+
+367
+00:30:13,120 --> 00:30:17,060
+son el revival de viejas técnicas de machine learning,
+
+368
+00:30:17,220 --> 00:30:20,480
+por lo menos en este mundo de datos, capaz que en robots y en otros lados
+
+369
+00:30:20,480 --> 00:30:23,940
+podríamos tener otra discusión, pero en realidad lo que son
+
+370
+00:30:23,940 --> 00:30:28,300
+son técnicas de machine learning que naturalmente ahora frente a la abundancia
+
+371
+00:30:28,300 --> 00:30:30,860
+de datos pueden ser desplegadas con mucha mayor facilidad
+
+372
+00:30:30,860 --> 00:30:48,440
+también por la efervescencia que hay en el desarrollo de herramientas y que potencialmente permiten o bien automatizar algunos procesos dentro del gobierno o bien generar herramientas de predicción que con los debidos recaudos podrían servir para la mejora del análisis de políticas públicas.
+
+373
+00:30:48,440 --> 00:31:12,280
+Sin embargo, hay que ser bastante cautos con esto. Primero porque esto podría salir mal, digamos, estas herramientas entrenan sobre datos que si tienen sesgos puede salir muy muy mal. Un caso muy sonado y que creo que deberíamos repensarlo ha sido el caso de Salta en la República Argentina, que nosotros estudiábamos y publicamos sobre él y otros colegas también lo hicieron.
+
+374
+00:31:12,280 --> 00:31:16,780
+pero a ver, no en tono yo te diría de crucificar a quienes hicieron esto
+
+375
+00:31:16,780 --> 00:31:19,240
+sino de entender cómo las cosas pueden salir muy mal
+
+376
+00:31:19,240 --> 00:31:22,540
+y la importancia de la transparencia, que en este caso sí lo hubo
+
+377
+00:31:22,540 --> 00:31:24,280
+por lo menos por parte del equipo de desarrollo
+
+378
+00:31:24,280 --> 00:31:28,220
+de publicar lo que se hizo, porque esa es la única forma
+
+379
+00:31:28,220 --> 00:31:30,380
+de que nosotros nos pudimos enterar de que eso estaba pasando
+
+380
+00:31:30,380 --> 00:31:35,280
+y luego vamos a reflexionar un poco acerca del uso de estas herramientas
+
+381
+00:31:35,280 --> 00:31:40,620
+o sea, no es en contra de, sino más bien en cómo es un uso responsable
+
+382
+00:31:40,620 --> 00:31:59,360
+cómo son sostenibles estas herramientas, que permitan, sí, sin duda, por ejemplo, si hay formas de usar datos para monitorear y eventualmente combatir el embarazo adolescente, bienvenidos sean, pero eso se inserta dentro de un contexto, dentro de una política, no es tan blanco y negro, ¿no?
+
+383
+00:31:59,360 --> 00:32:09,400
+Y si curiosamente la mayoría de tus datos vienen de poblaciones vulnerables y de personas en particular que se encuentran bajo la línea de pobreza, bueno, naturalmente tu algoritmo va a estar un poco sesgado, ¿no?
+
+384
+00:32:10,360 --> 00:32:21,260
+Entonces, ese tipo de debates queremos también abonar y testear algunas soluciones y pensar en cómo luce un uso más cauteloso y ético de estas tecnologías.
+
+385
+00:32:21,260 --> 00:32:24,160
+perfecto Fabricio, clarísimo
+
+386
+00:32:24,160 --> 00:32:26,180
+yo te tengo que despedir
+
+387
+00:32:26,180 --> 00:32:27,800
+agradeciéndote primero por el tiempo
+
+388
+00:32:27,800 --> 00:32:29,980
+y segundo, este podcast se llama
+
+389
+00:32:29,980 --> 00:32:31,500
+Cadena de Datos porque
+
+390
+00:32:31,500 --> 00:32:33,980
+intento encadenar invitados a través de las
+
+391
+00:32:33,980 --> 00:32:35,660
+sugerencias de los entrevistados
+
+392
+00:32:35,660 --> 00:32:38,200
+quería preguntarte a qué dos o tres
+
+393
+00:32:38,200 --> 00:32:39,840
+personas vos me sugerís que
+
+394
+00:32:39,840 --> 00:32:41,300
+sume esta conversación
+
+395
+00:32:41,300 --> 00:32:44,280
+bueno, para que no te quedes tan en el sur
+
+396
+00:32:44,280 --> 00:32:47,940
+eso te lo voy a agradecer
+
+397
+00:32:47,940 --> 00:32:49,860
+porque estoy muy en el sur, así que si me sacas
+
+398
+00:32:49,860 --> 00:33:08,120
+Mira, tengo un colega en Colombia, se llama Juan Pablo Marín, que dirige Data Sketch, que es una empresa social que se dedica a trabajar con publicación y utilización de datos, y hacer arte de datos y visualizaciones, creo que ese puede ser un buen perfil.
+
+399
+00:33:08,120 --> 00:33:28,980
+Creo que, a ver, otro colega es Dani Villatoro, él es un colega que está en Guatemala y está trabajando más con las actividades de fellowships y las actividades de entrenar gente en la escuela de datos, en contextos que a veces no es tan fácil hacerlo.
+
+400
+00:33:28,980 --> 00:33:57,190
+Y a ver, déjame pensar en la tercera persona, pasa que ya está en el sur, mira, creo que, pensando en alguna mujer en México,
+
+401
+00:33:57,190 --> 00:34:00,930
+Mónica Meltis
+
+402
+00:34:00,930 --> 00:34:02,130
+es el nombre
+
+403
+00:34:02,130 --> 00:34:04,230
+es una colega de data cívica
+
+404
+00:34:04,230 --> 00:34:06,110
+creo que ella
+
+405
+00:34:06,110 --> 00:34:08,030
+también trabaja con datos de género
+
+406
+00:34:08,030 --> 00:34:09,990
+y puede ser otro perfil
+
+407
+00:34:09,990 --> 00:34:11,390
+así te mando un poco para el norte
+
+408
+00:34:11,390 --> 00:34:13,990
+Perfecto, perfecto. Bueno, muchísimas gracias
+
+409
+00:34:13,990 --> 00:34:15,270
+Fabricio, entonces un abrazo
+
+410
+00:34:15,270 --> 00:34:18,270
+Muchísimas gracias a ti, Andrés. Que pases muy bien
+

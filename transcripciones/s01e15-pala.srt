@@ -1,0 +1,3088 @@
+1
+00:00:30,510 --> 00:00:53,850
+Episodio número 15. La tarde de hoy me acompaña Pablo Paladino. Pablo es licenciado en análisis de sistemas, desarrollador de software y especialista en visualizaciones. Trabaja como desarrollador en DataWheel, también en Chequeado, también es socio público y en proyectos como Freelance. Y como todavía te queda tiempo, Pablo, también sos profesor universitario. Buenas tardes, muchas gracias por participar.
+
+2
+00:00:54,410 --> 00:00:55,970
+¿Qué tal, Andrés? Muchas gracias por la invitación.
+
+3
+00:00:57,210 --> 00:01:01,650
+Lo del profesor es apenas algunos momentos al año.
+
+4
+00:01:01,790 --> 00:01:05,610
+Soy profesor de un diplomado en la Universidad Católica de Chile
+
+5
+00:01:05,610 --> 00:01:08,730
+de visualización de datos, de algunos módulos.
+
+6
+00:01:08,970 --> 00:01:09,790
+No, no, no es que tengo uno.
+
+7
+00:01:09,850 --> 00:01:11,910
+Bueno, perfecto.
+
+8
+00:01:11,950 --> 00:01:14,430
+Creo que vale la pena la aclaración que no sos el Pablo Paladino
+
+9
+00:01:14,430 --> 00:01:16,650
+que sale en la tele frecuentemente y en las noticias,
+
+10
+00:01:17,370 --> 00:01:19,650
+sino que sos el Pablo Paladino bueno, digamos.
+
+11
+00:01:19,650 --> 00:01:24,530
+Me encargo de poner la H en el medio de mi nombre y mi apellido.
+
+12
+00:01:24,550 --> 00:01:25,830
+Pablo Horacio Paradeo.
+
+13
+00:01:25,990 --> 00:01:28,490
+Exacto, sí, sí, para no tener confusión.
+
+14
+00:01:29,010 --> 00:01:33,150
+Más conocido como Pala también para el mundo de los datos abiertos.
+
+15
+00:01:33,570 --> 00:01:38,010
+Bueno, arrancamos con la primera pregunta que le hago a todos y es, y en tu caso tenés una trayectoria larga,
+
+16
+00:01:38,290 --> 00:01:42,290
+¿cuál fue tu primer proyecto vinculado al mundo de los datos abiertos? ¿Cómo arrancaste?
+
+17
+00:01:42,290 --> 00:01:45,470
+Mira, en una época
+
+18
+00:01:45,470 --> 00:01:47,070
+yo vengo como de
+
+19
+00:01:47,070 --> 00:01:49,050
+una formación más de front-end
+
+20
+00:01:49,050 --> 00:01:50,990
+perdón, más de back-end
+
+21
+00:01:50,990 --> 00:01:52,570
+de Java, mucho Oracle
+
+22
+00:01:52,570 --> 00:01:54,990
+mucha cosa Enterprise, trabajé como para
+
+23
+00:01:54,990 --> 00:01:56,750
+multinacionales
+
+24
+00:01:56,750 --> 00:01:58,790
+allá en Buenos Aires
+
+25
+00:01:58,790 --> 00:02:01,170
+y como que
+
+26
+00:02:01,170 --> 00:02:03,050
+en un momento me quería salir de esa parte
+
+27
+00:02:03,050 --> 00:02:04,690
+porque me era muy complicado
+
+28
+00:02:04,690 --> 00:02:07,190
+mostrarle a mi mamá lo que estaba
+
+29
+00:02:07,190 --> 00:02:09,070
+haciendo, porque quedaba
+
+30
+00:02:09,070 --> 00:02:10,470
+como en un sótano
+
+31
+00:02:10,470 --> 00:02:17,250
+en algún servidor oculto, y aparte porque me motivaba mucho la parte visual, de la cual sabía muy poco.
+
+32
+00:02:18,330 --> 00:02:23,710
+Entonces me empecé como a inclinar más a la parte front-end, ahí fui moviéndome como de empresas,
+
+33
+00:02:23,970 --> 00:02:32,090
+y en este buscar empresas o buscar proyectos, nació algo que resultó ser bastante clave en mi carrera,
+
+34
+00:02:32,090 --> 00:02:52,230
+que es Nardos, no sé si te acordás, esto habrá sido como por el año, por el de 2012, 2013, por ahí, y ahí básicamente era un grupo de estudio de unos nerds que nos conocimos por Twitter
+
+35
+00:02:52,230 --> 00:02:57,870
+y que empezamos como a juntarnos con el afán de aprender cosas nuevas
+
+36
+00:02:57,870 --> 00:03:02,650
+y en este aprender cosas nuevas hacíamos grupitos y nos presentábamos
+
+37
+00:03:02,650 --> 00:03:07,870
+como las distintas competencias que había de codificación o de cosas por el estilo
+
+38
+00:03:07,870 --> 00:03:11,550
+y cada tanto nos juntábamos y si alguien había aprendido algo nuevo
+
+39
+00:03:11,550 --> 00:03:16,010
+decía bueno, yo doy una charla, entonces esa persona ha dado una charla
+
+40
+00:03:16,010 --> 00:03:20,530
+sin ser un experto, sino que le había dedicado un rato a estudiar algo nuevo
+
+41
+00:03:20,530 --> 00:03:25,170
+y le presentaba el tema al resto y así entre todos íbamos como aprendiendo.
+
+42
+00:03:25,770 --> 00:03:28,530
+Y de ese grupo, bueno, obviamente salieron amistades muy buenas
+
+43
+00:03:28,530 --> 00:03:30,670
+y de hecho el grupo sigue continuando hoy como un meetup
+
+44
+00:03:30,670 --> 00:03:35,610
+donde se juntan regularmente, lo pueden encontrar en meetup.com
+
+45
+00:03:35,610 --> 00:03:39,330
+que se juntan en Buenos Aires y hacen charlas de todos los lenguajes
+
+46
+00:03:39,330 --> 00:03:40,690
+y de todos los estilos también.
+
+47
+00:03:42,510 --> 00:03:45,610
+¿Tuviste conexión con Hack Hackers, con los chicos que...?
+
+48
+00:03:45,610 --> 00:03:50,450
+Claro, sí. En esa misma búsqueda también conocí al grupo Hack Hackers
+
+49
+00:03:50,450 --> 00:03:55,770
+como desde el principio, lo conocí a Mariano Blechman y a Martín Zarzale,
+
+50
+00:03:55,870 --> 00:04:00,490
+que eran como los dos primeros que conocí ahí, y ahí también surgieron cosas muy buenas,
+
+51
+00:04:01,930 --> 00:04:07,970
+ahí también lo conocí al ruso y estuve como metido en la primera etapa de cargografía, su proyecto.
+
+52
+00:04:09,250 --> 00:04:13,170
+Y por otra parte con los nardos también nos presentábamos en las hackatones
+
+53
+00:04:13,170 --> 00:04:18,030
+que empezaba a hacer el gobierno de la ciudad, con su flamante portal de datos, digamos.
+
+54
+00:04:18,030 --> 00:04:21,370
+esos fueron como mis primeros contactos
+
+55
+00:04:21,370 --> 00:04:23,150
+y lo primerísimo que hicimos
+
+56
+00:04:23,150 --> 00:04:24,630
+con este grupo Nardos fue
+
+57
+00:04:24,630 --> 00:04:27,090
+una capa REST
+
+58
+00:04:27,090 --> 00:04:29,110
+para acceder a los datasets
+
+59
+00:04:29,110 --> 00:04:30,830
+del gobierno de la ciudad, que en ese
+
+60
+00:04:30,830 --> 00:04:33,090
+primer entonces no tenían
+
+61
+00:04:33,090 --> 00:04:34,970
+una API REST, sino que eran
+
+62
+00:04:34,970 --> 00:04:35,510
+archivos
+
+63
+00:04:35,510 --> 00:04:39,010
+y habíamos armado como una capa
+
+64
+00:04:39,010 --> 00:04:41,210
+una capa REST
+
+65
+00:04:41,210 --> 00:04:42,950
+web que te permitía
+
+66
+00:04:42,950 --> 00:04:44,770
+hacerle queries a esos datasets
+
+67
+00:04:44,770 --> 00:04:46,670
+que estaban colgados en el gobierno de la ciudad
+
+68
+00:04:46,670 --> 00:04:51,670
+y ahí, bueno, fue como empezamos a ser conocidos dentro de este ámbito, digamos.
+
+69
+00:04:52,610 --> 00:04:59,170
+Esas son un poco las dos comunidades iniciales a las que pertenecí y pertenezco
+
+70
+00:04:59,170 --> 00:05:02,190
+y que les agradezco un montón porque me han enseñado muchísimo.
+
+71
+00:05:02,910 --> 00:05:08,710
+Y a partir de ahí, después también mi camino con los datos, bueno, si yo ya más, por otros rumbos.
+
+72
+00:05:08,710 --> 00:05:16,470
+Sí, yo lo que destaco de esas comunidades y de esos momentos es el gran espíritu de colaboración
+
+73
+00:05:16,470 --> 00:05:18,750
+y la generosidad, yo las personas que nombraste
+
+74
+00:05:18,750 --> 00:05:20,430
+y algunos más que estaban en ese momento
+
+75
+00:05:20,430 --> 00:05:22,310
+yo desde
+
+76
+00:05:22,310 --> 00:05:24,430
+Córdoba que empecé a mirar y a conectarme
+
+77
+00:05:24,430 --> 00:05:25,930
+también con el grupo de gente por acá
+
+78
+00:05:25,930 --> 00:05:28,330
+destaco la gran generosidad
+
+79
+00:05:28,330 --> 00:05:30,530
+y el entorno abierto que había
+
+80
+00:05:30,530 --> 00:05:32,030
+en todo eso, y dijiste algo también
+
+81
+00:05:32,030 --> 00:05:34,250
+que ustedes hacían charla y meetup donde
+
+82
+00:05:34,250 --> 00:05:36,430
+uno aprendía un poquito de algo y ya
+
+83
+00:05:36,430 --> 00:05:38,410
+lo compartía y me parece que tenemos
+
+84
+00:05:38,410 --> 00:05:39,930
+un poco de eso, que no tenemos
+
+85
+00:05:39,930 --> 00:05:42,670
+en general, no esperamos
+
+86
+00:05:42,670 --> 00:05:43,930
+un montón de tiempo
+
+87
+00:05:43,930 --> 00:05:46,990
+ni hacemos grandes estudios antes de trabajar con algo
+
+88
+00:05:46,990 --> 00:05:50,530
+sino que es más prueba y error y salir andando
+
+89
+00:05:50,530 --> 00:05:53,710
+y eso que comentas de hacer una primera API
+
+90
+00:05:53,710 --> 00:05:55,230
+que le hacía preguntas a una base de datos
+
+91
+00:05:55,230 --> 00:05:57,510
+y empezar a publicar en el mundo de los datos abiertos
+
+92
+00:05:57,510 --> 00:06:00,870
+en ese momento, por lo menos para los que hacíamos eso
+
+93
+00:06:00,870 --> 00:06:02,810
+en el sector privado, verlo en el público
+
+94
+00:06:02,810 --> 00:06:06,410
+era realmente súper interesante
+
+95
+00:06:06,410 --> 00:06:09,430
+así que muy destacable esa primera comunidad
+
+96
+00:06:09,430 --> 00:06:11,210
+que se conformó por allá
+
+97
+00:06:11,210 --> 00:06:27,830
+Te voy a traer, Pablo, mucho más acá porque trabajaste en un montón de proyectos y demás y me gustaría que me cuentes de uno en particular que me pareció una experiencia interesante por cómo se dio, por cómo se financió, por todo, que es lo de DataChile.
+
+98
+00:06:27,830 --> 00:06:43,810
+Hace poquito, con un grupo en el que estás, con DataWheel, hicieron algo muy interesante que es pedirle todos los datos al gobierno de Chile y planificar visualizaciones de cero y demás. ¿Cómo fue ese proceso que terminó con el portal datachile.io que es un ejemplo hoy?
+
+99
+00:06:43,810 --> 00:06:47,210
+Sí, eso es muchísimo más cerca
+
+100
+00:06:47,210 --> 00:06:49,090
+Esto fue durante el año 2017
+
+101
+00:06:49,090 --> 00:06:52,490
+Se construyó donde el pluratorní 17
+
+102
+00:06:52,490 --> 00:06:53,610
+Y se lanzó en 2018
+
+103
+00:06:53,610 --> 00:06:56,090
+Sí, o sea, DataWheel
+
+104
+00:06:56,090 --> 00:06:58,670
+La compañía con la que trabajo hoy
+
+105
+00:06:58,670 --> 00:07:01,410
+Tiene ya un historial en este tipo de portales
+
+106
+00:07:01,410 --> 00:07:05,330
+Que están basados sobre ese paradigma
+
+107
+00:07:05,330 --> 00:07:09,450
+De que todos los portales de datos que conocemos
+
+108
+00:07:09,450 --> 00:07:12,750
+Están basados, pasan su publicación
+
+109
+00:07:12,750 --> 00:07:16,830
+y cumplen con su rol de transparencia
+
+110
+00:07:16,830 --> 00:07:18,030
+basándose en archivos.
+
+111
+00:07:18,370 --> 00:07:19,790
+Esto que hablábamos antes.
+
+112
+00:07:19,790 --> 00:07:22,790
+Sí, cumplimos con la ley publicando la lista de tal cosa,
+
+113
+00:07:22,890 --> 00:07:23,750
+la lista de compra.
+
+114
+00:07:24,310 --> 00:07:24,910
+Exactamente.
+
+115
+00:07:25,530 --> 00:07:28,290
+Y eso, y obviamente en un gobierno
+
+116
+00:07:28,290 --> 00:07:32,290
+que tiene una enorme cantidad de pequeños departamentos
+
+117
+00:07:32,290 --> 00:07:33,970
+e incluso muchos ministerios,
+
+118
+00:07:34,490 --> 00:07:36,390
+se genera muchísima información
+
+119
+00:07:36,390 --> 00:07:38,470
+y a partir de ahí se publica
+
+120
+00:07:38,470 --> 00:07:40,150
+como esa información sale de ahí,
+
+121
+00:07:40,390 --> 00:07:42,650
+sale de cada uno de esos slots separados
+
+122
+00:07:42,650 --> 00:07:44,810
+que son los departamentos o los ministerios.
+
+123
+00:07:45,450 --> 00:07:48,110
+Y el gran problema que nosotros encontramos,
+
+124
+00:07:48,310 --> 00:07:51,050
+y no es un problema ni de Chile, ni de Argentina, ni de Sudamérica,
+
+125
+00:07:51,150 --> 00:07:54,090
+sino que pasa en todos los portales de este estilo,
+
+126
+00:07:54,650 --> 00:07:56,550
+es que esa información no conversa
+
+127
+00:07:56,550 --> 00:08:01,010
+y sigue estando en un nivel muy alto de acceso real
+
+128
+00:08:01,010 --> 00:08:04,150
+de los skills necesarios para que esa data tenga un valor
+
+129
+00:08:04,150 --> 00:08:07,270
+en lo que todos esperamos que sea para todos.
+
+130
+00:08:07,390 --> 00:08:09,210
+O sea, esto se plantea de entrada.
+
+131
+00:08:09,210 --> 00:08:13,710
+De entrada, dicen, este portal es más basado en datos,
+
+132
+00:08:13,810 --> 00:08:17,130
+pero un portal de visualización es accesible y entendible por cualquier persona.
+
+133
+00:08:17,750 --> 00:08:20,910
+Claro, el paradigma de los datos basados en archivos
+
+134
+00:08:20,910 --> 00:08:23,590
+y el paradigma de los datos basados en historias.
+
+135
+00:08:23,850 --> 00:08:25,430
+¿Qué queremos decir con historias?
+
+136
+00:08:25,570 --> 00:08:29,530
+Que suena como muy bien, pero en realidad es hablar de una narrativa común, ¿sí?
+
+137
+00:08:29,870 --> 00:08:32,290
+En donde si vos en esa información, en esos datos,
+
+138
+00:08:32,690 --> 00:08:35,490
+lográs encontrar entidades comunes,
+
+139
+00:08:35,490 --> 00:08:43,510
+Por ejemplo, todos los datos que tengas de cualquier portal de datos va a tener algún campo que te dice alguna dimensión geográfica.
+
+140
+00:08:43,690 --> 00:08:45,670
+Sí, una ciudad, un barrio o algo.
+
+141
+00:08:45,710 --> 00:08:51,050
+Exacto, una provincia, no importa el nivel de agregación, pues tenés ahí un dato que te referencia a una geografía.
+
+142
+00:08:51,170 --> 00:08:58,930
+Entonces, nosotros, gran parte del trabajo de DataChile es tomar toda esa información pública, que está pública,
+
+143
+00:08:59,690 --> 00:09:03,090
+integrarla en una sola base de datos en este sentido,
+
+144
+00:09:03,190 --> 00:09:05,770
+en el sentido de identificar estas entidades comunes,
+
+145
+00:09:05,890 --> 00:09:07,790
+en este caso supongamos el ejemplo de la geografía,
+
+146
+00:09:08,410 --> 00:09:10,910
+y entonces con esa información combinada e integrada
+
+147
+00:09:10,910 --> 00:09:12,910
+lo que puedo hacer es presentar una visualización,
+
+148
+00:09:13,730 --> 00:09:17,070
+una página entera de visualización de la región de Atacama.
+
+149
+00:09:17,710 --> 00:09:19,910
+Entonces, vos no estás viendo datos,
+
+150
+00:09:20,290 --> 00:09:22,670
+perdón, no estás viendo datasets, no estás viendo archivos,
+
+151
+00:09:22,670 --> 00:09:25,250
+estás viendo una página web que te cuenta,
+
+152
+00:09:25,450 --> 00:09:26,970
+no importa de dónde vengan esos datos,
+
+153
+00:09:26,970 --> 00:09:33,710
+te cuenta la historia de Atacama en datos, una narrativa común, en donde vos vas yendo hacia abajo y ves datos de economía,
+
+154
+00:09:33,950 --> 00:09:41,110
+datos de población, de demografía, datos de resultados electorales, datos de educación, etc.
+
+155
+00:09:41,570 --> 00:09:47,010
+Donde todo está cortado, digamos, por la dimensión de esta región de Atacama, por ejemplo.
+
+156
+00:09:47,550 --> 00:09:56,390
+Entonces, con eso empujás un poquito más el nivel de acceso y la relación que tienen las personas con los datos,
+
+157
+00:09:56,390 --> 00:10:01,210
+porque ya no estás dándole Excel, le estás dando texto generado,
+
+158
+00:10:01,550 --> 00:10:04,070
+le estás dando indicadores, le estás dando visualizaciones
+
+159
+00:10:04,070 --> 00:10:06,530
+y, por supuesto, le das el link para que se baje en el Excel.
+
+160
+00:10:07,030 --> 00:10:09,010
+Eso el usuario experto lo va a poder seguir haciendo.
+
+161
+00:10:09,870 --> 00:10:13,730
+Es un poco el cambio de paradigma que venimos haciendo ya en varios portales
+
+162
+00:10:13,730 --> 00:10:18,530
+y que funciona bien porque las visitas lo comprueban, digamos.
+
+163
+00:10:18,950 --> 00:10:19,770
+Eso te iba a preguntar.
+
+164
+00:10:20,510 --> 00:10:24,470
+Esta forma de enfocar los portales eleva el número de visitas
+
+165
+00:10:24,470 --> 00:10:28,750
+y me imagino el consumo de los medios de comunicación que pueden tener un referente siempre a mano
+
+166
+00:10:28,750 --> 00:10:33,310
+cuando van a encontrar algo de una ciudad, ubicarse un poquito de cómo está eso.
+
+167
+00:10:33,310 --> 00:10:34,910
+Eso lo comprueban, hay más visitas.
+
+168
+00:10:36,250 --> 00:10:40,250
+Sí, o sea, no sabría decirte en comparación con el portal de datos.
+
+169
+00:10:40,710 --> 00:10:43,390
+Lo que sí te puedo decir es que desde que empezó DataChila hasta hoy,
+
+170
+00:10:44,410 --> 00:10:51,870
+orgánicamente su tráfico crece, sobre todo por esto de que hicimos mucho hincapié en cómo se escriben los textos.
+
+171
+00:10:51,870 --> 00:11:00,070
+Cómo los textos que acompañan a cada gráfico tienen una forma de ser escritos en donde que es la misma en la cual las personas lo buscan.
+
+172
+00:11:00,150 --> 00:11:05,910
+Entonces, básicamente Google nos hace el trabajo de traernos a las personas dadas las preguntas que se arman.
+
+173
+00:11:06,570 --> 00:11:17,690
+Esto vendría a ser el equivalente a la metadata de ese dataset, pero súper específica, porque nosotros tenemos texto generado para cada región, para cada provincia, para cada comuna, digamos.
+
+174
+00:11:17,690 --> 00:11:22,330
+Entonces, es un poco, ese es el hook principal que usamos para
+
+175
+00:11:22,330 --> 00:11:24,410
+nuestros sitios, es básicamente el tráfico de Google.
+
+176
+00:11:24,510 --> 00:11:27,350
+Y, de hecho, hay como algo bastante obvio,
+
+177
+00:11:27,890 --> 00:11:29,730
+pero no es obvio hasta que no lo ves,
+
+178
+00:11:30,130 --> 00:11:33,330
+que la home de nuestros sitios que tienen este mismo esquema
+
+179
+00:11:33,330 --> 00:11:35,190
+no es la página más vistada.
+
+180
+00:11:35,850 --> 00:11:38,350
+Porque cuando una persona escribe una búsqueda,
+
+181
+00:11:38,810 --> 00:11:41,170
+Google te lleva directamente al perfil que te va a dar la
+
+182
+00:11:41,170 --> 00:11:41,850
+respuesta, digamos.
+
+183
+00:11:42,310 --> 00:11:42,510
+Bien.
+
+184
+00:11:42,690 --> 00:11:45,310
+La gente no es que dice, voy a entrar hasta Chile a ver qué
+
+185
+00:11:45,310 --> 00:11:47,190
+hay, sino que busca en Google otras cosas y llega,
+
+186
+00:11:47,190 --> 00:11:49,970
+y que es lo mejor que le puede pasar a cualquier sitio web, me parece.
+
+187
+00:11:50,070 --> 00:11:53,350
+Claro, claro. Entonces, un poco aprovechándonos de eso,
+
+188
+00:11:53,950 --> 00:11:56,210
+hacemos que esa data sea más accesible.
+
+189
+00:11:57,710 --> 00:12:01,650
+¿La conexión a los datos del gobierno es estática
+
+190
+00:12:01,650 --> 00:12:03,790
+o están dinámicamente conectados a base de datos
+
+191
+00:12:03,790 --> 00:12:06,370
+y, por lo tanto, el portal está vivo
+
+192
+00:12:06,370 --> 00:12:09,030
+y a medida que el gobierno actualiza sus datos
+
+193
+00:12:09,030 --> 00:12:11,670
+o pasa su gestión administrativa, se actualiza el portal?
+
+194
+00:12:12,390 --> 00:12:15,090
+Es una gran pregunta y la respuesta es que no, es estático.
+
+195
+00:12:15,090 --> 00:12:17,250
+De hecho, ahora estamos planeando una actualización.
+
+196
+00:12:18,070 --> 00:12:23,650
+Ocurre lo siguiente, el portal DataChile es una financiación combinada entre público y privada.
+
+197
+00:12:24,830 --> 00:12:30,110
+La parte pública, que es como el financiamiento público, que es el más grande,
+
+198
+00:12:31,150 --> 00:12:33,910
+fue a través de Corfo, que es una entidad que lo que hace es,
+
+199
+00:12:34,050 --> 00:12:39,810
+tiene uno de sus programas de beneficios, de grants, que otorga, es de bienes públicos.
+
+200
+00:12:40,250 --> 00:12:42,830
+Entonces uno hace una propuesta y es una postulación sobre,
+
+201
+00:12:42,830 --> 00:12:47,450
+ok, quiero construir este bien público, no importa que sea, quiero construir este bien público,
+
+202
+00:12:47,950 --> 00:12:55,350
+hay alguna entidad dentro del gobierno que es mi mandante, que dice, sí, ok, nos gustaría construir este bien público,
+
+203
+00:12:56,150 --> 00:13:02,850
+entonces te otorgan el grant y lo que ocurre es que al final, cuando vos terminás tu trabajo,
+
+204
+00:13:03,590 --> 00:13:08,810
+automáticamente lo que hiciste pasa a ser bien público, pasa a ser propiedad del gobierno, de todos los chilenos.
+
+205
+00:13:08,810 --> 00:13:11,890
+O sea, el código fuente de todo esto va a ser de todos los chilenos.
+
+206
+00:13:11,890 --> 00:13:40,710
+Sí, sí, sí, exactamente. Entonces, la etapa que estamos ahora, en donde se terminó de construir, lo que se está haciendo ahora es hacer como lo que es la transferencia al estado de lo que es el stack y de lo que es la responsabilidad de actualización y demás. Entonces, estamos como en ese proceso que tiene un montón de pasos, más que nada como de papeleo y de ponerse de acuerdo quién toma la responsabilidad de qué, de capacitaciones y demás, en donde, porque a nadie le interesa que el portal quede abandonado y muera, digamos.
+
+207
+00:13:40,710 --> 00:14:00,770
+Entonces, un poco, ese es el esfuerzo que se está haciendo en este momento, no es tanto de escribir códigos, sino que de combinar esfuerzos para ver cómo se continúa y que se mantenga actualizado y que, por supuesto, por ejemplo, a mitad del año pasado, a fin del año pasado, liberaron como el censo final, el resultado del censo final y eso todavía no está, por ejemplo.
+
+208
+00:14:01,230 --> 00:14:10,170
+Los últimos resultados de la prueba estandarizada universitaria tampoco están, están los del año anterior. Entonces, son cosas que obviamente hay que ir actualizando.
+
+209
+00:14:10,170 --> 00:14:15,330
+Y algo importante para mencionar es que todos los datos que están en DataChile ya eran públicos antes.
+
+210
+00:14:15,770 --> 00:14:16,010
+Claro.
+
+211
+00:14:16,490 --> 00:14:19,710
+Uno o dos datasets los conseguimos por acceso a información.
+
+212
+00:14:20,310 --> 00:14:26,630
+Pero el resto estaban en sus propios portales o en la web de Ministerio de Economía, en la web de Carabineros, etc.
+
+213
+00:14:27,270 --> 00:14:30,190
+Hay un armoso trabajo de integración ahí.
+
+214
+00:14:30,670 --> 00:14:35,050
+Hay un público del que no se habla tanto que son los mismos funcionarios de gobierno.
+
+215
+00:14:35,050 --> 00:14:38,090
+O sea, ustedes están haciendo un portal para la ciudadanía,
+
+216
+00:14:38,190 --> 00:14:39,810
+para los medios, para los interesados,
+
+217
+00:14:40,010 --> 00:14:41,450
+para los investigadores, para todo el mundo.
+
+218
+00:14:41,550 --> 00:14:44,850
+Pero yo me pongo a pensar y una de mis preocupaciones que
+
+219
+00:14:44,850 --> 00:14:48,090
+trabajo en los datos abiertos es que para mí el primer cliente,
+
+220
+00:14:48,150 --> 00:14:51,090
+el que más me interesa a mí que use los datos y los tome como
+
+221
+00:14:51,090 --> 00:14:53,670
+referencia son los funcionarios que tienen que tomar decisiones.
+
+222
+00:14:54,070 --> 00:14:56,850
+¿Hay alguna parte de esta Chile que esté pensada en los
+
+223
+00:14:56,850 --> 00:14:58,590
+funcionarios, una parte interna con tableros,
+
+224
+00:14:58,650 --> 00:15:00,430
+con datos que no pueden ser públicos o algo así?
+
+225
+00:15:00,510 --> 00:15:03,370
+¿O es una gestión 100% pensando en lo público?
+
+226
+00:15:03,370 --> 00:15:21,990
+Mira, el sitio a priori está pensado para lo público. Dentro del análisis inicial hicimos todo un análisis con gente de ciencias sociales y demás que nos ayudaron en el sentido de identificar los públicos objetivos del portal antes de escribir una línea de código.
+
+227
+00:15:21,990 --> 00:15:24,090
+y ahí
+
+228
+00:15:24,090 --> 00:15:26,510
+nos descubrimos con los
+
+229
+00:15:26,510 --> 00:15:27,930
+perfiles que más
+
+230
+00:15:27,930 --> 00:15:30,670
+visitarían nuestro sitio, uno de ellos
+
+231
+00:15:30,670 --> 00:15:32,470
+era por supuesto el tema del usuario
+
+232
+00:15:32,470 --> 00:15:33,850
+interno, del mismo gobierno
+
+233
+00:15:33,850 --> 00:15:36,030
+y sobre eso tengo una anécdota que
+
+234
+00:15:36,030 --> 00:15:38,630
+posterior al lanzamiento de Data Chile
+
+235
+00:15:38,630 --> 00:15:40,610
+nos empezaron a llamar distintos ministerios para decir
+
+236
+00:15:40,610 --> 00:15:42,770
+hey, nosotros tenemos estos datos, nos gustaría estar
+
+237
+00:15:42,770 --> 00:15:43,750
+nosotros tenemos esto
+
+238
+00:15:43,750 --> 00:15:46,410
+o bien ustedes publicaron esto que es
+
+239
+00:15:46,410 --> 00:15:48,330
+dato nuestro pero está mal o
+
+240
+00:15:48,330 --> 00:15:50,110
+necesita actualizarse
+
+241
+00:15:50,110 --> 00:15:55,710
+Hubo como un feedback muy importante, y en una de esas visitas a un ministerio nos dijeron,
+
+242
+00:15:56,450 --> 00:16:03,190
+mirá, sinceramente para nosotros es más difícil hacer un convenio entre ministerios para obtener la data
+
+243
+00:16:03,190 --> 00:16:06,350
+que hacer un pedido de acceso a la información como individuo.
+
+244
+00:16:07,530 --> 00:16:11,110
+Entonces muchas veces en el trabajo diario de una persona de gobierno,
+
+245
+00:16:12,190 --> 00:16:16,070
+hace un pedido de información al ministerio que está al lado para pedirle data,
+
+246
+00:16:16,170 --> 00:16:18,710
+porque eso es más ágil que hacer un convenio interno.
+
+247
+00:16:18,710 --> 00:16:22,770
+Entonces, imagínate si Data Chile no le va a resolver una parte, por lo menos.
+
+248
+00:16:22,930 --> 00:16:40,170
+Claro, sí, eso quería destacar porque a mí me pasó muchas veces que publicando algo, los mensajes privados y las conversaciones que tengo con funcionarios, es que bueno que abrieron esto porque yo, que soy de la Secretaría A, no conseguía con la frecuencia y con la calidad que ustedes publicaron este dato de la Secretaría B.
+
+249
+00:16:40,170 --> 00:16:42,610
+y pasa también, es otra cosa que dijiste
+
+250
+00:16:42,610 --> 00:16:44,910
+vos, de que el ministerio
+
+251
+00:16:44,910 --> 00:16:46,650
+A ve que el B publicó
+
+252
+00:16:46,650 --> 00:16:48,590
+algo y dice, yo también quiero estar y yo quiero estar mejor
+
+253
+00:16:48,590 --> 00:16:50,170
+y quiero más lindo y quiero más visualizaciones
+
+254
+00:16:50,170 --> 00:16:52,290
+me parece que empuja eso, y lo bueno
+
+255
+00:16:52,290 --> 00:16:54,510
+me parece DataChile, por lo que me contás
+
+256
+00:16:54,510 --> 00:16:56,470
+es que los datos ya estaban abiertos, pero no
+
+257
+00:16:56,470 --> 00:16:58,430
+generaban estas cosas, sino
+
+258
+00:16:58,430 --> 00:17:00,030
+hasta el impacto que
+
+259
+00:17:00,030 --> 00:17:02,470
+generó
+
+260
+00:17:02,470 --> 00:17:04,370
+DataChile, ya que te estoy hablando
+
+261
+00:17:04,370 --> 00:17:06,150
+de funcionarios de gobierno, te quería preguntar
+
+262
+00:17:06,150 --> 00:17:06,850
+¿qué pasa?
+
+263
+00:17:06,850 --> 00:17:09,730
+no lo aclaramos, vos sos argentino
+
+264
+00:17:09,730 --> 00:17:11,610
+pero estás viviendo en Chile formalmente hace un tiempo
+
+265
+00:17:11,610 --> 00:17:13,530
+¿cierto? Correcto, desde 2014
+
+266
+00:17:13,530 --> 00:17:15,290
+bien, te llama
+
+267
+00:17:15,290 --> 00:17:17,730
+terminamos esta conversación, te llama Piñera y te dice
+
+268
+00:17:17,730 --> 00:17:19,750
+Pala, me encanta lo que hiciste, me gustaría que seas
+
+269
+00:17:19,750 --> 00:17:22,030
+mi nuevo director nacional de datos abiertos
+
+270
+00:17:22,030 --> 00:17:23,510
+¿vos aceptarías algo así?
+
+271
+00:17:25,070 --> 00:17:26,070
+es un montón
+
+272
+00:17:26,070 --> 00:17:26,970
+es un montón
+
+273
+00:17:26,970 --> 00:17:29,950
+mirá, yo participé
+
+274
+00:17:29,950 --> 00:17:33,150
+de la dirección de gobierno electrónico
+
+275
+00:17:33,150 --> 00:17:34,630
+en gobierno de la ciudad de Buenos Aires
+
+276
+00:17:34,630 --> 00:17:36,330
+ahí estuve un año y medio
+
+277
+00:17:36,330 --> 00:17:42,730
+más o menos, y luego me mudo a Chile por el empleo en el Ministerio de Modernización,
+
+278
+00:17:43,110 --> 00:17:48,150
+perdón, en la unidad de modernización del gobierno digital del gobierno de Chile, nacional,
+
+279
+00:17:49,130 --> 00:17:56,170
+que era como básicamente la misma tarea, pero acá y a nivel nacional, con otro impacto.
+
+280
+00:17:57,770 --> 00:18:05,130
+Ahí trabajamos bastante lo que es digitalización de trámites, el tema de transparencia,
+
+281
+00:18:05,950 --> 00:18:14,290
+Ahí la conocí, la trabajé junto con Nati Carfi, que cuando ella estuvo acá en el gobierno de Chile también trabajamos con la parte de datos abiertos y demás.
+
+282
+00:18:14,890 --> 00:18:24,110
+Entonces, tengo como una mirada también y conozco bastante cómo funcionan los gobiernos por dentro y sé que me faltan un montón de skills para eso.
+
+283
+00:18:24,110 --> 00:18:34,330
+O sea, yo estoy mucho más parado del lado técnico y hay toda una parte, unos skills políticos que hay que tener.
+
+284
+00:18:34,330 --> 00:18:37,350
+y además hay que estar dispuesto como a sacrificar un montón
+
+285
+00:18:37,350 --> 00:18:39,670
+para cargos altos, digamos.
+
+286
+00:18:39,970 --> 00:18:40,410
+Exacto.
+
+287
+00:18:41,870 --> 00:18:44,330
+Principalmente, te diría que no.
+
+288
+00:18:44,750 --> 00:18:45,450
+Principalmente te diría que no.
+
+289
+00:18:45,850 --> 00:18:46,090
+Bien.
+
+290
+00:18:46,250 --> 00:18:49,090
+Pero obviamente esto es al día a día, digamos.
+
+291
+00:18:49,270 --> 00:18:52,490
+Como estuve en el gobierno y me salí, quizás algún día vuelvo.
+
+292
+00:18:52,690 --> 00:18:53,010
+No se sabe.
+
+293
+00:18:53,010 --> 00:18:53,210
+Bueno.
+
+294
+00:18:54,070 --> 00:18:56,850
+Hace un rato hice un salto, en tu caso gigantesco,
+
+295
+00:18:56,930 --> 00:18:59,470
+que es preguntarte cómo arrancaste y llevarte hasta Chile,
+
+296
+00:18:59,570 --> 00:19:01,610
+que es algo que está súper fresco y activo.
+
+297
+00:19:01,610 --> 00:19:18,190
+Si vos tuvieras que elegir alguna de las miles de cosas lindas que hiciste, contrate que tuviste en el gobierno de Buenos Aires, después fuiste al gobierno nacional de Chile, hiciste muchas cosas para la comunidad también, hiciste cosas con Chequeado, si tuvieras que elegir algún proyecto lindo para destacar y para contarnos, ¿cuál elegirías?
+
+298
+00:19:18,190 --> 00:19:21,290
+Uh, es un montón eso que decís
+
+299
+00:19:21,290 --> 00:19:23,510
+Y me agarrás de sorpresa
+
+300
+00:19:23,510 --> 00:19:27,290
+En particular a mí me gusta
+
+301
+00:19:27,290 --> 00:19:28,250
+No lo hice yo
+
+302
+00:19:28,250 --> 00:19:31,510
+Digamos, yo contribuí como parte de un equipo
+
+303
+00:19:31,510 --> 00:19:34,290
+Y le hicimos como algunas mejoras
+
+304
+00:19:34,290 --> 00:19:35,430
+Porque eso ya estaba creado
+
+305
+00:19:35,430 --> 00:19:39,130
+Pero Chile Atiende
+
+306
+00:19:39,130 --> 00:19:41,530
+Es un portal que es espectacular
+
+307
+00:19:41,530 --> 00:19:43,210
+O sea, es un portal que
+
+308
+00:19:43,210 --> 00:19:44,450
+Para el que no lo conoce
+
+309
+00:19:44,450 --> 00:19:45,530
+Dense una vueltita
+
+310
+00:19:45,530 --> 00:19:46,870
+Pero básicamente lo que hace es
+
+311
+00:19:46,870 --> 00:19:54,970
+Es como una primera atención digital para ciudadanos en donde no importa el trámite que tengas que hacer,
+
+312
+00:19:55,610 --> 00:20:02,830
+lo podés buscar ahí y ver cómo iniciarlo, dónde tenés que ir, si hay una web, si hay un algo.
+
+313
+00:20:02,910 --> 00:20:08,310
+Es como un gran repositorio, un indexador enorme de trámites y de papeleo.
+
+314
+00:20:08,710 --> 00:20:13,530
+No solo para los chilenos, sino para, lo usé yo mismo cuando me vine acá para saber los papeles de la visa,
+
+315
+00:20:13,530 --> 00:20:43,110
+para saber cómo, dónde tenía que ir, dónde tenía que llevar esto, lo otro, eso es un proyecto muy, con un impacto tremendo, tremendo, mismo es el lugar, el punto de entrada donde las personas averiguan dónde y cómo tienen que cobrar sus bonos, sus cosas, o sea, es como, es muy potente, pero después sí, hay muchas cosas que les tengo cariño, después hay muchas cosas que hicimos con Nardos también en una primera época, que ganaron algunos premios,
+
+316
+00:20:43,110 --> 00:20:50,770
+Entonces, las recuerdo con cariño porque fueron cosas que hicimos como en nuestro tiempo libre y nos trajeron como mucha satisfacción.
+
+317
+00:20:52,850 --> 00:20:57,090
+Cargografías en su momento fue bastante potente, también participé como en una primera etapa.
+
+318
+00:20:58,530 --> 00:21:09,710
+En el gobierno de la ciudad hicimos muchas cosas también, en particular hicimos como una, el servicio para ver,
+
+319
+00:21:09,710 --> 00:21:12,470
+digitalizamos el servicio que te
+
+320
+00:21:12,470 --> 00:21:14,390
+entrega la deuda de patentes
+
+321
+00:21:14,390 --> 00:21:16,450
+de la patente de tu
+
+322
+00:21:16,450 --> 00:21:18,470
+auto, te entrega como las multas
+
+323
+00:21:18,470 --> 00:21:20,110
+y la deuda que tiene y
+
+324
+00:21:20,110 --> 00:21:22,330
+viendo después, o sea, eso en realidad
+
+325
+00:21:22,330 --> 00:21:24,210
+ves como el beneficio cuando ves los
+
+326
+00:21:24,210 --> 00:21:25,370
+analytics, ves que
+
+327
+00:21:25,370 --> 00:21:28,310
+la página más visitada de
+
+328
+00:21:28,310 --> 00:21:30,150
+todo el portal de Buenos Aires era esa
+
+329
+00:21:30,150 --> 00:21:31,510
+y lo hicimos en el equipo
+
+330
+00:21:31,510 --> 00:21:34,450
+destacaste
+
+331
+00:21:34,450 --> 00:21:36,270
+el caso de Chile de la Tienda y este último
+
+332
+00:21:36,270 --> 00:21:38,730
+y es cuando los servicios públicos
+
+333
+00:21:38,730 --> 00:21:41,050
+se convierten más o menos en eficientes
+
+334
+00:21:41,050 --> 00:21:43,330
+ahí tenemos un enorme impacto
+
+335
+00:21:43,330 --> 00:21:44,450
+desde la tecnología para
+
+336
+00:21:44,450 --> 00:21:46,830
+generar en los gobiernos me parece
+
+337
+00:21:46,830 --> 00:21:49,010
+vos estuviste
+
+338
+00:21:49,010 --> 00:21:51,110
+adentro de, como técnico
+
+339
+00:21:51,110 --> 00:21:52,310
+dentro del gobierno de Buenos Aires
+
+340
+00:21:52,310 --> 00:21:53,210
+y
+
+341
+00:21:53,210 --> 00:21:56,970
+dentro del gobierno de Chile y más o menos
+
+342
+00:21:56,970 --> 00:21:58,630
+con lo que contaste uno
+
+343
+00:21:58,630 --> 00:22:01,010
+uno entiende cómo podemos mejorar
+
+344
+00:22:01,010 --> 00:22:02,770
+más allá de que
+
+345
+00:22:02,770 --> 00:22:05,210
+no te interesa tanto hoy ser funcionario
+
+346
+00:22:05,210 --> 00:22:06,530
+si vos tuvieras la posibilidad
+
+347
+00:22:06,530 --> 00:22:08,670
+y seguramente
+
+348
+00:22:08,670 --> 00:22:11,210
+la has tenido estar al lado funcional y decirle
+
+349
+00:22:11,210 --> 00:22:12,750
+hace esto, pero
+
+350
+00:22:12,750 --> 00:22:14,370
+más vinculado a la transparencia.
+
+351
+00:22:14,530 --> 00:22:16,230
+¿Qué sugerencias de
+
+352
+00:22:16,230 --> 00:22:19,090
+tus experiencias le darías a un funcionario
+
+353
+00:22:19,090 --> 00:22:20,950
+que está en un gobierno para que
+
+354
+00:22:20,950 --> 00:22:23,110
+la apertura que hace
+
+355
+00:22:23,110 --> 00:22:24,970
+tenga más impacto, para que el gobierno sea
+
+356
+00:22:24,970 --> 00:22:27,070
+más abierto? ¿Hay un par de consejos
+
+357
+00:22:27,070 --> 00:22:28,110
+que nos puedas dar para eso?
+
+358
+00:22:30,290 --> 00:22:31,050
+Sí, o sea,
+
+359
+00:22:32,190 --> 00:22:34,170
+más allá de lo que puedo llegar a decir desde el punto de vista
+
+360
+00:22:34,170 --> 00:22:36,030
+tecnológico, que ya
+
+361
+00:22:36,030 --> 00:22:38,190
+esas cosas se saben, y el otro día
+
+362
+00:22:38,190 --> 00:22:40,810
+escuché todos tus podcasts
+
+363
+00:22:40,810 --> 00:22:41,810
+anteriores a este
+
+364
+00:22:41,810 --> 00:22:44,550
+un trabajo monumental porque
+
+365
+00:22:44,550 --> 00:22:46,670
+publicamos 12 en 12 días
+
+366
+00:22:46,670 --> 00:22:48,830
+y ahora lo estoy empezando a guardar
+
+367
+00:22:48,830 --> 00:22:49,870
+porque es demasiado
+
+368
+00:22:49,870 --> 00:22:52,890
+no, sí, sí, pero me súper interesa el tema
+
+369
+00:22:52,890 --> 00:22:55,030
+y además conozco a muchos de las personas
+
+370
+00:22:55,030 --> 00:22:56,950
+con las que hablaste y una es Manu
+
+371
+00:22:56,950 --> 00:22:58,790
+digamos con Manu, es un gran amigo
+
+372
+00:22:58,790 --> 00:23:00,270
+y trabajé mucho con él
+
+373
+00:23:00,270 --> 00:23:02,510
+y él decía
+
+374
+00:23:02,510 --> 00:23:04,230
+que el problema no es tecnológico
+
+375
+00:23:04,230 --> 00:23:06,550
+y es verdad, y el problema no es tecnológico
+
+376
+00:23:06,550 --> 00:23:12,430
+hay otros problemas, y principalmente, como el principal consejo que veo es
+
+377
+00:23:12,430 --> 00:23:21,530
+que automáticamente al estar en una posición de gobierno, te debes al ciudadano, digamos,
+
+378
+00:23:22,010 --> 00:23:28,030
+primero que todo, entonces, teniendo eso en claro, ya disminuye el ego, disminuye la competencia,
+
+379
+00:23:28,030 --> 00:23:34,230
+te enfocás más en lo que tenés que trabajar realmente, entonces, si tenés esa primera cosa clara,
+
+380
+00:23:34,230 --> 00:23:42,930
+en donde cada minuto, cada esfuerzo que hagas tiene que estar orientado en resolver algún inconveniente que tiene el ciudadano,
+
+381
+00:23:43,330 --> 00:23:53,630
+yo creo que ahí se diluyen un poco las complicaciones, porque este tema de los egos lo vivimos y seguramente vos sabés de lo que te estoy diciendo,
+
+382
+00:23:53,630 --> 00:23:58,330
+de ministerios de estados
+
+383
+00:23:58,330 --> 00:23:59,290
+en su propia data
+
+384
+00:23:59,290 --> 00:24:02,070
+después
+
+385
+00:24:02,070 --> 00:24:04,090
+de los temores que hay
+
+386
+00:24:04,090 --> 00:24:06,050
+hacia la transparencia per se
+
+387
+00:24:06,050 --> 00:24:08,450
+eso es fuerte
+
+388
+00:24:08,450 --> 00:24:08,830
+también
+
+389
+00:24:08,830 --> 00:24:12,270
+bueno, vos me decías
+
+390
+00:24:12,270 --> 00:24:14,550
+hace un rato que tenés un perfil más técnico
+
+391
+00:24:14,550 --> 00:24:15,870
+que te faltan skills políticos
+
+392
+00:24:15,870 --> 00:24:17,390
+y por lo que me decís ahora
+
+393
+00:24:17,390 --> 00:24:20,190
+lo que hace falta es no tener esos skills
+
+394
+00:24:20,190 --> 00:24:20,950
+políticos
+
+395
+00:24:20,950 --> 00:24:26,590
+sino tener claro que trabajamos para los ciudadanos
+
+396
+00:24:26,590 --> 00:24:29,050
+y no para nuestros líderes políticos
+
+397
+00:24:29,050 --> 00:24:31,990
+y ya con eso yo te contrataría.
+
+398
+00:24:32,410 --> 00:24:33,910
+Sí, sí, pero ¿sabés lo que pasa?
+
+399
+00:24:34,170 --> 00:24:38,610
+Todo el engranaje tiene una manera de funcionar
+
+400
+00:24:38,610 --> 00:24:41,370
+y si vos entras a romper engranajes,
+
+401
+00:24:42,390 --> 00:24:44,670
+como que sería lo primero que te sale,
+
+402
+00:24:45,210 --> 00:24:47,430
+por esto que te digo de eliminar los ceos y todo,
+
+403
+00:24:48,070 --> 00:24:48,810
+no tenés espacio.
+
+404
+00:24:48,810 --> 00:24:53,050
+Entonces, tenés que saber de los dos mundos para hacerlos conversar.
+
+405
+00:24:54,310 --> 00:24:58,790
+Creo que todavía no podemos dar vuelta a la tortilla tan rápido,
+
+406
+00:24:59,230 --> 00:25:00,890
+si no se rompería todo.
+
+407
+00:25:01,330 --> 00:25:03,910
+Sigue habiendo partidas presupuestarias,
+
+408
+00:25:04,110 --> 00:25:08,270
+sigue habiendo negociaciones internas entre cómo se ejecuta esa cosa
+
+409
+00:25:08,270 --> 00:25:10,990
+y quién te presta, o sea, es muy complicado.
+
+410
+00:25:12,290 --> 00:25:17,110
+Te quiero preguntar cómo ves toda esta movida de gobierno abierto
+
+411
+00:25:17,110 --> 00:25:18,790
+de acá a 5 o 10 años
+
+412
+00:25:18,790 --> 00:25:20,630
+es una moda y de acá a unos años
+
+413
+00:25:20,630 --> 00:25:22,890
+se va a convertir en digitalización
+
+414
+00:25:22,890 --> 00:25:24,990
+de servicio y nada más o esto va a crecer
+
+415
+00:25:24,990 --> 00:25:26,710
+y esta transparencia
+
+416
+00:25:26,710 --> 00:25:28,310
+nos va a cambiar
+
+417
+00:25:28,310 --> 00:25:29,710
+a nuestros países
+
+418
+00:25:29,710 --> 00:25:32,810
+bueno también eso es
+
+419
+00:25:32,810 --> 00:25:35,170
+bastante heavy, suelo ser
+
+420
+00:25:35,170 --> 00:25:37,010
+suelo ser
+
+421
+00:25:37,010 --> 00:25:37,570
+pesimista
+
+422
+00:25:37,570 --> 00:25:40,970
+pero al rato se me pasa y me pongo
+
+423
+00:25:40,970 --> 00:25:42,890
+a laburar, pero el tema
+
+424
+00:25:42,890 --> 00:25:44,910
+es que, sí, o sea
+
+425
+00:25:44,910 --> 00:25:47,050
+porque vos me decís a 5 años
+
+426
+00:25:47,110 --> 00:26:08,170
+Y yo te diría que ojalá, ojalá cada vez más, ojalá cada vez mayor apertura, cada vez mayor transparencia y a la vez cada vez mayor cuidado de los datos personales y que todo, que una vez que como sociedad en general, porque es muy fácil, mi esposa es politóloga y siempre me dice lo mismo y tiene razón.
+
+427
+00:26:08,170 --> 00:26:16,930
+Me dice, es muy fácil la verdad, porque los políticos, los políticos. Bueno, resulta que los políticos no bajaron de una nave extraterrestre y se autoproclamaron reyes del país.
+
+428
+00:26:17,110 --> 00:26:34,670
+Son parte misma de la sociedad y tomaron ese camino. Pero entonces, como sociedad comprendamos la importancia de los datos y del cuidado que hay que tener y la importancia de ser fiscalizadores de esos datos, supongo que solo va a traer cosas buenas.
+
+429
+00:26:34,670 --> 00:26:37,250
+Ojalá no sea una moda, como decís vos
+
+430
+00:26:37,250 --> 00:26:39,290
+O sea, si es una moda
+
+431
+00:26:39,290 --> 00:26:41,410
+Poco a poco va a haber menos presupuesto para estas cosas
+
+432
+00:26:41,410 --> 00:26:42,850
+Y van a morir en el olvido
+
+433
+00:26:42,850 --> 00:26:44,930
+A menos que la sociedad civil
+
+434
+00:26:44,930 --> 00:26:48,430
+Con fondos internacionales
+
+435
+00:26:48,430 --> 00:26:50,310
+Y no comprometidos con el local
+
+436
+00:26:50,310 --> 00:26:55,350
+Puedan hacer como una especie de resistencia
+
+437
+00:26:55,350 --> 00:26:57,550
+Pero ojalá no sea una moda
+
+438
+00:26:57,550 --> 00:26:58,390
+Sí, la verdad que no
+
+439
+00:26:58,390 --> 00:27:01,010
+Pasaron cosas muy heavy
+
+440
+00:27:01,010 --> 00:27:04,430
+O sea, de donde nació
+
+441
+00:27:04,430 --> 00:27:05,850
+el gobierno abierto que es
+
+442
+00:27:05,850 --> 00:27:08,250
+Estados Unidos y con aquella
+
+443
+00:27:08,250 --> 00:27:10,390
+famosa proclamación de Obama
+
+444
+00:27:10,390 --> 00:27:12,410
+y la primera
+
+445
+00:27:12,410 --> 00:27:14,550
+OGP con esos poquitos
+
+446
+00:27:14,550 --> 00:27:16,450
+países y hoy
+
+447
+00:27:16,450 --> 00:27:18,250
+Estados Unidos, si no me equivoco, tiene el portal
+
+448
+00:27:18,250 --> 00:27:19,590
+apagado, entonces
+
+449
+00:27:19,590 --> 00:27:22,470
+es como, no es
+
+450
+00:27:22,470 --> 00:27:24,370
+tan importante, no le estamos prestando
+
+451
+00:27:24,370 --> 00:27:24,930
+tanta atención
+
+452
+00:27:24,930 --> 00:27:28,550
+y es grave, o sea, es un retroceso
+
+453
+00:27:28,550 --> 00:27:30,430
+si me preguntas. Acabas de
+
+454
+00:27:30,430 --> 00:27:32,530
+decir algo por lo cual otros invitados
+
+455
+00:27:32,530 --> 00:27:34,170
+nos estarían retando
+
+456
+00:27:34,170 --> 00:27:37,790
+y te voy a pedir a ver si vos te podés hacer cargo
+
+457
+00:27:37,790 --> 00:27:39,550
+o nos tenemos que hacer cargo los técnicos
+
+458
+00:27:39,550 --> 00:27:41,430
+de algunas acusaciones que han pasado
+
+459
+00:27:41,430 --> 00:27:42,970
+a lo largo de este podcast
+
+460
+00:27:42,970 --> 00:27:45,130
+y en algunos episodios no grabados también
+
+461
+00:27:45,130 --> 00:27:47,030
+por un lado la gente que viene más
+
+462
+00:27:47,030 --> 00:27:48,970
+de las ciencias políticas
+
+463
+00:27:48,970 --> 00:27:49,750
+de las ciencias sociales
+
+464
+00:27:49,750 --> 00:27:51,450
+dice que gobierno abierto es un concepto
+
+465
+00:27:51,450 --> 00:27:52,870
+mucho más antiguo que Obama
+
+466
+00:27:52,870 --> 00:27:55,030
+que viene delante y que los datos abiertos
+
+467
+00:27:55,030 --> 00:27:56,750
+vienen a ser una especie de moda nueva
+
+468
+00:27:56,750 --> 00:27:58,950
+que está acaparando todo el espacio
+
+469
+00:27:58,950 --> 00:28:00,110
+y que hay que tener cuidado
+
+470
+00:28:00,110 --> 00:28:02,810
+en decir que datos abiertos
+
+471
+00:28:02,810 --> 00:28:03,810
+es sinónimo de gobierno abierto
+
+472
+00:28:03,810 --> 00:28:05,950
+sino que es una parte chiquita y no es la parte
+
+473
+00:28:05,950 --> 00:28:06,730
+más importante
+
+474
+00:28:06,730 --> 00:28:09,830
+y en otro episodio que todavía no
+
+475
+00:28:09,830 --> 00:28:12,070
+se publicó, gente del mundo
+
+476
+00:28:12,070 --> 00:28:13,810
+de los archivos nos viene a decir que
+
+477
+00:28:13,810 --> 00:28:16,030
+la gestión documental
+
+478
+00:28:16,030 --> 00:28:17,510
+como proceso que
+
+479
+00:28:17,510 --> 00:28:19,390
+termina en archivos históricos
+
+480
+00:28:19,390 --> 00:28:21,750
+y en selección de archivos actuales
+
+481
+00:28:21,750 --> 00:28:23,790
+el mundo de los datos abiertos
+
+482
+00:28:23,790 --> 00:28:25,990
+omite todo eso y publica, borra
+
+483
+00:28:25,990 --> 00:28:27,870
+si hay portales que desaparecieron, hay cosas que
+
+484
+00:28:27,870 --> 00:28:29,290
+no están en ningún lado, me pasó mucho
+
+485
+00:28:29,290 --> 00:28:31,030
+analizando para este podcast
+
+486
+00:28:31,030 --> 00:28:33,610
+que los links a las cosas que vos contaste
+
+487
+00:28:33,610 --> 00:28:35,690
+del principio, la mitad no está, si las buscás
+
+488
+00:28:35,690 --> 00:28:36,950
+no existen esos datos
+
+489
+00:28:36,950 --> 00:28:38,950
+o cambiaron o no están más
+
+490
+00:28:38,950 --> 00:28:41,130
+nosotros con la tecnología
+
+491
+00:28:41,130 --> 00:28:43,510
+estamos pisoteando un poco
+
+492
+00:28:43,510 --> 00:28:45,370
+las tradiciones de gobierno abierto más
+
+493
+00:28:45,370 --> 00:28:46,650
+de antes de Obama
+
+494
+00:28:46,650 --> 00:28:48,530
+y el mundo de los archivos
+
+495
+00:28:48,530 --> 00:28:51,130
+¿no estamos llevando por delante todo
+
+496
+00:28:51,130 --> 00:28:52,090
+con cosas que son
+
+497
+00:28:52,090 --> 00:28:55,170
+hacer dibujitos, visualizaciones con datos
+
+498
+00:28:55,170 --> 00:28:56,030
+y jugar con eso?
+
+499
+00:28:57,010 --> 00:28:58,650
+Está bien lo que preguntas
+
+500
+00:28:58,650 --> 00:29:00,490
+y bueno, a veces un poco sí
+
+501
+00:29:00,490 --> 00:29:02,030
+lo que pasa es que
+
+502
+00:29:02,030 --> 00:29:11,770
+Sí, estoy de acuerdo con eso, con que publicar cosas es un pedacito de la apertura de los estados, en todo caso.
+
+503
+00:29:13,690 --> 00:29:21,030
+Después tenemos esta discusión de la traducción de gobierno abierto y demás, que es así, estamos como, decimos una palabra pero en realidad es otra.
+
+504
+00:29:21,030 --> 00:29:48,410
+Y sí, estoy un poco de acuerdo, en realidad pasan varias cosas, o sea, depende de qué lado estés vas a ver que está todo mal hecho o que falta activismo o que no te tienen paciencia si estás del lado del gobierno, o sea, desde el punto de vista tecnológico creo que improvisamos más de lo que planeamos, eso estoy bastante de acuerdo.
+
+505
+00:29:48,410 --> 00:29:54,190
+Y más dentro de los gobiernos. En los gobiernos se hace literalmente lo que se puede, lo que se tiene a mano.
+
+506
+00:29:54,910 --> 00:30:01,030
+El gobierno no cuenta con los infinitos recursos para contratar a quien sea como las grandes empresas, digamos.
+
+507
+00:30:01,990 --> 00:30:09,650
+En ese sentido va a tener una desventaja en cuanto a agilidad y en cuanto a seriedad de los procesos.
+
+508
+00:30:09,650 --> 00:30:22,490
+Y, obviamente, con respecto a la gestión documental y cómo lo digital arruina la trazabilidad de las cosas,
+
+509
+00:30:23,090 --> 00:30:25,370
+eso es un bug grande, enorme.
+
+510
+00:30:26,250 --> 00:30:27,170
+Tenemos que revisar.
+
+511
+00:30:27,550 --> 00:30:29,690
+Sí, sí, eso hay que resolverlo, por supuesto.
+
+512
+00:30:29,830 --> 00:30:35,630
+O sea, no puede apagarse el portal de USAGO.
+
+513
+00:30:35,630 --> 00:30:36,390
+Sí, sí.
+
+514
+00:30:36,390 --> 00:30:39,090
+Ni ninguno de los nuestros que se apagó
+
+515
+00:30:39,090 --> 00:30:40,910
+Hablaba con la gente de Mercedes
+
+516
+00:30:40,910 --> 00:30:42,090
+Que apagó su portal
+
+517
+00:30:42,090 --> 00:30:44,830
+El portal nacional de 2015 se apagó
+
+518
+00:30:44,830 --> 00:30:47,710
+Y así hay casos para ser dulce
+
+519
+00:30:47,710 --> 00:30:48,210
+Claro
+
+520
+00:30:48,210 --> 00:30:50,750
+Disculpá, pero porque en esa pérdida
+
+521
+00:30:50,750 --> 00:30:52,930
+No es solo la transparencia
+
+522
+00:30:52,930 --> 00:30:53,630
+Lo que se pierde
+
+523
+00:30:53,630 --> 00:30:56,490
+También se pierde una confianza sobre esa información
+
+524
+00:30:56,490 --> 00:30:58,650
+Porque yo el día de mañana
+
+525
+00:30:58,650 --> 00:30:59,790
+Vuelvo a aprender mi portal
+
+526
+00:30:59,790 --> 00:31:01,310
+Y digo, no, esta vez es en serio
+
+527
+00:31:01,310 --> 00:31:03,050
+Y esta vez voy a hacer APIs
+
+528
+00:31:03,050 --> 00:31:05,430
+Y esta vez voy a instar a los emprendedores
+
+529
+00:31:05,430 --> 00:31:08,890
+a que utilicen parte de esta información pública,
+
+530
+00:31:08,970 --> 00:31:10,910
+que es de todos, para enriquecer sus apps,
+
+531
+00:31:11,050 --> 00:31:12,570
+para enriquecer sus servicios.
+
+532
+00:31:13,470 --> 00:31:14,950
+Y ya, ¿quién me va a creer?
+
+533
+00:31:15,430 --> 00:31:15,870
+Exacto.
+
+534
+00:31:15,910 --> 00:31:18,690
+Y hay un lema en el mundo de los datos abiertos,
+
+535
+00:31:18,810 --> 00:31:21,510
+es que si ves un dato interesante, bájalo,
+
+536
+00:31:21,750 --> 00:31:22,670
+porque nunca sabes.
+
+537
+00:31:23,250 --> 00:31:25,270
+O sea, yo lo he conversado hace muchos años,
+
+538
+00:31:25,810 --> 00:31:27,770
+hay algo interesante, lo estoy consumiendo online,
+
+539
+00:31:27,870 --> 00:31:28,490
+qué lindo que es.
+
+540
+00:31:28,530 --> 00:31:31,170
+No, bájalo, haces tu copia, haces tu réplica,
+
+541
+00:31:31,550 --> 00:31:33,370
+porque no sabemos cuánto tiempo va a estar.
+
+542
+00:31:33,370 --> 00:31:50,850
+Te llevo al último tema, Pala, y es un tema del que vos también conoces, que es el periodismo de datos como una parte más, un lugar más en donde tomar esos datos que mira poca gente, transformarlo en historias o en visualizaciones o en denuncias o en lo que fuera.
+
+543
+00:31:50,850 --> 00:32:05,990
+El periodismo de datos, y te aprovecho que vos estás de los dos lados de la cordillera, ¿cómo lo ves en Argentina, en Chile? ¿En qué nivel estamos? ¿El periodismo es algo buenísimo, que es el usuario principal de los datos, más o menos, cómo es?
+
+544
+00:32:05,990 --> 00:32:10,670
+Particularmente a mí me encanta ese mundo
+
+545
+00:32:10,670 --> 00:32:13,570
+Me empecé a meter justamente por Hack Hackers
+
+546
+00:32:13,570 --> 00:32:16,090
+En donde empecé a conocer gente extraordinaria
+
+547
+00:32:16,090 --> 00:32:19,270
+Y empezamos como a armar grupos bien diversos
+
+548
+00:32:19,270 --> 00:32:21,050
+En donde me gustaba trabajar
+
+549
+00:32:21,050 --> 00:32:24,610
+Me gustaba ser el pibito de los datos en esos equipos
+
+550
+00:32:24,610 --> 00:32:29,090
+Y ahí participar como de cada uno de su lugar
+
+551
+00:32:29,090 --> 00:32:30,670
+Para llegar como a un resultado
+
+552
+00:32:30,670 --> 00:32:34,570
+Y hoy tengo la chance de hacer algunos trabajos con Chequeado
+
+553
+00:32:34,570 --> 00:32:36,350
+Que tiene ese mismo espíritu
+
+554
+00:32:36,350 --> 00:32:37,710
+El Chequeado
+
+555
+00:32:37,710 --> 00:32:40,670
+Tiene una redacción
+
+556
+00:32:40,670 --> 00:32:41,690
+Pequeña
+
+557
+00:32:41,690 --> 00:32:44,910
+No son un montón, no son un piso entero
+
+558
+00:32:44,910 --> 00:32:46,890
+De personas como puede ser cualquier diario digital
+
+559
+00:32:46,890 --> 00:32:47,970
+Grande en Argentina
+
+560
+00:32:47,970 --> 00:32:50,730
+Son pocas personas
+
+561
+00:32:50,730 --> 00:32:53,310
+Que tardan mucho en hacer una nota
+
+562
+00:32:53,310 --> 00:32:54,930
+Porque cada nota requiere
+
+563
+00:32:54,930 --> 00:32:55,890
+Un montón de trabajo
+
+564
+00:32:55,890 --> 00:32:58,290
+Y en ese sentido
+
+565
+00:32:58,290 --> 00:33:00,950
+Colaborar desde la parte digital, generando herramientas
+
+566
+00:33:00,950 --> 00:33:02,950
+Generando nuevas maneras
+
+567
+00:33:02,950 --> 00:33:08,150
+de visualizar cosas o haciendo algunos resúmenes de información
+
+568
+00:33:08,150 --> 00:33:12,230
+para llegar a alguna conclusión, me parece que es un buen lugar
+
+569
+00:33:12,230 --> 00:33:15,890
+desde el punto de vista de tecnología, en donde hay que apoyar un montón.
+
+570
+00:33:16,590 --> 00:33:19,530
+Porque al igual que los gobiernos, las redacciones no tienen,
+
+571
+00:33:19,790 --> 00:33:22,530
+por lo menos en Sudamérica, no tienen millones de dólares
+
+572
+00:33:22,530 --> 00:33:25,990
+para generar equipos como puede ser el New York Times,
+
+573
+00:33:26,050 --> 00:33:28,430
+que tiene un piso entero de programadores solamente.
+
+574
+00:33:28,830 --> 00:33:30,110
+Eso es un caso único.
+
+575
+00:33:30,110 --> 00:33:34,050
+O sea, vos pensás que para los periodistas que nos escuchan
+
+576
+00:33:34,050 --> 00:33:35,650
+tienen que aprender a programar,
+
+577
+00:33:35,730 --> 00:33:36,690
+tienen que aprender a visualizar
+
+578
+00:33:36,690 --> 00:33:38,670
+o tienen que juntar plata para pagarle un programador.
+
+579
+00:33:38,750 --> 00:33:40,730
+¿Cuál es el camino de un medio hoy
+
+580
+00:33:40,730 --> 00:33:42,150
+para hacer todas estas cosas lindas,
+
+581
+00:33:42,350 --> 00:33:44,550
+para tener un pala dentro de su oficina
+
+582
+00:33:44,550 --> 00:33:46,650
+o para hacer las cosas que hace pala en su medio?
+
+583
+00:33:47,210 --> 00:33:49,830
+Mirá, siempre me cargan porque en realidad
+
+584
+00:33:49,830 --> 00:33:51,950
+dicen que yo me autoboicoteo.
+
+585
+00:33:52,210 --> 00:33:53,570
+Y es un poco verdad, porque en realidad
+
+586
+00:33:53,570 --> 00:33:55,730
+lo que hago en chequeado es
+
+587
+00:33:55,730 --> 00:33:57,850
+tratar de generar herramientas
+
+588
+00:33:57,850 --> 00:34:00,010
+para que no me necesiten más.
+
+589
+00:34:00,110 --> 00:34:08,670
+¿Entendés? O sea, para el hecho de que el mismo periodista pueda, por ejemplo, para hacer gráficos simples, ya no necesitas un programador.
+
+590
+00:34:09,170 --> 00:34:17,090
+Entonces, lo que hicimos fue, analizamos todas las plataformas que hay que te generan gráficos simples y que te permiten hacerlo empebible en la web.
+
+591
+00:34:17,210 --> 00:34:20,230
+¿Cuál es la mejor? ¿Cuál es la que mejor anda en mobile? ¿Cuál anda más rápido?
+
+592
+00:34:20,670 --> 00:34:24,830
+Hicimos como un pequeño análisis, entonces definimos una que usamos Infogram, ¿sí?
+
+593
+00:34:24,830 --> 00:34:30,010
+Entonces dijimos, ok, vamos con Infogram. Nos contactamos con Infogram, nos hicieron embajadores de Infogram de no sé qué.
+
+594
+00:34:30,110 --> 00:34:31,770
+Entonces tenemos una cuenta copada.
+
+595
+00:34:32,430 --> 00:34:34,430
+Hicieron un canje, digamos.
+
+596
+00:34:34,770 --> 00:34:35,430
+Claro, claro.
+
+597
+00:34:35,770 --> 00:34:38,690
+Dijimos, mirá, para nuestros gráficos, para nuestras notas vamos a usar esto,
+
+598
+00:34:39,010 --> 00:34:43,750
+chequeo es una ONG, entonces, bueno, con eso tenían como un plan para non-profit
+
+599
+00:34:43,750 --> 00:34:44,670
+y ahí estamos.
+
+600
+00:34:45,350 --> 00:34:49,870
+Entonces, hicimos una capacitación, definimos una paleta de colores para los gráficos,
+
+601
+00:34:49,990 --> 00:34:51,190
+hicimos con un esfuerzo, listo.
+
+602
+00:34:51,530 --> 00:34:54,290
+Para hacer gráficos simples no necesitas más un pala, ¿entendés?
+
+603
+00:34:54,550 --> 00:34:58,730
+Entonces, ese me parece que es un gran objetivo para bajar esos costos.
+
+604
+00:34:58,730 --> 00:35:25,590
+Después, por supuesto, tenés, trabajé también ocasionalmente con algunos especiales interactivos con La Nación, y La Nación tiene un equipo bárbaro, también de dos o tres programadores, y tiene un diseñador de interacción muy bueno, que es Pablo Loscri, está Cristian, hay mucha gente que trabaja muy bien ahí, y también tienen como el espacio para poder crear, y van generando herramientas, y hacen muchas cosas ad hoc, que eso se nota, se termina notando en las notas,
+
+605
+00:35:25,590 --> 00:35:29,930
+que son cosas como que fueron hechas específicamente para tratar este tema,
+
+606
+00:35:30,630 --> 00:35:34,270
+y eso está bárbaro, para mí me parece extraordinario.
+
+607
+00:35:34,610 --> 00:35:37,730
+Y ahora también, ¿en qué medio era?
+
+608
+00:35:38,730 --> 00:35:40,550
+En páginas estaban empezando a hacer algo,
+
+609
+00:35:40,550 --> 00:35:47,830
+y yo el otro día vi y compartí un par de notas de este medio,
+
+610
+00:35:47,970 --> 00:35:51,710
+bueno, ahora no me acuerdo, pero es un pibe que está metiéndole
+
+611
+00:35:51,710 --> 00:35:53,650
+como en una redacción y estamos como
+
+612
+00:35:53,650 --> 00:35:55,610
+y a veces conversamos
+
+613
+00:35:55,610 --> 00:35:57,470
+Dijiste
+
+614
+00:35:57,470 --> 00:35:59,530
+algunas notas interesantes
+
+615
+00:35:59,530 --> 00:36:01,810
+que un medio busque un programador que no
+
+616
+00:36:01,810 --> 00:36:03,730
+le resuelva tareas visualizaciones
+
+617
+00:36:03,730 --> 00:36:06,090
+específicas, sino que le ayude a construir herramientas
+
+618
+00:36:06,090 --> 00:36:07,890
+y la capacidad interna, es una
+
+619
+00:36:07,890 --> 00:36:10,030
+gran recomendación me parece que dijiste para los medios
+
+620
+00:36:10,030 --> 00:36:11,930
+a los programadores
+
+621
+00:36:11,930 --> 00:36:13,950
+nos gusta hacer herramientas, no nos gusta hacer lo mismo
+
+622
+00:36:13,950 --> 00:36:15,870
+30 veces, así que que se busquen algún
+
+623
+00:36:15,870 --> 00:36:16,950
+programador con ese espíritu
+
+624
+00:36:16,950 --> 00:36:19,830
+nombraste la nación data, nombraste chequeado
+
+625
+00:36:19,830 --> 00:36:30,970
+Pero para mí Chile es un gran referente en América Latina por la transparencia, pero no sé si en periodismo de datos, ¿Chile tiene su equipo de la Nación Data, su equipo de chequeo, tiene cosas así potentes?
+
+626
+00:36:30,970 --> 00:36:51,090
+Mira, hace unos años y a través de Chicas Poderosas, cuando Chicas Poderosas era internacional, nada más, no estaba la versión argentina todavía, hubo como una especie de intercambio en donde el diario digital La Tercera,
+
+627
+00:36:51,090 --> 00:36:53,490
+La tercera o el Mercurio
+
+628
+00:36:53,490 --> 00:36:54,070
+No, la tercera
+
+629
+00:36:54,070 --> 00:36:56,410
+Tuvo por un tiempo su equipo
+
+630
+00:36:56,410 --> 00:36:58,730
+Entonces hicieron como una serie
+
+631
+00:36:58,730 --> 00:37:00,570
+De especiales interactivos
+
+632
+00:37:00,570 --> 00:37:02,810
+Y trabajaron con datos y hasta ahí
+
+633
+00:37:02,810 --> 00:37:05,070
+La realidad es que no
+
+634
+00:37:05,070 --> 00:37:06,070
+Que no hay como
+
+635
+00:37:06,070 --> 00:37:08,110
+Una gran calidad
+
+636
+00:37:08,110 --> 00:37:10,130
+De portal de datos
+
+637
+00:37:10,130 --> 00:37:12,190
+Después está CIPER
+
+638
+00:37:12,190 --> 00:37:14,030
+Hay un medio que se llama CIPER
+
+639
+00:37:14,030 --> 00:37:16,590
+Pero ellos están específicamente orientados
+
+640
+00:37:16,590 --> 00:37:17,190
+A investigación
+
+641
+00:37:17,190 --> 00:37:20,770
+No hacen notas del contingente del día a día
+
+642
+00:37:20,770 --> 00:37:25,610
+sino que hacen investigaciones largas, potentes, que incluso se cargan unos cuantos ministros,
+
+643
+00:37:25,730 --> 00:37:27,770
+o sea, tienen en su haber cosas grosas.
+
+644
+00:37:28,090 --> 00:37:33,230
+No, no, son potentes, pero hacen investigación, no siempre relacionado con periodismo de datos,
+
+645
+00:37:33,390 --> 00:37:38,170
+es como otro estilo, pero son como potentes.
+
+646
+00:37:38,770 --> 00:37:44,770
+Pero en lo que es periodismo de datos, bueno, hasta no hace mucho tiempo estaba acá,
+
+647
+00:37:44,850 --> 00:37:48,790
+ahora se fue a vivir a Estados Unidos, estaba Miguel Paz, que él es periodista y es chileno.
+
+648
+00:37:48,790 --> 00:37:51,390
+Hizo Poderopedia
+
+649
+00:37:51,390 --> 00:37:53,670
+Exacto, yo tuve la chance
+
+650
+00:37:53,670 --> 00:37:55,330
+De trabajar con él en algunos proyectos
+
+651
+00:37:55,330 --> 00:37:56,690
+De datos
+
+652
+00:37:56,690 --> 00:37:59,770
+Y claro
+
+653
+00:37:59,770 --> 00:38:01,690
+Tenía su Poderopedia
+
+654
+00:38:01,690 --> 00:38:02,950
+Y funcionando y demás
+
+655
+00:38:02,950 --> 00:38:05,270
+Y él también hizo como cosas grosas
+
+656
+00:38:05,270 --> 00:38:07,130
+Porque se descubrieron como cosas
+
+657
+00:38:07,130 --> 00:38:09,890
+Importantes a raíz de su portal
+
+658
+00:38:09,890 --> 00:38:11,450
+Y algunas relaciones que no iban
+
+659
+00:38:11,450 --> 00:38:13,250
+Y acá en Chile son bastante
+
+660
+00:38:13,250 --> 00:38:16,030
+Son mucho más legalistas en ese punto
+
+661
+00:38:16,030 --> 00:38:17,610
+Ante una sospecha
+
+662
+00:38:17,610 --> 00:38:19,690
+de tal o cual cosa, viste, ya hay algún
+
+663
+00:38:19,690 --> 00:38:21,050
+conveniente. Mejor, ¿no?
+
+664
+00:38:21,290 --> 00:38:23,090
+Sí, sí, hay una cosa cultural
+
+665
+00:38:23,090 --> 00:38:25,430
+fuerte y me parece que un poco mejor
+
+666
+00:38:25,430 --> 00:38:26,730
+que en Argentina ya.
+
+667
+00:38:27,230 --> 00:38:29,450
+Pala, nos pasamos un poquito,
+
+668
+00:38:29,650 --> 00:38:31,730
+pero la verdad para mí fue muy interesante
+
+669
+00:38:31,730 --> 00:38:33,650
+y productivo charlar contigo.
+
+670
+00:38:34,230 --> 00:38:35,610
+Te despido, agradeciéndote
+
+671
+00:38:35,610 --> 00:38:37,290
+y como a todos los demás invitados,
+
+672
+00:38:37,470 --> 00:38:38,910
+preguntándote
+
+673
+00:38:38,910 --> 00:38:41,350
+a quién más tengo que
+
+674
+00:38:41,350 --> 00:38:43,470
+entrevistar para aprender y conocer más
+
+675
+00:38:43,470 --> 00:38:45,410
+de estos temas. Bueno, me los
+
+676
+00:38:45,410 --> 00:38:47,490
+escribí para no repetirlos
+
+677
+00:38:47,490 --> 00:38:49,130
+sos el mejor de todos
+
+678
+00:38:49,130 --> 00:38:51,830
+no, mira, a priori
+
+679
+00:38:51,830 --> 00:38:53,750
+la habían
+
+680
+00:38:53,750 --> 00:38:55,150
+mencionado a Naty Carfi
+
+681
+00:38:55,150 --> 00:38:57,010
+pero te recomiendo
+
+682
+00:38:57,010 --> 00:38:58,530
+que hables con ella porque
+
+683
+00:38:58,530 --> 00:39:01,370
+tiene una gran
+
+684
+00:39:01,370 --> 00:39:03,350
+trayectoria de muchos lados
+
+685
+00:39:03,350 --> 00:39:05,310
+y conoce de muchos lados
+
+686
+00:39:05,310 --> 00:39:07,550
+y estuvo en Argentina
+
+687
+00:39:07,550 --> 00:39:09,470
+estuvo en Chile, ahora está
+
+688
+00:39:09,470 --> 00:39:11,150
+para una organización
+
+689
+00:39:11,150 --> 00:39:13,010
+con base en Londres
+
+690
+00:39:13,010 --> 00:39:15,430
+y tiro
+
+691
+00:39:15,430 --> 00:39:16,730
+una pequeña anécdota
+
+692
+00:39:16,730 --> 00:39:19,050
+Nati Carfi me contó una vez que vos le enseñaste
+
+693
+00:39:19,050 --> 00:39:20,650
+a programar y a hacer su primer
+
+694
+00:39:20,650 --> 00:39:22,930
+commit en
+
+695
+00:39:22,930 --> 00:39:25,170
+GitHub, así que eso habla de tu generosidad
+
+696
+00:39:25,170 --> 00:39:26,810
+también, y de la capacidad
+
+697
+00:39:26,810 --> 00:39:28,810
+de Nati de salir de su mundo
+
+698
+00:39:28,810 --> 00:39:31,430
+de cosas sociales y meterse a lo tecnológico
+
+699
+00:39:31,430 --> 00:39:32,330
+Así es, sí, de verdad
+
+700
+00:39:32,330 --> 00:39:33,990
+Sí, es muy
+
+701
+00:39:33,990 --> 00:39:35,830
+inteligente, muy buena
+
+702
+00:39:35,830 --> 00:39:39,090
+Está en la lista Nati, pero sí, es una gran recomendada
+
+703
+00:39:39,090 --> 00:39:41,050
+Después con respecto a lo que es
+
+704
+00:39:41,050 --> 00:39:43,050
+Chile, porque también para ayudarte
+
+705
+00:39:43,050 --> 00:39:45,130
+a trascender, a atravesar
+
+706
+00:39:45,130 --> 00:39:46,750
+la cordillera, digamos, con contactos.
+
+707
+00:39:47,230 --> 00:39:48,670
+Quiero salir de la endogamia
+
+708
+00:39:48,670 --> 00:39:50,910
+del mundo de los datos abiertos, que son
+
+709
+00:39:50,910 --> 00:39:52,830
+gente que quiero mucho, pero quiero también
+
+710
+00:39:52,830 --> 00:39:54,410
+yo aprender de gente nueva. Así que
+
+711
+00:39:54,410 --> 00:39:56,190
+todos los chilenos son bienvenidos.
+
+712
+00:39:56,590 --> 00:39:58,810
+Ahí va. Sí, bueno,
+
+713
+00:39:58,890 --> 00:40:00,930
+el que fue el jefe de equipo
+
+714
+00:40:00,930 --> 00:40:02,990
+donde yo entré a trabajar en gobierno acá en
+
+715
+00:40:02,990 --> 00:40:04,250
+Chile, que es Felipe Mancini,
+
+716
+00:40:04,790 --> 00:40:07,290
+que él está enteramente relacionado
+
+717
+00:40:07,290 --> 00:40:08,910
+con lo que fue el primer portal
+
+718
+00:40:08,910 --> 00:40:10,330
+de datos de Chile,
+
+719
+00:40:11,110 --> 00:40:12,850
+que si vos...
+
+720
+00:40:12,850 --> 00:40:15,090
+2010 Junar
+
+721
+00:40:15,090 --> 00:40:17,250
+si no me equivoco, por ahí. Exactamente, exactamente.
+
+722
+00:40:17,810 --> 00:40:19,110
+Y si vos lo mirás
+
+723
+00:40:19,110 --> 00:40:20,870
+con perspectiva, él era como
+
+724
+00:40:20,870 --> 00:40:22,890
+hiper líder en la región y discutido
+
+725
+00:40:22,890 --> 00:40:24,870
+en Chile durante muchos años, gracias a ese
+
+726
+00:40:24,870 --> 00:40:26,510
+trabajo inicial. Totalmente.
+
+727
+00:40:26,910 --> 00:40:28,870
+Creo que él va a tener muchas cosas
+
+728
+00:40:28,870 --> 00:40:30,850
+para decir, sobre todo con los
+
+729
+00:40:30,850 --> 00:40:32,370
+esfuerzos de ese portal
+
+730
+00:40:32,370 --> 00:40:35,210
+y cómo se convenció internamente
+
+731
+00:40:35,210 --> 00:40:36,330
+que es el gran problema
+
+732
+00:40:36,330 --> 00:40:38,770
+hacer este tipo de cosas cuando recién
+
+733
+00:40:38,770 --> 00:40:39,430
+empezaba todo.
+
+734
+00:40:40,730 --> 00:40:42,330
+Totalmente. Y creo que
+
+735
+00:40:42,330 --> 00:40:44,310
+Felipe, después te paso el contacto que
+
+736
+00:40:44,310 --> 00:40:47,470
+del otro lado
+
+737
+00:40:47,470 --> 00:40:48,750
+del río de la plata
+
+738
+00:40:48,750 --> 00:40:51,170
+creo que alguien mencionó a Fabricio
+
+739
+00:40:51,170 --> 00:40:51,630
+Scrollini
+
+740
+00:40:51,630 --> 00:40:54,810
+que seguramente está en tu lista
+
+741
+00:40:54,810 --> 00:40:57,250
+pero recalco que es un tipo
+
+742
+00:40:57,250 --> 00:40:59,290
+con una lucidez bárbara
+
+743
+00:40:59,290 --> 00:41:00,070
+y con una visión
+
+744
+00:41:00,070 --> 00:41:03,450
+muy crítica de los esfuerzos
+
+745
+00:41:03,450 --> 00:41:04,010
+que se hacen
+
+746
+00:41:04,010 --> 00:41:07,350
+y de cómo algunas cosas
+
+747
+00:41:07,350 --> 00:41:08,990
+están de más y cuáles son las correctas
+
+748
+00:41:08,990 --> 00:41:10,510
+el tipo entiende mucho
+
+749
+00:41:10,510 --> 00:41:13,170
+y si van a ir a una charla de datos abiertos
+
+750
+00:41:13,170 --> 00:41:17,090
+yo recomiendo que vayan a donde está Fabricio porque las dos o tres veces que lo escuché
+
+751
+00:41:17,090 --> 00:41:20,370
+siempre es un tipo que, como decimos, tiene una gran claridad y una hermosa visión
+
+752
+00:41:20,370 --> 00:41:22,830
+de este mundo de los gobiernos abiertos.
+
+753
+00:41:23,250 --> 00:41:26,890
+Totalmente, totalmente. Y por último, mencionarte del lado de la sociedad civil,
+
+754
+00:41:28,210 --> 00:41:33,690
+acá está Ciudadana Inteligente, que ahora se llama Ciudadanía Inteligente,
+
+755
+00:41:34,230 --> 00:41:38,850
+que es una ONG en donde también hacen activismo desde lo digital
+
+756
+00:41:38,850 --> 00:41:45,630
+y desde la conquista de derechos, especialmente en transparencia y ese tipo de cosas.
+
+757
+00:41:46,030 --> 00:41:50,930
+Hay un chico que trabaja que no solo tiene el conocimiento de ciudadano inteligente,
+
+758
+00:41:51,030 --> 00:41:55,890
+sino que también conoce a toda la red de lo que es gobierno abierto en Chile.
+
+759
+00:41:56,550 --> 00:42:00,010
+Y supongo que ahí te pueden obtener varios links, que es Manuel Barros.
+
+760
+00:42:00,930 --> 00:42:05,570
+Perfecto. Sí, Manuel dictó un seminario en un curso que fue hacia Chile el año pasado
+
+761
+00:42:05,570 --> 00:42:07,250
+y me habló de participación ciudadana.
+
+762
+00:42:07,250 --> 00:42:09,950
+Se nota que es un activista súper comprometido
+
+763
+00:42:09,950 --> 00:42:12,270
+Así que lo agrego a la lista también
+
+764
+00:42:12,270 --> 00:42:13,070
+Bien
+
+765
+00:42:13,070 --> 00:42:15,450
+Y bueno, hasta ahí mis recomendaciones
+
+766
+00:42:15,450 --> 00:42:18,190
+Tengo mucho más, pero por suerte ya lo fuiste tocando
+
+767
+00:42:18,190 --> 00:42:19,170
+Con eso
+
+768
+00:42:19,170 --> 00:42:21,150
+Con eso tengo para entretenerme un rato
+
+769
+00:42:21,150 --> 00:42:22,530
+Muchísimas gracias Pala
+
+770
+00:42:22,530 --> 00:42:24,090
+No, a vos Andrés, gracias a vos
+
+771
+00:42:24,090 --> 00:42:24,810
+Dale, un abrazo
+
+772
+00:42:24,810 --> 00:42:25,430
+Hasta luego
+

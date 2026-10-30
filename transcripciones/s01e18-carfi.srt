@@ -1,0 +1,1628 @@
+1
+00:00:22,740 --> 00:00:49,500
+Cadena de datos, episodio número 18. La invitada del día de hoy es Natalia Carfi. Natalia es licenciada en Ciencias Políticas. Actualmente es vice directora de la Carta Internacional de Datos Abiertos, el Open Data Charter. Fue directora de Gobierno Abierto de la República Argentina. Fue coordinadora de Gobierno Abierto de la Ciudad de Buenos Aires y también fue coordinadora de Gobierno Abierto de la Secretaría General de la Presidencia en Chile.
+
+2
+00:00:50,280 --> 00:00:52,340
+Buenas tardes, Natalia. Muchas gracias por participar.
+
+3
+00:00:52,680 --> 00:00:55,200
+¿Algo para agregarle o corregirle a esta presentación?
+
+4
+00:00:55,680 --> 00:00:59,880
+No, no, está muy bien. Buenas tardes, gracias por la invitación.
+
+5
+00:01:01,640 --> 00:01:02,580
+Bueno, gracias, Natalia.
+
+6
+00:01:02,700 --> 00:01:05,820
+La primera pregunta con la que arranco con todos es conocer más o menos
+
+7
+00:01:05,820 --> 00:01:10,380
+en qué proyecto y en qué año concretamente empezaste a vincularte
+
+8
+00:01:10,380 --> 00:01:13,160
+con el mundo del gobierno abierto. ¿Te acuerdas cuál fue el primero?
+
+9
+00:01:13,160 --> 00:01:34,160
+Mira, yo la verdad venía de un lado académico, estudiando temas de participación ciudadana, en algún momento de mi vida, hace ya varios años, y por, en realidad, más vicisitudes de la vida que una decisión consciente, terminé trabajando en temas de modernización legislativa.
+
+10
+00:01:34,160 --> 00:01:38,060
+legislativa y fui directora de modernización legislativa en la
+
+11
+00:01:38,060 --> 00:01:38,920
+legislatura de la ciudad.
+
+12
+00:01:39,920 --> 00:01:46,220
+Y en una reunión, o sea, un meetup que me invitaron,
+
+13
+00:01:46,620 --> 00:01:49,240
+empezaron a hablar de gobierno abierto y yo empecé a ver cómo
+
+14
+00:01:49,240 --> 00:01:52,880
+en realidad iba mezclando como mi mundo práctico y mi mundo
+
+15
+00:01:52,880 --> 00:01:59,040
+teórico, diciendo, va por acá, como gobierno abierto empieza a
+
+16
+00:01:59,040 --> 00:02:02,620
+mezclar mi mundo del uso de tecnología para mejorar la
+
+17
+00:02:02,620 --> 00:02:07,600
+gestión pública y lo de participación ciudadana y ahí automáticamente empecé como a investigar más
+
+18
+00:02:07,600 --> 00:02:14,440
+y me metí en realidad desde el lado de parlamento abierto, mi primer inicio fue por ese lado.
+
+19
+00:02:15,100 --> 00:02:17,520
+Raro porque no son los más abiertos en general.
+
+20
+00:02:17,520 --> 00:02:25,060
+No, pero yo entré en el momento justo, o sea, ya había nacido la alianza para gobierno abierto,
+
+21
+00:02:25,060 --> 00:02:32,960
+pero hacía un año, y la verdad había, bueno, sigue existiendo una ONG norteamericana,
+
+22
+00:02:33,040 --> 00:02:36,060
+se llamaba Sunlight Foundation, que hacían un evento muy entretenido,
+
+23
+00:02:36,700 --> 00:02:41,020
+que era una desconferencia, que para ese entonces para mí era un, no sé,
+
+24
+00:02:41,100 --> 00:02:46,840
+no sabía qué cazo era, con qué se comía, que se llama Transparency Camp.
+
+25
+00:02:47,200 --> 00:02:50,500
+Y ese año mismo, que a mí me nombraron directora,
+
+26
+00:02:50,500 --> 00:03:14,460
+Ellos lanzaron como una convocatoria internacional para armar un grupo de visitantes internacionales a Transparency Camp y yo de cara dura nomás me mandé porque no sabía muy bien qué era lo que estaba haciendo y quedé seleccionada y me pasó que en esa semana en Washington, en Transparency Camp, conocía muchas personas con las cuales después seguí trabajando.
+
+27
+00:03:14,460 --> 00:03:44,440
+Por ejemplo, Fabricio Scrollini, de Hilda, lo conocí ahí hace ya miles de años. Por ejemplo, bueno, con Sunlight también seguí trabajando varios años y fue como una inversión tremenda porque participé de la primera desconferencia de mi vida, conocí a los creadores de Zikan en vivo y en directo y entonces a partir de ahí ya conocía como, no sé, ya entraba en contacto muy cercano con el mundo de los datos abiertos.
+
+28
+00:03:44,460 --> 00:03:49,740
+Fue como una inmersión tremenda y a partir de ahí no alargué nunca más.
+
+29
+00:03:50,300 --> 00:04:11,520
+Y cuando vos estudiabas ciencia política antes de esto, ¿el gobierno abierto es algo que se estudiaba, algo que ya existía muy fuerte y la modernización vino a darle una parte más vistosa y más práctica o no es algo que vos habías estudiado teóricamente en tu carrera antes de llegar acá?
+
+30
+00:04:11,520 --> 00:04:30,380
+No, no, yo estudié ciencia política en la UBA y al menos en sociales de la UBA nunca había escuchado, nunca había escuchado hablar de gobierno abierto, nunca nada, y es una carrera súper teórica, la amo con locura, pero no, no se hablaba de gobierno abierto.
+
+31
+00:04:30,380 --> 00:04:42,400
+La primera vez que escuché hablar de gobierno abierto fue así como en ese meetup y empecé con los tres pilares y la alianza para gobierno abierto y tal. La verdad que no.
+
+32
+00:04:42,400 --> 00:05:03,280
+Y por lo que yo sé, en la carrera ahora en ciencia política en la UBA hay dos seminarios, o sea, no sigue siendo parte, o sea, sigue no siendo parte del core de la carrera, de las materias obligatorias, pero sí hay, si a alguien le interesa, un par de materias optativas para meterse un poco en esto.
+
+33
+00:05:03,280 --> 00:05:05,120
+y te parece
+
+34
+00:05:05,120 --> 00:05:07,320
+en esta serie de entrevistas he charlado
+
+35
+00:05:07,320 --> 00:05:09,100
+con gente que viene del mundo de la tecnología
+
+36
+00:05:09,100 --> 00:05:11,160
+y gente que viene del mundo de las ciencias
+
+37
+00:05:11,160 --> 00:05:13,300
+políticas y en general cualquiera que no
+
+38
+00:05:13,300 --> 00:05:15,160
+venga de la tecnología nos dice a los que
+
+39
+00:05:15,160 --> 00:05:17,060
+estamos más en la tecnología que
+
+40
+00:05:17,060 --> 00:05:19,160
+gobierno abierto no es dato abierto, es lo
+
+41
+00:05:19,160 --> 00:05:21,220
+primero que surge, pero me da la
+
+42
+00:05:21,220 --> 00:05:23,060
+sensación y entiendo
+
+43
+00:05:23,060 --> 00:05:24,320
+perfecto
+
+44
+00:05:24,320 --> 00:05:26,320
+ese dilema
+
+45
+00:05:26,320 --> 00:05:29,260
+¿cómo lo ves? ¿te parece que el gobierno abierto
+
+46
+00:05:29,260 --> 00:05:31,120
+no me gusta decir
+
+47
+00:05:31,120 --> 00:05:33,120
+se puso de moda, pero se popularizó
+
+48
+00:05:33,280 --> 00:05:47,480
+Por todo el mundo porque teníamos herramientas para explotar más digitalmente la participación y los datos y las visualizaciones. ¿Te parece que fue culpa de eso? ¿O fue que las sociedades evolucionaron y quieren más apertura de los gobiernos?
+
+49
+00:05:47,480 --> 00:06:13,540
+No, yo creo que no, o sea, se puede hacer gobierno abierto sin tecnología, se podía hacer gobierno abierto sin tecnología antes, me parece que lo que vino a traer el concepto de gobierno abierto es una mirada más global, digo que había, no es que las políticas de participación ciudadana o las políticas de accountability nacieron con el concepto de gobierno abierto, ya existían las leyes de acceso a la información, ya existían,
+
+50
+00:06:13,540 --> 00:06:36,420
+Y el acceso a la información de la agenda más tradicional también compone parte de las políticas de gobierno abierto. Me parece que en específico las políticas, por ejemplo, de datos abiertos sí le trajeron una aceleración y además porque el mundo, no de la política pública, sino el mundo en general, empezó a tomar más conciencia de la potencia que tienen los datos.
+
+51
+00:06:36,420 --> 00:06:54,360
+Entonces, entiendo que a veces haya esa confusión de que gobierno abierto es igual a datos abiertos, para mí no es así, pero entiendo por qué es una de las políticas como que cualquier gobierno que hace gobierno abierto tiene ganas de tomar.
+
+52
+00:06:56,060 --> 00:07:01,780
+Pero realmente creo que se puede hacer gobierno abierto sin tecnología, sobre todo a nivel local.
+
+53
+00:07:01,780 --> 00:07:19,960
+Perfecto. Te traigo un poquito más acá porque me parece que desde tu puesto actual en el Open Data Charter se pueden repasar muchas cosas, un poco desconectado ya de tantos gobiernos por los que pasaste. Primero te quería preguntar, ¿qué es el Open Data Charter para la gente que no lo conoce?
+
+54
+00:07:19,960 --> 00:07:46,580
+El Open Data Charter es, tiene como dos momentos de fundación. En 2015 se empieza a dar una conversación internacional liderada en ese momento, digo, la invitación inicial, gobierno de México, el gobierno de Canadá, RDRC, que es una agencia de cooperación canadiense, y Omidia Network, que es una de las filantropías más grandes en términos de quiénes son los que financian proyectos de este estilo,
+
+55
+00:07:46,580 --> 00:07:52,800
+hicieron una invitación global y abierta a poder debatir cuáles serían los principios de cualquier
+
+56
+00:07:52,800 --> 00:07:57,400
+política de datos abiertos a nivel internacional. No importa el nivel de gobierno y no importa en
+
+57
+00:07:57,400 --> 00:08:03,300
+dónde se esté intentando implementar. Se hicieron una serie de reuniones, una en Canadá, otra en
+
+58
+00:08:03,300 --> 00:08:09,400
+Chile, una consulta global en tres idiomas, se recibieron comentarios. Obviamente se sumaron más
+
+59
+00:08:09,400 --> 00:08:13,460
+gobiernos y más organizaciones. No me quiero olvidar de ninguna, pero de Open Knowledge,
+
+60
+00:08:13,460 --> 00:08:16,580
+Web Foundation, se sumó el gobierno de Chile, digo,
+
+61
+00:08:16,580 --> 00:08:19,960
+se sumaron un montón de actores a todos esos debates y se
+
+62
+00:08:19,960 --> 00:08:23,660
+terminó con lo que es hoy un texto que son 6 principios que
+
+63
+00:08:23,660 --> 00:08:26,220
+componen el texto de la Carta Internacional de Datos
+
+64
+00:08:26,220 --> 00:08:27,140
+Abiertos.
+
+65
+00:08:27,140 --> 00:08:33,220
+Una vez que se tuvo el texto, que es bastante simple de leer y
+
+66
+00:08:33,220 --> 00:08:39,400
+de comprender, se tomó una decisión de generar un equipo
+
+67
+00:08:39,400 --> 00:08:43,460
+que colabore con la implementación de esos principios.
+
+68
+00:08:43,460 --> 00:08:50,700
+Entonces, se crea la institución Carta Internacional de Datos Abiertos, de la cual yo ahora soy la vicedirectora.
+
+69
+00:08:50,700 --> 00:09:11,660
+Entonces, a partir de 2016 hay un equipo que colabora con los gobiernos y con organizaciones de sociedad civil y con multilaterales e instituciones como el CAF, el BID, el Banco Mundial, la OCDE, OGP y demás, en la implementación de políticas de datos abiertos.
+
+70
+00:09:11,660 --> 00:09:14,040
+Entonces, en esa institución estoy yo.
+
+71
+00:09:14,400 --> 00:09:14,660
+Bien.
+
+72
+00:09:15,260 --> 00:09:17,600
+Y un detalle de color.
+
+73
+00:09:17,940 --> 00:09:19,060
+¿Tienen oficina física?
+
+74
+00:09:19,200 --> 00:09:20,240
+¿Vos estás en Buenos Aires?
+
+75
+00:09:20,400 --> 00:09:21,440
+¿Estás en otro lugar del mundo?
+
+76
+00:09:21,820 --> 00:09:22,360
+¿Por dónde andas?
+
+77
+00:09:22,740 --> 00:09:24,880
+No, no tenemos oficina física.
+
+78
+00:09:25,400 --> 00:09:27,540
+La directora está basada en Londres.
+
+79
+00:09:28,180 --> 00:09:29,340
+Yo estoy en Buenos Aires.
+
+80
+00:09:29,820 --> 00:09:32,120
+Pero, básicamente, podemos trabajar desde cualquier lugar
+
+81
+00:09:32,120 --> 00:09:33,600
+donde haya buena conexión a internet.
+
+82
+00:09:33,900 --> 00:09:34,220
+Bien.
+
+83
+00:09:35,260 --> 00:09:39,780
+Eso ya supone una diferencia muy grande con tus puestos
+
+84
+00:09:39,780 --> 00:09:42,200
+importantes en gobiernos.
+
+85
+00:09:42,640 --> 00:09:44,100
+O sea, ¿a vos te parece que tranquilamente
+
+86
+00:09:44,100 --> 00:09:45,620
+podemos llevar adelante
+
+87
+00:09:45,620 --> 00:09:47,720
+una agenda de esta complejidad
+
+88
+00:09:47,720 --> 00:09:50,160
+en un lugar mucho más cómodo?
+
+89
+00:09:50,420 --> 00:09:51,960
+Te quiero llevar al tema de la diferencia
+
+90
+00:09:51,960 --> 00:09:53,980
+de trabajar en un gobierno y en una organización.
+
+91
+00:09:54,760 --> 00:09:56,480
+La diferencia,
+
+92
+00:09:56,880 --> 00:09:58,160
+para mí en particular, además,
+
+93
+00:09:58,300 --> 00:09:59,920
+habiendo trabajado 10 años en
+
+94
+00:09:59,920 --> 00:10:02,280
+gobiernos, a pasar a trabajar
+
+95
+00:10:02,280 --> 00:10:03,400
+en mi casa sola,
+
+96
+00:10:04,040 --> 00:10:06,020
+físicamente sola, porque no estoy sola, porque
+
+97
+00:10:06,020 --> 00:10:08,200
+hay un equipo, pero fue tremendo.
+
+98
+00:10:08,200 --> 00:10:10,820
+Pero no solo desde lo laboral, sino también desde lo personal.
+
+99
+00:10:12,020 --> 00:10:13,600
+Es otro desafío distinto.
+
+100
+00:10:13,900 --> 00:10:16,160
+Claro, tuve que reaprender.
+
+101
+00:10:16,900 --> 00:10:20,800
+Y entré a ver la página del Open Data Charter y veo que hay un
+
+102
+00:10:20,800 --> 00:10:25,420
+área más ejecutiva con Ania Calderón como directora,
+
+103
+00:10:25,460 --> 00:10:28,240
+vos como vice directora y ahora con Agustina de Luca como
+
+104
+00:10:28,240 --> 00:10:28,980
+directora de redes.
+
+105
+00:10:29,400 --> 00:10:33,300
+Un equipo ejecutivo y 100% femenino y después hay como un
+
+106
+00:10:33,300 --> 00:10:36,660
+board de directores y demás que me imagino que no tienen
+
+107
+00:10:36,660 --> 00:10:39,920
+en funciones tan ejecutivas y que son 99% hombres.
+
+108
+00:10:41,380 --> 00:10:45,260
+¿Cómo es eso? ¿Es a propósito? ¿Te parece que se dio naturalmente
+
+109
+00:10:45,260 --> 00:10:49,680
+o te parece que las mujeres tienen un rol más activo en la política de gobierno abierto?
+
+110
+00:10:49,680 --> 00:10:56,240
+O sea, nosotros, la verdad, fue mera casualidad que el equipo sea 100% femenino.
+
+111
+00:10:56,360 --> 00:11:01,320
+De hecho, el primer vicedirector, o sea, quien ocupaba mi puesto antes era hombre.
+
+112
+00:11:01,320 --> 00:11:08,560
+Y cuando se abrió la búsqueda, se presentaron hombres y mujeres y el board me seleccionó a mí.
+
+113
+00:11:08,700 --> 00:11:14,080
+Y lo mismo pasó con la búsqueda en la cual quedó Abus, en la cual yo ya participé activamente desde adentro.
+
+114
+00:11:14,220 --> 00:11:23,620
+La verdad que los, las, les, candidates, les llegaron de todos lados y todos los géneros.
+
+115
+00:11:23,800 --> 00:11:25,580
+Así que eso fue mera casualidad.
+
+116
+00:11:26,060 --> 00:11:29,080
+En términos del board, se nos fueron un par de mujeres.
+
+117
+00:11:29,080 --> 00:11:51,960
+Estamos trabajando en eso. Tenemos novedades en breve porque hicimos una búsqueda global de nuevos miembros de board y la búsqueda, ya ni lo negaba, también estábamos buscando prioritariamente mujeres para que se sumen porque se fueron de sus puestos y entonces se fueron del board. Así que en breve tendrán novedades de los resultados de esa búsqueda.
+
+118
+00:11:52,620 --> 00:11:58,040
+Buenísimo. Hace mucho tiempo en una conferencia que diste te pregunté
+
+119
+00:11:58,040 --> 00:12:03,980
+a qué mujeres admirabas en el mundo de la política y me nombraste a Beth Noveck.
+
+120
+00:12:04,400 --> 00:12:10,800
+Hoy, habiendo recorrido un poco más el camino, ¿seguís pensando que fue una mujer fundacional en estas políticas?
+
+121
+00:12:10,800 --> 00:12:17,120
+Y no sé si sumarías a alguien más a mujeres destacadas en el mundo de gobierno abierto.
+
+122
+00:12:17,120 --> 00:12:37,540
+A ver, Beth sigue siendo para mí una gran lideresa de este mundo porque además es una de las personas más humildes y colaborativas que conocí en mi vida. Cero subida al pony, diríamos nosotros, y muy abierta a ayudarte en cualquier cosa.
+
+123
+00:12:37,540 --> 00:12:45,880
+Digo, en algún momento que yo no sabía muy bien cuál era mi siguiente paso profesional para tomar, hasta se tomó un café conmigo solamente para hablar de eso.
+
+124
+00:12:47,080 --> 00:12:50,560
+Como mujer, para dónde podía ir y qué tenía ganas de hacer.
+
+125
+00:12:51,940 --> 00:12:58,340
+Entonces, me parece además una gran persona que eso hace que la calidad de su trabajo sea del nivel que es.
+
+126
+00:12:59,160 --> 00:13:06,040
+Me fui encontrando con un montón de mujeres a lo largo del camino que la verdad han marcado impacto.
+
+127
+00:13:06,040 --> 00:13:21,100
+Me parece que, o sea, Beth, además por ser una de las primeras, es una de esas grandes personas, pero por suerte en la comunidad de gobierno abierto y de datos abiertos hay muchas y cada vez más.
+
+128
+00:13:21,840 --> 00:13:35,600
+Así que, no sé, no quiero dejar ninguna fuera, pero justo hace dos días se armó un thread en Twitter donde nos íbamos como presentando nuevas a otras y era interminable.
+
+129
+00:13:36,040 --> 00:13:40,600
+Yo la última vez que vi el tweet ya íbamos como 200 mujeres.
+
+130
+00:13:42,220 --> 00:13:42,860
+Perfecto.
+
+131
+00:13:44,300 --> 00:13:49,640
+Mati, vos estuviste en gobiernos locales, en 2 gobiernos
+
+132
+00:13:49,640 --> 00:13:53,340
+nacionales y ahora la mirás un poco de afuera y mi pregunta que
+
+133
+00:13:53,340 --> 00:13:56,660
+sigue es si a vos te parece que las políticas de gobierno
+
+134
+00:13:56,660 --> 00:14:02,760
+abierto en general están vinculadas a políticos que
+
+135
+00:14:02,760 --> 00:14:04,780
+quieren hacer un poco de marketing
+
+136
+00:14:04,780 --> 00:14:07,140
+o hay una profundidad
+
+137
+00:14:07,140 --> 00:14:08,740
+o una sinceridad en estas
+
+138
+00:14:08,740 --> 00:14:10,460
+políticas de un deseo de que los gobiernos
+
+139
+00:14:10,460 --> 00:14:12,200
+sean más abiertos. Hablo con gente
+
+140
+00:14:12,200 --> 00:14:14,620
+de España en este podcast y me da la
+
+141
+00:14:14,620 --> 00:14:16,820
+sensación que en algunos casos ellos perciben
+
+142
+00:14:16,820 --> 00:14:18,700
+que es parte de una política de Estado y que no va
+
+143
+00:14:18,700 --> 00:14:20,700
+a cambiar, pero más
+
+144
+00:14:20,700 --> 00:14:22,840
+del lado latinoamericano me da la sensación
+
+145
+00:14:22,840 --> 00:14:24,580
+por lo que dicen los invitados que en
+
+146
+00:14:24,580 --> 00:14:26,200
+algunos casos hay mucho marketing
+
+147
+00:14:26,200 --> 00:14:28,800
+y cosa superficial.
+
+148
+00:14:29,280 --> 00:14:30,440
+¿Vos cómo ves
+
+149
+00:14:30,440 --> 00:14:34,940
+Entonces, ¿qué son las políticas de gobierno abierto? ¿Son sinceras? ¿Son superficiales?
+
+150
+00:14:35,380 --> 00:14:45,300
+Se creó hace un par de años, ya no me acuerdo quién, el concepto de open washing, que es como lavar tu cara haciendo gobierno abierto.
+
+151
+00:14:46,420 --> 00:14:50,100
+La verdad que me parece que hay que analizar cada uno de los casos.
+
+152
+00:14:50,100 --> 00:15:17,280
+Lo que sí tengo claro es que las políticas de gobierno abierto todavía siguen necesitando un anclaje desde lo político, que no son desarrolladas by default. Y el ejemplo más claro para mí es el de Estados Unidos, que pasó de ser líder total de este tema a la nada, básicamente.
+
+153
+00:15:17,280 --> 00:15:45,520
+Y todo el mundo decía, no, ¿cómo van a cerrar el portal de ASO? ¿Cómo van a sacar data sets de ahí? No se preocupen. Bueno, cuestión, todo pasó. Entonces, la verdad que habría que analizar cada uno de los casos. Yo creo que igual lo que pasa en la región puede ser que haya algunos casos de que sea más open washing que otra cosa, pero hay una comunidad de datos súper potente detrás.
+
+154
+00:15:45,520 --> 00:16:04,500
+Entonces, lo que pasa es que no nos vamos a quedar callados si se baja un portal o si se dan de baja una API. Y entonces me parece que la generación de esa comunidad en la región, porque la verdad que Latinoamérica no tiene nada que envidiarle a ninguna otra región del mundo.
+
+155
+00:16:04,500 --> 00:16:10,960
+somos una de las comunidades más potentes que hay y somos, digo, lo digo porque si bien trabajo
+
+156
+00:16:10,960 --> 00:16:17,860
+en una organización global, me siento parte y estoy ahí desde sus inicios, me parece que más allá
+
+157
+00:16:17,860 --> 00:16:25,200
+de lo que pase políticamente, la comunidad hace llamados cuando se está haciendo open washing,
+
+158
+00:16:25,740 --> 00:16:32,500
+está atenta a que no se bajen portales, no se corten napis, y entonces me parece que
+
+159
+00:16:32,500 --> 00:16:36,000
+Puede ser que se vaya para atrás en algún caso
+
+160
+00:16:36,000 --> 00:16:38,740
+Pero no va a pasar desapercibido
+
+161
+00:16:38,740 --> 00:16:41,460
+Algo que quizás en los primeros años sí podía pasar
+
+162
+00:16:41,460 --> 00:16:45,320
+Bien, y ustedes reciben postulaciones
+
+163
+00:16:45,320 --> 00:16:48,880
+Permanentemente de gobiernos de diferentes niveles
+
+164
+00:16:48,880 --> 00:16:49,820
+En el Open Data Charter
+
+165
+00:16:49,820 --> 00:16:50,400
+Quiere preguntarte
+
+166
+00:16:50,400 --> 00:16:52,660
+¿Qué cosas le ves que le faltan a los gobiernos
+
+167
+00:16:52,660 --> 00:16:53,500
+Cuando se acercan?
+
+168
+00:16:54,780 --> 00:16:56,260
+Estoy tratando de pensar
+
+169
+00:16:56,260 --> 00:16:58,540
+¿Qué cosas le podemos sugerir a los gobiernos
+
+170
+00:16:58,540 --> 00:17:00,780
+Para que tengan y que no tienen?
+
+171
+00:17:00,780 --> 00:17:04,760
+Cuando los gobiernos van hacia ustedes, ¿qué falencias ven o qué cosas en general?
+
+172
+00:17:04,900 --> 00:17:06,300
+¿Qué datos no tienen? ¿Qué les falta?
+
+173
+00:17:07,000 --> 00:17:12,440
+No, en general los que se acercan a la carta y que recién están comenzando,
+
+174
+00:17:12,520 --> 00:17:16,720
+pues también tenemos adoptantes de diferentes niveles de desarrollo de políticas de datos abiertos.
+
+175
+00:17:16,840 --> 00:17:21,540
+O sea, hay algunos que adoptan la carta como corolario de un desarrollo de una política
+
+176
+00:17:21,540 --> 00:17:28,160
+y hay algunos que adoptan la carta como el marco inicial de su desarrollo de política, ¿no?
+
+177
+00:17:28,160 --> 00:17:30,980
+Y es como, bueno, tomamos esto como marco y de ahí le damos para adelante.
+
+178
+00:17:32,960 --> 00:17:38,820
+Entonces, en general, mira, lo que te puedo decir es el proceso, lo que nos informó mucho,
+
+179
+00:17:38,920 --> 00:17:44,940
+qué es lo que quieren nuestros adoptantes y qué es lo que falta, fue el proceso que pasamos el año pasado
+
+180
+00:17:44,940 --> 00:17:52,780
+en el cual revisamos los principios y no en el caso de los participantes latinoamericanos,
+
+181
+00:17:52,780 --> 00:17:55,640
+Pero en las otras regiones había mucha necesidad de,
+
+182
+00:17:55,640 --> 00:17:58,840
+como tienen un proyecto de ley de datos abiertos,
+
+183
+00:17:58,840 --> 00:18:03,220
+hay un decreto de datos abiertos como regulación.
+
+184
+00:18:03,220 --> 00:18:05,940
+Muchos de los gobiernos querían arrancar,
+
+185
+00:18:05,940 --> 00:18:08,740
+no por la parte tecnológica, sino por la parte de la
+
+186
+00:18:08,740 --> 00:18:10,780
+regulación.
+
+187
+00:18:10,780 --> 00:18:14,000
+Y es como, bueno, cuando tenga la regulación voy a poder
+
+188
+00:18:14,000 --> 00:18:16,960
+montar el primer portal porque las otras áreas me van a
+
+189
+00:18:16,960 --> 00:18:19,360
+preguntar, bueno, ¿por qué me estás pidiendo estos datos
+
+190
+00:18:19,360 --> 00:18:20,140
+para publicarlos?
+
+191
+00:18:20,140 --> 00:18:21,700
+¿Cuál es el background legal?
+
+192
+00:18:21,700 --> 00:18:24,100
+Y yo no lo voy a tener.
+
+193
+00:18:24,100 --> 00:18:26,940
+Que no está resuelto en ningún lado mucho,
+
+194
+00:18:26,940 --> 00:18:32,860
+pero hablaban mucho de eso, de las regulaciones.
+
+195
+00:18:32,860 --> 00:18:34,820
+Entonces, eso mucho.
+
+196
+00:18:34,820 --> 00:18:37,660
+Después, en términos de tecnología, a ver,
+
+197
+00:18:37,660 --> 00:18:43,500
+lo que les puede faltar es equipo in-house.
+
+198
+00:18:43,500 --> 00:18:47,260
+Pero en términos de plataformas, como que la oferta es más o
+
+199
+00:18:47,260 --> 00:18:52,680
+menos limitada y entonces la decisión más es si tenés un
+
+200
+00:18:52,680 --> 00:18:55,220
+equipo in-house y que te haga, digo,
+
+201
+00:18:55,220 --> 00:18:58,260
+que te sostenga el desarrollo de un Zikan en cualquiera de sus
+
+202
+00:18:58,260 --> 00:19:05,020
+versiones o esa plata la invertís en tercerizar en un en
+
+203
+00:19:05,020 --> 00:19:07,180
+enlatado, por así decirlo.
+
+204
+00:19:07,180 --> 00:19:12,580
+Pero la verdad que no, pasaba más por eso, los miedos.
+
+205
+00:19:12,580 --> 00:19:17,080
+Yo una vez estuve en un taller internacional como líderes de
+
+206
+00:19:17,080 --> 00:19:24,260
+datos abiertos y no sé qué y nos habían hecho por separado a cada quien escribir las 10 razones
+
+207
+00:19:24,260 --> 00:19:31,760
+más comunes de por qué nuestros colegas o jefes o compañeros de gobierno no querían abrir datos.
+
+208
+00:19:32,300 --> 00:19:37,180
+Y había una chica de Tunisia, una de Macedonia, estaba yo que en ese momento estaba en Chile.
+
+209
+00:19:37,180 --> 00:19:43,260
+O sea, era UK, era todo el mundo. Las 3 primeras eran las mismas en todo el mundo.
+
+210
+00:19:43,680 --> 00:19:44,420
+¿Y cuáles eran?
+
+211
+00:19:44,780 --> 00:19:46,540
+Una era, ¿qué van a hacer con mis datos?
+
+212
+00:19:47,080 --> 00:19:49,400
+¿Por qué los voy a abrir?
+
+213
+00:19:49,500 --> 00:19:50,940
+¿Los van a malinterpretar mal?
+
+214
+00:19:51,040 --> 00:19:52,320
+Esto de backlash.
+
+215
+00:19:54,400 --> 00:19:56,120
+Pero posta era en todos los países.
+
+216
+00:19:56,660 --> 00:20:00,520
+La otra, que en muchos casos tienen razones,
+
+217
+00:20:00,920 --> 00:20:05,240
+no está dentro de mis prioridades de trabajo.
+
+218
+00:20:05,240 --> 00:20:07,900
+Yo no soy de datos abiertos, soy, no sé, del Ministerio de
+
+219
+00:20:07,900 --> 00:20:09,100
+Producción.
+
+220
+00:20:09,700 --> 00:20:11,360
+Entonces, no tengo el tiempo y no tengo la capacidad.
+
+221
+00:20:13,620 --> 00:20:16,980
+Y la otra era, le tenés que primero hablar a mi jefe.
+
+222
+00:20:17,080 --> 00:20:19,780
+Bien, decisión política.
+
+223
+00:20:20,220 --> 00:20:20,780
+Exacto.
+
+224
+00:20:21,420 --> 00:20:21,620
+Bien.
+
+225
+00:20:22,320 --> 00:20:24,680
+Te quería preguntar, yendo más al tema de los datos,
+
+226
+00:20:24,900 --> 00:20:28,640
+ustedes o vos, si querés, en tu agenda, no sé si diaria,
+
+227
+00:20:28,800 --> 00:20:34,520
+pero periódica, ¿usás datos para cambiar las decisiones o tomar
+
+228
+00:20:34,520 --> 00:20:35,280
+decisiones?
+
+229
+00:20:37,480 --> 00:20:39,460
+No sé si para nuestras decisiones diarias,
+
+230
+00:20:39,580 --> 00:20:43,760
+pero digo, nosotros trabajamos, uno de los proyectos que
+
+231
+00:20:43,760 --> 00:20:46,560
+desarrolla la carta son las guías de apertura de datos
+
+232
+00:20:46,560 --> 00:20:50,680
+temáticos. Entonces, una guía de apertura de datos de anticorrupción, una guía de
+
+233
+00:20:50,680 --> 00:20:54,960
+datos, guía de apertura de datos de cambio climático, bueno, hay varias guías.
+
+234
+00:20:55,960 --> 00:20:59,760
+Y esas guías se implementan en diferentes gobiernos.
+
+235
+00:21:00,360 --> 00:21:04,340
+Al momento de presentarles la propuesta, sí hacemos una investigación de los
+
+236
+00:21:04,340 --> 00:21:09,900
+datos del país para poder fundamentar por qué
+
+237
+00:21:09,900 --> 00:21:17,420
+¿Por qué seríamos buenos partners para poder implementar esas guías?
+
+238
+00:21:17,960 --> 00:21:26,620
+Entonces, si usamos datos y usamos datos, no solo datos de portales de datos abiertos o estadísticos o cosas así,
+
+239
+00:21:26,760 --> 00:21:35,200
+obviamente se hace un research antes de hablar con algún gobierno de en qué estadio están de sus políticas de datos abiertos,
+
+240
+00:21:35,200 --> 00:21:43,640
+el índice, el barómetro, que son básicamente los mecanismos de medición de políticas de datos abiertos a nivel global.
+
+241
+00:21:45,060 --> 00:21:50,620
+Entonces, sí hacemos como un pequeño perfil del gobierno, por así decirlo.
+
+242
+00:21:50,640 --> 00:21:58,220
+Y le ha pasado de que han rechazado postulantes porque perciben que hay un intento de open washing por detrás de una,
+
+243
+00:21:58,220 --> 00:22:00,560
+de decir, bueno, me anoto
+
+244
+00:22:00,560 --> 00:22:02,080
+en todas, me anoto en esta también.
+
+245
+00:22:02,760 --> 00:22:04,340
+¿Cuánto tiempo me lleva y
+
+246
+00:22:04,340 --> 00:22:06,660
+me cuelgo esta medallita de tener el Open Data Charter?
+
+247
+00:22:07,160 --> 00:22:08,280
+¿Rechazan mucho o no?
+
+248
+00:22:08,560 --> 00:22:10,400
+Es que en general no tiene que ver con eso,
+
+249
+00:22:10,520 --> 00:22:12,240
+no tiene tanto que ver con rechazar o no,
+
+250
+00:22:12,340 --> 00:22:14,500
+sino acompañar a los gobiernos
+
+251
+00:22:14,500 --> 00:22:15,100
+que vienen
+
+252
+00:22:15,100 --> 00:22:18,440
+como más débiles y decirles
+
+253
+00:22:18,440 --> 00:22:20,200
+bueno, no, tenemos que trabajar
+
+254
+00:22:20,200 --> 00:22:21,700
+en poder generar
+
+255
+00:22:21,700 --> 00:22:24,280
+el estadio en el cual
+
+256
+00:22:24,280 --> 00:22:26,360
+pueden adoptar
+
+257
+00:22:26,360 --> 00:22:27,600
+la carta. Entonces,
+
+258
+00:22:27,600 --> 00:22:39,700
+Entonces, tanto rechazo, así como, no, bueno, vos no podés adoptar, no sé si se dice así, es más como, bueno, no estás en el momento, pero vayamos trabajando para traerte al momento de ingreso.
+
+259
+00:22:42,340 --> 00:22:56,080
+Perfecto. Y fuera de los estados, universidades, sindicatos, partidos políticos, ¿ustedes reciben postulaciones de ese tipo? ¿Existe la transparencia o el gobierno abierto fuera de los estados?
+
+260
+00:22:56,080 --> 00:23:19,540
+Nosotros, en particular, los adoptantes son todos estados, son todos gobiernos de diferentes niveles y así tienen que ser. El resto pueden ser como apoyan a la carta porque tenemos apoyos de diferentes instituciones y los consideramos parte de la comunidad de la carta, pero los adoptantes son gobiernos.
+
+261
+00:23:19,540 --> 00:23:25,280
+Y la verdad que no se nos acercó ningún sindicato por el momento.
+
+262
+00:23:25,280 --> 00:23:38,840
+Bien. Y ya por el tono me imagino tu respuesta, pero más allá del Open Data Charter, ¿conoces universidades, partidos políticos y sindicatos en el mundo que tengan alguna política de apertura?
+
+263
+00:23:39,880 --> 00:23:53,720
+No. A ver, yo no quiero dejar afuera quizás a justo a alguien que haya universidades. Está la Uncuyo en Argentina, que estaba liderando ahí una apertura de datos institucionales.
+
+264
+00:23:53,720 --> 00:23:54,680
+Fernanda Bernabé.
+
+265
+00:23:54,920 --> 00:23:55,640
+Exacto.
+
+266
+00:23:55,940 --> 00:23:58,040
+De datos institucionales.
+
+267
+00:23:59,720 --> 00:24:03,340
+Después no conozco muchos casos más, la verdad,
+
+268
+00:24:04,000 --> 00:24:06,680
+de universidades en particular que estén abriendo datos.
+
+269
+00:24:07,640 --> 00:24:11,060
+Hay un caso muy interesante sobre datos de brecha salarial en
+
+270
+00:24:11,060 --> 00:24:15,580
+Gran Bretaña, que lo que hicieron fue regular que aquellas
+
+271
+00:24:15,580 --> 00:24:21,680
+empresas de más de 250 empleados tienen que entregar sus datos
+
+272
+00:24:21,680 --> 00:24:24,680
+de salario y tal, o sea, hicieron como una lista de los
+
+273
+00:24:24,680 --> 00:24:27,540
+datos que tienen que entregar y el gobierno de Gran Bretaña
+
+274
+00:24:27,540 --> 00:24:32,240
+abre esos datos, que es súper interesante porque es una manera
+
+275
+00:24:32,240 --> 00:24:35,000
+de apertura de datos de privado, es a través de regulación
+
+276
+00:24:35,000 --> 00:24:38,420
+de gobierno y trabajo con el gobierno, ¿no?
+
+277
+00:24:38,940 --> 00:24:43,060
+Pero dieron como un paso bastante fuerte en...
+
+278
+00:24:43,060 --> 00:24:44,640
+Obligar al sector privado.
+
+279
+00:24:45,080 --> 00:24:48,140
+Me imagino, por ahora hicieron una sola publicación y ahora
+
+280
+00:24:48,140 --> 00:24:51,300
+estaban trabajando en la segunda, me imagino que igual no,
+
+281
+00:24:51,300 --> 00:24:54,620
+Porque sacas una ley, digo, todo sucede mágicamente,
+
+282
+00:24:55,000 --> 00:24:57,520
+que deben, digo, haber habido algunas empresas que no
+
+283
+00:24:57,520 --> 00:25:00,180
+entregaron los datos a tiempo o nunca los entregaron, ¿no?
+
+284
+00:25:00,180 --> 00:25:04,140
+Pero la verdad que ahí están, son datos súper interesantes
+
+285
+00:25:04,140 --> 00:25:07,720
+y obviamente dan mal.
+
+286
+00:25:09,700 --> 00:25:13,160
+Está bien, está bien, pero lo que se buscaba es visibilizar para
+
+287
+00:25:13,160 --> 00:25:18,540
+tomar decisiones de política pública, datos para tomar
+
+288
+00:25:18,540 --> 00:25:20,520
+decisiones que corrijan eso que da mal.
+
+289
+00:25:20,520 --> 00:25:23,500
+Es que 100%, porque todos sabemos, por ejemplo,
+
+290
+00:25:23,600 --> 00:25:26,040
+en este caso en particular, muy concreto de brecha salarial,
+
+291
+00:25:26,580 --> 00:25:28,720
+que hay una disparidad.
+
+292
+00:25:29,600 --> 00:25:31,580
+Todos lo sabemos y hasta lo podemos repetir.
+
+293
+00:25:31,680 --> 00:25:34,360
+Bueno, acá tenés los datos para demostrar que efectivamente
+
+294
+00:25:34,360 --> 00:25:38,980
+en Gran Bretaña, y además el dato es muy fácil,
+
+295
+00:25:39,900 --> 00:25:42,360
+no sé si es fácil, pero digo, es muy comunicable.
+
+296
+00:25:42,360 --> 00:25:46,180
+Entonces, automáticamente hizo tapa de diario, ¿no?
+
+297
+00:25:46,180 --> 00:25:47,280
+Y tiene mucho impacto, sí.
+
+298
+00:25:47,720 --> 00:25:48,160
+Exacto.
+
+299
+00:25:48,160 --> 00:26:04,280
+Bueno, a eso te quiero llevar al impacto porque nombraste, pensemos de acá dos o tres años, muchos más gobiernos se suman al Open Data Chart y empiezan a abrir, entienden bien de los datos. Nombraste hace un rato a la comunidad, súper activa y súper interesante en muchos lugares del mundo.
+
+300
+00:26:04,280 --> 00:26:17,300
+Cuando la comunidad usa datos y genera soluciones o visibiliza cosas que pasan y que se muestran esos datos, me imagino que hay un impacto interesante ahí porque llega mucha más gente que solo los usuarios de datos.
+
+301
+00:26:18,000 --> 00:26:32,140
+¿Tenés en la cabeza algún ejemplo lindo para contar? Porque me parece que pasa poco y los busco a los ejemplos de una comunidad usando datos de gobierno y generando impacto ya sea a nivel periodístico o a nivel de aplicación o lo que fuera.
+
+302
+00:26:32,140 --> 00:26:48,180
+A ver, es que hay un debate súper grande, ya hablaste con Sil Fúmega de otro proyecto súper interesante que está haciendo sobre datos de feminicidio, pero ella es una de las personas de la comunidad que cuando le hablan de impacto.
+
+303
+00:26:49,620 --> 00:26:50,640
+¿Se enojan?
+
+304
+00:26:50,640 --> 00:27:03,040
+Es muy difícil medir el impacto, entonces, si estamos hablando de resultados o de impacto. Y hay todo un debate detrás de eso, en términos de políticas de datos abiertos.
+
+305
+00:27:03,040 --> 00:27:16,940
+A ver, de las utilizaciones más prácticas que tuvo la apertura de datos abiertos son las aplicaciones de movilidad y cuando llega mi micro, mi colectivo y ver si ve a la parada y tal.
+
+306
+00:27:17,300 --> 00:27:17,860
+Exacto.
+
+307
+00:27:17,860 --> 00:27:23,820
+Te cambia la diaria como ciudadano, pero, digo, yo sé que el dataset está abierto.
+
+308
+00:27:25,080 --> 00:27:27,980
+No necesariamente todo el mundo sabe de eso.
+
+309
+00:27:27,980 --> 00:27:42,260
+En Londres, el sistema de subtest abrió la API con el recorrido a tiempo real de los subtest y lanzaron una API, ellos también, digo, para poder usarla.
+
+310
+00:27:42,260 --> 00:27:47,660
+y resulta que después vino un grupito de programadores
+
+311
+00:27:47,660 --> 00:27:50,440
+y armaron una app que les pasaba el trapo,
+
+312
+00:27:50,580 --> 00:27:52,940
+que se llama CityMapper, que les fue...
+
+313
+00:27:52,940 --> 00:27:55,080
+Pero eso es muy bueno, eso es muy bueno,
+
+314
+00:27:55,240 --> 00:27:58,400
+porque los gobiernos no somos los mejores haciendo software.
+
+315
+00:27:58,540 --> 00:28:00,480
+Si abrimos los datos y alguien de afuera hace algo mejor,
+
+316
+00:28:00,900 --> 00:28:02,420
+hasta nos saca un peso de encima.
+
+317
+00:28:02,720 --> 00:28:05,460
+No, totalmente, y estos chicos armaron una aplicación
+
+318
+00:28:05,460 --> 00:28:08,780
+que levantó millones y ahora están todos en un montón de países.
+
+319
+00:28:08,780 --> 00:28:13,100
+y no sé exacto
+
+320
+00:28:13,100 --> 00:28:15,280
+la historia, pero probablemente
+
+321
+00:28:15,280 --> 00:28:17,200
+deben haber empezado sin mucha idea
+
+322
+00:28:17,200 --> 00:28:19,180
+de generar un negocio
+
+323
+00:28:19,180 --> 00:28:20,980
+detrás. Me parece que
+
+324
+00:28:20,980 --> 00:28:22,980
+empezaron como a jugar con los datos que recién se habían
+
+325
+00:28:22,980 --> 00:28:25,080
+abierto. O a resolverse un problema
+
+326
+00:28:25,080 --> 00:28:26,800
+ellos mismos que tomaban todo el día
+
+327
+00:28:26,800 --> 00:28:29,000
+el subte o el tren o el colectivo.
+
+328
+00:28:29,200 --> 00:28:29,400
+Total.
+
+329
+00:28:31,100 --> 00:28:32,820
+Hablando de impacto, aunque
+
+330
+00:28:32,820 --> 00:28:34,780
+no nos guste tanto
+
+331
+00:28:34,780 --> 00:28:35,880
+el término,
+
+332
+00:28:35,880 --> 00:28:41,140
+pensalo como llegada al público masivo
+
+333
+00:28:41,140 --> 00:28:43,580
+de historias contadas con datos
+
+334
+00:28:43,580 --> 00:28:44,100
+¿cómo ves?
+
+335
+00:28:44,840 --> 00:28:46,860
+porque para el periodismo se presenta un nuevo desafío
+
+336
+00:28:46,860 --> 00:28:50,300
+el periodismo que hoy está tan complicado
+
+337
+00:28:50,300 --> 00:28:51,800
+en su situación económica
+
+338
+00:28:51,800 --> 00:28:53,840
+porque la gente se informa por redes sociales
+
+339
+00:28:53,840 --> 00:28:56,400
+y ya no compra o no se suscribe a muchas cosas
+
+340
+00:28:56,400 --> 00:28:58,420
+el periodismo
+
+341
+00:28:58,420 --> 00:29:01,100
+yo sé que en Argentina estamos más o menos bien
+
+342
+00:29:01,100 --> 00:29:02,660
+pero quería saber si te parece que
+
+343
+00:29:02,660 --> 00:29:04,880
+los periodistas tienen que aprender a programar
+
+344
+00:29:04,880 --> 00:29:07,980
+Los programadores tienen que cobrar menos para trabajar en los medios.
+
+345
+00:29:08,060 --> 00:29:16,200
+¿Cómo se resuelve? ¿Cómo hacemos, si es que no pasó todavía, para que el periodismo pueda gozar de los beneficios de usar datos abiertos?
+
+346
+00:29:16,640 --> 00:29:21,800
+Es que me parece que es un poco una pregunta que cabe a no solo el sector del periodismo,
+
+347
+00:29:21,800 --> 00:29:29,360
+sino también, por ejemplo, las organizaciones no gubernamentales que seguían la agenda de transparencia tradicional
+
+348
+00:29:29,360 --> 00:29:36,460
+y de acceso a la información y que ahora se ven ante la necesidad de poder entender
+
+349
+00:29:36,460 --> 00:29:39,840
+qué es un dato abierto, qué es un portal, con qué se come y qué pueden hacer con eso.
+
+350
+00:29:41,640 --> 00:29:50,020
+Porque, digo, complejiza, entre comillas, el trabajo típico, digo, pasaron de tener un batallón de abogados
+
+351
+00:29:50,020 --> 00:29:55,680
+a tener la necesidad de tener programadores y programadoras, ¿no?
+
+352
+00:29:55,680 --> 00:29:58,140
+Digo, cambia la composición de las organizaciones.
+
+353
+00:29:58,140 --> 00:30:15,100
+Con los diarios en particular, a ver, sería interesante que existieran perfiles mixtos en términos de periodistas que sepan programar o programadores que les interese el periodismo.
+
+354
+00:30:15,880 --> 00:30:20,780
+Pero creo que ahí me viene desde el lado de haber participado en miles de jacatones.
+
+355
+00:30:20,780 --> 00:30:47,560
+También está bien que cada quien sepa lo que sabe y que se intente trabajar en un ambiente de colaboración. En donde el periodista sabe cómo llevar adelante una investigación con método, entiende de cómo comunicar una historia y tal, y que pueda colaborar con alguien que entiende los datos y que puedan complementarse en su trabajo.
+
+356
+00:30:47,560 --> 00:31:02,760
+O sea, no necesariamente tienen que emigrar. Obviamente esas personas como traductoras son necesarias y son esos perfiles mixtos. También economistas que aprendieron a programar.
+
+357
+00:31:02,760 --> 00:31:18,180
+Digo, así hay como esas personas hubs, pero no necesariamente cambiaría el rol que cada uno puede cumplir porque como que están especializados en su tema.
+
+358
+00:31:18,180 --> 00:31:46,320
+Probablemente la evolución, y acá estoy hablando de lo que yo creo así, pero la evolución haga que igual las redacciones de diarios se llenen de programadores y programadoras porque el periodismo de datos es como lo que se viene es ridículo decirlo, lo que está y para donde se debería profundizar y sobre todo que en el mundo ahora de la fake news,
+
+359
+00:31:46,320 --> 00:31:49,020
+los datos más o menos son lo único que te dan
+
+360
+00:31:49,020 --> 00:31:50,140
+algún tipo de certeza
+
+361
+00:31:50,140 --> 00:31:53,120
+entonces, pero bueno
+
+362
+00:31:53,120 --> 00:31:54,880
+digo, en el espíritu colaborativo
+
+363
+00:31:54,880 --> 00:31:57,200
+del mundo de gobierno abierto y de datos abiertos
+
+364
+00:31:57,200 --> 00:31:58,340
+también entiendo
+
+365
+00:31:58,340 --> 00:32:01,120
+que está bueno que cada quien aporte
+
+366
+00:32:01,120 --> 00:32:03,080
+desde su lado el conocimiento a un trabajo
+
+367
+00:32:03,080 --> 00:32:03,800
+colaborativo
+
+368
+00:32:03,800 --> 00:32:06,860
+Bien, me parece perfecto
+
+369
+00:32:06,860 --> 00:32:09,380
+Nati, estamos en el tiempo
+
+370
+00:32:09,380 --> 00:32:10,820
+te quiero agradecer mucho
+
+371
+00:32:10,820 --> 00:32:12,600
+y el nombre de este podcast
+
+372
+00:32:12,600 --> 00:32:15,100
+trata de encadenar
+
+373
+00:32:15,100 --> 00:32:19,020
+o de conectar invitados y yo me despido agradeciéndote y
+
+374
+00:32:19,020 --> 00:32:23,960
+preguntándote a qué personas vos me recomiendas para entrevistar,
+
+375
+00:32:24,100 --> 00:32:26,600
+para ampliar y aprender más en esta conversación.
+
+376
+00:32:27,080 --> 00:32:27,400
+OK.
+
+377
+00:32:27,940 --> 00:32:30,300
+Bueno, gracias primero por la invitación.
+
+378
+00:32:31,140 --> 00:32:35,460
+La verdad que es una gran idea la que tuviste y me encanta que la
+
+379
+00:32:35,460 --> 00:32:36,360
+estés escuchando.
+
+380
+00:32:36,720 --> 00:32:37,380
+Gracias, Nati.
+
+381
+00:32:37,580 --> 00:32:38,420
+No, por favor.
+
+382
+00:32:38,620 --> 00:32:41,000
+Me parecería interesante quizás que puedas hablar con alguno de
+
+383
+00:32:41,000 --> 00:32:43,940
+nuestros colegas y amigos centroamericanos que tienen una
+
+384
+00:32:43,940 --> 00:32:49,560
+experiencia, por ejemplo, de apertura distinta.
+
+385
+00:32:49,560 --> 00:32:56,200
+Por ejemplo, con Susana Soto de Abriendo Datos Costa Rica.
+
+386
+00:32:56,200 --> 00:32:58,340
+Puede ser interesante también que puedas hablar,
+
+387
+00:32:58,340 --> 00:33:03,020
+si ya no lo hiciste, con el chino de Data UI.
+
+388
+00:33:03,020 --> 00:33:04,440
+JUAN MANUEL LUCEROVILLEZ- No, no, todavía no.
+
+389
+00:33:04,440 --> 00:33:08,980
+JUAN MANUEL LUCEROVILLE- Bueno, el chino de Uruguay tiene un
+
+390
+00:33:08,980 --> 00:33:17,560
+ejemplo muy bueno de impacto si querés el chino es daniel carranza exacto para que quede registro
+
+391
+00:33:17,560 --> 00:33:27,100
+es daniel carranza pero bueno él lideró un proyecto muy copado con impacto directo sobre
+
+392
+00:33:27,100 --> 00:33:33,640
+la apertura de datos del ministerio de salud en uruguay en colaboración con con con data que es
+
+393
+00:33:33,640 --> 00:33:39,120
+la organización en la que él trabaja, y tienen un re lindo ejemplo de impacto.
+
+394
+00:33:39,840 --> 00:33:40,280
+Perfecto.
+
+395
+00:33:40,480 --> 00:33:46,340
+Así que ellos, y bueno, nada, con Pala ya hablaste y ya sabés que es uno de mis ídolos.
+
+396
+00:33:46,480 --> 00:33:46,880
+Grande.
+
+397
+00:33:47,340 --> 00:33:49,560
+Sí, así, de los grandes de los grandes.
+
+398
+00:33:51,140 --> 00:33:55,420
+Pero me imagino que con Susana puede ser súper interesante para poder hablar de Costa Rica,
+
+399
+00:33:55,420 --> 00:34:03,240
+y además ella trabaja en la región, así que te puede dar una perspectiva copada de esa zona.
+
+400
+00:34:03,640 --> 00:34:05,980
+Y con el chino, por el trabajo de impacto,
+
+401
+00:34:05,980 --> 00:34:09,040
+me parece que puede ser también súper interesante.
+
+402
+00:34:09,040 --> 00:34:09,820
+Perfecto, Nati.
+
+403
+00:34:09,820 --> 00:34:10,540
+Un abrazo grande.
+
+404
+00:34:10,540 --> 00:34:11,320
+Muchas gracias.
+
+405
+00:34:11,320 --> 00:34:11,820
+No, de nada.
+
+406
+00:34:11,820 --> 00:34:14,380
+Te mando un abrazo y gracias nuevamente por la invitación.
+
+407
+00:34:14,380 --> 00:34:14,880
+Dale.
+

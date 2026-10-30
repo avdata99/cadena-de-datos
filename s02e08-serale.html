@@ -55,6 +55,7 @@
         </a>
         <div class="d-flex gap-3 align-items-center">
           <a class="cd-nav-link d-none d-sm-inline" href="index.html#episodios">Episodios</a>
+          <a class="cd-nav-link" href="cadena.html"><i class="bi bi-diagram-3"></i> <span class="d-none d-sm-inline">La cadena</span></a>
           <a class="cd-nav-link" href="#suscribirse"><i class="bi bi-rss-fill"></i> <span class="d-none d-sm-inline">Suscribirse</span></a>
         </div>
       </div>
@@ -96,6 +97,18 @@
         </div>
 
         
+        <div class="cd-box cd-transcripcion mt-4">
+          <h2 class="cd-box-title mb-1"><i class="bi bi-file-text"></i> Transcripción</h2>
+          <p class="cd-muted small mb-3">Transcripto con Whisper (large-v3-turbo), sin corrección humana: puede tener errores, sobre todo en nombres propios.</p>
+          <div class="d-flex flex-wrap gap-2">
+            <a class="cd-chip" href="transcripciones/s02e08-serale.txt" onclick="tag_analytics('click', 'transcripcion', 's02e08-serale')"><i class="bi bi-file-text"></i> Leer transcripción</a>
+            <a class="cd-chip" href="transcripciones/s02e08-serale.srt" download><i class="bi bi-badge-cc"></i> Subtítulos .srt</a>
+          </div>
+        </div>
+        
+
+        
+
 
         
         <h2 class="cd-section-title cd-section-title-sm mt-5">En video</h2>
@@ -559,7 +572,7 @@
             </div>
           </div>
         </div>
-        <p class="cd-muted small mt-4 mb-0">Sitio generado el Thu, 29 Oct 2026 20:19:23 +0300 con software libre:
+        <p class="cd-muted small mt-4 mb-0">Sitio generado el Fri, 30 Oct 2026 07:28:38 +0300 con software libre:
           <a href="https://github.com/avdata99/cadena-de-datos">código fuente</a>.</p>
       </div>
     </footer>

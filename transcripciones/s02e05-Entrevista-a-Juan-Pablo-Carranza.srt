@@ -1,0 +1,4464 @@
+1
+00:00:00,000 --> 00:00:24,260
+Cadena de datos, segunda temporada, episodio número 5. El invitado del día de hoy es Juan Pablo Carranza. Juan Pablo es mágister en Administración Pública y licenciado en Economía por la Universidad Nacional de Córdoba. Estudio de Economía Urbana y el Desarrollo Local. Es consultora experta en el Programa de Naciones Unidas para el Desarrollo en el marco del proyecto de mejora de capacidad de gestión del Ministerio de Finanzas de la Provincia de Córdoba.
+
+2
+00:00:24,260 --> 00:00:29,140
+Todo eso en el marco de un proyecto interesantísimo que es motivo de la conversación de hoy
+
+3
+00:00:29,140 --> 00:00:32,340
+Juan Pablo también es docente universitario e investigador
+
+4
+00:00:32,340 --> 00:00:34,580
+Muy buenas noches Juan Pablo, ¿cómo estás?
+
+5
+00:00:35,320 --> 00:00:38,420
+Hola Andrés, ¿cómo andas? Muy bien, muy bien, contento
+
+6
+00:00:38,420 --> 00:00:42,460
+Por estar en podcast siempre lo escucho cuando hay otra gente, así que está bueno
+
+7
+00:00:42,460 --> 00:00:46,140
+Bueno, me alegra que seas parte de la audiencia
+
+8
+00:00:46,140 --> 00:00:49,260
+Arranco con una pregunta con la que no arranco habitualmente
+
+9
+00:00:49,260 --> 00:00:50,760
+porque en tu caso
+
+10
+00:00:50,760 --> 00:00:53,000
+y porque conozco un poco
+
+11
+00:00:53,000 --> 00:00:55,180
+y trato de estar atento a las cosas
+
+12
+00:00:55,180 --> 00:00:56,660
+interesantes que haces
+
+13
+00:00:56,660 --> 00:00:58,880
+sos un usuario avanzado de datos
+
+14
+00:00:58,880 --> 00:01:00,040
+desde hace mucho tiempo
+
+15
+00:01:00,040 --> 00:01:02,680
+te quería preguntar si vos te auto percibís
+
+16
+00:01:02,680 --> 00:01:04,320
+además de usuario de datos
+
+17
+00:01:04,320 --> 00:01:07,160
+como participante de la comunidad de datos
+
+18
+00:01:07,160 --> 00:01:09,360
+abiertos, vos sos usuario de datos
+
+19
+00:01:09,360 --> 00:01:11,180
+y no te importa tanto si están abiertos
+
+20
+00:01:11,180 --> 00:01:13,420
+o cerrados o si te interesa
+
+21
+00:01:13,420 --> 00:01:14,880
+no, no
+
+22
+00:01:14,880 --> 00:01:17,320
+me parece de hecho un aspecto clave
+
+23
+00:01:17,320 --> 00:01:20,780
+en todo tipo de proyectos que trabajen con datos
+
+24
+00:01:20,780 --> 00:01:22,060
+que los datos estén abiertos
+
+25
+00:01:22,060 --> 00:01:25,100
+porque se genera una sinergia
+
+26
+00:01:25,100 --> 00:01:28,840
+de esa manera uno por ahí no tiene todas las herramientas
+
+27
+00:01:28,840 --> 00:01:31,240
+hoy por hoy la cantidad y la disponibilidad de herramientas
+
+28
+00:01:31,240 --> 00:01:33,180
+que hay para trabajar con datos es enorme
+
+29
+00:01:33,180 --> 00:01:37,500
+entonces uno conoce solamente una partecita de todo eso
+
+30
+00:01:37,500 --> 00:01:42,040
+y a la hora de poder compartir información
+
+31
+00:01:42,040 --> 00:01:44,440
+en este caso datos de lo que sea que estemos hablando
+
+32
+00:01:44,440 --> 00:01:47,540
+generalmente se genera una sinergia
+
+33
+00:01:47,540 --> 00:01:49,160
+con gente que conoce muchas
+
+34
+00:01:49,160 --> 00:01:51,420
+muchas metodologías, muchas estrategias
+
+35
+00:01:51,420 --> 00:01:53,120
+de investigación que uno por ahí no conoce
+
+36
+00:01:53,120 --> 00:01:55,320
+se aprende y se enriquece lo que se va
+
+37
+00:01:55,320 --> 00:01:56,820
+generando con los datos
+
+38
+00:01:56,820 --> 00:01:59,160
+bien, buenísimo
+
+39
+00:01:59,160 --> 00:02:01,400
+¿te acordás cuál fue el primer
+
+40
+00:02:01,400 --> 00:02:03,240
+proyecto de datos abiertos
+
+41
+00:02:03,240 --> 00:02:05,160
+que conociste? porque si bien los datos
+
+42
+00:02:05,160 --> 00:02:07,100
+se usan hace mucho, esta moda
+
+43
+00:02:07,100 --> 00:02:09,460
+o esta apertura
+
+44
+00:02:09,460 --> 00:02:11,640
+de los datos no es tan vieja
+
+45
+00:02:11,640 --> 00:02:13,620
+¿te acordás cuando fue tu primer
+
+46
+00:02:13,620 --> 00:02:15,660
+contacto con el mundo de los datos abiertos?
+
+47
+00:02:15,740 --> 00:02:17,640
+¿Qué proyecto? ¿Qué cosas miraste?
+
+48
+00:02:17,740 --> 00:02:18,300
+¿Qué te gustó?
+
+49
+00:02:19,220 --> 00:02:21,380
+Bueno, mira, yo tengo una de formación
+
+50
+00:02:21,380 --> 00:02:22,980
+profesional, todos la tenemos, ¿no?
+
+51
+00:02:22,980 --> 00:02:24,740
+Que sería la carrera de base
+
+52
+00:02:24,740 --> 00:02:26,940
+y yo vengo de la economía.
+
+53
+00:02:27,600 --> 00:02:29,460
+En la economía es muy fuerte
+
+54
+00:02:29,460 --> 00:02:31,160
+la presencia
+
+55
+00:02:31,160 --> 00:02:32,860
+de la estadística, de la econometría para
+
+56
+00:02:32,860 --> 00:02:34,440
+trabajar con datos, ¿no?
+
+57
+00:02:35,540 --> 00:02:37,160
+Y en ese sentido siempre
+
+58
+00:02:37,160 --> 00:02:40,740
+no me animo a ponerte una fecha, pero
+
+59
+00:02:40,740 --> 00:02:43,060
+desde que eres estudiante siempre se trabaja con datos
+
+60
+00:02:43,060 --> 00:02:47,900
+de la encuesta permanente de hogares, que son datos que publica el INDEC
+
+61
+00:02:47,900 --> 00:02:53,840
+de una encuesta socioeconómica trimestral y te diría que casi casi que no tiene
+
+62
+00:02:53,840 --> 00:02:58,020
+un punto de comparación con otro tipo de información.
+
+63
+00:02:58,280 --> 00:03:02,160
+Ahora estamos en un momento en el cual la cantidad de información que se está generando
+
+64
+00:03:02,160 --> 00:03:06,800
+afortunadamente es exponencial, pero la EPH, esta encuesta que te digo,
+
+65
+00:03:06,800 --> 00:03:12,700
+tiene desde el año 2003, antes incluso, pero desde el año 2003 tiene una publicación
+
+66
+00:03:12,700 --> 00:03:14,980
+regular
+
+67
+00:03:14,980 --> 00:03:16,280
+con algunos huecos en el medio
+
+68
+00:03:16,280 --> 00:03:17,640
+por algunos problemas que hubo
+
+69
+00:03:17,640 --> 00:03:20,560
+pero esa masa
+
+70
+00:03:20,560 --> 00:03:21,260
+de información
+
+71
+00:03:21,260 --> 00:03:24,300
+con una metodología que ha ido
+
+72
+00:03:24,300 --> 00:03:25,860
+variando pero no tanto en el tiempo
+
+73
+00:03:25,860 --> 00:03:28,160
+te diría que bueno
+
+74
+00:03:28,160 --> 00:03:30,220
+es un parque de diversiones para cualquier persona
+
+75
+00:03:30,220 --> 00:03:32,300
+que trabaje con aspectos socioeconómicos
+
+76
+00:03:32,300 --> 00:03:34,160
+entonces ahí fue
+
+77
+00:03:34,160 --> 00:03:36,380
+el primer contacto
+
+78
+00:03:36,380 --> 00:03:38,080
+con datos abiertos
+
+79
+00:03:38,080 --> 00:03:38,780
+fue por ese lado
+
+80
+00:03:38,780 --> 00:03:42,440
+comparativamente no sé si conoces
+
+81
+00:03:42,440 --> 00:03:47,220
+¿Te ha tocado estar en relación a datos de otros países parecidos a los nuestros?
+
+82
+00:03:47,440 --> 00:03:50,320
+¿Esto que hace el INDEC es lo que hacen todos?
+
+83
+00:03:50,820 --> 00:03:54,040
+¿El INDEC es un caso mejor, peor?
+
+84
+00:03:54,160 --> 00:03:57,360
+¿Igual tenés alguna referencia de otros países?
+
+85
+00:03:59,300 --> 00:04:00,940
+Es un ente público.
+
+86
+00:04:01,540 --> 00:04:05,800
+Como tal, tiene su equivalente en casi todas las economías desarrolladas.
+
+87
+00:04:06,520 --> 00:04:09,860
+Todos los países tienen su instituto de estadística.
+
+88
+00:04:09,860 --> 00:04:13,480
+que están quedando obsoletos, incluido el mismo INDEC
+
+89
+00:04:13,480 --> 00:04:17,580
+pero en su forma de relevar información
+
+90
+00:04:17,580 --> 00:04:20,240
+en la calidad de la información que se presenta
+
+91
+00:04:20,240 --> 00:04:24,720
+es relativamente similar lo que se trabaja metodológicamente
+
+92
+00:04:24,720 --> 00:04:28,480
+desde Argentina con lo que se trabaja en otros países
+
+93
+00:04:28,480 --> 00:04:31,420
+una de las ventajas de que sea tanto tiempo
+
+94
+00:04:31,420 --> 00:04:33,260
+en el cual se va sosteniendo esta encuesta
+
+95
+00:04:33,260 --> 00:04:35,880
+es que se van puliendo metodologías
+
+96
+00:04:35,880 --> 00:04:39,480
+y casi todos los países van tendiendo hacia los mismos estándares
+
+97
+00:04:39,480 --> 00:04:45,700
+en cuanto a los datos que publican, lo cual hace más ansioso hacer estudios comparativos entre países
+
+98
+00:04:45,700 --> 00:04:48,980
+en aspectos de ingresos y cuestiones socioeconómicas.
+
+99
+00:04:50,140 --> 00:04:56,340
+Así que no estamos tan lejos ni en un estadio tan diferente que el resto de las economías regionales.
+
+100
+00:04:56,340 --> 00:05:05,420
+Por supuesto que el INDEC ha estado sujeto a numerosas críticas por la intervención que tuvo hace unos años
+
+101
+00:05:05,420 --> 00:05:08,520
+y la información que publicaba puntualmente
+
+102
+00:05:08,520 --> 00:05:10,300
+la de índices de precios
+
+103
+00:05:10,300 --> 00:05:12,520
+ha sido muy criticada
+
+104
+00:05:12,520 --> 00:05:13,480
+entiendo que con razón
+
+105
+00:05:13,480 --> 00:05:16,620
+pero acotándonos a esto
+
+106
+00:05:16,620 --> 00:05:17,900
+que es la encuesta permanente de hogares
+
+107
+00:05:17,900 --> 00:05:19,980
+no ha tenido aparentemente
+
+108
+00:05:19,980 --> 00:05:21,300
+una manipulación
+
+109
+00:05:21,300 --> 00:05:23,700
+como si otro tipo de datos
+
+110
+00:05:23,700 --> 00:05:26,100
+y eso hace que podamos ir comparando
+
+111
+00:05:26,100 --> 00:05:28,620
+la evolución de aspectos socioeconómicos
+
+112
+00:05:28,620 --> 00:05:29,340
+con otros países
+
+113
+00:05:29,340 --> 00:05:30,740
+más vale que si uno se va
+
+114
+00:05:30,740 --> 00:05:33,460
+una situación que se genera en Europa
+
+115
+00:05:33,460 --> 00:05:34,780
+por ejemplo en Estados Unidos
+
+116
+00:05:34,780 --> 00:05:37,520
+tiene un nivel de detalle
+
+117
+00:05:37,520 --> 00:05:39,460
+y riqueza muchísimo
+
+118
+00:05:39,460 --> 00:05:40,620
+muchísimo más alto
+
+119
+00:05:40,620 --> 00:05:42,720
+hoy por hoy le estamos reclamando a la INDEC
+
+120
+00:05:42,720 --> 00:05:45,380
+le estamos reclamando como ciudadano
+
+121
+00:05:45,380 --> 00:05:46,460
+y usuario de la información
+
+122
+00:05:46,460 --> 00:05:49,000
+algunos avances
+
+123
+00:05:49,000 --> 00:05:50,560
+que se deberían estar haciendo ya
+
+124
+00:05:50,560 --> 00:05:53,360
+puntualmente en cuestiones de georreferenciación
+
+125
+00:05:53,360 --> 00:05:54,640
+hoy te
+
+126
+00:05:54,640 --> 00:05:57,840
+bombardeja la información georreferenciada
+
+127
+00:05:57,840 --> 00:05:59,240
+con tu mismo celular
+
+128
+00:05:59,240 --> 00:06:00,900
+realmente estás dejando
+
+129
+00:06:00,900 --> 00:06:02,980
+rastro absolutamente
+
+130
+00:06:02,980 --> 00:06:05,080
+de todo lo que haces
+
+131
+00:06:05,080 --> 00:06:06,280
+y esa información
+
+132
+00:06:06,280 --> 00:06:08,900
+bueno, como te decía al principio
+
+133
+00:06:08,900 --> 00:06:11,160
+es exponencial la cantidad de info georreferencia
+
+134
+00:06:11,160 --> 00:06:12,200
+que se está generando
+
+135
+00:06:12,200 --> 00:06:14,500
+y estos institutos, no solamente el INDEC
+
+136
+00:06:14,500 --> 00:06:16,620
+pero sí estos institutos
+
+137
+00:06:16,620 --> 00:06:19,280
+típicamente estadísticos que tienen toda una historia
+
+138
+00:06:19,280 --> 00:06:20,880
+no están acusando
+
+139
+00:06:20,880 --> 00:06:23,100
+recibo de esta marea de información
+
+140
+00:06:23,100 --> 00:06:24,820
+que se genera y siguen trabajando
+
+141
+00:06:24,820 --> 00:06:26,960
+de una manera muy clásica, entonces eso te lleva
+
+142
+00:06:26,960 --> 00:06:28,860
+a que por ejemplo puedas medir la pobreza
+
+143
+00:06:28,860 --> 00:06:31,300
+a nivel de aglomerado
+
+144
+00:06:31,300 --> 00:06:33,140
+urbano, por ejemplo la pobreza
+
+145
+00:06:33,140 --> 00:06:35,000
+en el Gran Córdoba, pero no podemos
+
+146
+00:06:35,000 --> 00:06:37,100
+identificar localmente dónde está
+
+147
+00:06:37,100 --> 00:06:38,900
+cuando tranquilamente sería
+
+148
+00:06:38,900 --> 00:06:41,040
+algo muy simple de hacer hoy en día
+
+149
+00:06:41,040 --> 00:06:42,940
+y bueno, cuesta por ahí
+
+150
+00:06:42,940 --> 00:06:44,740
+mover las estructuras que ya se van generando
+
+151
+00:06:44,740 --> 00:06:45,620
+durante tantos años
+
+152
+00:06:45,620 --> 00:06:48,240
+Bueno, me das
+
+153
+00:06:48,240 --> 00:06:50,700
+el puntapié perfecto para el
+
+154
+00:06:50,700 --> 00:06:51,920
+proyecto que nos convoca
+
+155
+00:06:51,920 --> 00:06:54,620
+que desde que lo escuché me llamó muchísimo la atención
+
+156
+00:06:54,620 --> 00:06:56,140
+y me hizo muy feliz que pase
+
+157
+00:06:56,140 --> 00:06:58,220
+en la provincia de Córdoba
+
+158
+00:06:58,220 --> 00:06:59,740
+desde hace algún tiempo
+
+159
+00:06:59,740 --> 00:07:02,260
+se están usando
+
+160
+00:07:02,260 --> 00:07:03,820
+y ahí te voy a preguntar
+
+161
+00:07:03,820 --> 00:07:05,460
+a vos más específicamente
+
+162
+00:07:05,460 --> 00:07:07,620
+imágenes satelitales
+
+163
+00:07:07,620 --> 00:07:10,220
+otros datos, inteligencia artificial
+
+164
+00:07:10,220 --> 00:07:11,820
+para calcular
+
+165
+00:07:11,820 --> 00:07:13,360
+el valor de la tierra
+
+166
+00:07:13,360 --> 00:07:15,620
+sobre la cual se calculan los impuestos
+
+167
+00:07:15,620 --> 00:07:16,820
+que pagamos
+
+168
+00:07:16,820 --> 00:07:19,740
+me llama mucho la atención y antes de meternos
+
+169
+00:07:19,740 --> 00:07:20,860
+en la parte técnica te pregunto
+
+170
+00:07:20,860 --> 00:07:24,160
+¿cómo empezó? ¿es una idea de la provincia?
+
+171
+00:07:24,240 --> 00:07:25,620
+¿es una idea del grupo de investigadores?
+
+172
+00:07:25,620 --> 00:07:27,600
+¿es una idea de Naciones Unidas?
+
+173
+00:07:27,900 --> 00:07:29,300
+¿quién da el puntapié inicial
+
+174
+00:07:29,300 --> 00:07:32,000
+para que el proyecto San Lindo se haga por aquí?
+
+175
+00:07:32,860 --> 00:07:37,080
+Mira, como bien decís, antes de lo técnico,
+
+176
+00:07:37,560 --> 00:07:40,980
+por encima de todas las cuestiones técnicas que se pueden resolver de muchas maneras,
+
+177
+00:07:40,980 --> 00:07:46,160
+puede ser con inteligencia artificial o con cualquier tipo de método predictivo,
+
+178
+00:07:46,360 --> 00:07:48,760
+antes de todo eso está la cuestión política.
+
+179
+00:07:50,380 --> 00:07:52,100
+Es algo que nadie discute.
+
+180
+00:07:52,520 --> 00:07:58,460
+En Córdoba, por ejemplo, hacía 25 años que no se actualizaba el valor fiscal de la Tierra.
+
+181
+00:07:59,300 --> 00:08:01,620
+esto no es solamente una cuestión
+
+182
+00:08:01,620 --> 00:08:03,440
+impositiva, que lo es
+
+183
+00:08:03,440 --> 00:08:04,980
+de hecho, pero
+
+184
+00:08:04,980 --> 00:08:07,240
+conocer el valor de la tierra tiene
+
+185
+00:08:07,240 --> 00:08:09,500
+implicancias en muchísimas otras áreas
+
+186
+00:08:09,500 --> 00:08:11,600
+más allá de la economía, digamos, hasta para el diseño
+
+187
+00:08:11,600 --> 00:08:12,960
+de políticas habitacionales
+
+188
+00:08:12,960 --> 00:08:15,440
+es información crítica para tenerla
+
+189
+00:08:15,440 --> 00:08:16,040
+actualizada
+
+190
+00:08:16,040 --> 00:08:19,380
+y como te decía, durante 25 años
+
+191
+00:08:19,380 --> 00:08:21,080
+que no se actualice esa información
+
+192
+00:08:21,080 --> 00:08:22,460
+va generando
+
+193
+00:08:22,460 --> 00:08:25,520
+todo tipo de daño, acotándonos
+
+194
+00:08:25,520 --> 00:08:27,820
+a la cuestión económica
+
+195
+00:08:27,820 --> 00:08:30,000
+hace 25 años
+
+196
+00:08:30,000 --> 00:08:32,280
+las zonas más dinámicas de las ciudades
+
+197
+00:08:32,280 --> 00:08:34,100
+no estaban
+
+198
+00:08:34,100 --> 00:08:35,640
+tanto en la periferia como hoy
+
+199
+00:08:35,640 --> 00:08:37,180
+hablamos de barrios cerrados
+
+200
+00:08:37,180 --> 00:08:39,260
+de zonas de alto poder adquisitivo
+
+201
+00:08:39,260 --> 00:08:41,300
+que estaban, antes de actualizar los valores
+
+202
+00:08:41,300 --> 00:08:43,740
+estaban tomadas a niveles bajísimos
+
+203
+00:08:43,740 --> 00:08:45,200
+y eso va generando que vos
+
+204
+00:08:45,200 --> 00:08:47,880
+a contribuyentes que están en la misma situación
+
+205
+00:08:47,880 --> 00:08:49,740
+la trates de manera muy distinta
+
+206
+00:08:49,740 --> 00:08:51,960
+y eso genera
+
+207
+00:08:51,960 --> 00:08:53,640
+inequidad en el tratamiento
+
+208
+00:08:53,640 --> 00:08:56,200
+de los contribuyentes por parte del Estado
+
+209
+00:08:56,200 --> 00:08:59,980
+lo que te cuento de Córdoba
+
+210
+00:08:59,980 --> 00:09:01,220
+no es exclusión de Córdoba
+
+211
+00:09:01,220 --> 00:09:02,960
+todos los catástrofes
+
+212
+00:09:02,960 --> 00:09:05,400
+tenían un retraso similar o peor
+
+213
+00:09:05,400 --> 00:09:11,900
+es una decisión política inicialmente
+
+214
+00:09:11,900 --> 00:09:14,120
+entonces vamos a acomodar esto que está muy mal
+
+215
+00:09:14,120 --> 00:09:17,020
+sí, pero no es cualquier decisión política
+
+216
+00:09:17,020 --> 00:09:18,780
+porque vos fíjate que
+
+217
+00:09:18,780 --> 00:09:21,340
+bienes personales, por ejemplo
+
+218
+00:09:21,340 --> 00:09:22,860
+es un impuesto nacional
+
+219
+00:09:22,860 --> 00:09:28,480
+que grava, entre otros bienes, grava la propiedad de la tierra.
+
+220
+00:09:29,440 --> 00:09:32,160
+Y al ser un impuesto nacional se coparticipa.
+
+221
+00:09:33,240 --> 00:09:39,240
+Entonces, el valor fiscal de la tierra por la Constitución Nacional lo establecen las provincias.
+
+222
+00:09:39,900 --> 00:09:43,720
+Entonces no había incentivo a que ninguna provincia revaluara su tierra,
+
+223
+00:09:44,100 --> 00:09:46,120
+primero, con el costo político que esto implica,
+
+224
+00:09:47,420 --> 00:09:51,560
+sabiendo que el dinero que recaudara la nación por bienes personales no iba a devolver,
+
+225
+00:09:51,560 --> 00:09:53,760
+sino que se iba a diluir hacia otras provincias
+
+226
+00:09:53,760 --> 00:09:55,360
+entonces hay un incentivo maligno
+
+227
+00:09:55,360 --> 00:09:57,060
+en el cual ninguna provincia
+
+228
+00:09:57,060 --> 00:09:59,680
+podía tomar la iniciativa
+
+229
+00:09:59,680 --> 00:10:01,360
+de revaluar primero
+
+230
+00:10:01,360 --> 00:10:03,740
+y beneficiar al resto de las provincias pagando el costo político
+
+231
+00:10:03,740 --> 00:10:04,800
+entonces sí
+
+232
+00:10:04,800 --> 00:10:07,520
+hay una decisión política
+
+233
+00:10:07,520 --> 00:10:09,600
+a priori de hacer esto
+
+234
+00:10:09,600 --> 00:10:11,560
+que se puede resolver de muchas maneras
+
+235
+00:10:11,560 --> 00:10:13,680
+pero durante 30 años no se resolvió
+
+236
+00:10:13,680 --> 00:10:16,260
+ni en Córdoba ni en ninguna provincia
+
+237
+00:10:16,260 --> 00:10:17,180
+entonces
+
+238
+00:10:17,180 --> 00:10:19,180
+antes que
+
+239
+00:10:19,180 --> 00:10:21,880
+la cuestión técnica prima la decisión
+
+240
+00:10:21,880 --> 00:10:23,580
+política. Hay muchas provincias
+
+241
+00:10:23,580 --> 00:10:26,000
+hoy, estoy justo en un evento en Buenos Aires por este tema
+
+242
+00:10:26,000 --> 00:10:27,620
+Santa Fe
+
+243
+00:10:27,620 --> 00:10:29,960
+ha hecho revaluos desde el año 2014
+
+244
+00:10:29,960 --> 00:10:31,940
+y esos revaluos
+
+245
+00:10:31,940 --> 00:10:33,840
+no prosperaron políticamente
+
+246
+00:10:33,840 --> 00:10:35,920
+entonces es un trabajo enorme
+
+247
+00:10:35,920 --> 00:10:37,600
+que queda guardado en un cajón y no
+
+248
+00:10:37,600 --> 00:10:39,940
+puede impactar. Me imagino
+
+249
+00:10:39,940 --> 00:10:41,760
+que hay mucho interés en el costo político
+
+250
+00:10:41,760 --> 00:10:43,760
+la gente que tiene tierras que hace
+
+251
+00:10:43,760 --> 00:10:45,700
+20 años eran baldíos o eran
+
+252
+00:10:45,700 --> 00:10:47,700
+montes y no pagan y ahora
+
+253
+00:10:47,700 --> 00:10:50,060
+son tierras muy productivas o son barrios privados
+
+254
+00:10:50,060 --> 00:10:51,780
+y que me imagino que hay mucha gente
+
+255
+00:10:51,780 --> 00:10:54,200
+que no está interesada
+
+256
+00:10:54,200 --> 00:10:56,000
+en que eso cambie
+
+257
+00:10:56,000 --> 00:10:58,100
+imagino que hay intereses por detrás también
+
+258
+00:10:58,100 --> 00:10:59,840
+y si
+
+259
+00:10:59,840 --> 00:11:01,940
+siempre detrás de toda cuestión económica
+
+260
+00:11:01,940 --> 00:11:03,460
+hay grupos de interés
+
+261
+00:11:03,460 --> 00:11:05,380
+pero a ver
+
+262
+00:11:05,380 --> 00:11:07,320
+el valor del suelo
+
+263
+00:11:07,320 --> 00:11:08,200
+por ejemplo
+
+264
+00:11:08,200 --> 00:11:10,500
+en la zona de Jesús María
+
+265
+00:11:10,500 --> 00:11:13,680
+antes de este revalúo
+
+266
+00:11:13,680 --> 00:11:14,900
+estaba con los valores
+
+267
+00:11:14,900 --> 00:11:16,900
+del año 1994
+
+268
+00:11:16,900 --> 00:11:20,560
+antes de que entrara en vigencia la siembra directa
+
+269
+00:11:20,560 --> 00:11:24,540
+que revolucionó todo el aspecto productivo
+
+270
+00:11:24,540 --> 00:11:27,080
+entonces estas tierras que tenían un valor muy bajo en el 94
+
+271
+00:11:27,080 --> 00:11:28,560
+en el 97, 98
+
+272
+00:11:28,560 --> 00:11:32,580
+al poder producir soja y dejar de producir ganadería
+
+273
+00:11:32,580 --> 00:11:34,440
+aumentaron muchísimo su valor
+
+274
+00:11:34,440 --> 00:11:36,660
+y el Estado no lo estaba reflejando
+
+275
+00:11:36,660 --> 00:11:38,660
+más vale que vos tocas eso
+
+276
+00:11:38,660 --> 00:11:40,620
+y vas a generar un rechazo
+
+277
+00:11:40,620 --> 00:11:44,320
+pero entiendo que si se comunica bien por parte del Estado
+
+278
+00:11:44,320 --> 00:11:46,780
+y se ha hecho un esfuerzo muy grande en comunicarlo
+
+279
+00:11:46,780 --> 00:11:54,500
+y la gente ve en ese esfuerzo que está pidiendo, al menos en este impuesto,
+
+280
+00:11:55,280 --> 00:11:58,060
+no debería haber problemas, digamos.
+
+281
+00:11:58,220 --> 00:12:00,780
+Es uno de los mejores impuestos que puede cobrar un Estado
+
+282
+00:12:00,780 --> 00:12:03,280
+en comparación, por ejemplo, con ingresos brutos
+
+283
+00:12:03,280 --> 00:12:06,180
+que te distorsiona toda la cadena de precios de la economía.
+
+284
+00:12:06,920 --> 00:12:10,860
+Exacto. ¿Y quién lo financia?
+
+285
+00:12:11,760 --> 00:12:15,880
+Primero, ¿cuánto tiempo de trabajo es en total
+
+286
+00:12:15,880 --> 00:12:19,800
+y lo financia Naciones Unidas, lo financia un poco la provincia,
+
+287
+00:12:19,940 --> 00:12:23,280
+¿cómo es la parte que está? Hablas de plata, justamente.
+
+288
+00:12:23,820 --> 00:12:28,060
+Todo este trabajo valioso, alguien tiene que financiarlo.
+
+289
+00:12:29,640 --> 00:12:30,840
+¿Cómo se financia?
+
+290
+00:12:31,480 --> 00:12:35,440
+Bueno, mira, la iniciativa parte de la Secretaría de Ingresos Públicos,
+
+291
+00:12:35,440 --> 00:12:38,680
+que es Ever Farfán, el secretario, ¿no?
+
+292
+00:12:39,460 --> 00:12:44,500
+Él se conecta con Mario Piumeto, que Mario era director de Catastro
+
+293
+00:12:44,500 --> 00:12:46,620
+en la municipalidad en el 2007-2008
+
+294
+00:12:46,620 --> 00:12:48,140
+cuando se hizo un revalúo en la Muni
+
+295
+00:12:48,140 --> 00:12:49,600
+en la ciudad de Córdoba
+
+296
+00:12:49,600 --> 00:12:52,980
+Mario es una persona
+
+297
+00:12:52,980 --> 00:12:54,940
+con mucha experiencia en el tema
+
+298
+00:12:54,940 --> 00:12:56,900
+catastral y sobre todo en valor de suelo
+
+299
+00:12:56,900 --> 00:12:59,100
+entonces a pedido del secretario
+
+300
+00:12:59,100 --> 00:13:01,060
+arma un equipo
+
+301
+00:13:01,060 --> 00:13:02,860
+ad hoc para empezar
+
+302
+00:13:02,860 --> 00:13:04,200
+con el estudio de este tema
+
+303
+00:13:04,200 --> 00:13:06,240
+con financiamiento de PNUD
+
+304
+00:13:06,240 --> 00:13:08,840
+Programa de Naciones Unidas para el Desarrollo
+
+305
+00:13:08,840 --> 00:13:10,940
+entonces se conforma un equipo
+
+306
+00:13:10,940 --> 00:13:12,780
+de consultores contratados
+
+307
+00:13:12,780 --> 00:13:14,120
+por este organismo
+
+308
+00:13:14,120 --> 00:13:19,520
+y abocados a la tarea de analizar cómo emprender el revalúo del suelo.
+
+309
+00:13:21,550 --> 00:13:27,110
+Bien, y en ese análisis, ¿los datos estaban en condiciones y listos para trabajarse?
+
+310
+00:13:27,110 --> 00:13:33,790
+¿Ya estaba todo listo? ¿Había que usarlo y revaluar o hubo que rehacer muchas cosas
+
+311
+00:13:33,790 --> 00:13:37,390
+en cuanto a los datos del sector público en materia de catastral?
+
+312
+00:13:38,170 --> 00:13:40,110
+Nunca está todo listo.
+
+313
+00:13:40,110 --> 00:13:44,390
+yo tengo que preguntar
+
+314
+00:13:44,390 --> 00:13:45,950
+alguien alguna vez me va a decir que sí
+
+315
+00:13:45,950 --> 00:13:47,390
+pero hasta ahora no pasa nada
+
+316
+00:13:47,390 --> 00:13:49,450
+dentro de unos años apostemos que sí
+
+317
+00:13:49,450 --> 00:13:52,370
+Córdoba tiene una base
+
+318
+00:13:52,370 --> 00:13:53,030
+catastral
+
+319
+00:13:53,030 --> 00:13:55,550
+con fallas
+
+320
+00:13:55,550 --> 00:13:57,050
+con cuestiones por pulir
+
+321
+00:13:57,050 --> 00:13:59,990
+pero de las mejores citas que hay en el país
+
+322
+00:13:59,990 --> 00:14:01,770
+en el sentido de que está todo digitalizado
+
+323
+00:14:01,770 --> 00:14:02,970
+casi todo digitalizado
+
+324
+00:14:02,970 --> 00:14:04,610
+vos tenés las formas
+
+325
+00:14:04,610 --> 00:14:07,350
+tenés que ver referencias a las parceras
+
+326
+00:14:07,350 --> 00:14:09,550
+y dibujadas por profesionales que son agrimensores
+
+327
+00:14:09,550 --> 00:14:11,870
+que hacen los trámites y lo presentan en catástrofe
+
+328
+00:14:11,870 --> 00:14:13,570
+y eso queda georreferenciado.
+
+329
+00:14:15,090 --> 00:14:15,830
+¿Qué pasa?
+
+330
+00:14:16,030 --> 00:14:17,670
+Un revalúo,
+
+331
+00:14:17,990 --> 00:14:19,730
+ahí me meto un poquito en el tema técnico, ¿no?
+
+332
+00:14:20,390 --> 00:14:21,890
+Como todo problema predictivo,
+
+333
+00:14:22,270 --> 00:14:23,810
+vos tenés que generar una muestra
+
+334
+00:14:23,810 --> 00:14:27,430
+con datos de la variable
+
+335
+00:14:27,430 --> 00:14:28,830
+de respuesta que quieras predecir.
+
+336
+00:14:29,270 --> 00:14:30,790
+En nuestro caso era valor del suelo.
+
+337
+00:14:30,790 --> 00:14:32,590
+Entonces hubo que salir a relevar
+
+338
+00:14:32,590 --> 00:14:34,550
+datos de mercado, ¿sí?
+
+339
+00:14:34,670 --> 00:14:36,770
+Lotes en venta,
+
+340
+00:14:36,770 --> 00:14:39,590
+publicados en la web
+
+341
+00:14:39,590 --> 00:14:41,670
+hubo gente que
+
+342
+00:14:41,670 --> 00:14:43,930
+necesitaba el alimento
+
+343
+00:14:43,930 --> 00:14:45,690
+para los algoritmos, ver una serie
+
+344
+00:14:45,690 --> 00:14:47,130
+de casos que estén bien
+
+345
+00:14:47,130 --> 00:14:49,410
+para poder predecir los que no conoces
+
+346
+00:14:49,410 --> 00:14:51,550
+si, pero en el medio de eso
+
+347
+00:14:51,550 --> 00:14:53,730
+está la otra mitad más importante
+
+348
+00:14:53,730 --> 00:14:55,570
+quizás que es las variables
+
+349
+00:14:55,570 --> 00:14:57,730
+que uno va generando, la información anexa
+
+350
+00:14:57,730 --> 00:14:59,290
+que uno le da al algoritmo
+
+351
+00:14:59,290 --> 00:15:00,890
+para que se entrene, porque
+
+352
+00:15:00,890 --> 00:15:03,870
+nosotros necesitamos
+
+353
+00:15:03,870 --> 00:15:05,710
+apoyarnos en otro
+
+354
+00:15:05,710 --> 00:15:07,750
+tipo de información territorial que exista
+
+355
+00:15:07,750 --> 00:15:09,570
+en los lugares en donde nosotros no tenemos
+
+356
+00:15:09,570 --> 00:15:11,650
+muestras, ¿sí? Para poder de esa forma
+
+357
+00:15:11,650 --> 00:15:14,210
+decir. Entonces se generó
+
+358
+00:15:14,210 --> 00:15:15,630
+hay un equipo
+
+359
+00:15:15,630 --> 00:15:17,350
+de gente que estuvo abocada
+
+360
+00:15:17,350 --> 00:15:18,570
+sí, abocada a eso
+
+361
+00:15:18,570 --> 00:15:21,630
+lo coordina Hernán Morales
+
+362
+00:15:21,630 --> 00:15:23,730
+que es un agrimensor que está especializado
+
+363
+00:15:23,730 --> 00:15:25,590
+en cuestiones de
+
+364
+00:15:25,590 --> 00:15:27,510
+geomática y en función
+
+365
+00:15:27,510 --> 00:15:29,670
+de muchísima
+
+366
+00:15:29,670 --> 00:15:31,030
+información se fueron generando
+
+367
+00:15:31,030 --> 00:15:33,250
+variables independientes
+
+368
+00:15:33,250 --> 00:15:35,190
+que se les dan en la estadística para poder predecir
+
+369
+00:15:35,190 --> 00:15:37,610
+y en ese proceso
+
+370
+00:15:37,610 --> 00:15:39,370
+si tratamos de utilizar
+
+371
+00:15:39,370 --> 00:15:41,630
+mucho la base catastral porque es el insumo que teníamos
+
+372
+00:15:41,630 --> 00:15:42,930
+a mano y que es gratis
+
+373
+00:15:42,930 --> 00:15:45,010
+gratis en el 50%
+
+374
+00:15:45,010 --> 00:15:47,390
+por ejemplo si vos querés conocer el nivel
+
+375
+00:15:47,390 --> 00:15:49,150
+de consolidación que tiene
+
+376
+00:15:49,150 --> 00:15:51,330
+tu vivienda y ese nivel
+
+377
+00:15:51,330 --> 00:15:53,530
+de consolidación llega a tener
+
+378
+00:15:53,530 --> 00:15:54,970
+algún impacto en el valor del suelo
+
+379
+00:15:54,970 --> 00:15:57,690
+basta con usar la base catastral para calcular
+
+380
+00:15:57,690 --> 00:15:59,270
+en un entorno de X metros
+
+381
+00:15:59,270 --> 00:16:01,390
+cuántos metros cuadrados construidos tenés
+
+382
+00:16:01,390 --> 00:16:03,010
+en relación a la cantidad total de metros
+
+383
+00:16:03,010 --> 00:16:04,470
+de parcela
+
+384
+00:16:04,470 --> 00:16:07,490
+Entiendo que usaron imágenes satelitales
+
+385
+00:16:07,490 --> 00:16:09,190
+De CONAE también
+
+386
+00:16:09,190 --> 00:16:09,950
+¿Puede ser?
+
+387
+00:16:10,850 --> 00:16:12,670
+Usamos Sentinel-2
+
+388
+00:16:12,670 --> 00:16:14,830
+Bien, bien
+
+389
+00:16:14,830 --> 00:16:17,350
+Son imágenes nuestras, digamos
+
+390
+00:16:17,350 --> 00:16:19,610
+Del Estado Nacional
+
+391
+00:16:19,610 --> 00:16:20,090
+O
+
+392
+00:16:20,090 --> 00:16:22,370
+No sé cómo llamarlas
+
+393
+00:16:22,370 --> 00:16:24,870
+Eso lo cruzan con la información catastral
+
+394
+00:16:24,870 --> 00:16:26,390
+Es un insumo más
+
+395
+00:16:26,390 --> 00:16:29,190
+Claro, en el caso
+
+396
+00:16:29,190 --> 00:16:31,590
+Suponte que la base catastral no esté actualizada
+
+397
+00:16:31,590 --> 00:16:32,950
+Sobre todo en algunos pueblos chicos
+
+398
+00:16:32,950 --> 00:16:34,410
+o ciudades del interior
+
+399
+00:16:34,410 --> 00:16:37,030
+que no tienen un buen nivel de actualización
+
+400
+00:16:37,030 --> 00:16:38,610
+como si lo tienen por ejemplo
+
+401
+00:16:38,610 --> 00:16:39,430
+la ciudad de Córdoba
+
+402
+00:16:39,430 --> 00:16:41,790
+se usaron imágenes satelitales
+
+403
+00:16:41,790 --> 00:16:43,910
+para tratar de suplir esas falencias
+
+404
+00:16:43,910 --> 00:16:44,770
+de la base catastral
+
+405
+00:16:44,770 --> 00:16:48,290
+cuando digo se usaron imágenes satelitales
+
+406
+00:16:48,290 --> 00:16:50,150
+en eso mismo tenés un problema
+
+407
+00:16:50,150 --> 00:16:51,910
+predictivo de machine learning
+
+408
+00:16:51,910 --> 00:16:52,310
+porque
+
+409
+00:16:52,310 --> 00:16:56,190
+digamos algo que es sencillo
+
+410
+00:16:56,190 --> 00:16:57,470
+que es simple para el ojo humano
+
+411
+00:16:57,470 --> 00:16:59,550
+que es ver una imagen satelital
+
+412
+00:16:59,550 --> 00:17:01,990
+y detectar donde hay un árbol y donde hay una casa
+
+413
+00:17:01,990 --> 00:17:04,450
+eso para el ojo humano es inmediato
+
+414
+00:17:04,450 --> 00:17:06,230
+para una computadora es imposible
+
+415
+00:17:06,230 --> 00:17:09,050
+lo que puede hacer si la computadora
+
+416
+00:17:09,050 --> 00:17:10,110
+mejor que el ser humano
+
+417
+00:17:10,110 --> 00:17:11,970
+es cuantificar esa información
+
+418
+00:17:11,970 --> 00:17:14,670
+yo primero le tengo que enseñar
+
+419
+00:17:14,670 --> 00:17:16,550
+a la computadora que un píxel es construido
+
+420
+00:17:16,550 --> 00:17:17,290
+que es un árbol
+
+421
+00:17:17,290 --> 00:17:20,370
+o que es una pileta o que es un techo
+
+422
+00:17:20,370 --> 00:17:21,350
+o que es un patio
+
+423
+00:17:21,350 --> 00:17:24,310
+exacto, una vez que aprendió esa información
+
+424
+00:17:24,310 --> 00:17:26,550
+en una fracción de segundos yo puedo calcular
+
+425
+00:17:26,550 --> 00:17:28,530
+desde la computadora cuántos metros cuadrados
+
+426
+00:17:28,530 --> 00:17:30,430
+construidos tengo, cuántos metros de árboles
+
+427
+00:17:30,430 --> 00:17:31,530
+cuántos metros de pileta
+
+428
+00:17:31,530 --> 00:17:32,970
+y así sucesivamente
+
+429
+00:17:32,970 --> 00:17:36,630
+pero bueno, en sí, esa generación de información
+
+430
+00:17:36,630 --> 00:17:38,770
+ya implica el entrenamiento de un algoritmo
+
+431
+00:17:38,770 --> 00:17:39,710
+en función de una muestra
+
+432
+00:17:39,710 --> 00:17:42,410
+para poder predecir en este caso
+
+433
+00:17:42,410 --> 00:17:43,310
+una imagen
+
+434
+00:17:43,310 --> 00:17:46,210
+en función de pequeños píxeles, entrenar el algoritmo
+
+435
+00:17:46,210 --> 00:17:47,270
+y se predice toda la imagen
+
+436
+00:17:47,270 --> 00:17:50,470
+¿En este equipo
+
+437
+00:17:50,470 --> 00:17:52,410
+tu rol se podría decir que es
+
+438
+00:17:52,410 --> 00:17:53,570
+el de científico de datos?
+
+439
+00:17:55,840 --> 00:17:58,300
+Sí, me suena pretencioso
+
+440
+00:17:58,300 --> 00:18:01,900
+en realidad el equipo
+
+441
+00:18:01,900 --> 00:18:03,040
+está conformado
+
+442
+00:18:03,040 --> 00:18:06,400
+el equipo grande, digamos, está conformado
+
+443
+00:18:06,400 --> 00:18:08,020
+por tres equipos
+
+444
+00:18:08,020 --> 00:18:10,320
+un equipo más numeroso
+
+445
+00:18:10,320 --> 00:18:11,980
+que está destinado
+
+446
+00:18:11,980 --> 00:18:14,160
+a buscar información territorial
+
+447
+00:18:14,160 --> 00:18:16,140
+en el sentido de lotes en venta
+
+448
+00:18:16,140 --> 00:18:18,140
+y después
+
+449
+00:18:18,140 --> 00:18:20,400
+tenés otro equipo menos numeroso
+
+450
+00:18:20,400 --> 00:18:21,900
+con un perfil más técnico
+
+451
+00:18:21,900 --> 00:18:23,940
+que es el equipo que te comentaba, que coordina
+
+452
+00:18:23,940 --> 00:18:25,540
+el ingeniero Hernán Morales
+
+453
+00:18:25,540 --> 00:18:27,080
+que me está mirando acá, por eso estamos
+
+454
+00:18:27,080 --> 00:18:29,740
+compartiendo el viaje y le vamos a dar el crédito
+
+455
+00:18:29,740 --> 00:18:32,460
+esos generan
+
+456
+00:18:32,460 --> 00:18:34,760
+esta información territorial
+
+457
+00:18:34,760 --> 00:18:36,700
+que junto con las variables
+
+458
+00:18:36,700 --> 00:18:38,960
+independientes, con los datos de mercado, se utilizan para predecir
+
+459
+00:18:38,960 --> 00:18:41,020
+el territorio y eso se hace
+
+460
+00:18:41,020 --> 00:18:42,780
+en un equipo
+
+461
+00:18:42,780 --> 00:18:45,060
+que coordino yo, que seríamos
+
+462
+00:18:45,060 --> 00:18:46,820
+un equipo de modelización
+
+463
+00:18:46,820 --> 00:18:48,980
+si querés, pero en el fondo
+
+464
+00:18:48,980 --> 00:18:50,900
+todavía no está claro el concepto de ciencia
+
+465
+00:18:50,900 --> 00:18:52,500
+de datos porque es algo
+
+466
+00:18:52,500 --> 00:18:54,480
+nuevo y hay muchas definiciones
+
+467
+00:18:54,480 --> 00:18:56,700
+a la vez como toda cosa nueva
+
+468
+00:18:56,700 --> 00:18:57,720
+pero podríamos
+
+469
+00:18:57,720 --> 00:18:59,140
+decir que sí
+
+470
+00:18:59,140 --> 00:19:08,080
+Bueno, y para la gente más técnica que nos escucha, te quería preguntar si podés contarnos qué algoritmos usaron
+
+471
+00:19:08,080 --> 00:19:11,720
+y sobre todo lo que todo el mundo quiere saber, ¿usaron Python o usaron R?
+
+472
+00:19:12,360 --> 00:19:22,560
+Ah, qué pica, ¿no? Qué pica que hay ahí. Usamos R por arrastre, ¿sí? Como te decía, ánimo de la economía.
+
+473
+00:19:22,560 --> 00:19:26,100
+En el equipo somos tres economistas
+
+474
+00:19:26,100 --> 00:19:28,680
+Y voto mayoritario gana
+
+475
+00:19:28,680 --> 00:19:30,680
+Entonces terminamos usando R
+
+476
+00:19:30,680 --> 00:19:34,480
+R tiene algunas ventajas
+
+477
+00:19:34,480 --> 00:19:36,440
+Considero yo para este tipo de cosas
+
+478
+00:19:36,440 --> 00:19:37,400
+En relación a Python
+
+479
+00:19:37,400 --> 00:19:40,540
+Que es que la comunidad de R
+
+480
+00:19:40,540 --> 00:19:42,560
+Viene un poco más de la estadística
+
+481
+00:19:42,560 --> 00:19:44,740
+Y en relación a Python
+
+482
+00:19:44,740 --> 00:19:46,360
+Que es una comunidad más de programadores
+
+483
+00:19:46,360 --> 00:19:49,240
+Entonces los desarrollos que se dan dentro de R
+
+484
+00:19:49,240 --> 00:19:51,400
+Por ahí son un poquito más ricos
+
+485
+00:19:51,400 --> 00:19:53,880
+Para hacer este tipo de cosas
+
+486
+00:19:53,880 --> 00:19:55,580
+Que los que te encontrás en Python
+
+487
+00:19:55,580 --> 00:19:57,140
+Y viceversa cuando hablas de programación
+
+488
+00:19:57,140 --> 00:19:59,040
+Bien, bien
+
+489
+00:19:59,040 --> 00:20:01,280
+Y te acordás, no sé lo que me puedas contar
+
+490
+00:20:01,280 --> 00:20:04,040
+Usaron para las imágenes
+
+491
+00:20:04,040 --> 00:20:05,360
+No sé, redes neuronales
+
+492
+00:20:05,360 --> 00:20:06,660
+Usaron algún algoritmo para
+
+493
+00:20:06,660 --> 00:20:09,380
+La información geofacial de catastro
+
+494
+00:20:09,380 --> 00:20:10,620
+No sé, algo para
+
+495
+00:20:10,620 --> 00:20:12,500
+Para los técnicos que nos escuchan
+
+496
+00:20:12,500 --> 00:20:14,500
+Como para tirar una punta de lo que pueden usar acá
+
+497
+00:20:14,500 --> 00:20:17,360
+Usamos
+
+498
+00:20:17,360 --> 00:20:19,100
+En algún punto
+
+499
+00:20:19,100 --> 00:20:20,840
+Dejamos usar 20 algoritmos
+
+500
+00:20:20,840 --> 00:20:23,980
+Pablo Duowe
+
+501
+00:20:23,980 --> 00:20:26,020
+que es un genio
+
+502
+00:20:26,020 --> 00:20:28,060
+un genio cordobés
+
+503
+00:20:28,060 --> 00:20:28,980
+en Canadá, sí
+
+504
+00:20:28,980 --> 00:20:31,700
+Pablo en su momento
+
+505
+00:20:31,700 --> 00:20:33,800
+cuando nos juntamos para ver estos temas
+
+506
+00:20:33,800 --> 00:20:36,100
+nos decía que era un shopping de modelos
+
+507
+00:20:36,100 --> 00:20:37,020
+y creo que tiene razón
+
+508
+00:20:37,020 --> 00:20:40,020
+pero todo tiene un porqué
+
+509
+00:20:40,020 --> 00:20:40,780
+en realidad, porque
+
+510
+00:20:40,780 --> 00:20:42,920
+la cuestión territorial
+
+511
+00:20:42,920 --> 00:20:45,940
+tiene sus particularidades
+
+512
+00:20:45,940 --> 00:20:47,880
+porque no se acota
+
+513
+00:20:47,880 --> 00:20:49,460
+solamente a analizar
+
+514
+00:20:49,460 --> 00:20:51,440
+o a detectar mediante un algoritmo
+
+515
+00:20:51,440 --> 00:20:53,320
+las relaciones matemáticas
+
+516
+00:20:53,320 --> 00:20:55,400
+que hay entre
+
+517
+00:20:55,400 --> 00:20:57,500
+muchas variables y una variable
+
+518
+00:20:57,500 --> 00:20:59,560
+de respuesta. La cuestión territorial
+
+519
+00:20:59,560 --> 00:21:01,640
+te agrega una dimensión más al problema.
+
+520
+00:21:02,140 --> 00:21:03,580
+Pasamos de la recta
+
+521
+00:21:03,580 --> 00:21:05,620
+numérica, si estamos trabajando
+
+522
+00:21:05,620 --> 00:21:07,580
+con una variable cuantitativa,
+
+523
+00:21:07,720 --> 00:21:09,660
+pasamos a un espacio bidimensional,
+
+524
+00:21:09,960 --> 00:21:11,380
+en donde no solamente importa
+
+525
+00:21:11,380 --> 00:21:13,060
+qué tan cerca están
+
+526
+00:21:13,060 --> 00:21:15,600
+las cosas en relación
+
+527
+00:21:15,600 --> 00:21:17,320
+a su valor, sino que
+
+528
+00:21:17,320 --> 00:21:19,360
+también viene condicionado por qué tan cerca
+
+529
+00:21:19,360 --> 00:21:21,200
+están espacialmente
+
+530
+00:21:21,200 --> 00:21:22,520
+entonces
+
+531
+00:21:22,520 --> 00:21:25,340
+eso implicaba
+
+532
+00:21:25,340 --> 00:21:27,460
+una complejidad
+
+533
+00:21:27,460 --> 00:21:28,960
+adicional al problema
+
+534
+00:21:28,960 --> 00:21:31,400
+y el desempeño de los
+
+535
+00:21:31,400 --> 00:21:33,360
+algoritmos lo comenzamos a evaluar
+
+536
+00:21:33,360 --> 00:21:35,460
+geográficamente, entonces por ejemplo
+
+537
+00:21:35,460 --> 00:21:37,120
+si yo tengo una zona de la ciudad
+
+538
+00:21:37,120 --> 00:21:38,400
+de cualquier ciudad
+
+539
+00:21:38,400 --> 00:21:40,900
+donde un algoritmo
+
+540
+00:21:40,900 --> 00:21:42,660
+quizás un algoritmo está prediciendo
+
+541
+00:21:42,660 --> 00:21:45,180
+con un error muy bajo en toda la ciudad
+
+542
+00:21:45,180 --> 00:21:46,900
+pero en ese sector puede predecir muy mal
+
+543
+00:21:46,900 --> 00:21:49,960
+y resulta ser que en ese sector
+
+544
+00:21:49,960 --> 00:21:51,700
+otro algoritmo que venía prediciendo
+
+545
+00:21:51,700 --> 00:21:53,220
+como el traste de toda la ciudad
+
+546
+00:21:53,220 --> 00:21:55,560
+en ese sector se desempeñaba mejor
+
+547
+00:21:55,560 --> 00:21:56,480
+entonces
+
+548
+00:21:56,480 --> 00:21:59,920
+definimos sectores previamente
+
+549
+00:21:59,920 --> 00:22:01,900
+y la evaluación de los
+
+550
+00:22:01,900 --> 00:22:03,900
+20 algoritmos, en realidad terminamos usando
+
+551
+00:22:03,900 --> 00:22:05,960
+14, de estos 14 algoritmos
+
+552
+00:22:05,960 --> 00:22:08,000
+los evaluamos
+
+553
+00:22:08,000 --> 00:22:08,740
+zonalmente
+
+554
+00:22:08,740 --> 00:22:11,960
+de lo mejorcito que nos
+
+555
+00:22:11,960 --> 00:22:13,400
+topamos fue Random Forest
+
+556
+00:22:13,400 --> 00:22:15,920
+yo hubiese
+
+557
+00:22:15,920 --> 00:22:17,740
+apostado al principio de todo esto que la cuestión
+
+558
+00:22:17,740 --> 00:22:19,620
+era Daniel por algún tipo de red neuronal
+
+559
+00:22:19,620 --> 00:22:20,820
+y no
+
+560
+00:22:20,820 --> 00:22:22,500
+Random Forest
+
+561
+00:22:22,500 --> 00:22:25,980
+se ha comportado realmente muy bien
+
+562
+00:22:25,980 --> 00:22:27,760
+en lugares muy distintos
+
+563
+00:22:27,760 --> 00:22:29,280
+como la ciudad de Córdoba o Ucacha
+
+564
+00:22:29,280 --> 00:22:31,520
+ha sido un algoritmo que predictivamente
+
+565
+00:22:31,520 --> 00:22:33,700
+se ha comportado
+
+566
+00:22:33,700 --> 00:22:35,560
+muy bien y aparte
+
+567
+00:22:35,560 --> 00:22:37,580
+Super Vector Machine
+
+568
+00:22:37,580 --> 00:22:39,140
+usamos redes neuronales también
+
+569
+00:22:39,140 --> 00:22:41,920
+Partial List Squares
+
+570
+00:22:41,920 --> 00:22:42,280
+sería
+
+571
+00:22:42,280 --> 00:22:45,640
+una regresión de componentes
+
+572
+00:22:45,640 --> 00:22:47,220
+principales, una cosa así sería
+
+573
+00:22:47,220 --> 00:22:49,620
+en la vida real
+
+574
+00:22:49,620 --> 00:22:51,540
+hay que usar lo que anda, no te casaste
+
+575
+00:22:51,540 --> 00:22:52,200
+con nadie
+
+576
+00:22:52,200 --> 00:22:55,360
+no, es una validación cruzada atrás de otra
+
+577
+00:22:55,360 --> 00:22:57,500
+el proyecto, lo que mejor se desempeñe
+
+578
+00:22:57,500 --> 00:22:59,360
+es lo que vamos a terminar usando
+
+579
+00:22:59,360 --> 00:23:01,260
+para predecir el valor en el lugar
+
+580
+00:23:01,260 --> 00:23:02,180
+donde corresponda
+
+581
+00:23:02,180 --> 00:23:03,300
+bien
+
+582
+00:23:03,300 --> 00:23:07,440
+te lo pregunto
+
+583
+00:23:07,440 --> 00:23:09,400
+algo de todo esto quedó como
+
+584
+00:23:09,400 --> 00:23:11,540
+software libre, es decisión de ustedes
+
+585
+00:23:11,540 --> 00:23:12,480
+no es decisión de ustedes
+
+586
+00:23:12,480 --> 00:23:14,880
+si yo quiero auditar
+
+587
+00:23:14,880 --> 00:23:17,620
+o quiero mirar, o más, quiero copiar
+
+588
+00:23:17,620 --> 00:23:19,360
+soy la provincia de Santa Fe
+
+589
+00:23:19,360 --> 00:23:20,760
+y quiero copiar todo este
+
+590
+00:23:20,760 --> 00:23:23,100
+trabajo gigantesco, ¿lo puedo hacer?
+
+591
+00:23:25,080 --> 00:23:26,680
+Se han publicado los datos
+
+592
+00:23:26,680 --> 00:23:29,300
+los códigos
+
+593
+00:23:29,300 --> 00:23:31,060
+que se, el código en sí
+
+594
+00:23:31,060 --> 00:23:32,200
+que se usó en R para
+
+595
+00:23:32,200 --> 00:23:35,300
+para realizar
+
+596
+00:23:35,300 --> 00:23:37,100
+la estimación, gracias a Dios no, porque está
+
+597
+00:23:37,100 --> 00:23:38,020
+muy poco prolijo
+
+598
+00:23:38,020 --> 00:23:40,640
+está vestido de entrecasa
+
+599
+00:23:40,640 --> 00:23:43,320
+imagínate
+
+600
+00:23:43,320 --> 00:23:45,860
+no soy programador, imagínate
+
+601
+00:23:45,860 --> 00:23:47,540
+la economía de lo que son los escritos nuestros
+
+602
+00:23:47,540 --> 00:23:50,120
+hay gente de programación que trabaja con nosotros
+
+603
+00:23:50,120 --> 00:23:51,820
+nos mira la pantalla y se deprime
+
+604
+00:23:51,820 --> 00:23:54,480
+pero la intención
+
+605
+00:23:54,480 --> 00:23:56,060
+es
+
+606
+00:23:56,060 --> 00:23:58,160
+no empaquetar esto en un software
+
+607
+00:23:58,160 --> 00:23:59,220
+sino
+
+608
+00:23:59,220 --> 00:24:01,960
+compartir
+
+609
+00:24:01,960 --> 00:24:03,900
+de hecho es lo que estamos haciendo acá en Buenos Aires
+
+610
+00:24:03,900 --> 00:24:05,240
+compartir el enfoque
+
+611
+00:24:05,240 --> 00:24:08,380
+y las cuestiones técnicas para que se pueda desarrollar
+
+612
+00:24:08,380 --> 00:24:09,660
+en cualquier otro lugar
+
+613
+00:24:09,660 --> 00:24:10,780
+¿por qué?
+
+614
+00:24:11,520 --> 00:24:13,240
+y me parece muy importante esto
+
+615
+00:24:13,240 --> 00:24:16,620
+esto que hizo Córdoba
+
+616
+00:24:16,620 --> 00:24:18,180
+se lo podría haber comprado una empresa
+
+617
+00:24:18,180 --> 00:24:20,640
+hay 4 o 5 empresas
+
+618
+00:24:20,640 --> 00:24:22,400
+no muchas, pero que te venden esto
+
+619
+00:24:22,400 --> 00:24:24,240
+ya de mano, terminado
+
+620
+00:24:24,240 --> 00:24:26,000
+y en cambio
+
+621
+00:24:26,000 --> 00:24:28,360
+millones de dólares
+
+622
+00:24:28,360 --> 00:24:29,760
+y en cambio de eso
+
+623
+00:24:29,760 --> 00:24:32,520
+se decidió hacerlo localmente
+
+624
+00:24:32,520 --> 00:24:34,260
+Córdoba tiene una comunidad de gente
+
+625
+00:24:34,260 --> 00:24:36,240
+en este tema muy grande
+
+626
+00:24:36,240 --> 00:24:38,640
+quizás sea el segundo
+
+627
+00:24:38,640 --> 00:24:40,620
+lugar de Argentina con mayor concentración
+
+628
+00:24:40,620 --> 00:24:42,160
+de gente de datos
+
+629
+00:24:42,160 --> 00:24:46,060
+y entonces apostar
+
+630
+00:24:46,060 --> 00:24:48,060
+a buscar profesionales
+
+631
+00:24:48,060 --> 00:24:50,240
+de la ciudad, de vincularte
+
+632
+00:24:50,240 --> 00:24:52,040
+con la universidad porque se hizo una
+
+633
+00:24:52,040 --> 00:24:54,400
+vinculación con el centro de estudios territoriales
+
+634
+00:24:54,400 --> 00:24:55,620
+de la facultad de exactas
+
+635
+00:24:55,620 --> 00:24:58,040
+de trabajar con CONICET
+
+636
+00:24:58,040 --> 00:24:59,840
+porque tenemos dos personas de CONICET
+
+637
+00:24:59,840 --> 00:25:01,140
+trabajando dentro del equipo
+
+638
+00:25:01,140 --> 00:25:02,800
+eso va generando
+
+639
+00:25:02,800 --> 00:25:05,260
+las competencias localmente
+
+640
+00:25:05,260 --> 00:25:07,620
+entonces mañana
+
+641
+00:25:07,620 --> 00:25:09,680
+yo o otra persona del equipo
+
+642
+00:25:09,680 --> 00:25:10,200
+no está
+
+643
+00:25:10,200 --> 00:25:13,000
+fácilmente se puede reemplazar
+
+644
+00:25:13,000 --> 00:25:14,760
+por otro que se sume
+
+645
+00:25:14,760 --> 00:25:16,940
+a un equipo que ya está dinamizado
+
+646
+00:25:16,940 --> 00:25:18,400
+y que está trabajando
+
+647
+00:25:18,400 --> 00:25:21,380
+entonces es muy importante para mí que se transite
+
+648
+00:25:21,380 --> 00:25:23,020
+el camino, que se ponga
+
+649
+00:25:23,020 --> 00:25:24,300
+cabeza en el asunto
+
+650
+00:25:24,300 --> 00:25:26,660
+que el Estado lo tome
+
+651
+00:25:26,660 --> 00:25:28,980
+pero se vincule con actores
+
+652
+00:25:28,980 --> 00:25:29,780
+de la sociedad
+
+653
+00:25:29,780 --> 00:25:32,740
+y que vaya generando localmente
+
+654
+00:25:32,740 --> 00:25:34,840
+conocimiento, porque muchas cosas que nosotros descubrimos
+
+655
+00:25:34,840 --> 00:25:36,000
+en la provincia de Córdoba
+
+656
+00:25:36,000 --> 00:25:39,120
+te digo que no son trasladables directamente a otro lugar
+
+657
+00:25:39,120 --> 00:25:41,200
+qué es eso, por ejemplo
+
+658
+00:25:41,200 --> 00:25:43,720
+Entre Ríos tenés un fenómeno de islas
+
+659
+00:25:43,720 --> 00:25:45,420
+en Milosa tenés
+
+660
+00:25:45,420 --> 00:25:47,080
+una fotografía totalmente distinta
+
+661
+00:25:47,080 --> 00:25:49,420
+si pensamos en revalúo rural
+
+662
+00:25:49,420 --> 00:25:49,720
+¿no?
+
+663
+00:25:50,960 --> 00:25:53,720
+entonces todo tiene su particularidad y en todos los lugares
+
+664
+00:25:53,720 --> 00:25:55,380
+hace falta que alguien de ahí
+
+665
+00:25:55,380 --> 00:25:57,800
+local esté poniéndole
+
+666
+00:25:57,800 --> 00:25:58,500
+cada vez en esto
+
+667
+00:25:58,500 --> 00:26:01,640
+cuando se terciariza una empresa
+
+668
+00:26:01,640 --> 00:26:03,240
+una empresa va
+
+669
+00:26:03,240 --> 00:26:05,240
+hace el revalúo en Córdoba, después se va
+
+670
+00:26:05,240 --> 00:26:06,640
+lo hace en Mendoza
+
+671
+00:26:06,640 --> 00:26:08,880
+y todo el aprendizaje que se generó
+
+672
+00:26:08,880 --> 00:26:10,080
+en eso se lo lleva a la empresa
+
+673
+00:26:10,080 --> 00:26:11,980
+no lo deja a disposición de la sociedad
+
+674
+00:26:11,980 --> 00:26:14,620
+me gusta que lo destaque
+
+675
+00:26:14,620 --> 00:26:16,340
+porque una de las cosas que yo valoro
+
+676
+00:26:16,340 --> 00:26:18,340
+en un gobierno es cuando
+
+677
+00:26:18,340 --> 00:26:20,860
+fortalece las capacidades propias
+
+678
+00:26:20,860 --> 00:26:21,820
+y no
+
+679
+00:26:21,820 --> 00:26:24,880
+y no solamente lo paga
+
+680
+00:26:24,880 --> 00:26:26,140
+y listo
+
+681
+00:26:26,140 --> 00:26:27,580
+creo que el equipo
+
+682
+00:26:27,580 --> 00:26:29,460
+que trabajó con esto
+
+683
+00:26:29,460 --> 00:26:31,820
+los que estén ahí cerca del gobierno van a seguir
+
+684
+00:26:31,820 --> 00:26:34,180
+dando valor al gobierno
+
+685
+00:26:34,180 --> 00:26:35,280
+con todo lo que aprendieron
+
+686
+00:26:35,280 --> 00:26:40,840
+Así que lo destaco particularmente y si lo pueden abrir para mí, Genier.
+
+687
+00:26:41,040 --> 00:26:43,060
+Me quiero poner un segundo en el abogado del diablo.
+
+688
+00:26:43,580 --> 00:26:48,900
+Suponete que a mí no me gusta la evaluación que hicieron de mi casa y yo digo, no, está mal.
+
+689
+00:26:49,600 --> 00:26:53,940
+Mi casa vale la mitad de lo que vos decís y el que tomó la decisión fue un algoritmo.
+
+690
+00:26:54,200 --> 00:27:00,040
+O sea, en casos mucho más sensibles se le discute a este algoritmo, pero yo lo quiero llevar a esta discusión.
+
+691
+00:27:00,040 --> 00:27:03,260
+no me gusta el revalúo de mi casa
+
+692
+00:27:03,260 --> 00:27:05,140
+¿puedo discutir
+
+693
+00:27:05,140 --> 00:27:05,900
+el algoritmo?
+
+694
+00:27:07,360 --> 00:27:09,160
+Sí, te puedes pelear y seguramente
+
+695
+00:27:09,160 --> 00:27:11,100
+tengas razón, porque esto es un
+
+696
+00:27:11,100 --> 00:27:13,260
+proceso estocástico que está sujeto a error
+
+697
+00:27:13,260 --> 00:27:15,280
+y no podés
+
+698
+00:27:15,280 --> 00:27:16,920
+yo creo que el Estado no puede
+
+699
+00:27:16,920 --> 00:27:19,280
+pretender saber más que vos cuánto vale tu casa
+
+700
+00:27:19,280 --> 00:27:22,860
+¿qué pasa? es un problema
+
+701
+00:27:22,860 --> 00:27:24,300
+porque son cajas negras
+
+702
+00:27:24,300 --> 00:27:27,020
+al ser cajas negras
+
+703
+00:27:27,020 --> 00:27:28,980
+uno que viene del estadista y que está
+
+704
+00:27:28,980 --> 00:27:35,460
+acostumbrado a trabajar con modelos lineales que te permiten reconstruir la evaluación,
+
+705
+00:27:35,700 --> 00:27:44,060
+en este caso. Con un algoritmo eso es virtualmente imposible. Lo que estamos trabajando ahora
+
+706
+00:27:44,060 --> 00:27:51,940
+para tratar de dar cuenta de esto es en hacer una regresión lineal geográficamente
+
+707
+00:27:51,940 --> 00:27:57,780
+ponderada, se llama, que básicamente es una regresión adentro de un kernel de distancia.
+
+708
+00:27:57,780 --> 00:28:08,440
+Entonces, a la predicción del algoritmo la tratamos de explicar de manera lineal, utilizando todas las variables que se usaron en la predicción.
+
+709
+00:28:08,680 --> 00:28:10,200
+No sé si más o menos se entiende.
+
+710
+00:28:10,540 --> 00:28:11,620
+Más o menos se entiende.
+
+711
+00:28:11,620 --> 00:28:30,760
+Lo que buscamos es que cuando una persona presente un descargo o vaya a pedir explicaciones al catastro, cuente el organismo con alguna manera de decirle cuál es la influencia de cada una de las variables que se utilizaron en la estimación para explicar el valor que se asignó a su lote.
+
+712
+00:28:30,760 --> 00:28:40,220
+Entonces, si usted vive en el lugar X, en ese lugar lo que está pesando más en el valor por metro cuadrado es la distancia a la vía principal.
+
+713
+00:28:41,060 --> 00:28:42,800
+Y pesa tanto por ciento.
+
+714
+00:28:43,180 --> 00:28:46,260
+Entonces, darle realmente al organismo para que tenga con qué responder.
+
+715
+00:28:46,620 --> 00:28:48,340
+Eso es dificilísimo de hacer.
+
+716
+00:28:50,540 --> 00:28:53,780
+Es muy difícil de volver para atrás y de explicar lo que hizo el organismo.
+
+717
+00:28:53,980 --> 00:29:00,400
+Pero me decía que ustedes podrían acercarse a eso como para justificar lo que el organismo dijo.
+
+718
+00:29:00,400 --> 00:29:02,660
+y lo que estaremos haciendo sería
+
+719
+00:29:02,660 --> 00:29:04,520
+modelizar la predicción
+
+720
+00:29:04,520 --> 00:29:08,860
+que es distinto
+
+721
+00:29:08,860 --> 00:29:10,520
+para cada zona, porque en alguna zona hicieron
+
+722
+00:29:10,520 --> 00:29:12,680
+un modelo, en otra zona usaron otro, la explicación
+
+723
+00:29:12,680 --> 00:29:14,600
+va a cambiar según a donde
+
+724
+00:29:14,600 --> 00:29:17,060
+vivas. Exactamente, la influencia
+
+725
+00:29:17,060 --> 00:29:18,440
+por ejemplo de la distancia de vías
+
+726
+00:29:18,440 --> 00:29:20,320
+principales, si es una variable importante
+
+727
+00:29:20,320 --> 00:29:22,660
+esa influencia
+
+728
+00:29:22,660 --> 00:29:23,920
+sobre el precio va a cambiar
+
+729
+00:29:23,920 --> 00:29:26,460
+va a cambiar dentro de una misma ciudad incluso
+
+730
+00:29:26,460 --> 00:29:28,700
+entonces
+
+731
+00:29:28,700 --> 00:29:31,640
+la idea es generar esa información
+
+732
+00:29:31,640 --> 00:29:33,460
+para que el organismo
+
+733
+00:29:33,460 --> 00:29:34,880
+tenga con qué responder
+
+734
+00:29:34,880 --> 00:29:37,560
+el año pasado hablaba
+
+735
+00:29:37,560 --> 00:29:38,920
+con gente de España
+
+736
+00:29:38,920 --> 00:29:41,460
+que en algún momento
+
+737
+00:29:41,460 --> 00:29:43,920
+hizo revaluos
+
+738
+00:29:43,920 --> 00:29:46,100
+con redes neuronales
+
+739
+00:29:46,100 --> 00:29:47,260
+y
+
+740
+00:29:47,260 --> 00:29:50,040
+dejaron de hacerlo casualmente por esto
+
+741
+00:29:50,040 --> 00:29:51,940
+no podían
+
+742
+00:29:51,940 --> 00:29:54,220
+explicar lo que habían evaluado
+
+743
+00:29:54,220 --> 00:29:56,340
+si y me parece que
+
+744
+00:29:56,340 --> 00:29:58,280
+por no poder explicar
+
+745
+00:29:58,280 --> 00:30:01,040
+una predicción acertada
+
+746
+00:30:01,040 --> 00:30:03,080
+sacrificar eso
+
+747
+00:30:03,080 --> 00:30:05,020
+para tener menos
+
+748
+00:30:05,020 --> 00:30:05,720
+problemas
+
+749
+00:30:05,720 --> 00:30:09,040
+y terminar trabajando
+
+750
+00:30:09,040 --> 00:30:11,040
+con un método lineal que genera
+
+751
+00:30:11,040 --> 00:30:12,380
+más errores en la evaluación
+
+752
+00:30:12,380 --> 00:30:13,980
+es una decisión
+
+753
+00:30:13,980 --> 00:30:16,840
+claro, es una decisión a tomar
+
+754
+00:30:16,840 --> 00:30:18,740
+personalmente yo
+
+755
+00:30:18,740 --> 00:30:20,500
+prefiero generar un buen resultado
+
+756
+00:30:20,500 --> 00:30:23,040
+que no induzca a que la gente reclame
+
+757
+00:30:23,040 --> 00:30:25,140
+sino que consideren que la estimación es cósmica
+
+758
+00:30:25,140 --> 00:30:27,240
+y buscarle la vuelta para tratar de
+
+759
+00:30:27,240 --> 00:30:30,240
+definir las herramientas del Estado
+
+760
+00:30:30,240 --> 00:30:31,700
+para poder explicar esa evaluación
+
+761
+00:30:31,700 --> 00:30:34,280
+bien, dijiste
+
+762
+00:30:34,280 --> 00:30:36,020
+que había datos que se habían abierto
+
+763
+00:30:36,020 --> 00:30:38,000
+te quería preguntar porque por ahí alguien
+
+764
+00:30:38,000 --> 00:30:40,180
+está interesado en jugar con algunos de estos
+
+765
+00:30:40,180 --> 00:30:41,920
+datos, de todo lo que hicieron
+
+766
+00:30:41,920 --> 00:30:43,600
+¿qué datos? porque hicieron
+
+767
+00:30:43,600 --> 00:30:46,080
+quiero nombrarlo y está buenísimo, hicieron un
+
+768
+00:30:46,080 --> 00:30:47,900
+portal, creo que se llama
+
+769
+00:30:47,900 --> 00:30:49,300
+IDECOR, donde se pueden
+
+770
+00:30:49,300 --> 00:30:52,040
+publican casi
+
+771
+00:30:52,040 --> 00:30:54,100
+semanalmente novedades, invitan
+
+772
+00:30:54,100 --> 00:30:55,980
+a eventos, invitan a charlas, hablan
+
+773
+00:30:55,980 --> 00:30:58,020
+de los datos, creo que no ha tenido
+
+774
+00:30:58,020 --> 00:30:59,840
+la relevancia que se merece, pero yo
+
+775
+00:30:59,840 --> 00:31:01,820
+lo destacó, han hecho un trabajo
+
+776
+00:31:01,820 --> 00:31:03,840
+de comunicación, no es solamente todo técnico
+
+777
+00:31:03,840 --> 00:31:06,160
+sino que hay ganas de comunicar
+
+778
+00:31:06,160 --> 00:31:07,900
+en vías de fomentar
+
+779
+00:31:07,900 --> 00:31:10,040
+esa comunicación, ¿con qué datos
+
+780
+00:31:10,040 --> 00:31:11,300
+se puede alguien poner a jugar
+
+781
+00:31:11,300 --> 00:31:13,220
+sobre la geografía de Córdoba?
+
+782
+00:31:14,180 --> 00:31:15,700
+Bueno, una de las ventajas
+
+783
+00:31:15,700 --> 00:31:17,740
+de este proyecto
+
+784
+00:31:17,740 --> 00:31:19,920
+fue que está muy vinculado
+
+785
+00:31:19,920 --> 00:31:21,600
+a la IDE, cuando decimos IDE
+
+786
+00:31:21,600 --> 00:31:23,700
+por ahí vos tenés muchos programadores
+
+787
+00:31:23,700 --> 00:31:25,460
+escuchando esto, no estábamos hablando
+
+788
+00:31:25,460 --> 00:31:27,120
+del entorno de programación
+
+789
+00:31:27,120 --> 00:31:29,260
+sino que es infraestructura
+
+790
+00:31:29,260 --> 00:31:30,940
+de datos espaciales
+
+791
+00:31:30,940 --> 00:31:32,900
+todas las provincias, casi todas
+
+792
+00:31:32,900 --> 00:31:35,020
+tienen una IDE, que esté viva
+
+793
+00:31:35,020 --> 00:31:36,680
+es otra cosa, pero
+
+794
+00:31:36,680 --> 00:31:39,100
+generalmente tienen un lugar
+
+795
+00:31:39,100 --> 00:31:41,040
+donde funciona área
+
+796
+00:31:41,040 --> 00:31:43,360
+como repositorio de toda la información georreferencial
+
+797
+00:31:43,360 --> 00:31:44,680
+que tiene el Estado, que es mucha
+
+798
+00:31:44,680 --> 00:31:46,600
+es mucha y muy abundante
+
+799
+00:31:46,600 --> 00:31:50,640
+claro, hay un problema con
+
+800
+00:31:50,640 --> 00:31:52,420
+generalmente las IDE
+
+801
+00:31:52,420 --> 00:31:55,360
+y no solamente en Córdoba, en todo el país
+
+802
+00:31:55,360 --> 00:31:57,940
+dependen de un ministerio
+
+803
+00:31:57,940 --> 00:31:59,320
+de una secretaria, de lo que sea
+
+804
+00:31:59,320 --> 00:32:02,100
+y en el estado
+
+805
+00:32:02,100 --> 00:32:03,760
+generalmente, bueno, vos lo sabes muy bien
+
+806
+00:32:03,760 --> 00:32:05,960
+vos lo sabes mejor que nadie, creo
+
+807
+00:32:05,960 --> 00:32:08,120
+te encontrás con la gente que está sentada
+
+808
+00:32:08,120 --> 00:32:09,380
+arriba del dato
+
+809
+00:32:09,380 --> 00:32:11,780
+y no te le da, porque es poder
+
+810
+00:32:11,780 --> 00:32:13,880
+muchas veces es poder tener la información
+
+811
+00:32:13,880 --> 00:32:15,360
+yo soy el tipo que tiene
+
+812
+00:32:15,360 --> 00:32:16,420
+tal información
+
+813
+00:32:16,420 --> 00:32:19,340
+y es una pena
+
+814
+00:32:19,340 --> 00:32:21,880
+y es costoso, aparte que eso suceda
+
+815
+00:32:22,620 --> 00:32:23,780
+y bueno, en las ides
+
+816
+00:32:23,780 --> 00:32:25,200
+pasa mucho
+
+817
+00:32:25,200 --> 00:32:28,140
+hay mucha información duplicada
+
+818
+00:32:28,140 --> 00:32:29,980
+información geográfica
+
+819
+00:32:29,980 --> 00:32:31,820
+está duplicada entre distintos organismos
+
+820
+00:32:31,820 --> 00:32:33,640
+una con un sistema de coordenadas, otra con otra
+
+821
+00:32:33,640 --> 00:32:35,200
+es muy
+
+822
+00:32:35,200 --> 00:32:37,600
+necesario que haya un ámbito
+
+823
+00:32:37,600 --> 00:32:39,560
+en donde se concentre toda esa información
+
+824
+00:32:39,560 --> 00:32:41,820
+nosotros aprovechamos la IDE
+
+825
+00:32:41,820 --> 00:32:43,680
+para empezar a publicar
+
+826
+00:32:43,680 --> 00:32:45,620
+mucha info que usamos
+
+827
+00:32:45,620 --> 00:32:47,800
+como variables en el
+
+828
+00:32:47,800 --> 00:32:49,940
+revaluvo, por ejemplo
+
+829
+00:32:49,940 --> 00:32:52,180
+la página
+
+830
+00:32:52,180 --> 00:32:53,700
+es, por las dudas
+
+831
+00:32:53,700 --> 00:32:55,000
+te pasamos el chivo
+
+832
+00:32:55,000 --> 00:33:02,920
+idecor.cba.gov.ar
+
+833
+00:33:02,920 --> 00:33:05,240
+idecor.cba.gov.ar
+
+834
+00:33:05,240 --> 00:33:09,400
+ahí hay, por ejemplo, un mapa de cobertura de suelo
+
+835
+00:33:09,400 --> 00:33:12,320
+que hizo gente de CONICET que trabaja con nosotros
+
+836
+00:33:12,320 --> 00:33:17,040
+es un mapa con una unidad mínima mapeable de 2,5 hectáreas
+
+837
+00:33:17,040 --> 00:33:20,840
+que tiene una clasificación hecha con Random Forest
+
+838
+00:33:20,840 --> 00:33:23,100
+en función de distintas muestras
+
+839
+00:33:23,100 --> 00:33:24,460
+se fue muestrando
+
+840
+00:33:24,460 --> 00:33:26,740
+la cobertura del suelo
+
+841
+00:33:26,740 --> 00:33:27,560
+en toda la provincia
+
+842
+00:33:27,560 --> 00:33:30,220
+es un trabajo
+
+843
+00:33:30,220 --> 00:33:32,860
+impecable, lo hizo el doctor
+
+844
+00:33:32,860 --> 00:33:34,440
+César García, que es biólogo
+
+845
+00:33:34,440 --> 00:33:36,300
+y es un trabajo
+
+846
+00:33:36,300 --> 00:33:37,480
+muy bueno
+
+847
+00:33:37,480 --> 00:33:39,560
+se lo puede bajar cualquiera
+
+848
+00:33:39,560 --> 00:33:42,320
+lo puede bajar cualquiera, vos podés entrar
+
+849
+00:33:42,320 --> 00:33:43,440
+y te bajas
+
+850
+00:33:43,440 --> 00:33:46,340
+esta clasificación hecha por gente
+
+851
+00:33:46,340 --> 00:33:47,520
+de Conicet que te dice
+
+852
+00:33:47,520 --> 00:33:50,340
+si un pixel
+
+853
+00:33:50,340 --> 00:33:52,260
+que estás mirando tiene cobertura de soja
+
+854
+00:33:52,260 --> 00:33:54,500
+de maíz, de trigo, de piedra, de árboles
+
+855
+00:33:54,500 --> 00:33:55,240
+de agua
+
+856
+00:33:55,240 --> 00:33:58,700
+¿y eso a nivel histórico
+
+857
+00:33:58,700 --> 00:34:00,580
+o actual?
+
+858
+00:34:01,380 --> 00:34:02,720
+o de un día
+
+859
+00:34:02,720 --> 00:34:03,420
+en particular
+
+860
+00:34:03,420 --> 00:34:06,280
+si esos datos están a nivel histórico
+
+861
+00:34:06,280 --> 00:34:07,900
+¿tengo una muestra de eso por año?
+
+862
+00:34:08,320 --> 00:34:09,700
+¿o tengo solamente la última?
+
+863
+00:34:10,500 --> 00:34:12,160
+no, tenés la foto de
+
+864
+00:34:12,160 --> 00:34:14,180
+2018 y se está
+
+865
+00:34:14,180 --> 00:34:16,400
+trabajando hoy en la foto de 2019
+
+866
+00:34:16,400 --> 00:34:20,000
+¿por qué hay que generar mosaicos?
+
+867
+00:34:20,000 --> 00:34:23,280
+esto se hace en función de un satélite
+
+868
+00:34:23,280 --> 00:34:24,520
+que se llama Sentinel-2
+
+869
+00:34:24,520 --> 00:34:26,620
+que bueno, por supuesto, si está nublado
+
+870
+00:34:26,620 --> 00:34:29,080
+el día que pasó, el satélite no capturó
+
+871
+00:34:29,080 --> 00:34:30,840
+la información
+
+872
+00:34:30,840 --> 00:34:32,660
+de ese lugar, entonces bueno, pasa después
+
+873
+00:34:32,660 --> 00:34:34,500
+y la vuelve a capturar
+
+874
+00:34:34,500 --> 00:34:36,520
+si no hay nubes, entonces se van armando
+
+875
+00:34:36,520 --> 00:34:38,640
+mosaicos con imágenes potables para poder
+
+876
+00:34:38,640 --> 00:34:40,560
+trabajar, y esos mosaicos pueden tener
+
+877
+00:34:40,560 --> 00:34:42,820
+imágenes de abril del 2018
+
+878
+00:34:42,820 --> 00:34:44,800
+y otra imagen al lado de julio
+
+879
+00:34:44,800 --> 00:34:45,540
+del 2018
+
+880
+00:34:45,540 --> 00:34:48,860
+claro, lo que hizo César
+
+881
+00:34:48,860 --> 00:34:51,340
+fue tomar imágenes
+
+882
+00:34:51,340 --> 00:34:52,740
+en distintos momentos del tiempo
+
+883
+00:34:52,740 --> 00:34:54,720
+para poder dar cuenta también
+
+884
+00:34:54,720 --> 00:34:57,720
+de la actividad agropecuaria
+
+885
+00:34:57,720 --> 00:34:59,140
+que muchas veces el satélite pasa
+
+886
+00:34:59,140 --> 00:35:01,220
+y ya se cosechó, entonces te muestra
+
+887
+00:35:01,220 --> 00:35:02,840
+el suelo desnudo y en realidad
+
+888
+00:35:02,840 --> 00:35:04,940
+hace dos horas había soja en ese lugar
+
+889
+00:35:04,940 --> 00:35:07,280
+entonces él fue haciendo un análisis
+
+890
+00:35:07,280 --> 00:35:09,520
+de espacio temporal para poder tener una cobertura
+
+891
+00:35:09,520 --> 00:35:11,100
+si se quiere promedio
+
+892
+00:35:11,100 --> 00:35:12,940
+durante el año de ese lugar
+
+893
+00:35:12,940 --> 00:35:14,420
+bien, ahora
+
+894
+00:35:14,420 --> 00:35:16,900
+perdón, seguí
+
+895
+00:35:16,900 --> 00:35:19,160
+No, no, te voy a decir, tan es importantísimo
+
+896
+00:35:19,160 --> 00:35:21,080
+y que no está en ningún lado, creo, en Argentina
+
+897
+00:35:21,080 --> 00:35:22,400
+lo que es el Catastro Online.
+
+898
+00:35:23,860 --> 00:35:25,160
+Vos podés bajarte
+
+899
+00:35:25,160 --> 00:35:26,540
+todas las parcelas de la
+
+900
+00:35:26,540 --> 00:35:29,260
+de la
+
+901
+00:35:29,260 --> 00:35:29,500
+de la ProA
+
+902
+00:35:29,500 --> 00:35:31,160
+con su valor de suelo.
+
+903
+00:35:32,620 --> 00:35:33,540
+Muchas veces eso,
+
+904
+00:35:34,200 --> 00:35:36,540
+muchos Catastros publican el parcelario, pero no te ponen
+
+905
+00:35:36,540 --> 00:35:37,200
+el valor.
+
+906
+00:35:38,720 --> 00:35:40,760
+Claro, creo que no existe eso
+
+907
+00:35:40,760 --> 00:35:43,060
+con precio, o por lo menos
+
+908
+00:35:43,060 --> 00:35:44,820
+yo no lo conozco. El parcelario
+
+909
+00:35:44,820 --> 00:35:46,880
+de Buenos Aires
+
+910
+00:35:46,880 --> 00:35:48,820
+creo que está, pero entiendo que no incluye
+
+911
+00:35:48,820 --> 00:35:50,180
+precio, así que lo destaco ahora
+
+912
+00:35:50,180 --> 00:35:53,160
+hay muchísimo dato y muchísimo conocimiento
+
+913
+00:35:53,160 --> 00:35:54,900
+generado y yo veo
+
+914
+00:35:54,900 --> 00:35:56,500
+que no ha tenido o me parece que no tuvo
+
+915
+00:35:56,500 --> 00:35:58,800
+la trascendencia que tiene, te quería preguntar
+
+916
+00:35:58,800 --> 00:36:00,220
+¿qué clientes
+
+917
+00:36:00,220 --> 00:36:02,420
+ya tienen estos datos? o sea
+
+918
+00:36:02,420 --> 00:36:04,540
+estoy pensando en periodismo
+
+919
+00:36:04,540 --> 00:36:06,880
+en universidades y en municipios
+
+920
+00:36:06,880 --> 00:36:08,940
+ya hay gente hablando con vos
+
+921
+00:36:08,940 --> 00:36:10,980
+de estos datos, preguntando qué cosas, queriéndoselo
+
+922
+00:36:10,980 --> 00:36:12,800
+bajar, haciendo productos
+
+923
+00:36:12,800 --> 00:36:14,300
+basados en estos datos
+
+924
+00:36:14,300 --> 00:36:16,560
+¿qué tal es la comunidad
+
+925
+00:36:16,560 --> 00:36:18,780
+usuario de datos componen esto, ¿ya se enganchó?
+
+926
+00:36:21,180 --> 00:36:22,700
+Hay que hablar de tiempo, ¿no?
+
+927
+00:36:23,360 --> 00:36:24,700
+Por ahí el cliente más
+
+928
+00:36:24,700 --> 00:36:26,580
+activo de esta info son
+
+929
+00:36:26,580 --> 00:36:28,720
+el sector académico
+
+930
+00:36:28,720 --> 00:36:30,660
+lo cual no le daría
+
+931
+00:36:30,660 --> 00:36:32,360
+sorprendernos, ¿no?
+
+932
+00:36:35,860 --> 00:36:38,440
+Mucha gente
+
+933
+00:36:38,440 --> 00:36:39,200
+que trabaja
+
+934
+00:36:39,200 --> 00:36:42,240
+lo que pasa es que por ahí
+
+935
+00:36:42,240 --> 00:36:44,240
+son cuestiones que van a velocidades distintas
+
+936
+00:36:44,240 --> 00:36:46,920
+la gente que trabaja con datos geográficos
+
+937
+00:36:46,920 --> 00:36:48,800
+no viene
+
+938
+00:36:48,800 --> 00:36:50,660
+generalmente
+
+939
+00:36:50,660 --> 00:36:51,900
+de la cuestión cuantitativa
+
+940
+00:36:51,900 --> 00:36:54,880
+entonces por ahí manejan
+
+941
+00:36:54,880 --> 00:36:57,120
+métodos estadísticos o geostadísticos
+
+942
+00:36:57,120 --> 00:36:58,820
+pero no de la potencia
+
+943
+00:36:58,820 --> 00:37:00,760
+suficiente para poder trabajar con toda
+
+944
+00:37:00,760 --> 00:37:02,640
+esta información, pero de a poco
+
+945
+00:37:02,640 --> 00:37:04,320
+se van sumando
+
+946
+00:37:04,320 --> 00:37:07,020
+hay gente de la facultad
+
+947
+00:37:07,020 --> 00:37:08,880
+de ciencias agropecuarias que también está
+
+948
+00:37:08,880 --> 00:37:10,900
+bueno, uno de esos, Mariano Córdoba
+
+949
+00:37:10,900 --> 00:37:12,580
+un doctor en ciencias agropecuarias
+
+950
+00:37:12,580 --> 00:37:14,840
+está trabajando con nosotros
+
+951
+00:37:14,840 --> 00:37:15,420
+a través de CONICI
+
+952
+00:37:15,420 --> 00:37:16,880
+pero se está generando
+
+953
+00:37:16,880 --> 00:37:17,700
+una demanda alta
+
+954
+00:37:17,700 --> 00:37:18,440
+desde ese sector
+
+955
+00:37:18,440 --> 00:37:21,020
+nos gustaría
+
+956
+00:37:21,020 --> 00:37:21,980
+o personalmente
+
+957
+00:37:21,980 --> 00:37:22,400
+me gustaría
+
+958
+00:37:22,400 --> 00:37:23,620
+que se utilizara más
+
+959
+00:37:23,620 --> 00:37:26,140
+desde la arquitectura
+
+960
+00:37:26,140 --> 00:37:27,100
+en el tema
+
+961
+00:37:27,100 --> 00:37:28,760
+de la planificación urbana
+
+962
+00:37:28,760 --> 00:37:30,600
+porque hay mucha información
+
+963
+00:37:30,600 --> 00:37:31,260
+ahí para
+
+964
+00:37:31,260 --> 00:37:32,520
+para avanzar
+
+965
+00:37:32,520 --> 00:37:33,280
+en ese sentido
+
+966
+00:37:33,280 --> 00:37:34,840
+pero eventualmente
+
+967
+00:37:34,840 --> 00:37:35,420
+yo creo que
+
+968
+00:37:35,420 --> 00:37:36,180
+se va a terminar
+
+969
+00:37:36,180 --> 00:37:37,080
+generando eso
+
+970
+00:37:37,080 --> 00:37:37,480
+al menos
+
+971
+00:37:37,480 --> 00:37:38,780
+en el sector académico
+
+972
+00:37:38,780 --> 00:37:40,480
+los municipios
+
+973
+00:37:40,480 --> 00:37:41,820
+están integrados
+
+974
+00:37:41,820 --> 00:37:43,840
+dentro de una red, no todos
+
+975
+00:37:43,840 --> 00:37:45,000
+pero muchos de ellos
+
+976
+00:37:45,000 --> 00:37:46,720
+que se llama Red OMI
+
+977
+00:37:46,720 --> 00:37:49,680
+que OMI significa observatorio del mercado
+
+978
+00:37:49,680 --> 00:37:51,520
+inmobiliario que es
+
+979
+00:37:51,520 --> 00:37:53,600
+el sistema que
+
+980
+00:37:53,600 --> 00:37:55,760
+diseñó para cargar datos
+
+981
+00:37:55,760 --> 00:37:56,980
+para capturar datos de mercado
+
+982
+00:37:56,980 --> 00:37:59,620
+en el revalúo, es un sistema que está hecho
+
+983
+00:37:59,620 --> 00:38:01,380
+en PHP con Java Script
+
+984
+00:38:01,380 --> 00:38:03,800
+creo que es Open Layers
+
+985
+00:38:03,800 --> 00:38:05,420
+la librería que usaron
+
+986
+00:38:05,420 --> 00:38:06,960
+para crearlo
+
+987
+00:38:06,960 --> 00:38:09,380
+y los municipios están integrados
+
+988
+00:38:09,380 --> 00:38:11,760
+dentro de este sistema para cargar
+
+989
+00:38:11,760 --> 00:38:13,600
+datos, cargan sus datos
+
+990
+00:38:13,600 --> 00:38:16,060
+nosotros le ponemos
+
+991
+00:38:16,060 --> 00:38:17,480
+a disposición la evaluación
+
+992
+00:38:17,480 --> 00:38:19,660
+para que la tomen en caso de ser
+
+993
+00:38:19,660 --> 00:38:21,640
+necesario, la evaluación se publica
+
+994
+00:38:21,640 --> 00:38:23,660
+y lo puede tomar cualquier municipio
+
+995
+00:38:23,660 --> 00:38:25,300
+y a
+
+996
+00:38:25,300 --> 00:38:27,560
+a la hora de abrir todos
+
+997
+00:38:27,560 --> 00:38:29,760
+estos datos, hubo algunos actores
+
+998
+00:38:29,760 --> 00:38:31,660
+que les parecía, como contás
+
+999
+00:38:31,660 --> 00:38:33,560
+vos, hay gente que se siente propietaria
+
+1000
+00:38:33,560 --> 00:38:35,480
+de estos datos, hubo mucho
+
+1001
+00:38:35,480 --> 00:38:37,700
+rechazo, o inclusive afuera
+
+1002
+00:38:37,700 --> 00:38:39,400
+municipios que decían, no, no quiero que
+
+1003
+00:38:39,400 --> 00:38:40,840
+reevalúen las tierras donde estoy
+
+1004
+00:38:40,840 --> 00:38:43,720
+o internamente, ¿existen actores
+
+1005
+00:38:43,720 --> 00:38:45,560
+siempre que no quieren que esto que está haciendo
+
+1006
+00:38:45,560 --> 00:38:46,200
+ustedes pase?
+
+1007
+00:38:47,720 --> 00:38:49,600
+No, no, no, no, de hecho
+
+1008
+00:38:49,600 --> 00:38:53,220
+a ver
+
+1009
+00:38:53,220 --> 00:38:55,460
+va a sonar medio pertenecioso
+
+1010
+00:38:55,460 --> 00:38:57,180
+a lo que voy a decir, pero tienen por qué
+
+1011
+00:38:57,180 --> 00:38:59,920
+el nivel de reclamos
+
+1012
+00:38:59,920 --> 00:39:01,740
+que tuvo el revalúo
+
+1013
+00:39:01,740 --> 00:39:03,640
+fue ínfimo, no llegaron
+
+1014
+00:39:03,640 --> 00:39:04,680
+a 70 casos
+
+1015
+00:39:04,680 --> 00:39:05,940
+¿sí?
+
+1016
+00:39:07,460 --> 00:39:09,720
+lo cual es una locura
+
+1017
+00:39:09,720 --> 00:39:15,940
+porque imagínate que después de más de dos décadas de no revaluar, es muy poco.
+
+1018
+00:39:16,520 --> 00:39:20,300
+Pero bueno, en eso tiene que ver también la implementación que se hizo
+
+1019
+00:39:20,300 --> 00:39:27,160
+desde el Ministerio de Finanzas que estableció topes.
+
+1020
+00:39:27,900 --> 00:39:33,120
+Entonces vos no podés pagar un 50% más de lo que pagaste el año pasado.
+
+1021
+00:39:33,880 --> 00:39:36,840
+Entonces una buena parte del revalúo quedó debajo de ese tope.
+
+1022
+00:39:36,840 --> 00:39:40,000
+quizás sin ese resorte
+
+1023
+00:39:40,000 --> 00:39:41,680
+hubiese habido un rechazo mayor
+
+1024
+00:39:41,680 --> 00:39:43,840
+pero durante el proceso la verdad
+
+1025
+00:39:43,840 --> 00:39:44,800
+que no tuvimos
+
+1026
+00:39:44,800 --> 00:39:47,380
+demasiada resistencia
+
+1027
+00:39:47,380 --> 00:39:49,980
+es más, estuvimos trabajando
+
+1028
+00:39:49,980 --> 00:39:51,740
+con gente local de los pueblos
+
+1029
+00:39:51,740 --> 00:39:53,400
+de las ciudades del interior de la provincia que nos dieron
+
+1030
+00:39:53,400 --> 00:39:54,380
+muchísima información
+
+1031
+00:39:54,380 --> 00:39:57,400
+y siempre hubo una predisposición
+
+1032
+00:39:57,400 --> 00:39:58,560
+a colaborar muy grande
+
+1033
+00:39:58,560 --> 00:40:01,080
+y un esfuerzo muy grande de parte nuestra
+
+1034
+00:40:01,080 --> 00:40:02,720
+sobre todo de Mario Piumeto
+
+1035
+00:40:02,720 --> 00:40:05,380
+en tratar de
+
+1036
+00:40:05,380 --> 00:40:08,620
+Colocar la discusión y plantear la necesidad de que esto se haga
+
+1037
+00:40:08,620 --> 00:40:12,540
+porque trae más beneficios que costos a cortísimo plazo, ¿no?
+
+1038
+00:40:13,920 --> 00:40:14,360
+Perfecto.
+
+1039
+00:40:15,560 --> 00:40:17,720
+Ya nos pasamos el tiempo que tenía calculado,
+
+1040
+00:40:17,880 --> 00:40:19,600
+pero creo que valió totalmente la pena.
+
+1041
+00:40:19,720 --> 00:40:23,820
+Para mí fue muy interesante y calculo que para que la gente que lo escuche
+
+1042
+00:40:23,820 --> 00:40:24,620
+también lo sea.
+
+1043
+00:40:25,160 --> 00:40:27,880
+Generalmente cierro con una pregunta y es,
+
+1044
+00:40:28,160 --> 00:40:29,800
+como este podcast se llama Cadena de Datos,
+
+1045
+00:40:29,860 --> 00:40:31,720
+la idea es ir encadenando invitados.
+
+1046
+00:40:31,720 --> 00:40:33,780
+quería que me sugieras
+
+1047
+00:40:33,780 --> 00:40:35,920
+si se puede
+
+1048
+00:40:35,920 --> 00:40:37,880
+alguien para seguir conversando
+
+1049
+00:40:37,880 --> 00:40:39,080
+sobre datos y sobre todo
+
+1050
+00:40:39,080 --> 00:40:41,440
+sobre datos abiertos, ¿tenés alguien para
+
+1051
+00:40:41,440 --> 00:40:42,000
+recomendar?
+
+1052
+00:40:43,620 --> 00:40:45,220
+Y a mí me gustaría que se
+
+1053
+00:40:45,220 --> 00:40:47,640
+que se siga potenciando esto
+
+1054
+00:40:47,640 --> 00:40:49,820
+de la cuestión de la territorialidad
+
+1055
+00:40:49,820 --> 00:40:51,460
+en el análisis de la información
+
+1056
+00:40:51,460 --> 00:40:55,560
+en ese sentido
+
+1057
+00:40:55,560 --> 00:40:57,860
+me parece que
+
+1058
+00:40:57,860 --> 00:40:59,700
+quizás podría
+
+1059
+00:40:59,700 --> 00:41:01,740
+ser de mucha utilidad
+
+1060
+00:41:01,740 --> 00:41:04,020
+sugerirte a alguien que no tenga tanto un perfil
+
+1061
+00:41:04,020 --> 00:41:05,660
+técnico de análisis
+
+1062
+00:41:05,660 --> 00:41:07,780
+de la información, así como hablamos
+
+1063
+00:41:07,780 --> 00:41:09,580
+nosotros en el tema de la ciencia
+
+1064
+00:41:09,580 --> 00:41:11,580
+de datos, si se quiere, pero
+
+1065
+00:41:11,580 --> 00:41:12,880
+es una cuestión más de gestión
+
+1066
+00:41:12,880 --> 00:41:17,330
+estaría bueno que por ahí
+
+1067
+00:41:17,330 --> 00:41:19,070
+se pueda hablar con Mario Piumeto
+
+1068
+00:41:19,070 --> 00:41:21,750
+de estos temas, porque la cuestión política
+
+1069
+00:41:21,750 --> 00:41:23,710
+y la
+
+1070
+00:41:23,710 --> 00:41:25,330
+gestión y la comprensión
+
+1071
+00:41:25,330 --> 00:41:26,350
+del problema en sí
+
+1072
+00:41:26,350 --> 00:41:29,070
+la maneja con una solidez
+
+1073
+00:41:29,070 --> 00:41:31,130
+asombrosa, así que
+
+1074
+00:41:31,130 --> 00:41:33,650
+creo que podría agregar mucho a esta discusión
+
+1075
+00:41:33,650 --> 00:41:35,330
+Perfecto
+
+1076
+00:41:35,330 --> 00:41:38,010
+¿Te gustaría agregar a otras personas más?
+
+1077
+00:41:40,210 --> 00:41:41,610
+Que esté trabajando con datos
+
+1078
+00:41:41,610 --> 00:41:42,230
+¡Qué lindo!
+
+1079
+00:41:44,850 --> 00:41:47,210
+Mariano Córdoba sería una persona
+
+1080
+00:41:47,210 --> 00:41:49,190
+muy interesante con quien podrías hablar
+
+1081
+00:41:49,190 --> 00:41:49,810
+la verdad
+
+1082
+00:41:49,810 --> 00:41:52,590
+Es el investigador que me comentaste antes
+
+1083
+00:41:52,590 --> 00:41:54,990
+Sí, Mariano está haciendo un proyecto
+
+1084
+00:41:54,990 --> 00:41:57,490
+que es fantástico
+
+1085
+00:41:57,490 --> 00:41:59,470
+está tomando
+
+1086
+00:41:59,470 --> 00:42:01,350
+con muestras de suelo
+
+1087
+00:42:01,350 --> 00:42:03,110
+de composición de suelo
+
+1088
+00:42:03,110 --> 00:42:05,570
+está tratando de generar lo que se conoce como
+
+1089
+00:42:05,570 --> 00:42:06,890
+mapa digital de suelo
+
+1090
+00:42:06,890 --> 00:42:08,910
+hoy por hoy
+
+1091
+00:42:08,910 --> 00:42:12,070
+la productividad de los suelos de Córdoba
+
+1092
+00:42:12,070 --> 00:42:14,070
+y de todo el país la tenés en base a cartas
+
+1093
+00:42:14,070 --> 00:42:14,890
+del INTA
+
+1094
+00:42:14,890 --> 00:42:17,690
+que están hechas muy
+
+1095
+00:42:17,690 --> 00:42:20,270
+pero muy a pulmón, son trabajos gigantescos
+
+1096
+00:42:20,270 --> 00:42:22,150
+y Mariano está tratando
+
+1097
+00:42:22,150 --> 00:42:23,970
+de imprimirle mayor velocidad
+
+1098
+00:42:23,970 --> 00:42:25,230
+a la generación de todo esto
+
+1099
+00:42:25,230 --> 00:42:27,730
+mediante aplicación de técnicas de machine learning
+
+1100
+00:42:27,730 --> 00:42:30,610
+a la predicción
+
+1101
+00:42:30,610 --> 00:42:33,030
+de las calidades del suelo en toda la provincia
+
+1102
+00:42:33,030 --> 00:42:34,330
+y me parece en sí
+
+1103
+00:42:34,330 --> 00:42:36,330
+esa información que nosotros estamos esperando
+
+1104
+00:42:36,330 --> 00:42:38,530
+para utilizar en el revalúo
+
+1105
+00:42:38,530 --> 00:42:40,050
+pero en sí me parece
+
+1106
+00:42:40,050 --> 00:42:42,450
+sumamente interesante
+
+1107
+00:42:42,450 --> 00:42:44,150
+y que le otorgaría
+
+1108
+00:42:44,150 --> 00:42:46,790
+al sector agropecuario una herramienta
+
+1109
+00:42:46,790 --> 00:42:48,790
+gratuita e invalorable
+
+1110
+00:42:48,790 --> 00:42:50,950
+bien, bien
+
+1111
+00:42:50,950 --> 00:42:51,730
+bueno
+
+1112
+00:42:51,730 --> 00:42:54,410
+buenísimo Juan Pablo
+
+1113
+00:42:54,410 --> 00:42:55,590
+muchísimas gracias
+
+1114
+00:42:55,590 --> 00:42:58,450
+por favor Andrés, un abrazo grande
+
+1115
+00:42:58,450 --> 00:42:59,890
+gracias por el espacio
+
+1116
+00:42:59,890 --> 00:43:00,190
+Chau, chau.
+

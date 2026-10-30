@@ -1,0 +1,2852 @@
+1
+00:00:00,110 --> 00:00:26,550
+Cadena de datos, segunda temporada, de este lado Andrés Vázquez desde Córdoba en Argentina y desde el otro lado a 11 horas en el futuro, donde ya es mañana, me acompaña hoy Mariano Mosquera, Mariano tiene entre otros títulos, es doctor en ciencia política por la Universidad Nacional de Córdoba en Argentina, fue vocario del Centro de Ética de la Universidad de Harvard,
+
+2
+00:00:26,550 --> 00:00:33,170
+Trabajó en cooperación técnica para el Programa de Naciones Unidas para el Desarrollo, el PNUD
+
+3
+00:00:33,170 --> 00:00:37,970
+Y con el Banco Interamericano de Desarrollo, entre otros organismos internacionales
+
+4
+00:00:37,970 --> 00:00:43,530
+Actualmente es investigador y profesor de la Universidad Sun Yat-sen
+
+5
+00:00:43,530 --> 00:00:46,470
+Ya me voy a decir si lo pronuncié bien, en la República Popular China
+
+6
+00:00:46,470 --> 00:00:49,690
+Donde coordina el proyecto China Lab 21
+
+7
+00:00:49,690 --> 00:00:53,590
+Hola Mariano, muy buenas noches, muchas gracias por acompañarnos
+
+8
+00:00:53,590 --> 00:00:56,990
+Hola Andrés, bueno, bien pronunciado
+
+9
+00:00:56,990 --> 00:00:58,410
+así que perfecto todo
+
+10
+00:00:58,410 --> 00:01:00,570
+Perfecto, bien
+
+11
+00:01:00,570 --> 00:01:03,050
+Mariano, ya vamos
+
+12
+00:01:03,050 --> 00:01:04,950
+a llegar a esta parte que me parece muy valiosa
+
+13
+00:01:04,950 --> 00:01:06,790
+de China, pero yo arranco
+
+14
+00:01:06,790 --> 00:01:08,230
+en general estas entrevistas
+
+15
+00:01:08,230 --> 00:01:10,110
+preguntando por los comienzos
+
+16
+00:01:10,110 --> 00:01:13,050
+¿Cómo es que vas de la ciencia política
+
+17
+00:01:13,050 --> 00:01:15,010
+a específicamente
+
+18
+00:01:15,010 --> 00:01:17,150
+temas anticorrupción y transparencia?
+
+19
+00:01:17,270 --> 00:01:18,990
+Te quería preguntar si te acuerdas cuál fue tu primer
+
+20
+00:01:18,990 --> 00:01:20,830
+proyecto en el que te metiste
+
+21
+00:01:20,830 --> 00:01:21,470
+a este mundo
+
+22
+00:01:21,470 --> 00:01:23,330
+Sí, claro, claro
+
+23
+00:01:23,330 --> 00:01:27,210
+Fue un proyecto financiado por el Banco Interamericano de Desarrollo
+
+24
+00:01:27,210 --> 00:01:32,570
+Que tenía un objetivo de testear la Ley de Acceso de Información Pública
+
+25
+00:01:32,570 --> 00:01:35,510
+En varios lugares de América Latina
+
+26
+00:01:35,510 --> 00:01:38,830
+Y en particular nosotros lo hicimos en la provincia de Córdoba
+
+27
+00:01:38,830 --> 00:01:41,610
+Creamos con otra fundación, con Fundeps
+
+28
+00:01:41,610 --> 00:01:44,350
+Un programa que se llamó Córdoba Transparente
+
+29
+00:01:44,350 --> 00:01:46,310
+Y bueno, testeamos la ley
+
+30
+00:01:46,310 --> 00:01:48,890
+Y obviamente el enfoque en esa época
+
+31
+00:01:48,890 --> 00:01:50,790
+¿Te acordás que año final?
+
+32
+00:01:51,470 --> 00:01:55,530
+Sí, sí, estamos hablando del año 2008, 2009.
+
+33
+00:01:56,210 --> 00:01:58,030
+La prehistoria de...
+
+34
+00:01:58,030 --> 00:02:03,970
+Claro, sí, sí, porque además el enfoque era mucho más legalista, ¿no?
+
+35
+00:02:03,970 --> 00:02:09,390
+Tratar de ver cómo llegaba la información física muchas veces,
+
+36
+00:02:09,730 --> 00:02:12,030
+no necesariamente de manera digital.
+
+37
+00:02:12,430 --> 00:02:15,570
+Se probaban cuestiones más de técnica legislativa
+
+38
+00:02:15,570 --> 00:02:21,650
+que cuestiones de accesibilidad por vías digitales.
+
+39
+00:02:22,150 --> 00:02:24,570
+Así que la verdad que sí, han cambiado mucho los tiempos.
+
+40
+00:02:24,930 --> 00:02:28,630
+De todas formas, ya en esa época se empezó a hablar un poco de la transparencia activa,
+
+41
+00:02:28,670 --> 00:02:30,390
+la transparencia pasiva, ¿no?
+
+42
+00:02:31,010 --> 00:02:37,890
+Pero en aquel momento, sin portales de datos abiertos como política fuerte de transparencia activa todavía,
+
+43
+00:02:38,190 --> 00:02:41,310
+si no, bien como decimos, leyes de acceso a la información.
+
+44
+00:02:42,310 --> 00:02:48,930
+Exacto, exacto. Sí empezaban los gobiernos en Internet a publicar documentos en PDF, ¿no?
+
+45
+00:02:49,710 --> 00:02:56,870
+Y, bueno, se empezaban a generar de esa forma algún tipo de información en Internet de manera activa.
+
+46
+00:02:57,210 --> 00:03:03,170
+Pero es cierto que el enfoque de este proyecto con el cual empecé a trabajar temas de transparencia,
+
+47
+00:03:03,250 --> 00:03:08,730
+acceso a la información, era un enfoque más legalista y más de transparencia pasiva,
+
+48
+00:03:08,730 --> 00:03:17,790
+del derecho del ciudadano a preguntar y cómo se podía responder administrativamente y burocráticamente a estos pedidos.
+
+49
+00:03:18,230 --> 00:03:22,470
+No estaba tan pensado del lado de la tecnología, pero obviamente fue mutando esto
+
+50
+00:03:22,470 --> 00:03:30,230
+y fuimos adaptando yo y los equipos que siempre he trabajado en la universidad a los nuevos paradigmas.
+
+51
+00:03:30,530 --> 00:03:34,890
+¿Y en aquel momento contra qué se podía comparar lo que pasaba en Córdoba?
+
+52
+00:03:34,890 --> 00:03:42,110
+¿Te acordás si había referentes o un faro donde mirar en temas de transparencia en aquel momento donde vos empezaste?
+
+53
+00:03:44,510 --> 00:03:52,650
+Mira, no, no, lo que sí había, digamos, había experiencias más internacionales
+
+54
+00:03:52,650 --> 00:04:00,150
+que habían, por ejemplo, acortado los tiempos para hacer los pedidos de acceso a la información pública.
+
+55
+00:04:00,150 --> 00:04:04,650
+Argentina en ese momento no tenía una ley de acceso a la información pública, pero otros países sí.
+
+56
+00:04:04,890 --> 00:04:19,330
+El caso de Chile siempre había sido ya muy comentado, ¿no? Como nosotros además pedimos información sobre las compras públicas, ya había un mecanismo que se llama Chile Compra, que todavía sigue diciendo que era un faro.
+
+57
+00:04:19,330 --> 00:04:22,870
+Viene tu página web que hiciste un estudio sobre esa forma.
+
+58
+00:04:22,870 --> 00:04:40,550
+Sí, exacto. Ese era como un faro siempre interesante, el tema de Chile, ¿no? Siempre estuvo como a la vanguardia, por lo menos, de querer innovar en materia de acceso a la información, y bueno, y ya incluso con el desarrollo de algunas herramientas tecnológicas.
+
+59
+00:04:40,550 --> 00:04:49,070
+Y después en Córdoba, digamos, lo que sí había como mayor información del tipo financiera y presupuestaria
+
+60
+00:04:49,070 --> 00:04:51,490
+Obviamente con críticas, ¿no?
+
+61
+00:04:51,810 --> 00:04:58,450
+Respecto a la accesibilidad, a la complejidad, a la falta de información amigable, si se quiere
+
+62
+00:04:58,450 --> 00:05:02,150
+Pero había ya algo de información más financiera, ¿no?
+
+63
+00:05:02,150 --> 00:05:09,150
+El Ministerio de Finanzas sí era más proclive a brindar información que otros ministerios
+
+64
+00:05:09,150 --> 00:05:13,450
+Perfecto, te adelanto un poquito en el tiempo
+
+65
+00:05:13,450 --> 00:05:16,330
+Porque uno de los proyectos en el que yo te conocí
+
+66
+00:05:16,330 --> 00:05:17,690
+Y que me pareció notorio
+
+67
+00:05:17,690 --> 00:05:20,610
+Es el proceso que pasó en la ciudad de Villa María
+
+68
+00:05:20,610 --> 00:05:21,450
+En Córdoba
+
+69
+00:05:21,450 --> 00:05:23,370
+No sé exactamente en qué año
+
+70
+00:05:23,370 --> 00:05:26,510
+Pero hace cuatro o cinco años
+
+71
+00:05:26,510 --> 00:05:29,790
+Seguramente estuviste encargado
+
+72
+00:05:29,790 --> 00:05:32,750
+De un proceso de transparencia activa
+
+73
+00:05:32,750 --> 00:05:33,830
+En la ciudad de Villa María
+
+74
+00:05:33,830 --> 00:05:36,330
+Quería que me cuentes cómo comenzó ese proceso
+
+75
+00:05:36,330 --> 00:05:37,810
+Y en qué constaba
+
+76
+00:05:37,810 --> 00:05:41,410
+Sí, sí, estuve en los inicios del proyecto
+
+77
+00:05:41,410 --> 00:05:46,550
+En realidad implementándolo y desarrollándolo en los inicios
+
+78
+00:05:46,550 --> 00:05:51,010
+Es el proceso que inicia el actual intendente
+
+79
+00:05:51,010 --> 00:05:53,370
+Martín Gil
+
+80
+00:05:53,370 --> 00:05:55,770
+Sí, sí, que apenas asume su gobierno
+
+81
+00:05:55,770 --> 00:05:57,430
+Y de hecho es muy interesante el proceso
+
+82
+00:05:57,430 --> 00:05:59,570
+Porque incluso antes de asumir
+
+83
+00:05:59,570 --> 00:06:02,590
+Obviamente ya después de haber ganado la elección
+
+84
+00:06:02,590 --> 00:06:03,950
+Pero antes de asumir
+
+85
+00:06:03,950 --> 00:06:07,530
+Ya había planteado la necesidad de una mayor apertura
+
+86
+00:06:07,530 --> 00:06:16,750
+de la información del gobierno, y bueno, nos embarcamos juntos, digamos, en esta iniciativa.
+
+87
+00:06:16,830 --> 00:06:20,750
+Y la verdad que, bueno, muy interesante porque había mucha información,
+
+88
+00:06:21,270 --> 00:06:25,690
+pero bueno, hubo que hacer un trabajo grande de sistematización interna,
+
+89
+00:06:26,270 --> 00:06:31,310
+de cambios de formato, de cambio de cultura organizacional dentro de la municipalidad,
+
+90
+00:06:31,730 --> 00:06:35,170
+y bueno, se pudieron lograr objetivos muy, muy interesantes,
+
+91
+00:06:35,170 --> 00:06:38,450
+Porque la información que ya recopilaban las secretarías era interesante
+
+92
+00:06:38,450 --> 00:06:43,130
+Lo que pasa es que faltaba dar ese paso de organización, de sistematización
+
+93
+00:06:43,130 --> 00:06:49,030
+Y después, sí, tener esa gimnasia permanente de publicación
+
+94
+00:06:49,030 --> 00:06:55,170
+En este caso, fíjate que el tema tecnológico, si bien fue importante
+
+95
+00:06:55,170 --> 00:07:00,730
+Me parece que lo más importante fue ese cambio en la cultura organizacional interna de la municipalidad
+
+96
+00:07:00,730 --> 00:07:02,910
+Algo en lo que coincide
+
+97
+00:07:02,910 --> 00:07:04,430
+Muchos de los invitados es que
+
+98
+00:07:04,430 --> 00:07:06,210
+La tecnología está resuelta
+
+99
+00:07:06,210 --> 00:07:07,850
+En este caso, si no lo recuerdo mal
+
+100
+00:07:07,850 --> 00:07:10,690
+Ustedes simplemente contrataron la plataforma Junare
+
+101
+00:07:10,690 --> 00:07:12,550
+Y por otro lado
+
+102
+00:07:12,550 --> 00:07:14,950
+Corrió el proceso que me parece que es clara acá
+
+103
+00:07:14,950 --> 00:07:17,410
+Que es la voluntad política
+
+104
+00:07:17,410 --> 00:07:19,490
+Más allá de la voluntad de la cabeza
+
+105
+00:07:19,490 --> 00:07:21,030
+Que en aquel caso
+
+106
+00:07:21,030 --> 00:07:22,310
+Me pareció que era clara
+
+107
+00:07:22,310 --> 00:07:25,510
+Internamente me imagino
+
+108
+00:07:25,510 --> 00:07:27,230
+Que sean muchos debates, muchas discusiones
+
+109
+00:07:27,230 --> 00:07:28,570
+Que publicar, que no
+
+110
+00:07:28,570 --> 00:07:30,490
+Con los funcionarios
+
+111
+00:07:30,730 --> 00:07:33,130
+¿Cambiar la cultura? ¿Eso fue muy difícil?
+
+112
+00:07:34,990 --> 00:07:57,610
+No, no fue difícil eso, pero sí se tuvieron que dar esos debates y obviamente como en todo proceso, vos también lo has visto eso, Andrés, vos tenés como corrientes a favor dentro de un gobierno y resistencias a lo que se viene dando de manera inercial dentro de la administración pública.
+
+113
+00:07:57,610 --> 00:08:01,510
+así que también obviamente había resistencias, era bastante natural.
+
+114
+00:08:01,910 --> 00:08:07,350
+Pero en general no, en general no, en general era un tema más de cultura organizacional y burocrática.
+
+115
+00:08:07,890 --> 00:08:14,070
+Yo tengo una perspectiva en la Argentina con respecto a eso bastante clara.
+
+116
+00:08:14,070 --> 00:08:19,450
+He trabajado la verdad que en muchos procesos, no tan grandes como el de Villamaría,
+
+117
+00:08:19,530 --> 00:08:24,950
+donde me involucré de manera importante desarrollando todo el proceso,
+
+118
+00:08:24,950 --> 00:08:39,370
+pero sí he trabajado y conozco muchas experiencias, en la mayoría de los casos he visto que es más un problema de cultura organizacional que de voluntad política, en general, en general la resistencia a la voluntad política no es tan grande como creemos,
+
+119
+00:08:39,370 --> 00:08:43,550
+De que el intendente o que los funcionarios quieren ocultar algo
+
+120
+00:08:43,550 --> 00:08:46,730
+El proceso más de cambio de cultura organizacional
+
+121
+00:08:46,730 --> 00:08:49,050
+Ese es un desafío enorme
+
+122
+00:08:49,050 --> 00:08:52,890
+Porque es una administración la pública de Argentina
+
+123
+00:08:52,890 --> 00:08:55,750
+Que vive con el papel en el siglo pasado
+
+124
+00:08:55,750 --> 00:09:01,910
+Entonces ese cambio para mí creo que ha sido el más importante
+
+125
+00:09:01,910 --> 00:09:05,190
+Independientemente, para hacer un comentario de algo que dijiste
+
+126
+00:09:05,190 --> 00:09:08,170
+Independientemente que sí, que implementamos una plataforma de datos abiertos
+
+127
+00:09:08,170 --> 00:09:28,970
+También se hicieron algunas cuestiones como, no sé, que se llevaron a cambio de políticas públicas, no sé, como por ejemplo en temas de salud o, no sé, algunos mapas de calor georreferenciando los accidentes viales y eso generó, digamos, no sé, que se ponga un semáforo donde había más accidentes, ¿no? Cambió algunos ejes de política.
+
+128
+00:09:28,970 --> 00:09:32,070
+Sí, ese es un tema para mí clave
+
+129
+00:09:32,070 --> 00:09:34,750
+Mi pregunta para los implementadores
+
+130
+00:09:34,750 --> 00:09:36,390
+De portales de datos abiertos es
+
+131
+00:09:36,390 --> 00:09:38,270
+Antes de implementarlo
+
+132
+00:09:38,270 --> 00:09:40,410
+Los datos ya estaban siendo
+
+133
+00:09:40,410 --> 00:09:41,870
+Sistematizados, procesados
+
+134
+00:09:41,870 --> 00:09:44,290
+Y los funcionarios los usaban para tomar decisiones
+
+135
+00:09:44,290 --> 00:09:45,770
+Y lo que se hace es dar el salto
+
+136
+00:09:45,770 --> 00:09:47,810
+Y publicar la parte que se puede publicar
+
+137
+00:09:47,810 --> 00:09:49,630
+O el hecho de que lo publicas
+
+138
+00:09:49,630 --> 00:09:51,370
+Sube la vara del nivel
+
+139
+00:09:51,370 --> 00:09:53,470
+Del funcionario que dice
+
+140
+00:09:53,470 --> 00:09:55,090
+Si los datos los pueden ver todos
+
+141
+00:09:55,090 --> 00:09:57,950
+Yo tengo la obligación que no los miraba de mirarlos
+
+142
+00:09:57,950 --> 00:10:02,950
+y tomar decisiones que sean justificadas por estos datos.
+
+143
+00:10:03,690 --> 00:10:07,110
+¿Cuál es, en tu caso, o en las experiencias que conozcas,
+
+144
+00:10:07,390 --> 00:10:10,610
+los datos ya los usan los funcionarios y a veces se publican y a veces no?
+
+145
+00:10:10,610 --> 00:10:17,230
+¿O publicarlos sube la vara de los funcionarios y que los obligan a empezar a mirar datos?
+
+146
+00:10:17,830 --> 00:10:20,190
+Sí, tal cual, es la segunda opción.
+
+147
+00:10:20,650 --> 00:10:25,590
+Este público, el funcionario lo pone frente a la sociedad, digamos,
+
+148
+00:10:25,590 --> 00:10:29,950
+que evalúa la gestión, no solamente que el dato esté publicado en sí mismo.
+
+149
+00:10:30,570 --> 00:10:35,210
+Con lo cual, por más de que lo estén utilizando para cuestiones de gestión,
+
+150
+00:10:35,690 --> 00:10:40,390
+al estar públicos ya el margen de discrecionalidad se acota muchísimo
+
+151
+00:10:40,390 --> 00:10:45,330
+y, bueno, se tienen que empezar a cumplir objetivos de gestión
+
+152
+00:10:45,330 --> 00:10:47,030
+de acuerdo a los datos que están publicados.
+
+153
+00:10:47,830 --> 00:10:52,390
+En Villa María también, en menor medida, y la verdad que no se pudo implementar
+
+154
+00:10:52,390 --> 00:10:54,350
+del todo, pero se intentó
+
+155
+00:10:54,350 --> 00:10:56,070
+por ejemplo trabajar con cafeíno
+
+156
+00:10:56,070 --> 00:10:57,770
+con indicadores de gestión
+
+157
+00:10:57,770 --> 00:11:00,390
+aplicados sobre los datos abiertos
+
+158
+00:11:00,390 --> 00:11:02,390
+eso me parece que es un salto que en la Argentina
+
+159
+00:11:02,390 --> 00:11:04,590
+todavía hay que dar
+
+160
+00:11:04,590 --> 00:11:06,270
+hay varios
+
+161
+00:11:06,270 --> 00:11:07,910
+intentos, exactamente
+
+162
+00:11:07,910 --> 00:11:09,490
+el hecho de tener indicadores
+
+163
+00:11:09,490 --> 00:11:12,070
+continuaron el tiempo y además que
+
+164
+00:11:12,070 --> 00:11:14,570
+continúen a través de las diferentes gestiones
+
+165
+00:11:14,570 --> 00:11:16,270
+que sirven como una de las
+
+166
+00:11:16,270 --> 00:11:18,090
+formas de entender la realidad
+
+167
+00:11:18,090 --> 00:11:18,690
+y mejorarlas
+
+168
+00:11:18,690 --> 00:11:21,370
+me parece a mi
+
+169
+00:11:21,370 --> 00:11:23,950
+Uno de los saltos
+
+170
+00:11:23,950 --> 00:11:24,930
+Que nos faltan
+
+171
+00:11:24,930 --> 00:11:26,570
+Entonces por lo que vos me decís
+
+172
+00:11:26,570 --> 00:11:29,210
+Y por ahí coincidiendo con lo que me parece
+
+173
+00:11:29,210 --> 00:11:30,070
+Que pasa en algunos casos
+
+174
+00:11:30,070 --> 00:11:31,730
+Abrir portales de datos
+
+175
+00:11:31,730 --> 00:11:34,470
+Por más que las visitas sean pocas
+
+176
+00:11:34,470 --> 00:11:36,010
+El impacto interno es alto
+
+177
+00:11:36,010 --> 00:11:39,010
+Porque el funcionario se siente comprometido
+
+178
+00:11:39,010 --> 00:11:41,250
+Un poco más con los resultados
+
+179
+00:11:41,250 --> 00:11:43,670
+De su gestión
+
+180
+00:11:43,670 --> 00:11:44,370
+Así que
+
+181
+00:11:44,370 --> 00:11:46,310
+Te quería preguntar
+
+182
+00:11:46,310 --> 00:11:47,310
+De todas formas
+
+183
+00:11:47,310 --> 00:11:49,950
+Un comentario Andrés
+
+184
+00:11:49,950 --> 00:11:50,750
+De todas formas
+
+185
+00:11:50,750 --> 00:11:51,310
+Yo estoy
+
+186
+00:11:51,370 --> 00:11:56,070
+que ha sido como muy crítico, con un énfasis, sobre todo en la Argentina,
+
+187
+00:11:56,250 --> 00:12:00,030
+muy fuerte del portal de datos por la transparencia en sí misma.
+
+188
+00:12:00,310 --> 00:12:04,030
+Digamos, lo estamos comentando esto de los elementos de gestión,
+
+189
+00:12:04,470 --> 00:12:08,650
+pero en realidad sigue predominando un enfoque más de transparencia por sí misma,
+
+190
+00:12:08,650 --> 00:12:14,270
+tratando de que el funcionario diga, che, publico esto para que vean que en realidad
+
+191
+00:12:14,270 --> 00:12:19,050
+no hay prácticas de secretismo dentro de mi administración.
+
+192
+00:12:19,050 --> 00:12:22,010
+Pero ese es el enfoque que sigue predominando
+
+193
+00:12:22,010 --> 00:12:26,670
+Por más de que de a poco van empezando a aparecer cada vez más experiencias
+
+194
+00:12:26,670 --> 00:12:28,890
+Que impactan en la gestión de las políticas públicas
+
+195
+00:12:28,890 --> 00:12:30,430
+Pero son los casos menores
+
+196
+00:12:30,430 --> 00:12:33,390
+Y por más de que se publiquen
+
+197
+00:12:33,390 --> 00:12:35,670
+Y por más de que genere una vara de gestión
+
+198
+00:12:35,670 --> 00:12:39,490
+Y por más de que haya que dar un salto, como decías vos, también en KPI
+
+199
+00:12:39,490 --> 00:12:40,750
+En indicadores de gestión
+
+200
+00:12:40,750 --> 00:12:45,030
+Yo soy muy crítico y sigo creciendo que el enfoque predominante en la Argentina
+
+201
+00:12:45,030 --> 00:12:46,390
+Es el de la transparencia
+
+202
+00:12:46,390 --> 00:12:48,770
+Por la transparencia en sí misma
+
+203
+00:12:48,770 --> 00:12:50,750
+En el sentido de que no genera un valor agregado
+
+204
+00:12:50,750 --> 00:12:51,690
+En la gestión pública
+
+205
+00:12:51,690 --> 00:12:54,550
+Eso difiere del enfoque
+
+206
+00:12:54,550 --> 00:12:55,330
+De otros países
+
+207
+00:12:55,330 --> 00:12:58,070
+Así que por más de que lo estamos destacando
+
+208
+00:12:58,070 --> 00:13:00,190
+Quiero decir que el contexto en general
+
+209
+00:13:00,190 --> 00:13:02,610
+En la Argentina es más de esta transparencia
+
+210
+00:13:02,610 --> 00:13:04,430
+Para generar la percepción
+
+211
+00:13:04,430 --> 00:13:06,310
+Anticorrupción rápidamente en la sociedad
+
+212
+00:13:06,310 --> 00:13:08,650
+Que un modelo de gestión todavía
+
+213
+00:13:08,650 --> 00:13:10,030
+Bien, bien
+
+214
+00:13:10,030 --> 00:13:12,430
+Eso me introduce bien
+
+215
+00:13:12,430 --> 00:13:13,270
+A la siguiente pregunta
+
+216
+00:13:13,270 --> 00:13:16,190
+Algunas de las personas que escuchan
+
+217
+00:13:16,190 --> 00:13:25,010
+este podcast están o son parte de gobiernos que todavía no terminaron de encaminarse en el mundo
+
+218
+00:13:25,010 --> 00:13:31,550
+de la transparencia. ¿Qué consejo, uno, dos, tres consejos, lo que se te ocurran para un gobierno
+
+219
+00:13:31,550 --> 00:13:36,230
+que todavía mira esto, tiene ganas, pero no se anima? ¿Cuáles son los primeros pasos? ¿Qué tiene
+
+220
+00:13:36,230 --> 00:13:40,810
+que hacer un gobierno chiquito, mediano o grande para decir, bueno, me meto con esto y lo hago bien?
+
+221
+00:13:40,810 --> 00:13:44,190
+Bueno, primero que nada
+
+222
+00:13:44,190 --> 00:13:46,030
+Obviamente la voluntad política
+
+223
+00:13:46,030 --> 00:13:47,250
+Termina siendo siempre
+
+224
+00:13:47,250 --> 00:13:49,990
+El puntapié inicial, eso tiene que estar
+
+225
+00:13:49,990 --> 00:13:51,710
+Tienen que acompañar
+
+226
+00:13:51,710 --> 00:13:53,170
+Los funcionarios de primera línea
+
+227
+00:13:53,170 --> 00:13:55,430
+Es decir, quienes son en el caso
+
+228
+00:13:55,430 --> 00:13:57,730
+De un gobierno municipal, por ejemplo, los secretarios
+
+229
+00:13:57,730 --> 00:13:59,730
+Sin acompañamiento de los secretarios
+
+230
+00:13:59,730 --> 00:14:01,790
+Y solamente con el acompañamiento del intendente
+
+231
+00:14:01,790 --> 00:14:03,570
+Es muy difícil esto
+
+232
+00:14:03,570 --> 00:14:06,170
+Los equipos de gestión
+
+233
+00:14:06,170 --> 00:14:07,730
+Ya en la relación con los datos
+
+234
+00:14:07,730 --> 00:14:09,170
+Pueden ser mínimos
+
+235
+00:14:09,170 --> 00:14:18,830
+En Villa María lo hicimos con un equipo realmente muy chico, pero al tener el compromiso de los secretarios municipales, todo eso se avanzó rápidamente.
+
+236
+00:14:19,450 --> 00:14:24,510
+Y la mayor recomendación que yo tengo es esto, lo que tenía que ver con la pregunta anterior.
+
+237
+00:14:24,510 --> 00:14:40,990
+tratar de buscar elementos que generen valor agregado en la sociedad, que generen una sociedad que pueda ser más sustentable, que pueda generarle valor agregado al transporte, a la movilidad, al tratamiento de los residuos,
+
+238
+00:14:40,990 --> 00:14:49,110
+Tratar de buscar esos elementos que son los más sustentables para que esto tenga en el tiempo, digamos, un impacto importante.
+
+239
+00:14:49,830 --> 00:14:54,630
+Si no, si se hace solamente por un criterio de generar una rápida percepción en la sociedad,
+
+240
+00:14:55,170 --> 00:15:02,150
+la experiencia va a ser contraproducente porque se van a abrir datos y cuando venga el próximo gobierno se los van a cerrar
+
+241
+00:15:02,150 --> 00:15:05,970
+o van a cambiar, digamos, el tipo de datos.
+
+242
+00:15:05,970 --> 00:15:09,890
+Con lo cual, me parece que lo más importante
+
+243
+00:15:09,890 --> 00:15:12,730
+Es tratar de cambiar este modelo en la Argentina
+
+244
+00:15:12,730 --> 00:15:15,050
+De que los datos sirven para la gestión
+
+245
+00:15:15,050 --> 00:15:17,010
+Eso me parece lo clave, Andrés
+
+246
+00:15:17,010 --> 00:15:19,170
+Bien, bien, esa me parece
+
+247
+00:15:19,170 --> 00:15:20,670
+Me quedo con esa idea
+
+248
+00:15:20,670 --> 00:15:25,470
+Y te agrego una que a mí me pasó por experiencias personales
+
+249
+00:15:25,470 --> 00:15:28,710
+En el caso de ustedes, que en Villa María
+
+250
+00:15:28,710 --> 00:15:32,570
+Tenían una comunidad universitaria y periodística
+
+251
+00:15:32,570 --> 00:15:33,810
+Que se interesó por el portal
+
+252
+00:15:33,810 --> 00:15:36,170
+me parece que también hay que salir a buscar la comunidad
+
+253
+00:15:36,170 --> 00:15:38,070
+que use los datos y que nos
+
+254
+00:15:38,070 --> 00:15:40,210
+ayude a mirarlos un poco
+
+255
+00:15:40,210 --> 00:15:40,750
+me parece
+
+256
+00:15:40,750 --> 00:15:44,250
+ese es un desafío enorme
+
+257
+00:15:44,250 --> 00:15:45,610
+y por más de que
+
+258
+00:15:45,610 --> 00:15:47,730
+Villa María por ejemplo como lo mencionaste
+
+259
+00:15:47,730 --> 00:15:49,970
+era un entorno tal vez más
+
+260
+00:15:49,970 --> 00:15:51,590
+propicio a esto
+
+261
+00:15:51,590 --> 00:15:53,870
+esto que se llama
+
+262
+00:15:53,870 --> 00:15:55,150
+el ecosistema de datos
+
+263
+00:15:55,150 --> 00:15:56,550
+de poder generar
+
+264
+00:15:56,550 --> 00:15:59,790
+actores que realmente puedan ser
+
+265
+00:15:59,790 --> 00:16:01,970
+un puente entre los datos
+
+266
+00:16:01,970 --> 00:16:04,270
+su procesamiento y la interpretación
+
+267
+00:16:04,270 --> 00:16:06,270
+ciudadana general, o el uso
+
+268
+00:16:06,270 --> 00:16:08,390
+ciudadano general, es clave
+
+269
+00:16:08,390 --> 00:16:10,250
+es cierto que cuando
+
+270
+00:16:10,250 --> 00:16:12,350
+uno mira las experiencias más exitosas
+
+271
+00:16:12,350 --> 00:16:13,710
+de datos abiertos, no sé
+
+272
+00:16:13,710 --> 00:16:15,590
+en Estados Unidos, por ejemplo
+
+273
+00:16:15,590 --> 00:16:17,710
+el ecosistema es muy fuerte
+
+274
+00:16:17,710 --> 00:16:19,330
+el ecosistema es muy fuerte
+
+275
+00:16:19,330 --> 00:16:20,550
+es cierto que nosotros
+
+276
+00:16:20,550 --> 00:16:22,930
+a nivel estructural
+
+277
+00:16:22,930 --> 00:16:25,090
+ese ecosistema está muy debilitado
+
+278
+00:16:25,090 --> 00:16:27,350
+porque claro, las universidades
+
+279
+00:16:27,350 --> 00:16:30,890
+tienen otra agenda
+
+280
+00:16:30,890 --> 00:16:33,810
+porque las organizaciones de la sociedad civil
+
+281
+00:16:33,810 --> 00:16:36,330
+en realidad muchas veces les cuesta
+
+282
+00:16:36,330 --> 00:16:40,270
+adquirir fondos para subsistir y poder dedicar tiempo
+
+283
+00:16:40,270 --> 00:16:42,650
+entonces estructuralmente
+
+284
+00:16:42,650 --> 00:16:44,910
+la conformación del ecosistema a veces es difícil
+
+285
+00:16:44,910 --> 00:16:48,110
+y bueno, se conforma un escenario de transparencia activa
+
+286
+00:16:48,110 --> 00:16:50,170
+muy unidireccional, del gobierno diciendo
+
+287
+00:16:50,170 --> 00:16:54,350
+publico esto y al final nadie lo utiliza
+
+288
+00:16:54,350 --> 00:16:56,630
+o nadie le saca el potencial que debería
+
+289
+00:16:56,630 --> 00:17:00,270
+así que bueno, el desafío de formar un ecosistema es importante
+
+290
+00:17:00,270 --> 00:17:04,350
+Probablemente la ciudad de Buenos Aires sea quien mejor, obviamente, tiene un ecosistema.
+
+291
+00:17:04,350 --> 00:17:09,250
+En ese sentido, me parece, por lo menos en Argentina, el más grande.
+
+292
+00:17:09,730 --> 00:17:17,430
+Mariano, te llevo a mí, a lo que más me interesa y a lo que posiblemente más voy a aprender yo y las personas que escuchan,
+
+293
+00:17:17,750 --> 00:17:25,990
+porque estás hace no sé cuántos años en China, como investigador y profesor de la Universidad de Sun Yat-sen,
+
+294
+00:17:25,990 --> 00:17:28,270
+Con un proyecto que se llama
+
+295
+00:17:28,270 --> 00:17:29,270
+Chiralad 21
+
+296
+00:17:29,270 --> 00:17:31,030
+Que no me animo a preguntarte que es
+
+297
+00:17:31,030 --> 00:17:33,250
+Porque me gustaría que primero me introduzcas
+
+298
+00:17:33,250 --> 00:17:35,570
+A cómo es este mundo
+
+299
+00:17:35,570 --> 00:17:36,850
+En China
+
+300
+00:17:36,850 --> 00:17:39,170
+Antes de preguntarte específicamente
+
+301
+00:17:39,170 --> 00:17:41,370
+Quería saber si China es comparable
+
+302
+00:17:41,370 --> 00:17:43,170
+Con Argentina, con Chile
+
+303
+00:17:43,170 --> 00:17:44,750
+Con nuestro portal de datos
+
+304
+00:17:44,750 --> 00:17:47,170
+¿Cuál es el contexto en el que estás allá?
+
+305
+00:17:48,190 --> 00:17:49,770
+Bueno, la verdad que es un contexto
+
+306
+00:17:49,770 --> 00:17:50,910
+Muy diferente
+
+307
+00:17:50,910 --> 00:17:53,050
+A todo occidente
+
+308
+00:17:53,050 --> 00:18:03,250
+tanto porque los preceptos teóricos y lógicos con los cuales se aplican criterios de transparencia
+
+309
+00:18:03,250 --> 00:18:08,110
+o criterios de gestión de la política pública son bastante diferentes
+
+310
+00:18:08,110 --> 00:18:15,190
+entonces eso genera un cambio bastante radical en toda la perspectiva de cómo uno capta datos
+
+311
+00:18:15,190 --> 00:18:18,650
+y cómo uno los analiza y cómo uno los distribuye
+
+312
+00:18:18,650 --> 00:18:26,950
+Yo vine hace tres años a la universidad, es un chacén, en el sur de China,
+
+313
+00:18:27,030 --> 00:18:31,690
+estoy bien al sur de China, justo en la frontera con Macao y enfrente de Hong Kong.
+
+314
+00:18:32,230 --> 00:18:36,310
+Así que dentro de todo es la zona más occidental de China
+
+315
+00:18:36,310 --> 00:18:41,010
+y que tiene más relaciones, digamos, con el comercio global
+
+316
+00:18:41,010 --> 00:18:46,690
+y con la apertura, digamos, social, digamos, a nuevas experiencias
+
+317
+00:18:46,690 --> 00:18:47,890
+que tengan que ver con Occidente.
+
+318
+00:18:47,890 --> 00:19:06,190
+Así que es un entorno que la verdad que se ha generado a propósito, digamos, a propósito digo por estrategias incluso del gobierno central, del gobierno de Beijing, para que el área sea un área especial de vinculación entre China y Occidente.
+
+319
+00:19:06,190 --> 00:19:32,390
+Entonces hay como muchos puentes, no solo físicos que además están, digamos, sino muchos puentes culturales con Occidente, que permiten generar un entorno bastante interesante, innovación, porque de hecho la innovación aquí en el sur de China se define de esa manera, se define como la combinación entre lo oriental y lo occidental, en el choque de esas culturas, bueno, qué cuestiones nuevas pueden aparecer, por ejemplo, en el desarrollo de nuevas herramientas tecnológicas.
+
+320
+00:19:32,390 --> 00:19:50,090
+Así que es un entorno bastante interesante, ¿no? El gobierno central lo ha llamado el área de la Gran Bahía, incluye, bueno, nueve ciudades de la provincia de Guangdong, Macao, Zhuhai, ciudades enormes que son las ciudades de mayor desarrollo tecnológico de China, como Shenzhen, por ejemplo.
+
+321
+00:19:50,090 --> 00:20:03,170
+Así que bueno, es un área especialmente dedicada a la innovación y es un área especialmente donde se trata de trabajar ese puente cultural entre Oriente y Occidente.
+
+322
+00:20:03,170 --> 00:20:19,050
+¿Y la transparencia está vista como algo innovador? ¿Cuál es tu trabajo en el proyecto? ¿Vos trabajás vinculado a datos abiertos, a temas anticorrupción, a transparencia?
+
+323
+00:20:20,090 --> 00:20:29,210
+Bien, a ver, varias cosas. En realidad, lo que trabajamos fuertemente es la recolección y la interpretación de datos.
+
+324
+00:20:29,750 --> 00:20:39,850
+La distribución luego de los datos, por ejemplo, datos comerciales, ¿no? Se trabajan mucho aquí, datos de inversión extranjera directa, ¿no?
+
+325
+00:20:39,850 --> 00:20:48,550
+Eso es muy común tratar de ver, por ejemplo, la influencia de la inversión extranjera directa en las provincias de aquí del sur de China o en las ciudades del sur de China.
+
+326
+00:20:48,550 --> 00:20:54,870
+Eso lo hemos trabajado mucho con la universidad los primeros años de que estuve aquí.
+
+327
+00:20:55,830 --> 00:21:00,290
+Pero sí, la distribución tiene ciertas particularidades.
+
+328
+00:21:00,490 --> 00:21:05,670
+Primero, los estándares para agrupar esos datos muchas veces son dinámicos,
+
+329
+00:21:05,970 --> 00:21:10,270
+no son tan estables como estamos acostumbrados en Occidente.
+
+330
+00:21:10,390 --> 00:21:13,150
+Eso hace que haya una particular forma de distribución.
+
+331
+00:21:13,150 --> 00:21:17,850
+Yo entiendo que esto hace mucho ruido, pero tiene una razón de ser, digamos,
+
+332
+00:21:17,850 --> 00:21:24,430
+por ejemplo aquí en China, tiene que ver con que está como muy predispuesto China
+
+333
+00:21:24,430 --> 00:21:26,550
+a innovar sobre esos estándares.
+
+334
+00:21:27,050 --> 00:21:32,730
+Eso es cierto que dificulta la evaluación y la comparación hacia atrás y a largo plazo.
+
+335
+00:21:32,910 --> 00:21:36,490
+Nosotros estamos acostumbrados a un entorno de mucha más estabilidad,
+
+336
+00:21:37,210 --> 00:21:42,790
+pero aquí, digamos, verlo de forma dinámica y el cambio de esos estándares
+
+337
+00:21:42,790 --> 00:21:46,070
+para que esos estándares tengan un impacto mucho más inmediato
+
+338
+00:21:46,070 --> 00:21:51,550
+y mucho más pragmático, por decir una palabra que en China se utiliza mucho,
+
+339
+00:21:52,030 --> 00:21:55,190
+tiene una connotación muy positiva.
+
+340
+00:21:55,690 --> 00:22:00,430
+Entonces, bueno, eso, por ejemplo, para mí fue algo que me hizo mucho ruido, ¿no?
+
+341
+00:22:00,970 --> 00:22:04,170
+¿Cómo vamos a trabajar datos y cómo vamos a difundirlo?
+
+342
+00:22:04,170 --> 00:22:06,810
+Si en realidad no estamos buscando un entorno de estabilidad,
+
+343
+00:22:06,950 --> 00:22:11,310
+sino un entorno mucho más de pragmatismo y eficacia a corto plazo.
+
+344
+00:22:11,410 --> 00:22:15,730
+Y en ese contexto, si tenemos que cambiar los estándares de los datos, bueno, cambiémoslo.
+
+345
+00:22:16,070 --> 00:22:24,770
+Bien, ¿y la forma en la que vos accedés a esos datos son a través de portales abiertos o convenios específicos de la universidad en la que estás trabajando?
+
+346
+00:22:25,330 --> 00:22:31,110
+No, muchos datos están abiertos, lo que pasa es que, bueno, encontré con dificultades de este tipo, ¿no?
+
+347
+00:22:31,110 --> 00:22:35,070
+La estandarización de los metadatos y, bueno, ni que hablar el idioma.
+
+348
+00:22:35,070 --> 00:22:46,230
+El idioma es una brecha gigante, digamos, con Occidente
+
+349
+00:22:46,230 --> 00:22:49,730
+Porque realmente, digamos, sin la interpretación de traductores
+
+350
+00:22:49,730 --> 00:22:52,670
+Que además, digamos, los traductores tienen que ser buenos
+
+351
+00:22:52,670 --> 00:22:56,950
+Y tienen que ser del área de los cuales se está trabajando
+
+352
+00:22:56,950 --> 00:22:59,070
+Porque puede haber traductores que sean buenos
+
+353
+00:22:59,070 --> 00:23:03,730
+Pero sean traductores en áreas que no tienen que ver con justo esos estándares de metadatos
+
+354
+00:23:03,730 --> 00:23:04,690
+Que estamos utilizando
+
+355
+00:23:04,690 --> 00:23:07,330
+Y con lo cual la traducción va a ser mala
+
+356
+00:23:07,330 --> 00:23:09,610
+Entonces el elemento de la traducción
+
+357
+00:23:09,610 --> 00:23:10,230
+Es lo más importante
+
+358
+00:23:10,230 --> 00:23:12,210
+Pero en general están abiertos esos portales
+
+359
+00:23:12,210 --> 00:23:14,570
+Lo que pasa es que también
+
+360
+00:23:14,570 --> 00:23:17,530
+Nosotros estamos teniendo esta grabación
+
+361
+00:23:17,530 --> 00:23:19,210
+Por Skype y no por Google
+
+362
+00:23:19,210 --> 00:23:21,590
+Porque también el ecosistema tecnológico chino
+
+363
+00:23:21,590 --> 00:23:23,570
+Es cerrado, es interno de China
+
+364
+00:23:23,570 --> 00:23:25,410
+Entonces yo te digo que
+
+365
+00:23:25,410 --> 00:23:26,770
+Esos datos están abiertos
+
+366
+00:23:26,770 --> 00:23:28,470
+Pero tendrías que venir a China
+
+367
+00:23:28,470 --> 00:23:29,910
+Para poder acceder
+
+368
+00:23:29,910 --> 00:23:32,190
+Porque la página desde afuera
+
+369
+00:23:32,190 --> 00:23:34,430
+Te va a costar entrar
+
+370
+00:23:34,430 --> 00:23:35,970
+Algunas sí, algunas menos
+
+371
+00:23:35,970 --> 00:23:38,810
+Pero en general el ecosistema chino
+
+372
+00:23:38,810 --> 00:23:40,770
+Funciona bien acá dentro de China
+
+373
+00:23:40,770 --> 00:23:42,870
+Las páginas chinas
+
+374
+00:23:42,870 --> 00:23:44,710
+Tienen buena conexión
+
+375
+00:23:44,710 --> 00:23:45,590
+Y buena accesibilidad
+
+376
+00:23:45,590 --> 00:23:47,250
+Pero es interno de China
+
+377
+00:23:47,250 --> 00:23:50,390
+Lo cual eso genera
+
+378
+00:23:50,390 --> 00:23:53,250
+Obviamente las mayores críticas internacionales
+
+379
+00:23:53,250 --> 00:23:54,030
+Y bueno
+
+380
+00:23:54,030 --> 00:23:56,810
+Junto con este mecanismo de modificación
+
+381
+00:23:56,810 --> 00:23:57,570
+De los estándares
+
+382
+00:23:57,570 --> 00:23:58,550
+Yo lo entiendo
+
+383
+00:23:58,550 --> 00:24:01,370
+Pero también es cierto que la lógica funciona diferente
+
+384
+00:24:01,370 --> 00:24:15,050
+Entonces, lo mismo que decíamos para los gobiernos municipales, no necesariamente hay una voluntad de querer ocultar o de querer controlar en exceso. También hay otras, hay que pensar que hay otras lógicas de pensamiento que están siendo utilizadas.
+
+385
+00:24:15,050 --> 00:24:20,770
+Y en tu trabajo diario te quería preguntar si estás vinculado con funcionarios del gobierno
+
+386
+00:24:20,770 --> 00:24:24,030
+O principalmente con funcionarios de la universidad
+
+387
+00:24:24,030 --> 00:24:27,110
+Y te quería preguntar, en esa relación para afuera y para adentro
+
+388
+00:24:27,110 --> 00:24:31,650
+¿Cómo es tu equipo? ¿Tenés a otros latinoamericanos, europeos?
+
+389
+00:24:31,750 --> 00:24:33,310
+¿Con quiénes trabajas en el día a día?
+
+390
+00:24:33,310 --> 00:24:41,250
+¿Y para quién trabajas? ¿Si es para la universidad? ¿Si es para el gobierno? ¿Si es para los dos?
+
+391
+00:24:41,250 --> 00:24:44,310
+Bueno, es interesante la pregunta
+
+392
+00:24:44,310 --> 00:24:46,570
+Porque la diferencia entre el funcionario
+
+393
+00:24:46,570 --> 00:24:47,950
+De la universidad y el funcionario del gobierno
+
+394
+00:24:47,950 --> 00:24:49,750
+Es muy chiquita, digamos
+
+395
+00:24:49,750 --> 00:24:52,030
+Es decir, el gobierno
+
+396
+00:24:52,030 --> 00:24:53,850
+Por ejemplo, todas las universidades aquí
+
+397
+00:24:53,850 --> 00:24:55,290
+La mayoría son públicas
+
+398
+00:24:55,290 --> 00:24:58,030
+La universidad que yo trabajo es una universidad pública
+
+399
+00:24:58,030 --> 00:25:00,410
+Es la más importante
+
+400
+00:25:00,410 --> 00:25:02,670
+Del sur de China
+
+401
+00:25:02,670 --> 00:25:04,470
+Y en los rankings nacionales
+
+402
+00:25:04,470 --> 00:25:06,330
+Siempre está quinta, sexta
+
+403
+00:25:06,330 --> 00:25:07,170
+Séptima
+
+404
+00:25:07,170 --> 00:25:09,990
+Pero tiene un alto prestigio
+
+405
+00:25:09,990 --> 00:25:17,610
+en el sur de China, y bueno, sí es cierto que la diferencia entre un funcionario de la universidad
+
+406
+00:25:17,610 --> 00:25:21,350
+y un funcionario gubernamental es mínima, te decía, porque en realidad, por ejemplo,
+
+407
+00:25:21,350 --> 00:25:28,890
+hay una oficina del gobierno dentro de la universidad, es decir, el gobierno tiene un mayor control
+
+408
+00:25:28,890 --> 00:25:35,570
+sobre las universidades que en Occidente, cuando pensamos en una universidad pública
+
+409
+00:25:35,570 --> 00:25:37,370
+con una alta autonomía
+
+410
+00:25:37,370 --> 00:25:39,970
+aquí las universidades dependen casi directamente
+
+411
+00:25:39,970 --> 00:25:41,590
+del Ministerio de Educación
+
+412
+00:25:41,590 --> 00:25:43,870
+provincial y nacional
+
+413
+00:25:43,870 --> 00:25:44,830
+con lo cual
+
+414
+00:25:44,830 --> 00:25:46,130
+la relación con
+
+415
+00:25:46,130 --> 00:25:48,690
+una relación con un
+
+416
+00:25:48,690 --> 00:25:51,430
+funcionario universitario es una relación
+
+417
+00:25:51,430 --> 00:25:53,750
+con un funcionario gubernamental
+
+418
+00:25:53,750 --> 00:25:55,190
+esto yo no lo tenía
+
+419
+00:25:55,190 --> 00:25:57,090
+la verdad tampoco lo tenía tan claro
+
+420
+00:25:57,090 --> 00:25:59,270
+antes de venir
+
+421
+00:25:59,270 --> 00:26:01,110
+y de empezar a trabajar en el proyecto
+
+422
+00:26:01,110 --> 00:26:03,070
+me di cuenta que estaba trabajando
+
+423
+00:26:03,070 --> 00:26:05,450
+por el gobierno ya cuando tenía varios meses
+
+424
+00:26:05,450 --> 00:26:07,530
+aquí, pero
+
+425
+00:26:07,530 --> 00:26:09,330
+es cierto que
+
+426
+00:26:09,330 --> 00:26:11,270
+funciona de esa manera
+
+427
+00:26:11,270 --> 00:26:13,370
+y en el día a día sí
+
+428
+00:26:13,370 --> 00:26:14,910
+hay un centro de estudios
+
+429
+00:26:14,910 --> 00:26:16,930
+muy
+
+430
+00:26:16,930 --> 00:26:19,290
+multidisciplinario que se estableció en la
+
+431
+00:26:19,290 --> 00:26:20,870
+universidad, hay otros
+
+432
+00:26:20,870 --> 00:26:22,510
+latinoamericanos
+
+433
+00:26:22,510 --> 00:26:24,610
+mexicanos
+
+434
+00:26:24,610 --> 00:26:26,910
+brasileros, hay
+
+435
+00:26:26,910 --> 00:26:28,970
+españoles también, con los cuales
+
+436
+00:26:28,970 --> 00:26:30,990
+podemos compartir el idioma
+
+437
+00:26:30,990 --> 00:26:31,970
+y bueno
+
+438
+00:26:31,970 --> 00:26:35,310
+y los asistentes generalmente
+
+439
+00:26:35,310 --> 00:26:36,190
+Que nos ayudan
+
+440
+00:26:36,190 --> 00:26:38,810
+Obviamente son traductores
+
+441
+00:26:38,810 --> 00:26:40,910
+Eso es lo que más necesitamos
+
+442
+00:26:40,910 --> 00:26:42,330
+Además de cierto apoyo
+
+443
+00:26:42,330 --> 00:26:43,590
+Obviamente tecnológico
+
+444
+00:26:43,590 --> 00:26:45,550
+Pero lo más necesario
+
+445
+00:26:45,550 --> 00:26:46,790
+Son traductores
+
+446
+00:26:46,790 --> 00:26:48,770
+Para poder generar interpretaciones
+
+447
+00:26:48,770 --> 00:26:51,170
+Que esto nos ayuda a nosotros
+
+448
+00:26:51,170 --> 00:26:54,070
+A desarrollar los indicadores
+
+449
+00:26:54,070 --> 00:26:55,390
+Los proyectos nuestros
+
+450
+00:26:55,390 --> 00:26:57,370
+De la universidad
+
+451
+00:26:57,370 --> 00:26:59,030
+Que iniciamos hace dos años
+
+452
+00:26:59,030 --> 00:27:00,410
+Tienen que ver con
+
+453
+00:27:00,410 --> 00:27:01,750
+Más que nada con el desarrollo
+
+454
+00:27:01,750 --> 00:27:03,170
+Esto de indicadores
+
+455
+00:27:03,170 --> 00:27:04,830
+Pero bueno, según en indicadores
+
+456
+00:27:04,830 --> 00:27:07,190
+además esto que te decía, muy dinámicos
+
+457
+00:27:07,190 --> 00:27:08,530
+no son tan estables
+
+458
+00:27:08,530 --> 00:27:10,770
+pero los funcionarios
+
+459
+00:27:10,770 --> 00:27:12,410
+los miran
+
+460
+00:27:12,410 --> 00:27:14,930
+¿hay una cultura
+
+461
+00:27:14,930 --> 00:27:17,070
+parecida del funcionario público
+
+462
+00:27:17,070 --> 00:27:18,930
+en usar o mirar los datos?
+
+463
+00:27:19,670 --> 00:27:20,870
+¿se puede comparar eso?
+
+464
+00:27:21,450 --> 00:27:22,910
+Sí, sí, te diría que
+
+465
+00:27:22,910 --> 00:27:24,770
+mucho más, te diría que mucho más porque
+
+466
+00:27:24,770 --> 00:27:26,010
+a ver
+
+467
+00:27:26,010 --> 00:27:27,550
+por eso, digamos
+
+468
+00:27:27,550 --> 00:27:30,910
+hay cosas del contexto más
+
+469
+00:27:30,910 --> 00:27:32,870
+político, digamos
+
+470
+00:27:32,870 --> 00:27:34,050
+que es importante comentar
+
+471
+00:27:34,050 --> 00:27:55,090
+Es cierto que aquí los funcionarios gubernamentales, por ejemplo, los que son los alcaldes o los intendentes, como los llamamos nosotros, son funcionarios que generalmente son una selección interna dentro del Partido Comunista Chino, con lo cual la selección de esos funcionarios depende de éxitos en la gestión.
+
+472
+00:27:55,090 --> 00:28:18,830
+Esos éxitos de la gestión lo tienen que mostrar en números, generalmente números económicos, ¿no? Es decir, si alguien asume un municipio y logra aumentar su PBI, su Producto Bruto Interno, su Producto Bruto Regional, luego de tres años de gestión, es posible que ese funcionario pase de ser intendente a ser gobernador, por el mismo mecanismo interno de selección del partido.
+
+473
+00:28:18,830 --> 00:28:20,790
+Pero lo tiene que mostrar con números
+
+474
+00:28:20,790 --> 00:28:23,330
+Con lo cual te diría que
+
+475
+00:28:23,330 --> 00:28:24,890
+Mucho más que nosotros
+
+476
+00:28:24,890 --> 00:28:26,950
+Miran los números y es mucho más importante
+
+477
+00:28:26,950 --> 00:28:29,130
+Para ellos, por este mecanismo
+
+478
+00:28:29,130 --> 00:28:30,750
+De selección interna dentro del partido
+
+479
+00:28:30,750 --> 00:28:32,930
+Que les genera un premio muy concreto de gestión
+
+480
+00:28:32,930 --> 00:28:34,950
+Fijate que vos, nosotros en la Argentina
+
+481
+00:28:34,950 --> 00:28:37,530
+Cuando hablábamos de esto, era una evaluación
+
+482
+00:28:37,530 --> 00:28:38,390
+Ciudadana
+
+483
+00:28:38,390 --> 00:28:40,810
+Que hay que ver si eso repercute en las selecciones
+
+484
+00:28:40,810 --> 00:28:43,130
+Puede que sí, puede que no, no lo sé
+
+485
+00:28:43,130 --> 00:28:44,870
+Aquí repercute directamente
+
+486
+00:28:44,870 --> 00:28:47,010
+En escalar
+
+487
+00:28:47,010 --> 00:28:49,030
+posiciones dentro de la gestión
+
+488
+00:28:49,030 --> 00:28:50,410
+pública. Es cierto que
+
+489
+00:28:50,410 --> 00:28:52,410
+los números
+
+490
+00:28:52,410 --> 00:28:54,990
+estos y los datos
+
+491
+00:28:54,990 --> 00:28:56,930
+estos que estamos hablando tienen un énfasis
+
+492
+00:28:56,930 --> 00:28:58,990
+muy económico, ¿no? Sobre todo son
+
+493
+00:28:58,990 --> 00:29:01,050
+datos económicos y son los datos
+
+494
+00:29:01,050 --> 00:29:02,850
+que yo he trabajado aquí en la universidad.
+
+495
+00:29:03,550 --> 00:29:04,910
+Bien, me quedan tres
+
+496
+00:29:04,910 --> 00:29:05,690
+preguntas nomás.
+
+497
+00:29:07,370 --> 00:29:08,890
+La última con respecto
+
+498
+00:29:08,890 --> 00:29:11,170
+a China. ¿Existe
+
+499
+00:29:11,170 --> 00:29:13,630
+una comunidad o periodística
+
+500
+00:29:13,630 --> 00:29:15,170
+o activista o
+
+501
+00:29:15,170 --> 00:29:17,290
+de investigadores universitarios
+
+502
+00:29:17,290 --> 00:29:18,810
+que además del gobierno
+
+503
+00:29:18,810 --> 00:29:19,790
+consuman los datos
+
+504
+00:29:19,790 --> 00:29:22,590
+¿cómo es de los datos para afuera?
+
+505
+00:29:23,290 --> 00:29:24,330
+¿quiénes los miran?
+
+506
+00:29:25,310 --> 00:29:27,070
+bueno, es buena la pregunta
+
+507
+00:29:27,070 --> 00:29:28,470
+si vos me preguntás
+
+508
+00:29:28,470 --> 00:29:31,030
+son datos bien direccionados
+
+509
+00:29:31,030 --> 00:29:32,570
+para la gestión pública
+
+510
+00:29:32,570 --> 00:29:35,530
+para la gestión pública interna
+
+511
+00:29:35,530 --> 00:29:36,730
+por más de que estén públicos
+
+512
+00:29:36,730 --> 00:29:38,730
+están direccionados para la gestión pública interna
+
+513
+00:29:38,730 --> 00:29:39,970
+y el control
+
+514
+00:29:39,970 --> 00:29:41,750
+no es un control externo
+
+515
+00:29:41,750 --> 00:29:43,730
+pero si es un control interno muy fuerte
+
+516
+00:29:43,730 --> 00:29:47,230
+El Partido Comunista Chino es un partido gigante
+
+517
+00:29:47,230 --> 00:29:50,250
+No sé qué cantidad de funcionarios tendrá el Partido Comunista Chino
+
+518
+00:29:50,250 --> 00:29:53,190
+Pero pueden ser más de 100 millones de personas
+
+519
+00:29:53,190 --> 00:29:56,690
+Que trabajen activamente en el Partido Comunista
+
+520
+00:29:56,690 --> 00:29:59,350
+Con lo cual, si bien no existe ese mecanismo
+
+521
+00:29:59,350 --> 00:30:02,670
+Que nosotros llamaríamos más externo en Occidente
+
+522
+00:30:02,670 --> 00:30:05,990
+Hay un mecanismo externo con respecto a las jurisdicciones
+
+523
+00:30:05,990 --> 00:30:07,650
+Si vos tenés una jurisdicción local
+
+524
+00:30:07,650 --> 00:30:11,130
+Vas a tener el control externo de funcionarios del partido
+
+525
+00:30:11,130 --> 00:30:13,790
+De otras jurisdicciones que estén mirando tu número
+
+526
+00:30:13,790 --> 00:30:15,670
+Y además vas a tener el control externo
+
+527
+00:30:15,670 --> 00:30:17,150
+De los otros intendentes que están
+
+528
+00:30:17,150 --> 00:30:19,730
+Compitiendo por vos por tener mejores números
+
+529
+00:30:19,730 --> 00:30:20,850
+Y mejores indicadores
+
+530
+00:30:20,850 --> 00:30:23,450
+Y eso se tiene que hacer sí o sí con datos que son
+
+531
+00:30:23,450 --> 00:30:25,010
+Transparentes
+
+532
+00:30:25,010 --> 00:30:27,390
+Es decir, por más de que no existe ese mecanismo
+
+533
+00:30:27,390 --> 00:30:29,790
+Más de sociedad civil como lo llamaríamos
+
+534
+00:30:29,790 --> 00:30:31,630
+Nosotros o el ecosistema
+
+535
+00:30:31,630 --> 00:30:32,710
+Que hablábamos antes
+
+536
+00:30:32,710 --> 00:30:35,570
+Sí hay un mecanismo de competencia y de control
+
+537
+00:30:35,570 --> 00:30:37,790
+Muy fuerte dentro de los mecanismos
+
+538
+00:30:37,790 --> 00:30:38,990
+Institucionales chinos
+
+539
+00:30:38,990 --> 00:30:40,630
+Así que hay control y evaluación
+
+540
+00:30:40,630 --> 00:30:43,670
+Nosotros lo podemos considerar como más interno
+
+541
+00:30:43,670 --> 00:30:45,910
+Dentro de nuestra lógica
+
+542
+00:30:45,910 --> 00:30:47,950
+Pero por el tamaño que tiene allá
+
+543
+00:30:47,950 --> 00:30:49,370
+Es externo
+
+544
+00:30:49,370 --> 00:30:51,670
+Y ojo que ellos tampoco
+
+545
+00:30:51,670 --> 00:30:53,330
+Lo considerarían tan interno
+
+546
+00:30:53,330 --> 00:30:56,350
+Cuando es alguien de otra jurisdicción
+
+547
+00:30:56,350 --> 00:30:57,730
+O cuando es un funcionario
+
+548
+00:30:57,730 --> 00:30:58,610
+Alto del partido
+
+549
+00:30:58,610 --> 00:31:00,850
+Ellos lo ven como un control externo a ese
+
+550
+00:31:00,850 --> 00:31:02,730
+No lo ven como un control interno
+
+551
+00:31:02,730 --> 00:31:05,430
+Y ojo que un funcionario
+
+552
+00:31:05,430 --> 00:31:07,810
+También de un nivel de jurisdicción superior
+
+553
+00:31:07,810 --> 00:31:09,330
+A nivel gubernamental
+
+554
+00:31:09,330 --> 00:31:10,210
+Y ni que hablar nacional
+
+555
+00:31:10,210 --> 00:31:12,190
+Además tiene su equipo bastante
+
+556
+00:31:12,190 --> 00:31:14,310
+Bastante, no, muy profesional
+
+557
+00:31:14,310 --> 00:31:16,310
+Para evaluar los datos de la gestión
+
+558
+00:31:16,310 --> 00:31:17,890
+De ese municipio, ¿no? Con lo cual
+
+559
+00:31:17,890 --> 00:31:20,390
+También se vuelve, ahí se resuelven todos los problemas
+
+560
+00:31:20,390 --> 00:31:22,570
+Que hablábamos de ecosistemas débiles
+
+561
+00:31:22,570 --> 00:31:24,270
+Sin financiamiento, acá tenés
+
+562
+00:31:24,270 --> 00:31:26,410
+Un entorno muy profesional del que te va a evaluar
+
+563
+00:31:26,410 --> 00:31:27,910
+Porque de eso depende además tu carrera
+
+564
+00:31:27,910 --> 00:31:29,370
+Política en China
+
+565
+00:31:29,370 --> 00:31:32,390
+Perfecto, te traigo algo
+
+566
+00:31:32,390 --> 00:31:33,610
+Algo un poco más
+
+567
+00:31:33,610 --> 00:31:35,590
+Interesante y personal
+
+568
+00:31:35,590 --> 00:31:38,230
+Me imagino que más allá de que estás hace 3 años allá
+
+569
+00:31:38,230 --> 00:31:40,370
+Sabes perfectamente lo que pasa en Argentina
+
+570
+00:31:40,370 --> 00:31:42,730
+Y tenemos elecciones este año
+
+571
+00:31:42,730 --> 00:31:44,970
+Más allá de quién gane
+
+572
+00:31:44,970 --> 00:31:47,410
+Te pongo en una situación hipotética
+
+573
+00:31:47,410 --> 00:31:49,370
+Gana el presidente X
+
+574
+00:31:49,370 --> 00:31:52,950
+Y decide darle un espacio central
+
+575
+00:31:52,950 --> 00:31:53,770
+Y muy importante
+
+576
+00:31:53,770 --> 00:31:55,070
+A temas de transparencia
+
+577
+00:31:55,070 --> 00:31:57,470
+Y te convoca como ministro
+
+578
+00:31:57,470 --> 00:31:59,430
+Del nombre que vos quieras
+
+579
+00:31:59,430 --> 00:32:02,930
+O secretario nacional de transparencia activa
+
+580
+00:32:02,930 --> 00:32:04,650
+O director nacional de datos abiertos
+
+581
+00:32:04,650 --> 00:32:07,650
+¿Te gustaría trabajar para el gobierno de Argentina
+
+582
+00:32:07,650 --> 00:32:08,810
+En algún momento en el futuro
+
+583
+00:32:08,810 --> 00:32:12,150
+Sí, sí, yo he trabajado a nivel gubernamental
+
+584
+00:32:12,150 --> 00:32:12,510
+También
+
+585
+00:32:12,510 --> 00:32:15,670
+Cuando he trabajado, por ejemplo, para el PNUD
+
+586
+00:32:15,670 --> 00:32:17,950
+Eran proyectos aplicados
+
+587
+00:32:17,950 --> 00:32:19,250
+Al gobierno nacional
+
+588
+00:32:19,250 --> 00:32:21,890
+Y sí, por supuesto, siempre me ha gustado
+
+589
+00:32:21,890 --> 00:32:23,750
+Digamos, la función pública
+
+590
+00:32:23,750 --> 00:32:25,930
+Me parece tremendamente enriquecedora
+
+591
+00:32:25,930 --> 00:32:28,050
+Obviamente hay que acordar
+
+592
+00:32:28,050 --> 00:32:30,070
+No es solo la posición
+
+593
+00:32:30,070 --> 00:32:32,050
+Hay que acordar siempre
+
+594
+00:32:32,050 --> 00:32:32,590
+Con la agenda
+
+595
+00:32:32,590 --> 00:32:35,590
+Sí, una agenda, un proyecto
+
+596
+00:32:35,590 --> 00:32:37,270
+Hacia dónde vamos
+
+597
+00:32:37,270 --> 00:33:01,490
+Esto de trabajar con la transparencia activa, unidireccional, sin fortalecimiento de ecosistemas de datos, o por ejemplo, sin, claro, direccionamiento hacia agregar valor a la gestión pública y generando simplemente percepciones, anticorrupción, eso no es algo que me atraparía, digamos, ¿no?
+
+598
+00:33:01,490 --> 00:33:20,290
+Pero si se puede dar una cuenta que incluya esto de fortalecer el ecosistema y que sea sustentable en el tiempo porque estás generando valor agregado a la gestión pública, sí, claro que sí, claro que sí, siempre me ha gustado y siempre me he comprometido con diferentes gestiones, incluso de diferentes partes.
+
+599
+00:33:20,290 --> 00:33:39,090
+Sí, sí, sí. Última pregunta, Mariano, te libero agradeciéndote, y la única pregunta que le hago a todos es, ¿qué dos o tres personas vos me sugerirías para entrevistar, para continuar conociendo de este mundo en Argentina o en otros lugares, personas que vos quieras de cualquier lugar del mundo?
+
+600
+00:33:39,090 --> 00:33:42,530
+Bueno, a ver
+
+601
+00:33:42,530 --> 00:33:43,970
+Sí, puedo
+
+602
+00:33:43,970 --> 00:33:45,750
+Recomendarte en Canadá
+
+603
+00:33:45,750 --> 00:33:48,230
+En Canadá hay un secretario
+
+604
+00:33:48,230 --> 00:33:50,910
+Que es muy interesante
+
+605
+00:33:50,910 --> 00:33:52,470
+De la ciudad de
+
+606
+00:33:52,470 --> 00:33:53,230
+Montreal
+
+607
+00:33:53,230 --> 00:33:55,370
+Que está trabajando hace tiempo
+
+608
+00:33:55,370 --> 00:33:57,230
+Con temas bastante innovadores
+
+609
+00:33:57,230 --> 00:33:59,150
+Respecto a esto de
+
+610
+00:33:59,150 --> 00:34:01,410
+Generar valor agregado en áreas
+
+611
+00:34:01,410 --> 00:34:03,190
+Donde no son comúnmente
+
+612
+00:34:03,190 --> 00:34:06,270
+Fácil generar valor agregado
+
+613
+00:34:06,270 --> 00:34:08,150
+Porque temas de movilidad
+
+614
+00:34:08,150 --> 00:34:09,350
+Por ejemplo, el transporte
+
+615
+00:34:09,350 --> 00:34:12,170
+Ha sido algo que puede parecer
+
+616
+00:34:12,170 --> 00:34:13,690
+Más intuitivo y rápido
+
+617
+00:34:13,690 --> 00:34:16,230
+Esto de cómo mejoramos
+
+618
+00:34:16,230 --> 00:34:17,170
+La calidad de vida de la gente
+
+619
+00:34:17,170 --> 00:34:19,830
+Pero podría recomendarte
+
+620
+00:34:19,830 --> 00:34:21,190
+En Montreal
+
+621
+00:34:21,190 --> 00:34:22,790
+¿Cómo es su nombre?
+
+622
+00:34:23,510 --> 00:34:25,990
+Estoy dudando entre dos funcionarios
+
+623
+00:34:25,990 --> 00:34:26,210
+¿No?
+
+624
+00:34:27,670 --> 00:34:30,110
+Ya te voy a pasar los datos
+
+625
+00:34:30,110 --> 00:34:30,870
+Después, André
+
+626
+00:34:30,870 --> 00:34:33,130
+Bueno, perfecto
+
+627
+00:34:33,130 --> 00:34:35,190
+He tenido muchos contactos con ellos
+
+628
+00:34:35,190 --> 00:34:37,630
+También por proyectos aquí
+
+629
+00:34:37,630 --> 00:34:40,490
+Relacionados con China
+
+630
+00:34:40,490 --> 00:34:42,290
+Así que ahí hay dos personas que me parecen
+
+631
+00:34:42,290 --> 00:34:43,410
+Muy interesantes porque son
+
+632
+00:34:43,410 --> 00:34:44,990
+Si bien son del mismo equipo
+
+633
+00:34:44,990 --> 00:34:47,790
+Me parece que
+
+634
+00:34:47,790 --> 00:34:50,070
+Bueno, le ha generado
+
+635
+00:34:50,070 --> 00:34:51,890
+Le ha generado, digamos
+
+636
+00:34:51,890 --> 00:34:54,070
+Un valor diferente también
+
+637
+00:34:54,070 --> 00:34:56,130
+Que tengan una perspectiva diferente entre ellos dos
+
+638
+00:34:56,130 --> 00:34:58,190
+Así que la verdad que cuando he
+
+639
+00:34:58,190 --> 00:35:00,130
+Trabajado con ellos, he estado en contacto
+
+640
+00:35:00,130 --> 00:35:01,310
+Con ellos, me ha parecido muy
+
+641
+00:35:01,310 --> 00:35:03,430
+Muy interesante que tengas tal vez
+
+642
+00:35:03,430 --> 00:35:05,270
+Una charla
+
+643
+00:35:05,270 --> 00:35:07,310
+Me encantaría hablar con alguien
+
+644
+00:35:07,310 --> 00:35:09,270
+de Canadá, sí, sí, sí, me encantaría
+
+645
+00:35:09,270 --> 00:35:11,330
+¿Querés sumar a alguien más de invitaciones
+
+646
+00:35:11,330 --> 00:35:11,710
+Mariano?
+
+647
+00:35:13,330 --> 00:35:15,170
+Y bueno, después la perspectiva de Chile
+
+648
+00:35:15,170 --> 00:35:16,970
+no sé si has tenido la oportunidad de hablar con
+
+649
+00:35:16,970 --> 00:35:18,090
+gente de Chile
+
+650
+00:35:18,090 --> 00:35:21,490
+He hablado con alguno, pero sugerime
+
+651
+00:35:21,490 --> 00:35:22,610
+sugerime, lo agrego en la lista
+
+652
+00:35:22,610 --> 00:35:25,630
+También, digamos
+
+653
+00:35:25,630 --> 00:35:27,790
+se me está complicando
+
+654
+00:35:27,790 --> 00:35:29,730
+ahora el nombre de la persona
+
+655
+00:35:29,730 --> 00:35:31,710
+que está a cargo, porque ha cambiado últimamente
+
+656
+00:35:31,710 --> 00:35:33,650
+pero ha habido una perspectiva interesante
+
+657
+00:35:33,650 --> 00:35:35,350
+que tal vez conoces
+
+658
+00:35:35,350 --> 00:35:37,330
+en datos abiertos en materia energética
+
+659
+00:35:37,330 --> 00:35:39,110
+Sí, sí, sí
+
+660
+00:35:39,110 --> 00:35:41,690
+hay un proyecto que todos me refieren
+
+661
+00:35:41,690 --> 00:35:43,350
+y yo casualmente trabajé
+
+662
+00:35:43,350 --> 00:35:45,470
+en Junar cuando
+
+663
+00:35:45,470 --> 00:35:46,790
+hicieron
+
+664
+00:35:46,790 --> 00:35:48,650
+y me involucré un montón
+
+665
+00:35:48,650 --> 00:35:49,990
+de tecnología
+
+666
+00:35:49,990 --> 00:35:52,930
+Y ese proyecto está siendo
+
+667
+00:35:52,930 --> 00:35:55,270
+siendo revisado
+
+668
+00:35:55,270 --> 00:35:55,650
+digamos
+
+669
+00:35:55,650 --> 00:35:59,010
+como iniciativa
+
+670
+00:35:59,010 --> 00:36:00,850
+lo he visto en otras
+
+671
+00:36:00,850 --> 00:36:03,190
+experiencias latinoamericanas que están empezando
+
+672
+00:36:03,190 --> 00:36:04,930
+a hacer referencia a ese
+
+673
+00:36:04,930 --> 00:36:08,970
+Y después también hay otra iniciativa, más que nombre te estoy pasando proyecto.
+
+674
+00:36:09,750 --> 00:36:13,330
+Sí, sí, sí. El de Chile es Energía Abierta el que me nombraste.
+
+675
+00:36:13,790 --> 00:36:20,770
+Exacto, exacto. Y he cambiado la persona a cargo, pero me parece que es una iniciativa que está siendo bastante reconocida.
+
+676
+00:36:21,210 --> 00:36:28,250
+Y la otra que es interesante es toda la estrategia, que es más como una coalición de transparencia
+
+677
+00:36:28,250 --> 00:36:34,810
+y que han trabajado también con datos en temas mineros, que tiene su sede en Perú, digamos,
+
+678
+00:36:34,930 --> 00:36:43,590
+La iniciativa creo que se llama algo así como coalición por la transparencia minera, algo así
+
+679
+00:36:43,590 --> 00:36:47,030
+Que también me parece que es muy interesante
+
+680
+00:36:47,030 --> 00:36:54,770
+Porque también me ha interesado a mí mucho cuando los proyectos se enfocan en perspectivas bastante concretas
+
+681
+00:36:54,770 --> 00:36:57,790
+Esto energía, lo otro, la problemática minera
+
+682
+00:36:57,790 --> 00:37:03,410
+En Estados Unidos también hay muchas iniciativas, por ejemplo, con la industria farmacéutica
+
+683
+00:37:03,410 --> 00:37:05,410
+Tradicionalmente siempre vista
+
+684
+00:37:05,410 --> 00:37:06,970
+De manera muy negativa
+
+685
+00:37:06,970 --> 00:37:08,770
+Por la sociedad norteamericana y en general
+
+686
+00:37:08,770 --> 00:37:11,170
+Como por grupos económicos bastante
+
+687
+00:37:11,170 --> 00:37:13,270
+Oscuros, digamos, dentro de
+
+688
+00:37:13,270 --> 00:37:15,750
+Del manejo de la información
+
+689
+00:37:15,750 --> 00:37:17,550
+Así que
+
+690
+00:37:17,550 --> 00:37:18,970
+Si vos me dejás
+
+691
+00:37:18,970 --> 00:37:20,990
+En vez de recomendarte nombres que no te he dado
+
+692
+00:37:20,990 --> 00:37:22,850
+La experiencia
+
+693
+00:37:22,850 --> 00:37:25,010
+La experiencia de Montreal, la experiencia de
+
+694
+00:37:25,010 --> 00:37:26,050
+Energía Abierta de Chile
+
+695
+00:37:26,050 --> 00:37:29,130
+La coalición por la transparencia
+
+696
+00:37:29,130 --> 00:37:31,370
+En datos
+
+697
+00:37:31,370 --> 00:37:32,490
+De minería
+
+698
+00:37:32,490 --> 00:37:34,290
+que tiene ser en Perú
+
+699
+00:37:34,290 --> 00:37:36,730
+y tal vez algún proyecto
+
+700
+00:37:36,730 --> 00:37:38,290
+en Harvard, cuando yo estuve
+
+701
+00:37:38,290 --> 00:37:40,450
+allí, había varios
+
+702
+00:37:40,450 --> 00:37:41,910
+proyectos también de
+
+703
+00:37:41,910 --> 00:37:44,490
+datos respecto
+
+704
+00:37:44,490 --> 00:37:46,130
+a la industria farmacéutica, también te podría
+
+705
+00:37:46,130 --> 00:37:48,390
+recomendar luego algún nombre
+
+706
+00:37:48,390 --> 00:37:49,930
+para que puedas contactar también
+
+707
+00:37:49,930 --> 00:37:51,950
+me parece una iniciativa muy valiosa
+
+708
+00:37:51,950 --> 00:37:54,070
+me encanta Mariano
+
+709
+00:37:54,070 --> 00:37:55,890
+después si me pasa algún mail, algún nombre
+
+710
+00:37:55,890 --> 00:37:57,790
+me va a venir fantástico
+
+711
+00:37:57,790 --> 00:37:59,790
+muchísimas gracias Mariano
+
+712
+00:37:59,790 --> 00:38:01,850
+gracias, gracias a vos Andrés
+
+713
+00:38:01,850 --> 00:38:03,370
+estamos en contacto, un abrazo grande
+

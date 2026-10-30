@@ -46,6 +46,17 @@
           <p>{{ episodio.descripcion }}</p>
         </div>
 
+        {% if episodio.transcripcion_txt %}
+        <div class="cd-box cd-transcripcion mt-4">
+          <h2 class="cd-box-title mb-1"><i class="bi bi-file-text"></i> Transcripción</h2>
+          <p class="cd-muted small mb-3">Transcripto con Whisper (large-v3-turbo), sin corrección humana: puede tener errores, sobre todo en nombres propios.</p>
+          <div class="d-flex flex-wrap gap-2">
+            <a class="cd-chip" href="{{ episodio.transcripcion_txt }}" onclick="tag_analytics('click', 'transcripcion', '{{ episodio.base_name }}')"><i class="bi bi-file-text"></i> Leer transcripción</a>
+            {% if episodio.transcripcion_srt %}<a class="cd-chip" href="{{ episodio.transcripcion_srt }}" download><i class="bi bi-badge-cc"></i> Subtítulos .srt</a>{% endif %}
+          </div>
+        </div>
+        {% endif %}
+
         {% if episodio.ideas %}
         <h2 class="cd-section-title cd-section-title-sm mt-5">Ideas y enlaces de la charla</h2>
         <ul class="cd-ideas js-linkify">
@@ -54,6 +65,7 @@
           {% endfor %}
         </ul>
         {% endif %}
+
 
         {% if episodio.youtube_id %}
         <h2 class="cd-section-title cd-section-title-sm mt-5">En video</h2>

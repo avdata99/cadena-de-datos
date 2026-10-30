@@ -1,0 +1,2600 @@
+1
+00:00:00,000 --> 00:00:29,680
+Cadena de datos, episodio número 11. El invitado de hoy es Maximiliano Chisnerman. Maximiliano trabajó en diferentes gobiernos de la provincia de Buenos Aires en Argentina desde 2004 como responsable de modernización y digitalización de Marcos Paz, después del 2009 como subsecretario de modernización de Mercedes, después como secretario de modernización de Pilar de 2016 y actualmente es director de
+
+2
+00:00:29,680 --> 00:00:36,120
+Sistemas de la Municipal de Luján. Buenas tardes, Maxi, ¿cómo estás? ¿Estuvo completa la presentación?
+
+3
+00:00:36,860 --> 00:00:43,880
+¿Cómo andás, Andrés? Sí, en Pilar fui asesor, no fui secretario. Trabajé con Ceci y Luca.
+
+4
+00:00:45,120 --> 00:00:49,020
+Perfecto, sí, sí, la conocemos a Ceci y posiblemente la vayamos a invitar también.
+
+5
+00:00:50,580 --> 00:00:57,120
+Arranco con la primera pregunta, Maxi, y es por donde empezó. Yo, en lo personal, te conocí trabajando muy fuerte
+
+6
+00:00:57,120 --> 00:00:58,620
+con un portal de datos abiertos
+
+7
+00:00:58,620 --> 00:01:00,840
+desde Mercedes. Quería saber si esa fue
+
+8
+00:01:00,840 --> 00:01:02,840
+tu primera experiencia en el mundo
+
+9
+00:01:02,840 --> 00:01:05,100
+de los datos abiertos o en alguno de los otros
+
+10
+00:01:05,100 --> 00:01:06,960
+gobiernos ya había tenido alguna experiencia.
+
+11
+00:01:08,340 --> 00:01:09,400
+Mirá, en realidad
+
+12
+00:01:09,400 --> 00:01:11,200
+esto de
+
+13
+00:01:11,200 --> 00:01:13,600
+mostrar información a la ciudadanía
+
+14
+00:01:13,600 --> 00:01:15,120
+aunque parezca mentira
+
+15
+00:01:15,120 --> 00:01:17,420
+lo hice en el 2005
+
+16
+00:01:17,420 --> 00:01:18,860
+2006 en Marcos Paz
+
+17
+00:01:18,860 --> 00:01:21,280
+no existía
+
+18
+00:01:21,280 --> 00:01:22,860
+esto de lo que era gobierno abierto
+
+19
+00:01:22,860 --> 00:01:24,940
+datos abiertos. No, no, no había portales
+
+20
+00:01:24,940 --> 00:01:26,900
+no había nada. Nada. Pero
+
+21
+00:01:26,900 --> 00:01:29,760
+Marcos Paz fue
+
+22
+00:01:29,760 --> 00:01:32,120
+la primer ciudad digital
+
+23
+00:01:32,120 --> 00:01:33,800
+de la provincia de Buenos Aires
+
+24
+00:01:33,800 --> 00:01:36,240
+inaugurada por el entonces gobernador
+
+25
+00:01:36,240 --> 00:01:36,920
+Scioli
+
+26
+00:01:36,920 --> 00:01:40,260
+y como habíamos hecho mucho avance en gobierno electrónico
+
+27
+00:01:40,260 --> 00:01:41,940
+que es donde yo más por ahí
+
+28
+00:01:41,940 --> 00:01:43,740
+me destaco
+
+29
+00:01:43,740 --> 00:01:45,900
+como
+
+30
+00:01:45,900 --> 00:01:48,340
+visión de un ciudadano común y corriente
+
+31
+00:01:48,340 --> 00:01:49,760
+le planteó al intendente
+
+32
+00:01:49,760 --> 00:01:51,860
+la idea de decir, che, Ricardo
+
+33
+00:01:51,860 --> 00:01:54,380
+la verdad que sería increíble
+
+34
+00:01:54,380 --> 00:01:55,980
+que la gente pudiera ver en qué estamos
+
+35
+00:01:55,980 --> 00:02:02,400
+gastando la guita, a quién le estamos comprando, que los proveedores puedan ver si le compramos,
+
+36
+00:02:02,460 --> 00:02:07,240
+no sé, papel higiénico a uno, cuánto le estamos pagando para que el otro mejore el precio,
+
+37
+00:02:08,220 --> 00:02:14,960
+y también el tema de los ingresos públicos, ¿no? Poder mostrar en tiempo real cómo iban
+
+38
+00:02:14,960 --> 00:02:20,500
+ingresando a través de rentas, que es la dirección de rentas en el caso de Marcos Paz,
+
+39
+00:02:20,500 --> 00:02:23,280
+cómo iba ingresando dinero al erario público.
+
+40
+00:02:24,680 --> 00:02:26,800
+Esa fue en realidad la primera experiencia,
+
+41
+00:02:27,020 --> 00:02:29,600
+pero sin pensar en todo esto de gobierno abierto.
+
+42
+00:02:29,980 --> 00:02:31,920
+Todavía no había datos abiertos.
+
+43
+00:02:32,320 --> 00:02:34,860
+Manuel Alistarán me contó que en Bahía Blanca
+
+44
+00:02:34,860 --> 00:02:37,180
+se publicaba algo parecido a lo que vos decís,
+
+45
+00:02:37,260 --> 00:02:39,420
+en compra del 2000 o 2001,
+
+46
+00:02:39,600 --> 00:02:43,400
+también sin mucha conciencia de estar haciendo algo
+
+47
+00:02:43,400 --> 00:02:45,020
+que actualmente se iba a poner en moda.
+
+48
+00:02:45,020 --> 00:02:48,080
+¿Te acuerdas con qué herramientas lo hacías en aquel momento?
+
+49
+00:02:48,080 --> 00:02:51,680
+si eran archivos reutilizables, si eran PDFs, si era una página web.
+
+50
+00:02:52,480 --> 00:02:56,180
+Porque tampoco había plataformas para comprar en las cuales publicar esto.
+
+51
+00:02:57,100 --> 00:02:57,920
+No, no, no, claro.
+
+52
+00:02:58,580 --> 00:03:02,480
+Sí, lo escuché, lo escuché a Manuel y obvio que coincido con él un montón de cosas
+
+53
+00:03:02,480 --> 00:03:06,580
+y seguramente con vos, porque nosotros somos programadores, más allá de todo.
+
+54
+00:03:06,740 --> 00:03:12,480
+Exacto, vemos el camino cortito que hay y no podemos entender a veces por qué damos tantas vueltas.
+
+55
+00:03:12,480 --> 00:03:18,140
+Exacto. Y yo estando, como vos en este caso, de los dos lados, se nos complica mucho.
+
+56
+00:03:18,800 --> 00:03:25,400
+Pero, bueno, no, el sistema, tanto lo que era compras, contaduría, como ingresos públicos,
+
+57
+00:03:25,440 --> 00:03:28,080
+era un sistema que había hecho yo con gente de mi oficina.
+
+58
+00:03:29,660 --> 00:03:35,740
+Así que lo que hacíamos eran archivos PHP que mostraban en tablas en ese entonces HTML
+
+59
+00:03:35,740 --> 00:03:41,480
+y gráficos estos ingresos y egresos en tiempo real.
+
+60
+00:03:42,480 --> 00:03:54,060
+Muy bueno, muy bueno. ¿Hubo mucho apoyo para eso? Para que lo hagas, me imagino, porque debe haber habido gente que no caería, supongo, o que le parecería muy raro.
+
+61
+00:03:55,180 --> 00:03:59,100
+Duró una semana, imagínate.
+
+62
+00:04:00,940 --> 00:04:01,920
+Bueno, buen intento.
+
+63
+00:04:03,040 --> 00:04:04,420
+Sí, sí, una semana duró.
+
+64
+00:04:04,420 --> 00:04:20,100
+Hasta el día de hoy, perdón Andrés, hasta el día de hoy no logré que en Marcos Paz se pueda poner hoy por hoy un dato abierto, así que imaginate, pasaron mucho, ¿no? 13 años.
+
+65
+00:04:20,100 --> 00:04:44,420
+15, sí, sí, sí, 13 años, perfecto, 14, pero después en Mercedes entiendo ahí que hubo un trabajo más interesante, la iniciativa en Mercedes de decir, bueno, vamos a tener un portal de datos ya con una, también era muy incipiente, el momento en el que vos lo hiciste no había casi nadie en el mundo de los datos abiertos en Argentina tampoco,
+
+66
+00:04:44,420 --> 00:04:52,360
+¿Cómo surgió la iniciativa? ¿De quién fue la idea? ¿De quién se inspiraron? ¿Cómo arrancó la iniciativa de Mercedes?
+
+67
+00:04:53,220 --> 00:05:01,100
+Mirá, Mercedes había destacado, como todo el mundo sabe, por lo que hablábamos antes, por el tema de gobierno electrónico y gobierno digital.
+
+68
+00:05:02,060 --> 00:05:11,280
+Se había destacado mucho, habíamos sido muy premiados, nos invitaban de lugares dispares como Kenia, en África, para ir a disertar.
+
+69
+00:05:11,280 --> 00:05:14,360
+y la verdad
+
+70
+00:05:14,360 --> 00:05:17,460
+recuerdo que fue una charla en conjunto
+
+71
+00:05:17,460 --> 00:05:18,820
+con Esteban Mirosky
+
+72
+00:05:18,820 --> 00:05:21,180
+y Javier Pájaro
+
+73
+00:05:21,180 --> 00:05:23,620
+el CEO de Junar
+
+74
+00:05:23,620 --> 00:05:27,240
+y hubo que convencerlo
+
+75
+00:05:27,240 --> 00:05:27,980
+al intendente
+
+76
+00:05:27,980 --> 00:05:29,820
+pero
+
+77
+00:05:29,820 --> 00:05:33,640
+en Mercedes yo trabajé como no volví a trabajar
+
+78
+00:05:33,640 --> 00:05:34,520
+en otro municipio
+
+79
+00:05:34,520 --> 00:05:37,360
+con la libertad de hacer
+
+80
+00:05:37,360 --> 00:05:38,260
+lo que querramos
+
+81
+00:05:38,260 --> 00:05:41,260
+y la disponibilidad política de hacer lo que querramos
+
+82
+00:05:41,280 --> 00:05:49,560
+la verdad que el planteo con con carlos selva que fue el intendente para el que yo trabajé
+
+83
+00:05:49,560 --> 00:05:58,320
+hoy diputado nacional se la hice muy fácil le dije carlos mira la gente no sabe en qué
+
+84
+00:05:58,320 --> 00:06:04,200
+gastas plata cuánto se invierte en educación cuánto se invierte en salud creen que cobramos
+
+85
+00:06:04,200 --> 00:06:11,980
+Estamos millonadas y a través de estas herramientas podemos empezar a mostrar todo esto.
+
+86
+00:06:12,060 --> 00:06:17,420
+Ah, no recuerdo Andrés, lo único que estaba era Bahía, que ahí nomás había arrancado Esteban.
+
+87
+00:06:18,440 --> 00:06:19,580
+Sí, y Buenos Aires.
+
+88
+00:06:20,860 --> 00:06:23,100
+Y algo de ciudad, exactamente, algo de Cava.
+
+89
+00:06:23,720 --> 00:06:23,980
+Bien.
+
+90
+00:06:24,620 --> 00:06:25,680
+Eso era lo que había.
+
+91
+00:06:26,900 --> 00:06:31,680
+Eso miraron, eso un poco, no voy a decir copiaron, pero de esa experiencia aprendieron,
+
+92
+00:06:31,680 --> 00:06:33,960
+no había mucho más para mirar por acá.
+
+93
+00:06:34,200 --> 00:06:58,460
+La verdad es que no había nada. Lo hicimos, ya te digo, mirando quizás más a Chile que a Argentina. Inclusive en el 2013 tuve el honor de ser invitado por presidencia y hacer un intercambio de experiencia entre Mercedes y presidencia de Chile.
+
+94
+00:06:58,460 --> 00:07:02,140
+Chile tenía portal
+
+95
+00:07:02,140 --> 00:07:03,420
+Hace algunos años
+
+96
+00:07:03,420 --> 00:07:05,180
+Y compartían plataformas
+
+97
+00:07:05,180 --> 00:07:08,000
+Chile usaba la plataforma Junar
+
+98
+00:07:08,000 --> 00:07:09,680
+Y ustedes arrancaron con Junar
+
+99
+00:07:09,680 --> 00:07:10,280
+¿Fue así?
+
+100
+00:07:11,360 --> 00:07:12,160
+Exactamente
+
+101
+00:07:12,160 --> 00:07:14,940
+La verdad que si bien
+
+102
+00:07:14,940 --> 00:07:17,360
+Obviamente primero buscamos
+
+103
+00:07:17,360 --> 00:07:18,520
+Plataformas
+
+104
+00:07:18,520 --> 00:07:21,580
+Y estaba Junar, estaba Sican
+
+105
+00:07:21,580 --> 00:07:22,640
+Y estaba Sócrata
+
+106
+00:07:22,640 --> 00:07:25,320
+La verdad que ver
+
+107
+00:07:25,320 --> 00:07:27,860
+La experiencia de Bahía
+
+108
+00:07:27,860 --> 00:07:41,840
+Y obviamente, insisto, como hablábamos antes, el ser programador y hacer tan fácil la publicación en Junar en contraprestación a SICAM, que es más complejo. Y la verdad, el bajo costo.
+
+109
+00:07:41,840 --> 00:07:43,400
+No, Andrés, eso
+
+110
+00:07:43,400 --> 00:07:44,960
+Junar era, yo
+
+111
+00:07:44,960 --> 00:07:47,600
+Trabajé un par de años como desarrollador
+
+112
+00:07:47,600 --> 00:07:48,720
+De Junar y la verdad que
+
+113
+00:07:48,720 --> 00:07:51,440
+Dabas de alta un portal y empezaba a subir
+
+114
+00:07:51,440 --> 00:07:53,580
+Archivos y automáticamente tenía web service
+
+115
+00:07:53,580 --> 00:07:55,440
+Formatos reutilizables, visualizaciones
+
+116
+00:07:56,020 --> 00:07:57,060
+La verdad
+
+117
+00:07:57,060 --> 00:07:58,760
+Y por el precio que tenía
+
+118
+00:07:58,760 --> 00:08:01,580
+Era muy interesante
+
+119
+00:08:01,580 --> 00:08:02,980
+Para arrancar y muy fácil
+
+120
+00:08:02,980 --> 00:08:05,580
+Y creo que ustedes aprovecharon muy bien, le sacaron muchísimo jugo
+
+121
+00:08:05,580 --> 00:08:06,020
+A todo eso
+
+122
+00:08:06,020 --> 00:08:08,720
+No, por supuesto, bueno, la API, ¿no?
+
+123
+00:08:09,480 --> 00:08:11,240
+La API ya era disponible
+
+124
+00:08:11,240 --> 00:08:15,520
+Entonces, fue muy rápido, la verdad que...
+
+125
+00:08:15,520 --> 00:08:17,080
+Sí, sí, sí, se hace rápido.
+
+126
+00:08:17,360 --> 00:08:20,700
+Te quiero llevar a un caso de Mercedes que a mí siempre me pareció súper interesante
+
+127
+00:08:20,700 --> 00:08:26,280
+y hubo, de todos los datos que liberaron, hubo uno que tuvo una polémica interesante.
+
+128
+00:08:26,460 --> 00:08:31,100
+Ustedes en Mercedes tienen el río Luján que cada tanto se enoja un poco
+
+129
+00:08:31,100 --> 00:08:34,800
+e inunda un poco toda la ciudad y es caótico.
+
+130
+00:08:34,940 --> 00:08:40,520
+Ustedes ya tenían o los colocaron, no sé, los sensores que medían el caudal,
+
+131
+00:08:40,520 --> 00:08:42,740
+el nivel del agua y demás, y decidieron
+
+132
+00:08:42,740 --> 00:08:44,520
+publicar en tiempo real esa
+
+133
+00:08:44,520 --> 00:08:46,660
+información para que la gente, además de lo que
+
+134
+00:08:46,660 --> 00:08:48,440
+ustedes hagan, como ustedes,
+
+135
+00:08:48,540 --> 00:08:50,080
+la provincia al que corresponda
+
+136
+00:08:50,080 --> 00:08:52,500
+atender las inundaciones, la ciudadanía
+
+137
+00:08:52,500 --> 00:08:54,320
+también pueda mirar en tiempo real
+
+138
+00:08:54,320 --> 00:08:56,380
+el nivel del agua y saber si
+
+139
+00:08:56,380 --> 00:08:58,620
+iba a pasar o podía estar
+
+140
+00:08:58,620 --> 00:08:59,840
+por pasar algo interesante.
+
+141
+00:09:00,600 --> 00:09:02,660
+Leí notas en aquel momento de crítica
+
+142
+00:09:02,660 --> 00:09:04,600
+de gente que decía que eso iba a generar pánico
+
+143
+00:09:04,600 --> 00:09:06,540
+en la ciudadanía, que no estaba bueno informar
+
+144
+00:09:06,540 --> 00:09:08,500
+tanto. ¿Cómo lo viviste vos desde
+
+145
+00:09:08,500 --> 00:09:08,960
+adentro?
+
+146
+00:09:08,960 --> 00:09:38,940
+Mira, yo siempre fui, lo voy a nombrar o lo voy a citar nuevamente a Esteban Mirosky porque nos ha tocado hablar juntos en miles de lugares, siempre decíamos que hacíamos un show, ¿no?
+
+147
+00:09:38,960 --> 00:09:43,340
+que no quita que haya que hacerlo, pero la realidad es ¿cuánto le importa?
+
+148
+00:09:44,200 --> 00:09:47,540
+Recuerdo, Andrés, creo que la última vez que hablé fue en el evento este en el CSK,
+
+149
+00:09:47,540 --> 00:09:54,140
+y el título de mi disertación era eso, ¿a quién le importan realmente los datos abiertos?
+
+150
+00:09:55,020 --> 00:10:00,820
+La verdad que, bueno, como decís vos, nosotros empezamos a publicar información, sueldos, compra,
+
+151
+00:10:01,300 --> 00:10:08,380
+órdenes de pago, bueno, como contaba Manuel el otro día, íbamos directamente contra el Rafán,
+
+152
+00:10:08,380 --> 00:10:14,600
+por lo tanto los datos se publicaban en tiempo real, en ese sentido teníamos todo disponible.
+
+153
+00:10:15,560 --> 00:10:18,400
+Pero la verdad, a nadie le importaba, a nadie.
+
+154
+00:10:18,980 --> 00:10:26,460
+¿A los medios tampoco? ¿Los medios empezaron a mirar, aunque sea equipo de periodismo de datos o algo, o no?
+
+155
+00:10:27,360 --> 00:10:32,060
+No, muy poco, muy poco. Y de hecho, cuando te termine de contar lo de los sensores,
+
+156
+00:10:32,760 --> 00:10:36,540
+te vas a dar una idea de por qué uno es pesimista en todo esto.
+
+157
+00:10:38,380 --> 00:10:40,860
+Que insisto, no quiere decir que no haya que hacerlo, hay que hacerlo.
+
+158
+00:10:43,880 --> 00:10:47,460
+Pero no, a muy poca gente le importaba, a muy poca gente.
+
+159
+00:10:49,820 --> 00:10:53,040
+Porque también, seamos honestos, hay un descreimiento en la política.
+
+160
+00:10:53,740 --> 00:10:59,140
+Primero pensaba la gente que cobrábamos, no sé, 100.000 dólares,
+
+161
+00:10:59,140 --> 00:11:04,940
+y cuando mostrábamos lo que cobrábamos, nos decían, sí, no, pero eso seguramente es en blanco,
+
+162
+00:11:05,040 --> 00:11:06,680
+pero lo que está en negro no lo muestran.
+
+163
+00:11:06,680 --> 00:11:13,540
+Cuando publicamos los sueldos de los funcionarios, la gente pensó que cobramos mucho más y no.
+
+164
+00:11:14,180 --> 00:11:18,520
+Exacto. Entonces, en ese sentido siempre fui pesimista.
+
+165
+00:11:18,860 --> 00:11:25,280
+Ahora, en el 2014 y con esto de que Mercedes creo que hizo un poco de escuela
+
+166
+00:11:25,280 --> 00:11:30,440
+en lo que es gobierno electrónico y ciudad inteligente, o servicios inteligentes,
+
+167
+00:11:30,520 --> 00:11:34,100
+más que una ciudad inteligente, es cierto que teníamos la problemática
+
+168
+00:11:34,100 --> 00:11:36,000
+o tenemos todavía la problemática del río Luján.
+
+169
+00:11:36,680 --> 00:11:46,900
+Y en el 2014, de la nada, de esos días que uno se levanta, no sé, que fumamos el día anterior,
+
+170
+00:11:47,400 --> 00:11:50,580
+fui y le dije al intendente, che, ¿te animás a que miramos al río?
+
+171
+00:11:52,960 --> 00:11:59,740
+Obvio, él me miró y me dijo, ¿lo podés hacer? No tengo la más P idea, pero déjamelo intentar.
+
+172
+00:11:59,740 --> 00:12:03,040
+armamos los sensores
+
+173
+00:12:03,040 --> 00:12:05,300
+los empezamos a poner
+
+174
+00:12:05,300 --> 00:12:08,760
+todos saben
+
+175
+00:12:08,760 --> 00:12:10,160
+nos costaron 6 dólares
+
+176
+00:12:10,160 --> 00:12:12,180
+los sensores del río Luján
+
+177
+00:12:12,180 --> 00:12:14,920
+cuando hoy hablan de millonadas de pesos
+
+178
+00:12:14,920 --> 00:12:16,500
+para sensorizar la cuenca
+
+179
+00:12:16,500 --> 00:12:17,720
+la verdad que
+
+180
+00:12:17,720 --> 00:12:20,220
+me río mucho porque
+
+181
+00:12:20,220 --> 00:12:21,640
+6 dólares los pagamos
+
+182
+00:12:21,640 --> 00:12:23,600
+que los pagué con mi tarjeta de crédito
+
+183
+00:12:23,600 --> 00:12:26,500
+es cierto que los conectamos a nuestra red
+
+184
+00:12:26,500 --> 00:12:28,400
+y en Mercedes yo había armado una red
+
+185
+00:12:28,400 --> 00:12:29,820
+bastante extensa
+
+186
+00:12:29,820 --> 00:12:32,420
+que si bien no llegaba a los límites
+
+187
+00:12:32,420 --> 00:12:34,100
+estábamos muy cerca
+
+188
+00:12:34,100 --> 00:12:36,540
+límites de la ciudad
+
+189
+00:12:36,540 --> 00:12:37,500
+quiero decir, del partido
+
+190
+00:12:37,500 --> 00:12:41,660
+la cuestión que nos pusimos
+
+191
+00:12:41,660 --> 00:12:44,940
+y lo próximo que le dije al intendente
+
+192
+00:12:44,940 --> 00:12:45,800
+era eso
+
+193
+00:12:45,800 --> 00:12:48,320
+escúchame, yo puedo mostrar
+
+194
+00:12:48,320 --> 00:12:50,160
+cuánto está midiendo el río cada un minuto
+
+195
+00:12:50,160 --> 00:12:52,240
+y la verdad
+
+196
+00:12:52,240 --> 00:12:55,800
+como te dije al principio
+
+197
+00:12:55,800 --> 00:12:57,540
+tuve el apoyo siempre incondicional
+
+198
+00:12:57,540 --> 00:12:59,760
+de decir si mostrarlo
+
+199
+00:12:59,760 --> 00:13:01,980
+y ahí empezamos a publicar
+
+200
+00:13:01,980 --> 00:13:04,000
+empezamos a publicar
+
+201
+00:13:04,000 --> 00:13:06,020
+empezamos a publicar y creo que fue
+
+202
+00:13:06,020 --> 00:13:08,240
+a la semana tuvimos la inundación
+
+203
+00:13:08,240 --> 00:13:09,360
+terrible del 2014
+
+204
+00:13:09,360 --> 00:13:12,140
+¿ustedes ya estaban
+
+205
+00:13:12,140 --> 00:13:13,480
+publicando cuando pasó eso?
+
+206
+00:13:14,260 --> 00:13:16,040
+cuando pasó la del 2014
+
+207
+00:13:16,040 --> 00:13:17,260
+ya estábamos publicando
+
+208
+00:13:17,260 --> 00:13:19,800
+ah mira vos, yo pensé que había sido
+
+209
+00:13:19,800 --> 00:13:21,460
+después en la consecuencia de eso
+
+210
+00:13:21,460 --> 00:13:22,120
+no
+
+211
+00:13:22,120 --> 00:13:25,340
+habíamos tenido crecidas
+
+212
+00:13:25,340 --> 00:13:27,460
+pero no la inundación del 2014
+
+213
+00:13:27,460 --> 00:13:31,400
+Que, ojo, no fue la del 2015, que esa fue peor.
+
+214
+00:13:32,160 --> 00:13:35,200
+Bien, bien, bien. Esa es la vez con la que yo me confundo, entonces.
+
+215
+00:13:35,900 --> 00:13:37,540
+Claro, tuvimos la del 2014.
+
+216
+00:13:38,640 --> 00:13:47,780
+Ahora, tener esos datos disponibles, cuando vos ves, al día de hoy, Andrés, yo antes de comunicarme con vos,
+
+217
+00:13:47,940 --> 00:13:55,260
+entré a algunos portales, a Tigre, Bahía Blanca, para que mi argumento no se caiga en esta charla.
+
+218
+00:13:55,260 --> 00:14:19,760
+Y si mirás, siguen entrando dos personas a ver el portal. Por eso yo soy pesimista en todo esto. El de provincia, ahora como cambiaron de Junar a Andino, no te dice cuánta gente entró, así que no lo podés saber, pero la última vez que fue esa charla que yo di, también habían entrado dos o tres personas a un portal de una provincia con millones de personas.
+
+219
+00:14:19,760 --> 00:14:30,120
+Ahora, ¿qué notamos? Cuando fue la subida del río, nosotros teníamos 3.000 ingresos solo para ver esa información.
+
+220
+00:14:31,120 --> 00:14:34,920
+Bien. Finalmente habías conseguido audiencia, que era lo que no existía.
+
+221
+00:14:36,020 --> 00:14:39,240
+Exactamente. Ahí es donde dijimos, bueno, pará, esto nos está sirviendo.
+
+222
+00:14:39,540 --> 00:14:48,220
+Y nunca me voy a olvidar el día de esa gran inundación, el intendente citó a Defensa Civil, a Bomberos, a Seguridad,
+
+223
+00:14:48,220 --> 00:15:11,000
+Desarrollo Social a todos los medios, me citó a mí, mostramos el gráfico y dijimos, en dos horas el río desborda, en tres horas se inundan estos barrios, nunca me voy a olvidar un intendente, la valentía, yo destaco, del intendente de decir, estos barrios agarren sus cosas y salgan, porque las pierden.
+
+224
+00:15:11,000 --> 00:15:13,820
+y dicho y hecho
+
+225
+00:15:13,820 --> 00:15:15,560
+a las dos horas desbordó
+
+226
+00:15:15,560 --> 00:15:17,880
+a las tres horas inundó los barrios
+
+227
+00:15:17,880 --> 00:15:19,360
+y fue un desastre
+
+228
+00:15:19,360 --> 00:15:21,260
+a partir de eso
+
+229
+00:15:21,260 --> 00:15:23,460
+claro, cada vez que llovía
+
+230
+00:15:23,460 --> 00:15:25,420
+la parte de
+
+231
+00:15:25,420 --> 00:15:27,280
+sensorización, vos tenías 2.500
+
+232
+00:15:27,280 --> 00:15:29,780
+3.000, 3.500 visitas constantes
+
+233
+00:15:29,780 --> 00:15:31,300
+a los otros datacet
+
+234
+00:15:31,300 --> 00:15:33,520
+seguían entrando dos personas
+
+235
+00:15:33,520 --> 00:15:34,780
+pero
+
+236
+00:15:34,780 --> 00:15:35,960
+a eso
+
+237
+00:15:35,960 --> 00:15:38,400
+era impresionante
+
+238
+00:15:38,400 --> 00:15:40,160
+ahí es donde dijimos, bueno, pará
+
+239
+00:15:40,160 --> 00:15:49,980
+No todo está perdido. Realmente hay datos que sí que sirven. ¿Por qué? Porque te entraban los periodistas, te entraba la gente de Mercedes,
+
+240
+00:15:50,260 --> 00:16:00,840
+entraban los intendentes de Luján en ese entonces, los medios de Luján, porque primero desbordan Mercedes, inundan Mercedes y después pasa Luján.
+
+241
+00:16:00,840 --> 00:16:04,700
+en los medios cuando vos ves la basílica inundada
+
+242
+00:16:04,700 --> 00:16:06,920
+con 5 metros
+
+243
+00:16:06,920 --> 00:16:08,940
+bueno, un par de horas antes
+
+244
+00:16:08,940 --> 00:16:10,600
+ya se inundó Mercedes
+
+245
+00:16:10,600 --> 00:16:12,980
+lo que pasa que en ese entonces
+
+246
+00:16:12,980 --> 00:16:15,160
+por cuestiones políticas Mercedes no salía en los medios
+
+247
+00:16:15,160 --> 00:16:20,580
+pero generó pánico
+
+248
+00:16:20,580 --> 00:16:22,680
+¿fue mala idea publicar ese dato
+
+249
+00:16:22,680 --> 00:16:23,500
+sensible
+
+250
+00:16:23,500 --> 00:16:26,900
+a la salud de la ciudad
+
+251
+00:16:26,900 --> 00:16:28,240
+digamos, a la salud de la población
+
+252
+00:16:28,240 --> 00:16:30,040
+a la emergencia que iba a pasar
+
+253
+00:16:30,040 --> 00:16:33,320
+que lo volverías a publicar?
+
+254
+00:16:33,700 --> 00:16:35,600
+Por supuesto, por supuesto.
+
+255
+00:16:36,100 --> 00:16:39,040
+Mirá, te cuento un caso más del tema censores.
+
+256
+00:16:39,860 --> 00:16:43,540
+Cuando los poníamos, la gente que decía, esto no va a andar,
+
+257
+00:16:44,740 --> 00:16:48,940
+fue boñados también por una oposición bastante dura,
+
+258
+00:16:49,400 --> 00:16:51,900
+que hoy es gobierno esa oposición, pero en ese momento
+
+259
+00:16:51,900 --> 00:16:56,100
+que habíamos gastado miles y miles de dólares para poner algo que no iba a andar,
+
+260
+00:16:56,940 --> 00:16:59,680
+que obviamente era todo un negociado, etcétera, etcétera.
+
+261
+00:16:59,680 --> 00:17:01,940
+O sea, la realidad es que teníamos la gente en contra.
+
+262
+00:17:03,520 --> 00:17:07,800
+Después de las inundaciones y que obviamente sirvió para todo esto,
+
+263
+00:17:08,900 --> 00:17:09,820
+tuvimos vandalismo.
+
+264
+00:17:09,980 --> 00:17:13,100
+De hecho, hay notas donde nos rompían los sensores.
+
+265
+00:17:14,960 --> 00:17:17,760
+Y ahí ya la gente estaba del estado nuestro.
+
+266
+00:17:17,760 --> 00:17:19,760
+La gente lo que decía es...
+
+267
+00:17:19,760 --> 00:17:22,300
+Sí, ganemos los datos, sí.
+
+268
+00:17:22,700 --> 00:17:25,160
+Sí, pongan los presos a los que rompen los sensores.
+
+269
+00:17:25,260 --> 00:17:29,120
+Al final el municipio hace algo y nosotros no lo cuidamos.
+
+270
+00:17:29,680 --> 00:17:39,140
+La verdad que no era con esos términos que la gente se expresaba, pero sí, vos sabés cómo soy de hablar yo, así que estoy dividiéndome mucho.
+
+271
+00:17:41,020 --> 00:17:48,500
+Entonces sí, la gente se empoderó, siempre quise decir esas palabras, se empoderó de esto y lo hizo suyo.
+
+272
+00:17:49,140 --> 00:17:58,620
+Ahora, y esto lo conté, te acordás, cuando estuvimos creo que en Río Cuarto o en Córdoba, fue que tuvimos un evento, ¿te acordás Andrés?
+
+273
+00:17:58,620 --> 00:18:05,220
+que yo lo conté esto que voy a contar ahora cuando asume el nuevo gobierno que al principio
+
+274
+00:18:05,220 --> 00:18:11,380
+le interesaba que sigamos con todo eso a mí me echan a los seis meses y seis meses un día se
+
+275
+00:18:11,380 --> 00:18:17,040
+baja todo por tal de datos es una de las preguntas que tengo notado para ahora porque mercedes pasa
+
+276
+00:18:17,040 --> 00:18:24,460
+de estar en el top del ranking de ciudades argentinas a desaparecer fue un poco como
+
+277
+00:18:24,460 --> 00:18:26,340
+como decimos, no le importa a nadie,
+
+278
+00:18:26,480 --> 00:18:28,560
+pero a las 20 personas que nos interesa
+
+279
+00:18:28,560 --> 00:18:30,600
+el mundo de los datos abiertos, fue un pequeño escándalo
+
+280
+00:18:30,600 --> 00:18:32,020
+pasar de estar primero
+
+281
+00:18:32,020 --> 00:18:34,120
+entre los 5 primero
+
+282
+00:18:34,120 --> 00:18:35,380
+a ser el último.
+
+283
+00:18:35,500 --> 00:18:38,160
+Sí, sí. Bueno, en realidad
+
+284
+00:18:38,160 --> 00:18:40,160
+cuando asume la nueva gestión me hacen bajar
+
+285
+00:18:40,160 --> 00:18:41,880
+el dataset. Se dejan de publicar
+
+286
+00:18:41,880 --> 00:18:44,020
+orden de compra, orden de pago. Hay muchas
+
+287
+00:18:44,020 --> 00:18:46,120
+cosas que se dejan de publicar.
+
+288
+00:18:48,120 --> 00:18:49,400
+Y cuando, bueno,
+
+289
+00:18:49,960 --> 00:18:52,180
+me echan, me voy, se dejó de publicar
+
+290
+00:18:52,180 --> 00:18:54,060
+todo. Y ahí es donde vuelvo a ser
+
+291
+00:18:54,060 --> 00:18:55,840
+pesimista, porque no hubo
+
+292
+00:18:55,840 --> 00:18:58,040
+un concejal de la oposición, un
+
+293
+00:18:58,040 --> 00:19:00,500
+periodista, una organización
+
+294
+00:19:00,500 --> 00:19:01,060
+civil
+
+295
+00:19:01,060 --> 00:19:03,820
+no sé, alguien
+
+296
+00:19:03,820 --> 00:19:05,960
+que diga, eh loco, ¿qué pasa con todo esto?
+
+297
+00:19:06,240 --> 00:19:07,380
+Nadie se alarmó
+
+298
+00:19:07,380 --> 00:19:10,000
+Nadie, a nadie le importó
+
+299
+00:19:10,000 --> 00:19:12,240
+Pasó un año
+
+300
+00:19:12,240 --> 00:19:13,600
+pasó un año
+
+301
+00:19:13,600 --> 00:19:16,040
+yo me fui el 30 de junio
+
+302
+00:19:16,040 --> 00:19:18,120
+del 2016, pasó un año
+
+303
+00:19:18,120 --> 00:19:19,160
+que
+
+304
+00:19:19,160 --> 00:19:22,100
+la hija de Carlos Selva, que me había
+
+305
+00:19:22,100 --> 00:19:24,060
+ha sido intendente, como concejal
+
+306
+00:19:24,060 --> 00:19:27,820
+presentó un proyecto de ordenanza donde tenían
+
+307
+00:19:27,820 --> 00:19:29,320
+que volver a publicar datos
+
+308
+00:19:29,320 --> 00:19:32,080
+y ahí volvieron a levantar
+
+309
+00:19:32,080 --> 00:19:33,140
+un portal de datos abiertos.
+
+310
+00:19:33,820 --> 00:19:35,320
+Esta vez con SICAN,
+
+311
+00:19:35,880 --> 00:19:37,740
+ya no había datos en tiempo real, no había
+
+312
+00:19:37,740 --> 00:19:38,680
+sensores, no había nada.
+
+313
+00:19:40,980 --> 00:19:41,500
+Pero
+
+314
+00:19:41,500 --> 00:19:43,780
+por todo eso es que uno después
+
+315
+00:19:43,780 --> 00:19:44,960
+termina siendo pesimista.
+
+316
+00:19:46,720 --> 00:19:47,420
+Sí, sí.
+
+317
+00:19:47,680 --> 00:19:49,600
+Algo que he conversado con otros
+
+318
+00:19:49,600 --> 00:19:51,760
+entrevistados es, primero
+
+319
+00:19:51,760 --> 00:19:53,700
+qué pasa cuando se cae un portal de datos
+
+320
+00:19:53,700 --> 00:19:55,780
+y los instrumentos que
+
+321
+00:19:55,780 --> 00:19:57,600
+hay son pocos
+
+322
+00:19:57,600 --> 00:19:59,720
+yo voy a usar una mala
+
+323
+00:19:59,720 --> 00:20:00,580
+palabra que es
+
+324
+00:20:00,580 --> 00:20:01,940
+blockchain
+
+325
+00:20:01,940 --> 00:20:03,900
+pero
+
+326
+00:20:03,900 --> 00:20:07,640
+estuve experimentando nosotros algunas cosas y si bien
+
+327
+00:20:07,640 --> 00:20:09,200
+yo coincido que
+
+328
+00:20:09,200 --> 00:20:11,660
+es una palabra que cuando la gente la dice
+
+329
+00:20:11,660 --> 00:20:12,560
+uno se cruza de vereda
+
+330
+00:20:12,560 --> 00:20:15,500
+certificar réplicas
+
+331
+00:20:15,500 --> 00:20:16,940
+de datos afuera para
+
+332
+00:20:16,940 --> 00:20:19,660
+que cuando un gobierno apague algo
+
+333
+00:20:19,660 --> 00:20:21,560
+alguien puede decir no, este dato es
+
+334
+00:20:21,560 --> 00:20:23,360
+es oficial porque estuvo publicado tal día
+
+335
+00:20:23,360 --> 00:20:25,220
+en tal lugar, es difícil y complejo
+
+336
+00:20:25,220 --> 00:20:27,220
+pero quiero decir
+
+337
+00:20:27,220 --> 00:20:28,720
+hay muy pocos instrumentos
+
+338
+00:20:28,720 --> 00:20:31,320
+fáciles en la ciudadanía y en las organizaciones
+
+339
+00:20:31,320 --> 00:20:33,180
+para sostener algo cuando un gobierno
+
+340
+00:20:33,180 --> 00:20:35,020
+lo baja
+
+341
+00:20:35,020 --> 00:20:37,140
+así que desde acá hacemos un poquito
+
+342
+00:20:37,140 --> 00:20:39,060
+de ruido
+
+343
+00:20:39,060 --> 00:20:40,560
+para no olvidarnos
+
+344
+00:20:40,560 --> 00:20:43,160
+de que las iniciativas de estas no son modas
+
+345
+00:20:43,160 --> 00:20:44,860
+que pasan y se apagan, sino que
+
+346
+00:20:44,860 --> 00:20:47,460
+una vez que la das de alta, me parece que
+
+347
+00:20:47,460 --> 00:20:49,180
+son políticas de Estado que tiene
+
+348
+00:20:49,180 --> 00:20:50,880
+que seguir cualquier gobierno, es una lástima
+
+349
+00:20:50,880 --> 00:20:52,940
+lo que pasó en Mercedes
+
+350
+00:20:52,940 --> 00:20:55,180
+te quería preguntar si cuando
+
+351
+00:20:55,180 --> 00:20:57,440
+después de Mercedes
+
+352
+00:20:57,440 --> 00:20:59,320
+en Pilar o ahora en Luján
+
+353
+00:20:59,320 --> 00:21:01,480
+seguiste con esa bandera
+
+354
+00:21:01,480 --> 00:21:03,240
+de los datos abiertos, es algo
+
+355
+00:21:03,240 --> 00:21:05,120
+que pudiste seguir haciendo
+
+356
+00:21:05,120 --> 00:21:05,920
+que seguías haciendo
+
+357
+00:21:05,920 --> 00:21:08,740
+bueno, yo me voy de Mercedes
+
+358
+00:21:08,740 --> 00:21:11,120
+el 30 de junio, el 1 de julio
+
+359
+00:21:11,120 --> 00:21:13,220
+arranco en Pilar y fue el día que se
+
+360
+00:21:13,220 --> 00:21:14,960
+presentó el portal de datos abiertos
+
+361
+00:21:14,960 --> 00:21:15,540
+de Pilar
+
+362
+00:21:15,540 --> 00:21:18,880
+que yo ya había estado trabajando con Inés
+
+363
+00:21:18,880 --> 00:21:20,920
+que la entrevistaste el otro día
+
+364
+00:21:20,920 --> 00:21:24,400
+con Inés y con Ceci
+
+365
+00:21:24,400 --> 00:21:26,580
+yo les hacía todos los web services
+
+366
+00:21:26,580 --> 00:21:30,220
+todos los web services para que publiquen
+
+367
+00:21:30,220 --> 00:21:31,760
+datos en tiempo real
+
+368
+00:21:31,760 --> 00:21:35,260
+y la verdad, Pilar era el camino a seguir
+
+369
+00:21:35,260 --> 00:21:37,920
+es la realidad, era lo nuevo
+
+370
+00:21:37,920 --> 00:21:41,340
+Cecilia de Lucas se fue de Pilar también
+
+371
+00:21:41,340 --> 00:21:42,440
+ahora, ¿puede ser?
+
+372
+00:21:42,560 --> 00:21:46,920
+bueno, son esas cosas que vos no entendés
+
+373
+00:21:46,920 --> 00:21:49,100
+pero en enero del año pasado el intendente
+
+374
+00:21:49,100 --> 00:21:51,120
+decide bajar la Secretaría
+
+375
+00:21:51,120 --> 00:21:51,740
+de Modernización
+
+376
+00:21:51,740 --> 00:21:55,520
+el portal de datos abiertos
+
+377
+00:21:55,520 --> 00:21:56,200
+sigue estando
+
+378
+00:21:56,200 --> 00:21:58,980
+pero Cecilia
+
+379
+00:21:58,980 --> 00:22:01,020
+más allá que es una persona
+
+380
+00:22:01,020 --> 00:22:03,120
+excelente, alguien que yo aprecio
+
+381
+00:22:03,120 --> 00:22:03,500
+un montón
+
+382
+00:22:03,500 --> 00:22:06,560
+fue increíble cuando me llamó
+
+383
+00:22:06,560 --> 00:22:08,140
+me dijo Maxi, no seguimos
+
+384
+00:22:08,140 --> 00:22:10,820
+la verdad que
+
+385
+00:22:10,820 --> 00:22:12,460
+nos cayó con un mal de agua fría
+
+386
+00:22:12,460 --> 00:22:15,340
+era el portal
+
+387
+00:22:15,340 --> 00:22:17,120
+a seguir hablando de la provincia de Buenos Aires
+
+388
+00:22:17,120 --> 00:22:19,340
+si bien hubo
+
+389
+00:22:19,340 --> 00:22:21,260
+algunas iniciativas, Tigre
+
+390
+00:22:21,260 --> 00:22:23,760
+avanzó el mismo año
+
+391
+00:22:23,760 --> 00:22:25,360
+creo que San Isidro
+
+392
+00:22:25,360 --> 00:22:26,760
+avanzó el mismo año, pero
+
+393
+00:22:26,760 --> 00:22:28,060
+Pilar era
+
+394
+00:22:28,060 --> 00:22:30,580
+la verdad que era el camino a seguir
+
+395
+00:22:30,580 --> 00:22:32,300
+nosotros desde Luján
+
+396
+00:22:32,300 --> 00:22:34,980
+mirábamos mucho
+
+397
+00:22:34,980 --> 00:22:37,160
+yo le seguí dando una mano a Ceci
+
+398
+00:22:37,160 --> 00:22:41,360
+y sí, cuando se bajó la secretaría
+
+399
+00:22:41,360 --> 00:22:44,180
+fue una pena muy grande
+
+400
+00:22:44,180 --> 00:22:45,000
+la verdad
+
+401
+00:22:45,000 --> 00:22:47,500
+Andrés es que es muy difícil que los intendentes
+
+402
+00:22:47,500 --> 00:22:49,480
+entiendan de qué va todo esto, es muy
+
+403
+00:22:49,480 --> 00:22:49,840
+difícil
+
+404
+00:22:49,840 --> 00:22:52,920
+en Luján también arranqué
+
+405
+00:22:52,920 --> 00:22:55,440
+en la subsecretaría de modernización, hoy no está más
+
+406
+00:22:55,440 --> 00:22:57,560
+tampoco, hay una dirección de sistemas
+
+407
+00:22:57,560 --> 00:23:01,240
+en otro de los casos fue Necochea
+
+408
+00:23:01,240 --> 00:23:03,220
+que también, yo soy de Necochea
+
+409
+00:23:03,220 --> 00:23:04,540
+por eso lo conozco
+
+410
+00:23:04,540 --> 00:23:07,420
+también se bajó modernización y quedó sistemas
+
+411
+00:23:07,420 --> 00:23:09,600
+a veces es muy difícil
+
+412
+00:23:09,600 --> 00:23:11,480
+también entiendo
+
+413
+00:23:11,480 --> 00:23:12,420
+a los intendentes
+
+414
+00:23:12,420 --> 00:23:16,220
+hay cosas muchísimo más urgentes
+
+415
+00:23:16,220 --> 00:23:17,360
+es también una realidad
+
+416
+00:23:17,360 --> 00:23:19,300
+Pilar
+
+417
+00:23:19,300 --> 00:23:21,940
+avanzamos muchísimo
+
+418
+00:23:21,940 --> 00:23:23,800
+con transparencia y con datos abiertos
+
+419
+00:23:23,800 --> 00:23:26,020
+pero solo el 5%
+
+420
+00:23:26,020 --> 00:23:27,300
+de las calles está asfaltado
+
+421
+00:23:27,300 --> 00:23:28,120
+entonces
+
+422
+00:23:28,120 --> 00:23:31,100
+es cierto que hay otras realidades
+
+423
+00:23:31,100 --> 00:23:34,320
+Perfecto
+
+424
+00:23:34,320 --> 00:23:37,540
+a muchos invitados que vienen del mundo
+
+425
+00:23:37,540 --> 00:23:38,600
+de la sociedad civil
+
+426
+00:23:38,600 --> 00:23:41,660
+les pregunto si formarían parte de un gobierno
+
+427
+00:23:41,660 --> 00:23:43,780
+y en tu caso que tiene un perfil claramente
+
+428
+00:23:43,780 --> 00:23:45,980
+de funcionario de gestión
+
+429
+00:23:45,980 --> 00:23:47,920
+pública, te pregunto si
+
+430
+00:23:47,920 --> 00:23:49,480
+a lo largo de tu carrera
+
+431
+00:23:49,480 --> 00:23:51,920
+te tocó interactuar
+
+432
+00:23:51,920 --> 00:23:53,500
+mucho con gente de sociedad civil
+
+433
+00:23:53,500 --> 00:23:55,740
+¿cómo ves esa relación
+
+434
+00:23:55,740 --> 00:23:57,720
+y si trabajarías en alguna
+
+435
+00:23:57,720 --> 00:23:59,460
+ONG en algún momento?
+
+436
+00:24:02,160 --> 00:24:04,380
+No en una ONG directamente
+
+437
+00:24:04,380 --> 00:24:08,140
+sí me ha tocado trabajar en provincia
+
+438
+00:24:08,140 --> 00:24:08,900
+trabajar en nación
+
+439
+00:24:08,900 --> 00:24:12,460
+no en una ONG
+
+440
+00:24:12,460 --> 00:24:23,460
+La verdad es que a veces, y permitime a veces descreer también de algunas ONG, yo sé que me gano el odio de mucha gente, pero...
+
+441
+00:24:24,160 --> 00:24:26,700
+No, hay buenas y malas, como en todo.
+
+442
+00:24:27,700 --> 00:24:36,800
+A ver, no sé, tenemos a Yás García, que conocemos todos, una fundación Conocimiento Abierto, todo muy bien.
+
+443
+00:24:36,800 --> 00:24:45,640
+Ahora, ellos no publican de dónde vienen los fondos que los mantienen, cuántos son, cuánto cobran. Ellos no publican nada.
+
+444
+00:24:47,600 --> 00:24:57,540
+Fuera de los gobiernos, te sumo a las universidades, a los partidos políticos, fuera de los gobiernos que, como vos contás, nos falta mucho, peleamos, damos vueltas.
+
+445
+00:24:57,540 --> 00:25:00,220
+Fuera de los gobiernos no se encuentra
+
+446
+00:25:00,220 --> 00:25:02,540
+Es muy difícil encontrar algo parecido
+
+447
+00:25:02,540 --> 00:25:03,380
+A un portal de datos
+
+448
+00:25:03,380 --> 00:25:05,080
+Hay algunos intentos, algunos esfuerzos
+
+449
+00:25:05,080 --> 00:25:08,080
+Pero no tienen la intensidad que tienen los gobiernos
+
+450
+00:25:08,080 --> 00:25:10,480
+No, pero estamos hablando de una fundación
+
+451
+00:25:10,480 --> 00:25:13,980
+Que incita a abrir datos
+
+452
+00:25:13,980 --> 00:25:15,360
+A transparentar
+
+453
+00:25:15,360 --> 00:25:16,780
+Sí, sí, y los mide
+
+454
+00:25:16,780 --> 00:25:18,580
+Claro, y los mide
+
+455
+00:25:18,580 --> 00:25:20,820
+Pero vos no me mostrás
+
+456
+00:25:20,820 --> 00:25:21,460
+De dónde
+
+457
+00:25:21,460 --> 00:25:24,760
+Cómo vivís, a ver, hablando mal y pronto
+
+458
+00:25:24,760 --> 00:25:25,540
+Sí, sí
+
+459
+00:25:25,540 --> 00:25:39,620
+Porque los fondos con los que te sostienen, que sabemos que seguramente vienen de nación, los pongo yo, los ponés vos, los pone mi mamá, los ponen todos. Y no me mostrás eso. Entonces, a mí permítime descreer un poco de todo esto.
+
+460
+00:25:39,620 --> 00:26:00,520
+Yo te sumo algo a favor de las organizaciones y es que hay pocos programadores, son caros y difíciles, fíjate que si vos querés entrar a ver el índice de ciudades argentinas, el ranking, hoy está caída esa página, no anda, dejó de funcionar hace varios meses y no creo que sea fácil de levantar.
+
+461
+00:26:00,520 --> 00:26:02,580
+coincido con lo que vos decís, yo creo que
+
+462
+00:26:02,580 --> 00:26:04,340
+cualquier organización que se dedique a la
+
+463
+00:26:04,340 --> 00:26:06,180
+transparencia debería tener
+
+464
+00:26:06,180 --> 00:26:08,020
+un lindo informe
+
+465
+00:26:08,020 --> 00:26:10,400
+de cómo se financia y cómo gasta
+
+466
+00:26:10,400 --> 00:26:12,580
+a ver, no, exacto
+
+467
+00:26:12,580 --> 00:26:14,520
+exacto, y de última no me importa si tenés
+
+468
+00:26:14,520 --> 00:26:16,420
+un bramador, no pido que
+
+469
+00:26:16,420 --> 00:26:18,280
+haya un Andrés Vázquez ahí, pero de última
+
+470
+00:26:18,280 --> 00:26:20,220
+hacerme un Excel donde diga, mirá
+
+471
+00:26:20,220 --> 00:26:21,300
+yo cobro
+
+472
+00:26:21,300 --> 00:26:24,260
+10 mil pesos que vienen de los
+
+473
+00:26:24,260 --> 00:26:26,260
+aportes de este, este y este
+
+474
+00:26:26,260 --> 00:26:27,480
+por eso te digo
+
+475
+00:26:27,480 --> 00:26:54,180
+Bueno, le mandamos esa gran sugerencia con cariño a las organizaciones sociales, yo además del gobierno estoy en una, todavía no tenemos fondos, pero está claro que si uno maneja fondos y sobre todo público, está buenísimo publicarlo y queda bien y se evita las suspicacias y los comentarios de alguien que pueda decir algo al respecto. Así que me parece que les mandamos esa sugerencia a las organizaciones.
+
+476
+00:26:54,180 --> 00:26:56,420
+tampoco es algo personal con nadie
+
+477
+00:26:56,420 --> 00:26:56,860
+es solamente
+
+478
+00:26:56,860 --> 00:26:59,420
+de la pregunta que me hiciste
+
+479
+00:26:59,420 --> 00:27:02,140
+yo termino descreyendo
+
+480
+00:27:02,140 --> 00:27:03,080
+un poco de todo eso
+
+481
+00:27:03,080 --> 00:27:06,520
+te saco un poquito
+
+482
+00:27:06,520 --> 00:27:07,840
+de este tema
+
+483
+00:27:07,840 --> 00:27:09,840
+y te llevo a algo de gestión pública
+
+484
+00:27:09,840 --> 00:27:12,100
+vos hablaste mucho de que
+
+485
+00:27:12,100 --> 00:27:13,440
+los ciudadanos
+
+486
+00:27:13,440 --> 00:27:15,800
+no siempre les interesan los datos
+
+487
+00:27:15,800 --> 00:27:17,600
+no los miran, no los consumen a diario
+
+488
+00:27:17,600 --> 00:27:19,980
+yo te quería preguntar si los funcionarios los consumen
+
+489
+00:27:19,980 --> 00:27:21,380
+si los funcionarios
+
+490
+00:27:21,380 --> 00:27:23,720
+están empezando a mirar datos
+
+491
+00:27:23,720 --> 00:27:25,960
+para tomar decisiones
+
+492
+00:27:25,960 --> 00:27:28,000
+o siguen con sus sentidos comuns
+
+493
+00:27:28,000 --> 00:27:29,540
+con sus
+
+494
+00:27:29,540 --> 00:27:31,960
+sensaciones, con su intuición
+
+495
+00:27:31,960 --> 00:27:34,140
+no sé
+
+496
+00:27:34,140 --> 00:27:35,300
+qué decirte, yo
+
+497
+00:27:35,300 --> 00:27:40,280
+a los funcionarios todavía les asusta
+
+498
+00:27:40,280 --> 00:27:42,220
+esto, eso también es una realidad
+
+499
+00:27:42,220 --> 00:27:44,000
+en alguno de tus trabajos algún
+
+500
+00:27:44,000 --> 00:27:45,980
+funcionario te pidió por iniciativa
+
+501
+00:27:45,980 --> 00:27:48,080
+de él hacer un tablero que me muestre día a día
+
+502
+00:27:48,080 --> 00:27:50,080
+así como tenía un tablero con la altura
+
+503
+00:27:50,080 --> 00:27:51,560
+del río Lujano, el caudal
+
+504
+00:27:51,560 --> 00:27:53,220
+¿Tenieron otros fuera de eso?
+
+505
+00:27:53,300 --> 00:27:54,140
+Diciendo, ah, qué bueno que te esto,
+
+506
+00:27:54,200 --> 00:27:57,260
+hacerme estos ocho tableros de recaudación de esto, de esto, de esto.
+
+507
+00:27:57,340 --> 00:27:59,220
+¿Es algo que te pasó algunas veces?
+
+508
+00:27:59,840 --> 00:28:02,040
+Sí, y de hecho los hacemos directamente.
+
+509
+00:28:02,960 --> 00:28:06,040
+A veces les hacemos ver esta necesidad
+
+510
+00:28:06,040 --> 00:28:09,480
+de que está bueno que vean las cosas,
+
+511
+00:28:09,640 --> 00:28:11,440
+que las tengan visibles.
+
+512
+00:28:11,520 --> 00:28:14,520
+Mirá, sin ir más lejos, yo ahora estoy de vacaciones,
+
+513
+00:28:15,160 --> 00:28:18,260
+el viernes fue el último día que trabajé antes de irme de vacaciones,
+
+514
+00:28:18,260 --> 00:28:21,640
+me reuní con los chicos de la dirección de sistemas
+
+515
+00:28:21,640 --> 00:28:25,720
+para plantearles algunas formas distintas de trabajar para este año
+
+516
+00:28:25,720 --> 00:28:30,500
+y una de las cosas que me planteaban los chicos
+
+517
+00:28:30,500 --> 00:28:32,120
+o yo les planteaba a ellos es
+
+518
+00:28:32,120 --> 00:28:36,700
+mirá, nosotros recibimos muchas puteadas de áreas
+
+519
+00:28:36,700 --> 00:28:38,940
+porque le tardamos dos días en arreglar la máquina
+
+520
+00:28:38,940 --> 00:28:40,940
+o porque no vamos a revisar la red
+
+521
+00:28:40,940 --> 00:28:42,900
+o porque no le modificamos el sistema
+
+522
+00:28:42,900 --> 00:28:44,120
+por esto, por lo otro, por lo otro
+
+523
+00:28:44,120 --> 00:28:47,140
+que seguramente
+
+524
+00:28:47,140 --> 00:28:49,220
+pasará en tu municipio
+
+525
+00:28:49,220 --> 00:28:51,000
+Andrés, me ha pasado en todos
+
+526
+00:28:51,000 --> 00:28:51,840
+sí, sí pasa en todos
+
+527
+00:28:51,840 --> 00:28:52,860
+ahora
+
+528
+00:28:52,860 --> 00:28:56,860
+el tema es
+
+529
+00:28:56,860 --> 00:28:59,560
+y le decía yo a uno de estos chicos
+
+530
+00:28:59,560 --> 00:29:00,740
+¿sabés lo que tenemos que hacer?
+
+531
+00:29:01,220 --> 00:29:03,180
+un tablero de control para el intendente
+
+532
+00:29:03,180 --> 00:29:05,400
+para que él vea la guita o la plata
+
+533
+00:29:05,400 --> 00:29:06,960
+que se está ahorrando cada vez que
+
+534
+00:29:06,960 --> 00:29:08,840
+vos formateás una máquina
+
+535
+00:29:08,840 --> 00:29:11,200
+y le instalás los programas
+
+536
+00:29:11,200 --> 00:29:13,420
+cuando nosotros modificamos un sistema
+
+537
+00:29:13,420 --> 00:29:14,980
+cuando tenemos que armarle una red
+
+538
+00:29:14,980 --> 00:29:17,660
+entonces cuando empiecen a ver esa información
+
+539
+00:29:17,660 --> 00:29:19,540
+de la plata
+
+540
+00:29:19,540 --> 00:29:21,320
+que se termina ahorrando en el año
+
+541
+00:29:21,320 --> 00:29:25,320
+ahí es donde van a empezar a tomar conciencia
+
+542
+00:29:25,320 --> 00:29:26,620
+de que
+
+543
+00:29:26,620 --> 00:29:30,860
+que los tiempos que tenemos
+
+544
+00:29:30,860 --> 00:29:33,580
+o la plata
+
+545
+00:29:33,580 --> 00:29:35,140
+que le hacemos ahorrar a municipios es importante
+
+546
+00:29:35,140 --> 00:29:36,100
+bueno, ahí
+
+547
+00:29:36,100 --> 00:29:39,520
+cerralo
+
+548
+00:29:39,520 --> 00:29:40,220
+disculpa
+
+549
+00:29:40,220 --> 00:29:42,000
+no, no, que se me entrecortó
+
+550
+00:29:42,000 --> 00:29:45,560
+Que tirás un dato que es interesante.
+
+551
+00:29:45,740 --> 00:29:50,760
+Vos estás buscando usar los datos para mostrar eficiencia,
+
+552
+00:29:50,900 --> 00:29:52,640
+para mostrar trabajo, cosa que está buena.
+
+553
+00:29:53,220 --> 00:29:56,900
+Y yo, una de las cosas que siempre se me ocurre es que parte
+
+554
+00:29:56,900 --> 00:29:59,720
+de la gente que no quiere abrir datos es porque no quiere que
+
+555
+00:29:59,720 --> 00:30:02,140
+se vea la falta de trabajo o la ineficiencia.
+
+556
+00:30:02,260 --> 00:30:03,680
+Vos me estás dando un ejemplo hermoso que es,
+
+557
+00:30:04,100 --> 00:30:07,840
+quiero que vean tableros para que entiendan que las 3,
+
+558
+00:30:07,980 --> 00:30:11,340
+5, 10 personas que estamos acá producimos todo esto y que se
+
+559
+00:30:11,340 --> 00:30:13,420
+puede haber. O sea, el que quiere publicar
+
+560
+00:30:13,420 --> 00:30:15,400
+datos es porque quiere que se muestre su trabajo
+
+561
+00:30:15,400 --> 00:30:17,160
+porque está orgulloso de él o por lo menos
+
+562
+00:30:17,160 --> 00:30:19,300
+lo puede defender. Entonces
+
+563
+00:30:19,300 --> 00:30:21,400
+me parece que algo interesante que pasa es que
+
+564
+00:30:21,400 --> 00:30:22,860
+cuando alguien no quiere abrir datos
+
+565
+00:30:22,860 --> 00:30:25,440
+es porque no está tan orgulloso
+
+566
+00:30:25,440 --> 00:30:26,900
+o no tiene mucho para mostrar.
+
+567
+00:30:27,160 --> 00:30:29,200
+Es algo más a favor de la transparencia. Me parece que
+
+568
+00:30:29,200 --> 00:30:31,440
+sin querer lo tiraste y está muy bueno.
+
+569
+00:30:31,760 --> 00:30:32,840
+Pero a ver, yo siempre
+
+570
+00:30:32,840 --> 00:30:35,460
+di una frase. El gobierno abierto
+
+571
+00:30:35,460 --> 00:30:37,260
+o los datos abiertos exponen tus
+
+572
+00:30:37,260 --> 00:30:38,640
+virtudes y tus defectos.
+
+573
+00:30:39,480 --> 00:30:40,360
+Esto es así.
+
+574
+00:30:41,000 --> 00:30:42,260
+Te puedo contar miles de casos.
+
+575
+00:30:42,560 --> 00:30:44,900
+Te cuento uno de un municipio, no importa cuál.
+
+576
+00:30:45,400 --> 00:30:45,720
+Dale.
+
+577
+00:30:47,020 --> 00:30:49,860
+Trabajaste en los 135, así que...
+
+578
+00:30:49,860 --> 00:30:53,200
+Trabajé en algunos y ayudé en otros,
+
+579
+00:30:53,360 --> 00:30:56,660
+pero en uno que no estoy más, no importa.
+
+580
+00:30:58,120 --> 00:30:58,560
+Dale.
+
+581
+00:30:59,880 --> 00:31:02,200
+El secretario de Control Urbano, nosotros queríamos abrir
+
+582
+00:31:02,200 --> 00:31:05,240
+o queríamos mostrar dónde se hacían más infracciones.
+
+583
+00:31:05,900 --> 00:31:06,520
+¿Pero para qué?
+
+584
+00:31:06,960 --> 00:31:09,120
+Para que, bueno, a ver, si se hacen más infracciones
+
+585
+00:31:09,120 --> 00:31:16,980
+de exceso de velocidad y bueno obviamente tenemos poner reductores si se hacen más multas de no sé
+
+586
+00:31:16,980 --> 00:31:21,720
+por falta de casco bueno alguna campaña vamos a tener que hacer porque se va a matar alguno
+
+587
+00:31:21,720 --> 00:31:26,520
+y vamos a tener un problema barra política pública basada en evidencia se llama eso es exactamente
+
+588
+00:31:26,520 --> 00:31:34,680
+ahora nunca logré que el secretario de control urbano me autorice a publicar esos datos bien
+
+589
+00:31:34,680 --> 00:31:36,020
+Lo usaban internamente.
+
+590
+00:31:36,920 --> 00:31:46,640
+No, escucha, no, el tema era así, desde el punto de vista del sistema, yo no tenía ni que pedirle permiso, el sistema era nuestro.
+
+591
+00:31:47,780 --> 00:31:57,640
+Ahora, por una cuestión de organigrama, por una cuestión de respeto y porque los datos los genera de última su área, nosotros le consultamos.
+
+592
+00:31:57,640 --> 00:31:59,540
+soldados, no me los daba
+
+593
+00:31:59,540 --> 00:32:01,560
+no me autorizaba, no me los daba, no me autorizaba
+
+594
+00:32:01,560 --> 00:32:03,500
+hasta que en ese momento
+
+595
+00:32:03,500 --> 00:32:05,600
+agarro a mi jefe que era el secretario de gobierno
+
+596
+00:32:05,600 --> 00:32:07,540
+le digo, no voy a decir
+
+597
+00:32:07,540 --> 00:32:09,260
+el nombre para que nos evidencie que
+
+598
+00:32:09,260 --> 00:32:10,740
+municipio era, pero le digo
+
+599
+00:32:10,740 --> 00:32:13,520
+escuchame querido amigo, ¿qué hacemos
+
+600
+00:32:13,520 --> 00:32:15,620
+con esto? que no puedo abrir, no me permite
+
+601
+00:32:15,620 --> 00:32:17,700
+¿hablá vos o qué? el intendente
+
+602
+00:32:17,700 --> 00:32:18,400
+le baje la línea
+
+603
+00:32:18,400 --> 00:32:21,160
+¿qué me dijo él? me dice
+
+604
+00:32:21,160 --> 00:32:23,540
+no, no, Maxi, escuchame
+
+605
+00:32:23,540 --> 00:32:25,780
+una cosa, si él te permite
+
+606
+00:32:25,780 --> 00:32:27,740
+mostrar eso, vas a ver que
+
+607
+00:32:27,740 --> 00:32:30,020
+las multas se hacen siempre en la misma manzana
+
+608
+00:32:30,020 --> 00:32:31,920
+porque los inspectores están siempre
+
+609
+00:32:31,920 --> 00:32:33,740
+en la misma manzana y nunca
+
+610
+00:32:33,740 --> 00:32:34,580
+se mueven
+
+611
+00:32:34,580 --> 00:32:37,300
+entonces lo ponen en evidencia
+
+612
+00:32:37,300 --> 00:32:39,320
+bueno, ahí está, ahí tenemos un gran ejemplo
+
+613
+00:32:39,320 --> 00:32:42,140
+bueno, como ese
+
+614
+00:32:42,140 --> 00:32:43,280
+hay un montón de gente
+
+615
+00:32:43,280 --> 00:32:45,760
+por eso
+
+616
+00:32:45,760 --> 00:32:47,600
+publicar datos, a veces
+
+617
+00:32:47,600 --> 00:32:49,660
+algo que me dicen mucho es
+
+618
+00:32:49,660 --> 00:32:51,640
+no publique un dato al vicio si no sabes
+
+619
+00:32:51,640 --> 00:32:53,560
+quién lo va a usar, si no hablaste con la comunidad
+
+620
+00:32:53,560 --> 00:32:55,180
+por qué lo abrí, para qué gastar
+
+621
+00:32:55,180 --> 00:33:01,580
+Y yo a veces pienso, si yo abro un dato, algo pasa.
+
+622
+00:33:01,900 --> 00:33:04,280
+La gente que está involucrada a ese dato no le da lo mismo.
+
+623
+00:33:05,480 --> 00:33:08,200
+Algo pasa y yo no lo veo, no lo escucho, no me lo cuentan,
+
+624
+00:33:08,260 --> 00:33:09,480
+pero yo sé que algo pasa.
+
+625
+00:33:09,860 --> 00:33:12,500
+Y creo que ahí tiraste algunos ejemplos lindos.
+
+626
+00:33:12,640 --> 00:33:16,040
+Maxi, nos fuimos del tiempo que yo tenía calculado.
+
+627
+00:33:16,700 --> 00:33:19,920
+Te voy a agradecer muchísimo, pero te voy a pedir el último favor,
+
+628
+00:33:20,000 --> 00:33:22,680
+como le pido a todos, y es como este podcast se llama
+
+629
+00:33:22,680 --> 00:33:25,000
+cadena de datos y la idea es ir encadenando
+
+630
+00:33:25,000 --> 00:33:26,760
+entrevistado a través de los
+
+631
+00:33:26,760 --> 00:33:29,040
+participantes. Quería que vos me sugieras
+
+632
+00:33:29,040 --> 00:33:30,820
+con quién conversar
+
+633
+00:33:30,820 --> 00:33:32,600
+dos o tres personas. ¿Con quién te parece
+
+634
+00:33:32,600 --> 00:33:34,480
+útil? A ver, te diría
+
+635
+00:33:34,480 --> 00:33:36,900
+dos diputados nacionales, sin lugar
+
+636
+00:33:36,900 --> 00:33:38,660
+a duda. Carlos Selva
+
+637
+00:33:38,660 --> 00:33:40,600
+y Gustavo Vilacua, los
+
+638
+00:33:40,600 --> 00:33:42,940
+respectivos intendentes de Bahía Blanca
+
+639
+00:33:42,940 --> 00:33:43,780
+y Mercedes.
+
+640
+00:33:44,840 --> 00:33:46,540
+Y Cecilia y Cecilia Luca, ¿no?
+
+641
+00:33:46,760 --> 00:33:48,760
+A Ceci
+
+642
+00:33:48,760 --> 00:33:50,480
+la voy a buscar seguramente porque
+
+643
+00:33:50,480 --> 00:33:52,380
+ahora se pasó al mundo de la ONG.
+
+644
+00:33:52,680 --> 00:33:53,100
+Exactamente.
+
+645
+00:33:53,120 --> 00:33:56,540
+Entiendo, se vendió, digamos, para nuestra forma de ver, se vendió.
+
+646
+00:33:57,380 --> 00:33:59,660
+Así que la voy a ir a tratar de rescatar.
+
+647
+00:34:00,320 --> 00:34:00,840
+Bueno, Andrés.
+
+648
+00:34:01,080 --> 00:34:03,720
+Bueno, un millón de gracias, Maxi.
+
+649
+00:34:03,800 --> 00:34:04,560
+Un abrazo, chao.
+
+650
+00:34:04,620 --> 00:34:05,220
+Otro para vos.
+
